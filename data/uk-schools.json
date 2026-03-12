@@ -62,7 +62,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "38-40（HL总分6,6,6-7,7,6，因专业不同）"
     },
     "deadline": {
       "zh": "10月15日（UCAS）",
@@ -171,7 +172,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "40-42（HL总分7,7,6-7,7,7）"
     },
     "deadline": {
       "zh": "10月15日（UCAS）",
@@ -278,7 +280,8 @@
     "requirements": {
       "TOEFL": "92+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "38-41（HL数学/理科7分常见要求）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -385,7 +388,8 @@
     "requirements": {
       "TOEFL": "92+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "34-40（因专业差异大，医学40+）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -492,7 +496,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "37-39（HL总分7,6,6）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -599,7 +604,8 @@
     "requirements": {
       "TOEFL": "92+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "34-38（HL总分6,5,5起）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -706,7 +712,8 @@
     "requirements": {
       "TOEFL": "87+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "34-37（HL总分6,5,5-6,6,6）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -813,7 +820,8 @@
     "requirements": {
       "TOEFL": "92+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "35-38（医学38+）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -920,7 +928,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "34-38（HL 6,6,6起）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1027,7 +1036,8 @@
     "requirements": {
       "TOEFL": "87+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "36-39（HL 5,5,5-6,6,6）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1134,7 +1144,8 @@
     "requirements": {
       "TOEFL": "87+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-36（HL 6,5,5起）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1241,7 +1252,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-34"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1348,7 +1360,8 @@
     "requirements": {
       "TOEFL": "87+",
       "IELTS": "6.0+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-36"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1455,7 +1468,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-36（HL 6,5,5起）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1562,7 +1576,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.0+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "33-36"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1669,7 +1684,8 @@
     "requirements": {
       "TOEFL": "94+",
       "IELTS": "7.0+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-36（参考范围）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1778,7 +1794,8 @@
     "requirements": {
       "TOEFL": "92+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "36-38（HL 6,6,6）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1885,7 +1902,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-36"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -1992,7 +2010,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.0+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-36（参考范围）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2099,7 +2118,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-35"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2206,7 +2226,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.0+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "33-36"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2313,7 +2334,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "34-36"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2420,7 +2442,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "36-38（HL 6,6,5起）"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2527,7 +2550,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "31-34"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2634,7 +2658,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "31-34"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2741,7 +2766,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-35"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2848,7 +2874,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "30-32"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -2955,7 +2982,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "30-32"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -3062,7 +3090,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.5+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "32-34"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",
@@ -3169,7 +3198,8 @@
     "requirements": {
       "TOEFL": "85+",
       "IELTS": "6.0+",
-      "SAT": "N/A（需A-Level/IB）"
+      "SAT": "N/A（需A-Level/IB）",
+      "IB": "34-36"
     },
     "deadline": {
       "zh": "1月31日（UCAS）",

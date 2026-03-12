@@ -59,7 +59,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1500+/ACT 34+"
+      "SAT": "1500+/ACT 34+",
+      "IB": "43-45（通常录取45满分居多）"
     },
     "deadline": {
       "zh": "1月1日（常规申请）/ 11月1日（限制性提前申请）",
@@ -165,7 +166,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1520+/ACT 35+"
+      "SAT": "1520+/ACT 35+",
+      "IB": "43-45（理科HL 7分优先）"
     },
     "deadline": {
       "zh": "1月5日（常规申请）/ 11月1日（提前申请）",
@@ -271,7 +273,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1500+/ACT 34+"
+      "SAT": "1500+/ACT 34+",
+      "IB": "43-45"
     },
     "deadline": {
       "zh": "1月5日（常规申请）/ 11月1日（限制性提前申请）",
@@ -377,7 +380,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1500+/ACT 34+"
+      "SAT": "1500+/ACT 34+",
+      "IB": "43-45"
     },
     "deadline": {
       "zh": "1月1日（常规申请）/ 11月1日（单选提前申请）",
@@ -483,7 +487,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1500+/ACT 34+"
+      "SAT": "1500+/ACT 34+",
+      "IB": "43-45"
     },
     "deadline": {
       "zh": "1月2日（常规申请）/ 11月1日（限制性提前申请）",
@@ -589,7 +594,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1530+/ACT 35+"
+      "SAT": "1530+/ACT 35+",
+      "IB": "44-45（数学/物理HL 7分几乎必须）"
     },
     "deadline": {
       "zh": "1月3日（常规申请）/ 11月1日（提前申请）",
@@ -695,7 +701,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1510+/ACT 34+"
+      "SAT": "1510+/ACT 34+",
+      "IB": "42-45"
     },
     "deadline": {
       "zh": "1月4日（常规申请）/ 11月1日（提前申请ED I）/ 1月4日（ED II）",
@@ -801,7 +808,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1500+/ACT 34+"
+      "SAT": "1500+/ACT 34+",
+      "IB": "42-45"
     },
     "deadline": {
       "zh": "1月1日（常规申请）/ 11月1日（提前申请ED）",
@@ -907,7 +915,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1500+/ACT 34+"
+      "SAT": "1500+/ACT 34+",
+      "IB": "42-45"
     },
     "deadline": {
       "zh": "1月5日（常规申请）/ 11月1日（提前申请ED）",
@@ -1013,7 +1022,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1490+/ACT 34+"
+      "SAT": "1490+/ACT 34+",
+      "IB": "42-44"
     },
     "deadline": {
       "zh": "1月4日（常规申请）/ 11月1日（提前申请ED）",
@@ -1119,7 +1129,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1480+/ACT 34+"
+      "SAT": "1480+/ACT 34+",
+      "IB": "41-44"
     },
     "deadline": {
       "zh": "1月3日（常规申请）/ 11月1日（提前申请ED）",
@@ -1225,7 +1236,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1500+/ACT 34+"
+      "SAT": "1500+/ACT 34+",
+      "IB": "41-44（生物/化学HL强势加分）"
     },
     "deadline": {
       "zh": "1月5日（常规申请）/ 11月1日（提前申请ED I）/ 1月5日（ED II）",
@@ -1331,7 +1343,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1470+/ACT 33+"
+      "SAT": "1470+/ACT 33+",
+      "IB": "41-44"
     },
     "deadline": {
       "zh": "1月3日（常规申请）/ 11月1日（提前申请ED）",
@@ -1437,7 +1450,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1480+/ACT 34+"
+      "SAT": "1480+/ACT 34+",
+      "IB": "41-44"
     },
     "deadline": {
       "zh": "1月5日（常规申请）/ 11月1日（提前申请ED）",
@@ -1543,7 +1557,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1470+/ACT 33+"
+      "SAT": "1470+/ACT 33+",
+      "IB": "40-44（因学院而异）"
     },
     "deadline": {
       "zh": "1月2日（常规申请）/ 11月1日（提前申请ED）",
@@ -1649,7 +1664,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1490+/ACT 34+"
+      "SAT": "1490+/ACT 34+",
+      "IB": "41-44"
     },
     "deadline": {
       "zh": "1月4日（常规申请）/ 11月1日（提前申请ED）",
@@ -1755,7 +1771,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1480+/ACT 34+"
+      "SAT": "1480+/ACT 34+",
+      "IB": "40-43"
     },
     "deadline": {
       "zh": "1月1日（常规申请）/ 11月1日（提前申请ED I）/ 1月1日（ED II）",
@@ -1861,7 +1878,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1450+/ACT 33+"
+      "SAT": "1450+/ACT 33+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "1月1日（常规申请）/ 11月1日（限制性提前申请）",
@@ -1967,7 +1985,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1440+/ACT 33+"
+      "SAT": "1440+/ACT 33+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "1月10日（常规申请）/ 11月1日（提前申请EA）",
@@ -2076,7 +2095,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "不要求/ACT 不要求"
+      "SAT": "不要求/ACT 不要求",
+      "IB": "40-44"
     },
     "deadline": {
       "zh": "11月30日（统一截止，UC系统不设EA/ED）",
@@ -2185,7 +2205,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "不要求/ACT 不要求"
+      "SAT": "不要求/ACT 不要求",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "11月30日（统一截止，UC系统不设EA/ED）",
@@ -2294,7 +2315,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "不要求/ACT 不要求"
+      "SAT": "不要求/ACT 不要求",
+      "IB": "38-42"
     },
     "deadline": {
       "zh": "11月30日（统一截止，UC系统不设EA/ED）",
@@ -2403,7 +2425,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "不要求/ACT 不要求"
+      "SAT": "不要求/ACT 不要求",
+      "IB": "36-40"
     },
     "deadline": {
       "zh": "11月30日（统一截止，UC系统不设EA/ED）",
@@ -2512,7 +2535,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "不要求/ACT 不要求"
+      "SAT": "不要求/ACT 不要求",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "11月30日（统一截止，UC系统不设EA/ED）",
@@ -2621,7 +2645,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "不要求/ACT 不要求"
+      "SAT": "不要求/ACT 不要求",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "11月30日（统一截止，UC系统不设EA/ED）",
@@ -2730,7 +2755,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "38-43"
     },
     "deadline": {
       "zh": "2月1日（常规）/ 11月1日（EA）",
@@ -2839,7 +2865,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "38-42"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（EA）",
@@ -2945,7 +2972,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1400+/ACT 32+"
+      "SAT": "1400+/ACT 32+",
+      "IB": "42-45（CS方向HL数学7分优先）"
     },
     "deadline": {
       "zh": "1月3日（常规）/ 11月1日（ED）",
@@ -3051,7 +3079,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1400+/ACT 32+"
+      "SAT": "1400+/ACT 32+",
+      "IB": "36-42（因专业差异大）"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（ED）",
@@ -3160,7 +3189,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "1月6日（常规）/ 11月1日（EA）",
@@ -3269,7 +3299,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "36-40（工程/CS要求更高）"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（EA）",
@@ -3378,7 +3409,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "12月1日（国际生截止）",
@@ -3487,7 +3519,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "2月1日（常规）/ 11月1日（EA）",
@@ -3596,7 +3629,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "32-38（工程34+）"
     },
     "deadline": {
       "zh": "1月15日（常规）/ 11月1日（EA）",
@@ -3705,7 +3739,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "2月1日（常规）/ 11月1日（EA）",
@@ -3814,7 +3849,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "滚动录取（建议11月30日前）",
@@ -3923,7 +3959,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "34-38"
     },
     "deadline": {
       "zh": "3月1日（国际生）",
@@ -4032,7 +4069,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1300+/ACT 29+"
+      "SAT": "1300+/ACT 29+",
+      "IB": "36-40"
     },
     "deadline": {
       "zh": "1月15日（常规）/ 10月15日（EA）",
@@ -4138,7 +4176,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1400+/ACT 32+"
+      "SAT": "1400+/ACT 32+",
+      "IB": "35-40"
     },
     "deadline": {
       "zh": "1月4日（常规）/ 11月1日（ED）",
@@ -4244,7 +4283,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1400+/ACT 32+"
+      "SAT": "1400+/ACT 32+",
+      "IB": "34-38"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（ED）",
@@ -4350,7 +4390,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1400+/ACT 32+"
+      "SAT": "1400+/ACT 32+",
+      "IB": "38-42"
     },
     "deadline": {
       "zh": "1月15日（常规）",
@@ -4456,7 +4497,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1380+/ACT 31+"
+      "SAT": "1380+/ACT 31+",
+      "IB": "39-43"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（ED）",
@@ -4562,7 +4604,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1380+/ACT 31+"
+      "SAT": "1380+/ACT 31+",
+      "IB": "40-43"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（ED）",
@@ -4668,7 +4711,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1380+/ACT 31+"
+      "SAT": "1380+/ACT 31+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（ED）",
@@ -4777,7 +4821,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1250+/ACT 28+"
+      "SAT": "1250+/ACT 28+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "2月1日（常规）/ 11月1日（EA）",
@@ -4883,7 +4928,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1380+/ACT 31+"
+      "SAT": "1380+/ACT 31+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（ED）",
@@ -4989,7 +5035,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1380+/ACT 31+"
+      "SAT": "1380+/ACT 31+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（ED）",
@@ -5095,7 +5142,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "1380+/ACT 31+"
+      "SAT": "1380+/ACT 31+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "1月5日（常规）/ 11月1日（ED）",
@@ -5204,7 +5252,8 @@
     "requirements": {
       "TOEFL": "80+",
       "IELTS": "6.5+",
-      "SAT": "1250+/ACT 28+"
+      "SAT": "1250+/ACT 28+",
+      "IB": "36-40（参考范围）"
     },
     "deadline": {
       "zh": "2月1日（常规）/ 11月1日（EA）",
@@ -5313,7 +5362,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended"
+      "SAT": "建议提交/Recommended",
+      "IB": "40-44（CS/工程竞争激烈）"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（提前）",
@@ -5422,7 +5472,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended"
+      "SAT": "建议提交/Recommended",
+      "IB": "38-43（理工科HL成绩重要）"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（提前）",
@@ -5531,7 +5582,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended"
+      "SAT": "建议提交/Recommended",
+      "IB": "36-40"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（提前）",
@@ -5640,7 +5692,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended"
+      "SAT": "建议提交/Recommended",
+      "IB": "34-38"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（提前）",
@@ -5749,7 +5802,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended"
+      "SAT": "建议提交/Recommended",
+      "IB": "32-36"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（提前）",
@@ -5858,7 +5912,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended"
+      "SAT": "建议提交/Recommended",
+      "IB": "32-36"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（提前）",
@@ -5967,7 +6022,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended"
+      "SAT": "建议提交/Recommended",
+      "IB": "34-38"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（提前）",
@@ -6076,7 +6132,8 @@
     "requirements": {
       "TOEFL": "100+",
       "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended"
+      "SAT": "建议提交/Recommended",
+      "IB": "34-38"
     },
     "deadline": {
       "zh": "1月1日（常规）/ 11月1日（提前）",
