@@ -339,6 +339,9 @@ img{max-width:100%}
       </div>
       <select class="sort-select" id="sortSelect" onchange="renderCards()">
         <option value="rank" data-i18n="sort_rank">按 QS 排名</option>
+        <option value="rank_the" data-i18n="sort_rank_the">按 THE 排名</option>
+        <option value="rank_usnews" data-i18n="sort_rank_usnews">按 US News 排名</option>
+        <option value="rank_arwu" data-i18n="sort_rank_arwu">按 ARWU 排名</option>
         <option value="tuition_asc" data-i18n="sort_tuition_asc">按学费 ↑</option>
         <option value="tuition_desc" data-i18n="sort_tuition_desc">按学费 ↓</option>
       </select>
@@ -402,7 +405,7 @@ const SCHOOLS = [
     id:'harvard', country:'US', flag:'🇺🇸',
     name:{zh:'哈佛大学', en:'Harvard University'},
     city:{zh:'马萨诸塞州 剑桥市', en:'Cambridge, MA'},
-    qs:4, tuition:59076, tuitionRange:null, safety:7,
+    qs:4, the:2, usnews:1, arwu:1, tuition:59076, tuitionRange:null, safety:7,
     majors:{zh:['经济学','计算机科学','政治学','生物学','心理学'], en:['Economics','Computer Science','Political Science','Biology','Psychology']},
     majorTuition:{zh:'哈佛本科所有专业统一学费 $59,076/年，不分文理。',en:'Harvard charges a flat tuition of $59,076/yr for all undergraduate programs regardless of major.'},
     desc:{
@@ -427,7 +430,7 @@ const SCHOOLS = [
     id:'mit', country:'US', flag:'🇺🇸',
     name:{zh:'麻省理工学院', en:'Massachusetts Institute of Technology (MIT)'},
     city:{zh:'马萨诸塞州 剑桥市', en:'Cambridge, MA'},
-    qs:1, tuition:61990, tuitionRange:null, safety:7,
+    qs:1, the:3, usnews:2, arwu:4, tuition:61990, tuitionRange:null, safety:7,
     majors:{zh:['计算机科学','电子工程','机械工程','数学','物理学'], en:['Computer Science','Electrical Engineering','Mechanical Engineering','Mathematics','Physics']},
     majorTuition:{zh:'MIT本科所有专业统一学费 $61,990/年，不分文理工。',en:'MIT charges a flat tuition of $61,990/yr for all undergraduate programs.'},
     desc:{
@@ -452,7 +455,7 @@ const SCHOOLS = [
     id:'ucla', country:'US', flag:'🇺🇸',
     name:{zh:'加州大学洛杉矶分校', en:'University of California, Los Angeles (UCLA)'},
     city:{zh:'加利福尼亚州 洛杉矶', en:'Los Angeles, CA'},
-    qs:29, tuition:46326, tuitionRange:[44830,48474], safety:6,
+    qs:29, the:18, usnews:15, arwu:14, tuition:46326, tuitionRange:[44830,48474], safety:6,
     majors:{zh:['影视传媒','心理学','经济学','计算机科学','生物学'], en:['Film & Media','Psychology','Economics','Computer Science','Biology']},
     majorTuition:{zh:'UCLA国际生学费因学院不同有差异：\n• 文理学院 (Letters & Science)：$44,830/年\n• 工程学院 (Engineering)：$48,474/年\n• 影视戏剧学院 (TFT)：$46,326/年\n• 护理学院 (Nursing)：$48,474/年\n💡 差异不大，主要是工程/护理稍高',en:'UCLA international tuition varies by school:\n• Letters & Science: $44,830/yr\n• Engineering: $48,474/yr\n• Theater, Film & TV: $46,326/yr\n• Nursing: $48,474/yr\n💡 Differences are modest; engineering/nursing slightly higher'},
     desc:{
@@ -477,7 +480,7 @@ const SCHOOLS = [
     id:'oxford', country:'UK', flag:'🇬🇧',
     name:{zh:'牛津大学', en:'University of Oxford'},
     city:{zh:'英格兰 牛津', en:'Oxford, England'},
-    qs:3, tuition:39740, tuitionRange:[33050,53350], safety:8,
+    qs:3, the:1, usnews:5, arwu:7, tuition:39740, tuitionRange:[33050,53350], safety:8,
     majors:{zh:['哲学政治经济学(PPE)','法学','医学','文学','数学'], en:['Philosophy, Politics & Economics (PPE)','Law','Medicine','Literature','Mathematics']},
     majorTuition:{zh:'牛津大学国际生学费按专业差异非常大：\n• 人文社科类 (PPE/法学/文学)：£33,050/年 (~$41,300)\n• 理科/数学：£39,740/年 (~$49,700)\n• 实验科学 (生物/化学/物理)：£44,240/年 (~$55,300)\n• 医学临床阶段：£53,350/年 (~$66,700)\n⚠️ 注意：医学本科6年制，临床阶段学费更高',en:'Oxford international tuition varies significantly by program:\n• Humanities & Social Sciences (PPE/Law/Literature): £33,050/yr (~$41,300)\n• Mathematics: £39,740/yr (~$49,700)\n• Experimental Sciences (Biology/Chemistry/Physics): £44,240/yr (~$55,300)\n• Medicine (clinical): £53,350/yr (~$66,700)\n⚠️ Note: Medicine is a 6-year program; clinical years cost more'},
     desc:{
@@ -502,7 +505,7 @@ const SCHOOLS = [
     id:'ucl', country:'UK', flag:'🇬🇧',
     name:{zh:'伦敦大学学院', en:'University College London (UCL)'},
     city:{zh:'英格兰 伦敦', en:'London, England'},
-    qs:9, tuition:38000, tuitionRange:[28100,50600], safety:6,
+    qs:9, the:22, usnews:12, arwu:17, tuition:38000, tuitionRange:[28100,50600], safety:6,
     majors:{zh:['建筑学','教育学','医学','计算机科学','经济学'], en:['Architecture','Education','Medicine','Computer Science','Economics']},
     majorTuition:{zh:'UCL国际生学费按专业差异很大：\n• 人文社科类 (教育/经济学)：£28,100/年 (~$35,100)\n• 理工科/建筑学：£38,000/年 (~$47,500)\n• 计算机科学：£38,000/年 (~$47,500)\n• 工程学：£40,000/年 (~$50,000)\n• 医学 (MBBS)：£50,600/年 (~$63,300)\n⚠️ 注意：医学MBBS为6年制，总费用远高于其他专业',en:'UCL international tuition varies significantly:\n• Humanities & Social Sciences (Education/Economics): £28,100/yr (~$35,100)\n• Science/Architecture: £38,000/yr (~$47,500)\n• Computer Science: £38,000/yr (~$47,500)\n• Engineering: £40,000/yr (~$50,000)\n• Medicine (MBBS): £50,600/yr (~$63,300)\n⚠️ Note: MBBS is a 6-year program; total cost is much higher'},
     desc:{
@@ -527,7 +530,7 @@ const SCHOOLS = [
     id:'uoft', country:'CA', flag:'🇨🇦',
     name:{zh:'多伦多大学', en:'University of Toronto'},
     city:{zh:'安大略省 多伦多', en:'Toronto, ON'},
-    qs:25, tuition:62250, tuitionRange:[42680,62250], safety:7,
+    qs:25, the:21, usnews:18, arwu:24, tuition:62250, tuitionRange:[42680,62250], safety:7,
     majors:{zh:['工程学','计算机科学','商学','生命科学','人文社科'], en:['Engineering','Computer Science','Commerce','Life Sciences','Humanities & Social Sciences']},
     majorTuition:{zh:'多大国际生学费按专业差异巨大：\n• 人文社科 (Arts & Science文科方向)：C$42,680/年 (~$31,200)\n• 生命科学 (Arts & Science理科方向)：C$42,680/年 (~$31,200)\n• 商学 (Rotman Commerce)：C$57,020/年 (~$41,700)\n• 计算机科学：C$62,250/年 (~$45,500)\n• 工程学 (Engineering)：C$62,250/年 (~$45,500)\n💡 工程和CS学费几乎是文科的1.5倍！选专业前务必对比总费用',en:'U of T international tuition varies dramatically by program:\n• Humanities & Social Sciences: C$42,680/yr (~$31,200)\n• Life Sciences: C$42,680/yr (~$31,200)\n• Commerce (Rotman): C$57,020/yr (~$41,700)\n• Computer Science: C$62,250/yr (~$45,500)\n• Engineering: C$62,250/yr (~$45,500)\n💡 Engineering & CS tuition is ~1.5x humanities! Compare total costs before choosing'},
     desc:{
@@ -569,6 +572,9 @@ const I18N = {
   filter_uk:{zh:'英国',en:'UK'},
   filter_ca:{zh:'加拿大',en:'Canada'},
   sort_rank:{zh:'按 QS 排名',en:'By QS Ranking'},
+  sort_rank_the:{zh:'按 THE 排名',en:'THE Ranking'},
+  sort_rank_usnews:{zh:'按 US News 排名',en:'US News Ranking'},
+  sort_rank_arwu:{zh:'按 ARWU 排名',en:'ARWU Ranking'},
   sort_tuition_asc:{zh:'按学费 ↑',en:'Tuition ↑'},
   sort_tuition_desc:{zh:'按学费 ↓',en:'Tuition ↓'},
   section_calc:{zh:'留学费用计算器',en:'Study Abroad Cost Calculator'},
@@ -594,6 +600,9 @@ const I18N = {
   compare_name:{zh:'学校',en:'School'},
   compare_country:{zh:'国家',en:'Country'},
   compare_qs:{zh:'QS 排名',en:'QS Ranking'},
+  compare_the:{zh:'THE 排名',en:'THE Ranking'},
+  compare_usnews:{zh:'US News 排名',en:'US News Ranking'},
+  compare_arwu:{zh:'ARWU 排名',en:'ARWU Ranking'},
   compare_tuition:{zh:'年学费 (USD)',en:'Annual Tuition (USD)'},
   compare_safety_label:{zh:'安全评分',en:'Safety Score'},
   compare_city:{zh:'城市',en:'City'},
@@ -643,6 +652,9 @@ function toggleLang(){
   });
   // Update sort select options
   document.querySelector('[value="rank"]').textContent = t('sort_rank');
+  document.querySelector('[value="rank_the"]').textContent = t('sort_rank_the');
+  document.querySelector('[value="rank_usnews"]').textContent = t('sort_rank_usnews');
+  document.querySelector('[value="rank_arwu"]').textContent = t('sort_rank_arwu');
   document.querySelector('[value="tuition_asc"]').textContent = t('sort_tuition_asc');
   document.querySelector('[value="tuition_desc"]').textContent = t('sort_tuition_desc');
   renderCards();
@@ -671,6 +683,9 @@ function getFiltered(){
   // sort
   const sort = document.getElementById('sortSelect').value;
   if(sort==='rank') list.sort((a,b)=>a.qs-b.qs);
+  else if(sort==='rank_the') list.sort((a,b)=>a.the-b.the);
+  else if(sort==='rank_usnews') list.sort((a,b)=>a.usnews-b.usnews);
+  else if(sort==='rank_arwu') list.sort((a,b)=>a.arwu-b.arwu);
   else if(sort==='tuition_asc') list.sort((a,b)=>a.tuition-b.tuition);
   else if(sort==='tuition_desc') list.sort((a,b)=>b.tuition-a.tuition);
   return list;
@@ -707,7 +722,10 @@ function renderCards(){
       </div>
       <div class="card-body">
         <div class="card-tags">
-          <span class="tag tag-rank">${t('qs_rank')}${s.qs}</span>
+          <span class="tag tag-rank">QS #${s.qs}</span>
+          <span class="tag tag-rank">THE #${s.the}</span>
+          <span class="tag tag-rank" style="background:#f0fdf4;color:#166534">USNews #${s.usnews}</span>
+          <span class="tag tag-rank" style="background:#fef3c7;color:#92400e">ARWU #${s.arwu}</span>
           <span class="tag tag-tuition">${s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()}/yr</span>
           <span class="tag tag-city">${s.city[lang]}</span>
         </div>
@@ -767,7 +785,10 @@ function openCompare(){
   const rows = [
     ['compare_country', s=>countryName(s.country)+' '+s.flag],
     ['compare_qs', s=>'#'+s.qs],
-    ['compare_tuition', s=>'$'+s.tuition.toLocaleString()],
+    ['compare_the', s=>'#'+s.the],
+    ['compare_usnews', s=>'#'+s.usnews],
+    ['compare_arwu', s=>'#'+s.arwu],
+    ['compare_tuition', s=>s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()],
     ['compare_safety_label', s=>`${s.safety}/10`],
     ['compare_city', s=>s.city[lang]],
     ['compare_climate', s=>s.climate[lang]],
@@ -808,7 +829,8 @@ function openDetail(id){
     <div class="detail-close"><button onclick="closeDetail()">✕</button></div>
     <div class="detail-header">
       <h2>${s.flag} ${s.name[lang]}</h2>
-      <div class="sub">${lang==='zh'?s.name.en:s.name.zh} · QS #${s.qs} · ${s.city[lang]}</div>
+      <div class="sub">${lang==='zh'?s.name.en:s.name.zh} · ${s.city[lang]}</div>
+      <div class="sub" style="margin-top:.3rem">📊 QS #${s.qs} · THE #${s.the} · US News #${s.usnews} · ARWU #${s.arwu}</div>
     </div>
     <div class="detail-content">
       <div class="detail-section">
