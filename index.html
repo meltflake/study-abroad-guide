@@ -16998,13 +16998,10 @@ function renderCards(){
     <div class="school-card ${sel?'selected':''}" onclick="openDetail('${s.id}')" data-id="${s.id}">
       <div class="card-header">
         <div>
-          <div class="school-name">${s.name[lang]}</div>
+          <div class="school-name" style="display:flex;align-items:center;gap:.4rem">${s.name[lang]} <button onclick="toggleFav('${s.id}',event)" style="background:none;border:none;font-size:1rem;cursor:pointer;padding:0;line-height:1;filter:drop-shadow(0 1px 2px rgba(0,0,0,.3))" title="${lang==='zh'?'收藏':'Favorite'}">${favorites.includes(s.id)?'❤️':'🤍'}</button></div>
           <div class="school-name-en">${lang==='zh'?s.name.en:s.name.zh}</div>
         </div>
-        <div style="display:flex;align-items:center;gap:.5rem">
-          <button onclick="toggleFav('${s.id}',event)" style="background:none;border:none;font-size:1.3rem;cursor:pointer;padding:0;line-height:1;filter:drop-shadow(0 1px 2px rgba(0,0,0,.3))" title="${lang==='zh'?'收藏':'Favorite'}">${favorites.includes(s.id)?'❤️':'🤍'}</button>
-          <div class="flag">${s.flag}</div>
-        </div>
+        <div class="flag">${s.flag}</div>
       </div>
       <div class="card-body">
         <div class="card-tags">
