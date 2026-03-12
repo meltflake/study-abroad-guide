@@ -15677,7 +15677,22 @@ function closeDetail(){
     btn.className = 'rec-tag active';
     btn.dataset.country = c;
     btn.innerHTML = `${countries[c].flag} ${countryNames[c][lang]}`;
-    btn.onclick = function(){ this.classList.toggle('active'); runRecommend(); };
+    btn.onclick = function(){
+      const allBtns = document.querySelectorAll('#recCountries .rec-tag');
+      const allActive = [...allBtns].every(b => b.classList.contains('active'));
+      const onlyThisActive = [...allBtns].filter(b => b.classList.contains('active')).length === 1 && this.classList.contains('active');
+      if(allActive) {
+        // All selected → click means "only this one"
+        allBtns.forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+      } else if(onlyThisActive) {
+        // Only this one selected → click means "select all"
+        allBtns.forEach(b => b.classList.add('active'));
+      } else {
+        this.classList.toggle('active');
+      }
+      runRecommend();
+    };
     cDiv.appendChild(btn);
   });
 
