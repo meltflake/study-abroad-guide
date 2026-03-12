@@ -69,12 +69,12 @@
       "en": "January 15 (via OUAC 101/105)"
     },
     "safetyDetail": {
-      "zh": "多伦多是加拿大最大城市，整体治安良好。校园有24小时安保巡逻和蓝光紧急电话系统。市中心部分区域夜间需注意安全，建议避免深夜独行。",
-      "en": "Toronto is Canada's largest city with generally good safety. Campus has 24/7 security patrols and blue-light emergency phones. Exercise caution in some downtown areas at night."
+      "zh": "多伦多是加拿大最大城市，整体治安良好。校园有24小时安保巡逻和蓝光紧急电话系统。市中心部分区域夜间需注意安全。",
+      "en": "Toronto is Canada's largest city with generally good safety. Campus has 24/7 security patrols and blue-light emergency phones."
     },
     "climate": {
-      "zh": "四季分明，冬季寒冷（-7°C至-1°C），常有降雪。夏季温暖宜人（20-27°C）。需准备防寒衣物。",
-      "en": "Four distinct seasons. Cold winters (-7°C to -1°C) with frequent snow. Pleasant summers (20-27°C). Warm clothing essential."
+      "zh": "四季分明，冬季寒冷（-7°C至-1°C），常有降雪。夏季温暖宜人（20-27°C）。",
+      "en": "Four distinct seasons. Cold winters (-7°C to -1°C) with frequent snow. Pleasant summers (20-27°C)."
     },
     "livingCost": {
       "zh": "约C$2,000-2,500/月",
@@ -84,28 +84,28 @@
     "insurance": 1100,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit学习许可 → 毕业后可申请PGWP工签（最长3年）→ 积累工作经验后通过Express Entry快速通道申请永久居留(PR)。加拿大移民政策对留学生友好，安省还有省提名项目(OINP)。",
-      "en": "Study Permit → Post-Graduation Work Permit (PGWP, up to 3 years) → Permanent Residency via Express Entry or Ontario PNP (OINP). Canada has immigrant-friendly policies for international graduates."
+      "zh": "Study Permit学习许可 → 毕业后可申请PGWP工签（最长3年）→ 通过Express Entry或安省省提名(OINP)申请永久居留(PR)。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Ontario PNP (OINP)."
     },
     "housing": {
-      "zh": "🏠 校内宿舍：大一保证住宿，约C$12,000-18,000/年\n🏢 校外租房：市中心Studio约C$1,800-2,400/月\n📍 推荐区域：Annex、Harbord Village、Kensington附近",
-      "en": "🏠 On-campus: Guaranteed for first year, ~C$12,000-18,000/yr\n🏢 Off-campus: Downtown studio ~C$1,800-2,400/mo\n📍 Recommended areas: Annex, Harbord Village, near Kensington"
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$12,000-18,000/年\n🏢 校外租房：市中心Studio约C$1,800-2,400/月\n📍 推荐区域：Annex、Harbord Village",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$12,000-18,000/yr\n🏢 Off-campus: Downtown studio ~C$1,800-2,400/mo\n📍 Recommended: Annex, Harbord Village"
     },
     "graduationRate": {
-      "zh": "本科四年毕业率约78%，六年毕业率约85%。学术要求较高，建议充分利用学术辅导资源。",
-      "en": "4-year graduation rate ~78%, 6-year rate ~85%. Academically demanding; students are encouraged to use academic support services."
+      "zh": "本科四年毕业率约78%，六年毕业率约85%。学术要求较高。",
+      "en": "4-year graduation rate ~78%, 6-year rate ~85%. Academically demanding."
     },
     "employment": {
-      "zh": "📊 毕业6个月内就业率约89%\n💼 知名雇主：五大银行、四大会计师事务所、科技公司（Google、Amazon多伦多办公室）\n🌟 校友网络庞大，Bay Street金融中心就业机会丰富",
-      "en": "📊 ~89% employed within 6 months of graduation\n💼 Top employers: Big Five banks, Big Four accounting, tech (Google, Amazon Toronto)\n🌟 Vast alumni network; proximity to Bay Street financial district"
+      "zh": "📊 毕业6个月内就业率约89%\n💼 知名雇主：五大银行、四大会计师事务所、科技公司\n🌟 校友网络庞大，Bay Street金融中心就业机会丰富",
+      "en": "📊 ~89% employed within 6 months\n💼 Top employers: Big Five banks, Big Four accounting, tech (Google, Amazon)\n🌟 Vast alumni network; proximity to Bay Street"
     },
     "healthcare": {
-      "zh": "✅ 安省国际学生需购买UHIP（University Health Insurance Plan），约C$756/年，覆盖基本医疗。看病需先预约家庭医生或去Walk-in Clinic。",
-      "en": "✅ Ontario international students must enroll in UHIP (University Health Insurance Plan), ~C$756/yr, covering basic medical care. Visit family doctor or walk-in clinic for appointments."
+      "zh": "✅ 安省国际学生需购买UHIP，约C$756/年，覆盖基本医疗。",
+      "en": "✅ Ontario international students must enroll in UHIP, ~C$756/yr."
     },
     "application": {
-      "zh": "📋 申请平台：OUAC（安大略省大学申请中心）105通道\n📅 截止日期：1月15日\n💰 申请费：C$180（OUAC）+ 各专业补充材料费\n📝 所需材料：高中成绩单、语言成绩、个人陈述、补充申请（部分专业需视频面试）",
-      "en": "📋 Platform: OUAC (Ontario Universities' Application Centre) Stream 105\n📅 Deadline: January 15\n💰 Fee: C$180 (OUAC) + supplementary fees per program\n📝 Materials: Transcripts, English proficiency, personal statement, supplementary application (some programs require video interview)"
+      "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：1月15日\n💰 申请费：C$180\n📝 所需材料：高中成绩单、语言成绩、个人陈述、补充申请",
+      "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: January 15\n💰 Fee: C$180\n📝 Materials: Transcripts, English proficiency, personal statement"
     }
   },
   {
@@ -147,8 +147,8 @@
       ]
     },
     "majorTuition": {
-      "zh": "UBC国际生学费因专业不同：\n• 文科：C$42,803/年\n• 理科：C$47,937/年\n• 商学(Sauder)：C$55,500/年\n• 工程/应用科学：C$59,000/年",
-      "en": "UBC international tuition by program:\n• Arts: C$42,803/yr\n• Science: C$47,937/yr\n• Commerce (Sauder): C$55,500/yr\n• Engineering/Applied Science: C$59,000/yr"
+      "zh": "UBC国际生学费因专业不同：\n• 文科：C$42,803/年\n• 理科：C$47,937/年\n• 商学(Sauder)：C$55,500/年\n• 工程：C$59,000/年",
+      "en": "UBC international tuition by program:\n• Arts: C$42,803/yr\n• Science: C$47,937/yr\n• Commerce (Sauder): C$55,500/yr\n• Engineering: C$59,000/yr"
     },
     "desc": {
       "zh": "位于温哥华西海岸的世界顶尖公立研究型大学，校园依山傍海，被评为全球最美校园之一。Sauder商学院和工程学院享有盛誉，Co-op项目丰富。",
@@ -178,12 +178,12 @@
       "en": "January 15 (apply directly to UBC)"
     },
     "safetyDetail": {
-      "zh": "温哥华多年被评为全球最宜居城市之一，治安良好。UBC校园位于半岛尽头，环境安全封闭。校园安保完善，有免费夜间班车服务。",
-      "en": "Vancouver consistently ranked among world's most livable cities. UBC campus is on a peninsula with secure, enclosed environment. Campus security and free night shuttle available."
+      "zh": "温哥华多年被评为全球最宜居城市之一，治安良好。UBC校园位于半岛尽头，环境安全。",
+      "en": "Vancouver consistently ranked among world's most livable cities. UBC campus is on a peninsula with secure environment."
     },
     "climate": {
-      "zh": "温和的海洋性气候，冬季温和多雨（3-8°C），少有降雪。夏季凉爽舒适（15-22°C）。雨季（10月-3月）需备雨具。",
-      "en": "Mild oceanic climate. Warm, rainy winters (3-8°C) with rare snow. Cool, comfortable summers (15-22°C). Rain gear essential for October-March rainy season."
+      "zh": "温和的海洋性气候，冬季温和多雨（3-8°C），少有降雪。夏季凉爽舒适（15-22°C）。",
+      "en": "Mild oceanic climate. Warm, rainy winters (3-8°C) with rare snow. Cool summers (15-22°C)."
     },
     "livingCost": {
       "zh": "约C$1,800-2,300/月",
@@ -193,27 +193,27 @@
     "insurance": 1000,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit学习许可 → 毕业后可申请PGWP工签（最长3年）→ 通过Express Entry或BC省提名(BC PNP)申请永久居留。BC省对留学生移民政策优惠，科技类毕业生可走Tech Pilot快速通道。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or BC PNP. BC province offers favorable immigration for graduates; tech graduates can use BC Tech Pilot fast track."
+      "zh": "Study Permit学习许可 → 毕业后可申请PGWP工签（最长3年）→ 通过Express Entry或BC省提名(BC PNP)申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or BC PNP."
     },
     "housing": {
-      "zh": "🏠 校内宿舍：大一保证住宿，约C$11,000-16,000/年\n🏢 校外租房：校区周边Studio约C$1,600-2,200/月\n📍 推荐区域：Wesbrook Village、University Village、Dunbar",
-      "en": "🏠 On-campus: Guaranteed for first year, ~C$11,000-16,000/yr\n🏢 Off-campus: Near-campus studio ~C$1,600-2,200/mo\n📍 Recommended: Wesbrook Village, University Village, Dunbar"
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$11,000-16,000/年\n🏢 校外租房：校区周边Studio约C$1,600-2,200/月\n📍 推荐区域：Wesbrook Village、Dunbar",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$11,000-16,000/yr\n🏢 Off-campus: Near-campus studio ~C$1,600-2,200/mo\n📍 Recommended: Wesbrook Village, Dunbar"
     },
     "graduationRate": {
-      "zh": "本科四年毕业率约80%，六年毕业率约87%。学术支持资源丰富，包括学术指导中心和同伴辅导。",
-      "en": "4-year graduation rate ~80%, 6-year rate ~87%. Rich academic support including advising centre and peer tutoring."
+      "zh": "本科四年毕业率约80%，六年毕业率约87%。",
+      "en": "4-year graduation rate ~80%, 6-year rate ~87%."
     },
     "employment": {
-      "zh": "📊 毕业6个月内就业率约90%\n💼 温哥华科技产业蓬勃：Amazon、Microsoft、SAP、EA均设有办公室\n🌟 Co-op项目覆盖广泛，商学院就业率极高",
-      "en": "📊 ~90% employed within 6 months\n💼 Vancouver tech hub: Amazon, Microsoft, SAP, EA offices\n🌟 Extensive co-op programs; Sauder grads have excellent placement rates"
+      "zh": "📊 毕业6个月内就业率约90%\n💼 温哥华科技产业蓬勃：Amazon、Microsoft、SAP均设有办公室\n🌟 Co-op项目覆盖广泛",
+      "en": "📊 ~90% employed within 6 months\n💼 Vancouver tech hub: Amazon, Microsoft, SAP offices\n🌟 Extensive co-op programs"
     },
     "healthcare": {
-      "zh": "✅ BC省国际学生可加入MSP（Medical Services Plan），等待期后享受与本地居民相同的基本医疗保障。学校另有补充健康保险iMED覆盖处方药、牙科、视力等。",
-      "en": "✅ BC international students eligible for MSP (Medical Services Plan) after waiting period, same basic coverage as residents. UBC also provides iMED supplementary insurance for prescriptions, dental, vision."
+      "zh": "✅ BC省国际学生可加入MSP，等待期后享受基本医疗保障。学校另有补充健康保险iMED。",
+      "en": "✅ BC international students eligible for MSP after waiting period. UBC also provides iMED supplementary insurance."
     },
     "application": {
-      "zh": "📋 申请平台：直接通过UBC官网在线申请\n📅 截止日期：1月15日\n💰 申请费：C$116.25\n📝 所需材料：高中成绩单、语言成绩、个人简介（Personal Profile）",
+      "zh": "📋 申请平台：直接通过UBC官网在线申请\n📅 截止日期：1月15日\n💰 申请费：C$116.25\n📝 所需材料：高中成绩单、语言成绩、Personal Profile",
       "en": "📋 Platform: Apply directly via UBC website\n📅 Deadline: January 15\n💰 Fee: C$116.25\n📝 Materials: Transcripts, English proficiency, Personal Profile essay"
     }
   },
@@ -233,97 +233,97 @@
     "the": 49,
     "usnews": 54,
     "arwu": 73,
-    "tuition": 55600,
+    "tuition": 58000,
     "tuitionRange": [
-      38236,
-      55600
+      35000,
+      58000
     ],
     "safety": 7,
     "majors": {
       "zh": [
         "医学",
         "工程学",
+        "计算机科学",
         "商学",
-        "法学",
-        "音乐"
+        "文学"
       ],
       "en": [
         "Medicine",
         "Engineering",
+        "Computer Science",
         "Commerce",
-        "Law",
-        "Music"
+        "Arts"
       ]
     },
     "majorTuition": {
-      "zh": "麦吉尔大学国际生学费因专业差异大：C$38,236-C$55,600/年。",
-      "en": "McGill University international tuition varies: C$38,236-C$55,600/yr."
+      "zh": "McGill国际生学费因专业不同：\n• 文科：C$35,000/年\n• 理科：C$40,200/年\n• 商学(Desautels)：C$52,000/年\n• 工程/CS：C$58,000/年",
+      "en": "McGill international tuition by program:\n• Arts: C$35,000/yr\n• Science: C$40,200/yr\n• Commerce (Desautels): C$52,000/yr\n• Engineering/CS: C$58,000/yr"
     },
     "desc": {
-      "zh": "被誉为加拿大的哈佛，麦吉尔是加拿大历史最悠久的英语大学之一。医学、法学世界领先。",
-      "en": "Known as the Harvard of Canada, McGill is one of Canada's oldest English universities. World-leading in medicine and law."
+      "zh": "加拿大最负盛名的英语授课大学之一，位于蒙特利尔市中心皇家山脚下。以医学、法学和科学研究闻名，被誉为加拿大的「哈佛」。蒙特利尔是双语城市，生活成本相对较低。",
+      "en": "One of Canada's most prestigious English-language universities, at the foot of Mount Royal in downtown Montreal. Renowned for medicine, law, and scientific research. Montreal is a bilingual city with relatively lower living costs."
     },
     "tuitionBreakdown": {
       "zh": {
-        "学费": 55600,
+        "学费": 58000,
         "食宿": 14000,
         "书本费": 1000,
         "杂费": 1500
       },
       "en": {
-        "Tuition": 55600,
+        "Tuition": 58000,
         "Room & Board": 14000,
         "Books": 1000,
         "Incidentals": 1500
       }
     },
     "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
+      "TOEFL": "90+（单项不低于21）",
+      "IELTS": "6.5+（单项不低于6.0）",
       "SAT": "不要求/Not Required"
     },
     "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
+      "zh": "1月15日（直接向McGill申请）",
+      "en": "January 15 (apply directly to McGill)"
     },
     "safetyDetail": {
-      "zh": "麦吉尔大学校园安全良好。加拿大整体治安优秀。",
-      "en": "McGill University campus is safe. Canada overall has excellent public safety."
+      "zh": "蒙特利尔治安良好，犯罪率低于多伦多和温哥华。校园位于市中心，夜间有安保巡逻服务。",
+      "en": "Montreal has good safety with lower crime rates than Toronto and Vancouver. Night security patrols available."
     },
     "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
+      "zh": "冬季漫长寒冷（-15°C至-5°C），降雪量大。夏季温暖湿润（20-26°C）。",
+      "en": "Long, cold winters (-15°C to -5°C) with heavy snowfall. Warm, humid summers (20-26°C)."
     },
     "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
+      "zh": "约C$1,500-2,000/月",
+      "en": "~C$1,500-2,000/month"
     },
-    "livingCostAnnual": 17000,
-    "insurance": 900,
+    "livingCostAnnual": 15600,
+    "insurance": 1100,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+      "zh": "Study Permit学习许可 → 毕业后可申请PGWP工签（最长3年）→ 通过Express Entry或魁省PEQ项目申请永久居留。PEQ要求法语B2。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Quebec PEQ program (requires French B2)."
     },
     "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+      "zh": "🏠 校内宿舍：大一优先，约C$10,000-15,000/年\n🏢 校外租房：蒙特利尔租金实惠，Studio约C$1,000-1,600/月\n📍 推荐区域：Milton-Parc、Plateau",
+      "en": "🏠 On-campus: Priority for first year, ~C$10,000-15,000/yr\n🏢 Off-campus: Montreal affordable, studio ~C$1,000-1,600/mo\n📍 Recommended: Milton-Parc, Plateau"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "zh": "本科四年毕业率约82%，六年毕业率约87%。",
+      "en": "4-year graduation rate ~82%, 6-year rate ~87%."
     },
     "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+      "zh": "📊 毕业6个月内就业率约88%\n💼 蒙特利尔AI产业蓬勃（Mila研究所）、游戏产业（Ubisoft）、航空航天\n🌟 校友网络全球广泛",
+      "en": "📊 ~88% employed within 6 months\n💼 Montreal AI hub (Mila), gaming (Ubisoft), aerospace\n🌟 Extensive global alumni network"
     },
     "healthcare": {
-      "zh": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。校内Health Centre提供医疗服务。",
-      "en": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。On-campusHealth Centre提供医疗服务。"
+      "zh": "✅ 魁省国际学生需加入RAMQ或购买学校健康保险。中国学生需购买学校保险。",
+      "en": "✅ Quebec international students need RAMQ or university health plan. Chinese students need university insurance."
     },
     "application": {
-      "zh": "📋 申请平台：直接向McGill申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: 直接向McGill申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+      "zh": "📋 申请平台：直接通过McGill官网申请（魁省独立系统）\n📅 截止日期：1月15日\n💰 申请费：C$129\n📝 所需材料：高中成绩单、语言成绩、个人陈述",
+      "en": "📋 Platform: Apply directly via McGill website (Quebec separate system)\n📅 Deadline: January 15\n💰 Fee: C$129\n📝 Materials: Transcripts, English proficiency, personal statement"
     }
   },
   {
@@ -338,101 +338,210 @@
       "zh": "安大略省 汉密尔顿",
       "en": "Hamilton, ON"
     },
-    "qs": 152,
+    "qs": 176,
     "the": 103,
-    "usnews": 126,
-    "arwu": 90,
-    "tuition": 48262,
+    "usnews": 138,
+    "arwu": 98,
+    "tuition": 57000,
     "tuitionRange": [
-      36100,
-      48262
+      35000,
+      57000
     ],
     "safety": 7,
     "majors": {
       "zh": [
-        "医学",
+        "健康科学",
         "工程学",
         "商学",
-        "健康科学",
-        "社会科学"
+        "理科",
+        "人文社科"
       ],
       "en": [
-        "Medicine",
-        "Engineering",
-        "Business",
         "Health Sciences",
-        "Social Sciences"
+        "Engineering",
+        "Commerce",
+        "Science",
+        "Humanities & Social Sciences"
       ]
     },
     "majorTuition": {
-      "zh": "麦克马斯特大学国际生学费因专业差异大：C$36,100-C$48,262/年。",
-      "en": "McMaster University international tuition varies: C$36,100-C$48,262/yr."
+      "zh": "McMaster国际生学费：\n• 文科/社科：C$35,000/年\n• 理科：C$39,500/年\n• 商学(DeGroote)：C$48,000/年\n• 工程：C$57,000/年",
+      "en": "McMaster international tuition:\n• Arts/Social Sciences: C$35,000/yr\n• Science: C$39,500/yr\n• Commerce (DeGroote): C$48,000/yr\n• Engineering: C$57,000/yr"
     },
     "desc": {
-      "zh": "麦克马斯特大学以医学院闻名，其PBL教学法被全球医学院效仿。工程和商学也很强。",
-      "en": "McMaster is famous for its medical school and PBL teaching method adopted globally. Engineering and business are also strong."
+      "zh": "以创新教学方法闻名的研究型大学，其PBL（问题导向学习）教学法在全球医学教育中具有里程碑意义。健康科学、工程学实力雄厚，距多伦多仅1小时车程。",
+      "en": "A research university renowned for innovative teaching. Its Problem-Based Learning (PBL) approach is a landmark in global medical education. Strong in health sciences and engineering. Just 1 hour from Toronto."
     },
     "tuitionBreakdown": {
       "zh": {
-        "学费": 48262,
-        "食宿": 14000,
+        "学费": 57000,
+        "食宿": 13500,
         "书本费": 1000,
         "杂费": 1500
       },
       "en": {
-        "Tuition": 48262,
-        "Room & Board": 14000,
+        "Tuition": 57000,
+        "Room & Board": 13500,
         "Books": 1000,
         "Incidentals": 1500
       }
     },
     "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
+      "TOEFL": "86+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
       "SAT": "不要求/Not Required"
     },
     "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
+      "zh": "1月15日（安省OUAC 105）",
+      "en": "January 15 (via OUAC 105)"
     },
     "safetyDetail": {
-      "zh": "麦克马斯特大学校园安全良好。加拿大整体治安优秀。",
-      "en": "McMaster University campus is safe. Canada overall has excellent public safety."
+      "zh": "汉密尔顿是中型城市，校园环境安全。学校有24小时安保和免费步行护送服务。",
+      "en": "Hamilton is a mid-sized city with a safe campus. 24/7 security and free walk-home escort available."
     },
     "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
+      "zh": "四季分明，冬季寒冷（-7°C至-1°C），有降雪。夏季温暖（20-27°C）。靠近安大略湖。",
+      "en": "Four distinct seasons. Cold winters (-7°C to -1°C) with snow. Warm summers (20-27°C). Near Lake Ontario."
     },
     "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
+      "zh": "约C$1,400-1,800/月",
+      "en": "~C$1,400-1,800/month"
     },
-    "livingCostAnnual": 17000,
+    "livingCostAnnual": 14400,
     "insurance": 900,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或安省省提名(OINP)申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Ontario PNP (OINP)."
     },
     "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$9,500-14,000/年\n🏢 校外租房：汉密尔顿租金实惠，Studio约C$1,100-1,500/月\n📍 推荐区域：Westdale、Ainslie Wood",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$9,500-14,000/yr\n🏢 Off-campus: Hamilton affordable, studio ~C$1,100-1,500/mo\n📍 Recommended: Westdale, Ainslie Wood"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "zh": "本科四年毕业率约76%，六年毕业率约84%。",
+      "en": "4-year graduation rate ~76%, 6-year rate ~84%."
     },
     "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+      "zh": "📊 毕业6个月内就业率约87%\n💼 健康科学毕业生就业前景优异\n🌟 靠近多伦多，GTA就业市场可达",
+      "en": "📊 ~87% employed within 6 months\n💼 Health sciences grads have excellent prospects\n🌟 Proximity to Toronto and GTA job market"
     },
     "healthcare": {
-      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
-      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+      "zh": "✅ 安省国际学生需购买UHIP，约C$756/年。校内有学生健康中心。",
+      "en": "✅ Ontario international students must enroll in UHIP, ~C$756/yr. On-campus Student Wellness Centre."
     },
     "application": {
-      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+      "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：1月15日\n💰 申请费：C$156\n📝 所需材料：高中成绩单、语言成绩、补充申请",
+      "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: January 15\n💰 Fee: C$156\n📝 Materials: Transcripts, English proficiency, supplementary application"
+    }
+  },
+  {
+    "id": "umontreal",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "蒙特利尔大学",
+      "en": "Université de Montréal"
+    },
+    "city": {
+      "zh": "魁北克省 蒙特利尔",
+      "en": "Montreal, QC"
+    },
+    "qs": 159,
+    "the": 111,
+    "usnews": 156,
+    "arwu": 151,
+    "tuition": 35000,
+    "tuitionRange": [
+      30000,
+      35000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "人工智能",
+        "法学",
+        "医学",
+        "理科",
+        "人文社科"
+      ],
+      "en": [
+        "Artificial Intelligence",
+        "Law",
+        "Medicine",
+        "Science",
+        "Humanities & Social Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "蒙特利尔大学国际生学费（法语授课）：\n• 文科/社科：C$30,000/年\n• 理科：C$32,000/年\n• 工程：C$35,000/年\n注：学费相对英语大学更实惠",
+      "en": "UdeM international tuition (French instruction):\n• Arts/Social Sciences: C$30,000/yr\n• Science: C$32,000/yr\n• Engineering: C$35,000/yr\nNote: More affordable than English universities"
+    },
+    "desc": {
+      "zh": "加拿大最大的法语大学，人工智能研究领域全球领先（Mila实验室附属），医学和法学实力雄厚。注意：主要以法语授课。",
+      "en": "Canada's largest French-language university. Global leader in AI research (affiliated with Mila lab). Strong in medicine and law. Note: Primarily French instruction."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 35000,
+        "食宿": 13000,
+        "书本费": 1000,
+        "杂费": 1200
+      },
+      "en": {
+        "Tuition": 35000,
+        "Room & Board": 13000,
+        "Books": 1000,
+        "Incidentals": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "不适用（法语授课）",
+      "IELTS": "不适用（法语授课）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "2月1日（直接向UdeM申请）",
+      "en": "February 1 (apply directly to UdeM)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于皇家山北坡，环境优美安全。蒙特利尔治安良好。",
+      "en": "Campus on the north slope of Mount Royal, beautiful and safe. Montreal has good safety."
+    },
+    "climate": {
+      "zh": "冬季漫长寒冷（-15°C至-5°C），降雪量大。夏季温暖湿润（20-26°C）。蒙特利尔地下城可避寒。",
+      "en": "Long, cold winters (-15°C to -5°C) with heavy snow. Warm summers (20-26°C). Montreal's underground city helps beat the cold."
+    },
+    "livingCost": {
+      "zh": "约C$1,400-1,800/月",
+      "en": "~C$1,400-1,800/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 1000,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或魁省PEQ项目申请永久居留。法语授课学生在PEQ中有语言优势。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Quebec PEQ. French-instruction students have advantage for PEQ."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：约C$8,000-12,000/年\n🏢 校外租房：蒙特利尔租金实惠，Studio约C$1,000-1,500/月\n📍 推荐区域：Côte-des-Neiges、Outremont",
+      "en": "🏠 On-campus: ~C$8,000-12,000/yr\n🏢 Off-campus: Montreal affordable, studio ~C$1,000-1,500/mo\n📍 Recommended: Côte-des-Neiges, Outremont"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约75%，六年毕业率约82%。",
+      "en": "4-year graduation rate ~75%, 6-year rate ~82%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约85%\n💼 蒙特利尔AI产业中心、制药、游戏产业就业机会丰富\n🌟 法语能力在魁省就业市场是巨大优势",
+      "en": "📊 ~85% employed within 6 months\n💼 Montreal AI hub, pharma, gaming opportunities\n🌟 French proficiency is a major advantage in Quebec"
+    },
+    "healthcare": {
+      "zh": "✅ 魁省国际学生需加入RAMQ或购买学校健康保险。法国等有互惠协议国家的学生可直接加入RAMQ。",
+      "en": "✅ Quebec international students need RAMQ or university health insurance. Students from reciprocal countries can join RAMQ directly."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过UdeM官网申请（魁省独立系统）\n📅 截止日期：2月1日\n💰 申请费：C$100\n📝 所需材料：高中成绩单、法语能力证明（TFI/DALF）",
+      "en": "📋 Platform: Apply directly via UdeM website (Quebec separate system)\n📅 Deadline: February 1\n💰 Fee: C$100\n📝 Materials: Transcripts, French proficiency (TFI/DALF)"
     }
   },
   {
@@ -447,105 +556,323 @@
       "zh": "阿尔伯塔省 埃德蒙顿",
       "en": "Edmonton, AB"
     },
-    "qs": 96,
-    "the": 109,
-    "usnews": 123,
+    "qs": 111,
+    "the": 131,
+    "usnews": 137,
     "arwu": 101,
-    "tuition": 40966,
+    "tuition": 55000,
     "tuitionRange": [
-      33058,
-      40966
+      33000,
+      55000
     ],
     "safety": 7,
     "majors": {
       "zh": [
         "工程学",
         "人工智能",
-        "农业",
-        "石油工程",
-        "医学"
+        "商学",
+        "理科",
+        "能源与环境"
       ],
       "en": [
         "Engineering",
         "Artificial Intelligence",
-        "Agriculture",
-        "Petroleum Engineering",
-        "Medicine"
+        "Commerce",
+        "Science",
+        "Energy & Environment"
       ]
     },
     "majorTuition": {
-      "zh": "阿尔伯塔大学国际生学费因专业差异大：C$33,058-C$40,966/年。",
-      "en": "University of Alberta international tuition varies: C$33,058-C$40,966/yr."
+      "zh": "阿尔伯塔大学国际生学费：\n• 文科：C$33,000/年\n• 理科：C$36,500/年\n• 商学：C$46,000/年\n• 工程/CS：C$55,000/年",
+      "en": "U of Alberta international tuition:\n• Arts: C$33,000/yr\n• Science: C$36,500/yr\n• Commerce: C$46,000/yr\n• Engineering/CS: C$55,000/yr"
     },
     "desc": {
-      "zh": "阿尔伯塔大学AI研究全球领先（强化学习之父Rich Sutton在此任教），工程和能源学科实力强劲。",
-      "en": "UAlberta is a global leader in AI research (Rich Sutton, father of reinforcement learning, teaches here). Strong engineering and energy programs."
+      "zh": "加拿大顶尖研究型大学，位于阿尔伯塔省首府。以工程学、人工智能（DeepMind联合创始人母校）、能源研究见长。阿省无省销售税，生活成本较低。",
+      "en": "A top Canadian research university in Alberta's capital. Renowned for engineering, AI (alma mater of DeepMind co-founder), and energy research. Alberta has no provincial sales tax, lower living costs."
     },
     "tuitionBreakdown": {
       "zh": {
-        "学费": 40966,
-        "食宿": 14000,
+        "学费": 55000,
+        "食宿": 12000,
         "书本费": 1000,
         "杂费": 1500
       },
       "en": {
-        "Tuition": 40966,
-        "Room & Board": 14000,
+        "Tuition": 55000,
+        "Room & Board": 12000,
         "Books": 1000,
         "Incidentals": 1500
       }
     },
     "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
+      "TOEFL": "90+（单项不低于21）",
+      "IELTS": "6.5+（单项不低于6.0）",
       "SAT": "不要求/Not Required"
     },
     "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
+      "zh": "3月1日（直接向UAlberta申请）",
+      "en": "March 1 (apply directly to UAlberta)"
     },
     "safetyDetail": {
-      "zh": "阿尔伯塔大学校园安全良好。加拿大整体治安优秀。",
-      "en": "University of Alberta campus is safe. Canada overall has excellent public safety."
+      "zh": "埃德蒙顿是安全的中型城市，校园广大且安保完善。冬季天黑较早，建议结伴出行。",
+      "en": "Edmonton is a safe mid-sized city with a large, well-secured campus. Early darkness in winter; travel with companions recommended."
     },
     "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
+      "zh": "冬季极寒（-20°C至-10°C），是加拿大最冷的大学城之一。夏季凉爽宜人（15-23°C）。需准备专业防寒装备。",
+      "en": "Extremely cold winters (-20°C to -10°C), one of Canada's coldest university cities. Cool summers (15-23°C). Professional winter gear essential."
     },
     "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
+      "zh": "约C$1,200-1,600/月",
+      "en": "~C$1,200-1,600/month"
     },
-    "livingCostAnnual": 17000,
+    "livingCostAnnual": 13200,
     "insurance": 900,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或阿省省提名(AINP)申请永久居留。阿省对科技和能源人才需求旺盛。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Alberta PNP (AINP). Alberta has strong demand for tech and energy talent."
     },
     "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+      "zh": "🏠 校内宿舍：大一优先，约C$8,000-12,000/年\n🏢 校外租房：埃德蒙顿租金低廉，Studio约C$900-1,300/月\n📍 推荐区域：Garneau、Strathcona",
+      "en": "🏠 On-campus: Priority for first year, ~C$8,000-12,000/yr\n🏢 Off-campus: Edmonton low rents, studio ~C$900-1,300/mo\n📍 Recommended: Garneau, Strathcona"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "zh": "本科四年毕业率约73%，六年毕业率约80%。",
+      "en": "4-year graduation rate ~73%, 6-year rate ~80%."
     },
     "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+      "zh": "📊 毕业6个月内就业率约86%\n💼 能源行业（石油天然气）、科技公司、政府部门\n🌟 AI领域强势，Edmonton是加拿大AI研究重镇",
+      "en": "📊 ~86% employed within 6 months\n💼 Energy sector (oil & gas), tech companies, government\n🌟 Strong AI presence; Edmonton is a Canadian AI research hub"
     },
     "healthcare": {
-      "zh": "✅ 可加入AHCIP省医保。校内Health Centre提供基础医疗。",
-      "en": "✅ 可加入AHCIP省医保。On-campusHealth Centre提供基础医疗。"
+      "zh": "✅ 阿省国际学生可加入AHCIP，享受与本地居民相同的基本医疗保障。无需额外购买基本医疗保险。",
+      "en": "✅ Alberta international students eligible for AHCIP, same basic coverage as residents. No additional basic insurance needed."
     },
     "application": {
-      "zh": "📋 申请平台：直接向UAlberta申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: 直接向UAlberta申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+      "zh": "📋 申请平台：直接通过UAlberta官网申请\n📅 截止日期：3月1日\n💰 申请费：C$125\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: Apply directly via UAlberta website\n📅 Deadline: March 1\n💰 Fee: C$125\n📝 Materials: Transcripts, English proficiency"
     }
   },
   {
-    "id": "waterloo",
+    "id": "uottawa",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "渥太华大学",
+      "en": "University of Ottawa"
+    },
+    "city": {
+      "zh": "安大略省 渥太华",
+      "en": "Ottawa, ON"
+    },
+    "qs": 203,
+    "the": 177,
+    "usnews": 215,
+    "arwu": 201,
+    "tuition": 55000,
+    "tuitionRange": [
+      35000,
+      55000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "法学",
+        "政治学",
+        "工程学",
+        "健康科学",
+        "商学"
+      ],
+      "en": [
+        "Law",
+        "Political Science",
+        "Engineering",
+        "Health Sciences",
+        "Commerce"
+      ]
+    },
+    "majorTuition": {
+      "zh": "渥太华大学国际生学费：\n• 文科/社科：C$35,000/年\n• 理科：C$40,000/年\n• 商学(Telfer)：C$48,000/年\n• 工程/CS：C$55,000/年",
+      "en": "U of Ottawa international tuition:\n• Arts/Social Sciences: C$35,000/yr\n• Science: C$40,000/yr\n• Commerce (Telfer): C$48,000/yr\n• Engineering/CS: C$55,000/yr"
+    },
+    "desc": {
+      "zh": "全球最大的英法双语大学，位于加拿大首都渥太华。靠近国会山和联邦政府机构，政治学、法学和公共政策专业优势突出。Co-op项目与政府合作紧密。",
+      "en": "The world's largest English-French bilingual university, in Canada's capital Ottawa. Near Parliament Hill. Strong in political science, law, and public policy. Co-op programs closely tied to government."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 55000,
+        "食宿": 13000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 55000,
+        "Room & Board": 13000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+（写作22+）",
+      "IELTS": "6.5+（写作6.5+）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "4月1日（安省OUAC 105）",
+      "en": "April 1 (via OUAC 105)"
+    },
+    "safetyDetail": {
+      "zh": "渥太华是加拿大首都，治安非常好。校园位于市中心Rideau运河旁，环境优美安全。",
+      "en": "Ottawa is Canada's capital with excellent safety. Campus alongside the Rideau Canal, beautiful and secure."
+    },
+    "climate": {
+      "zh": "冬季寒冷（-15°C至-5°C），降雪量大。夏季温暖（20-26°C）。Rideau运河冬季结冰可滑冰。",
+      "en": "Cold winters (-15°C to -5°C) with heavy snow. Warm summers (20-26°C). Rideau Canal freezes for ice skating."
+    },
+    "livingCost": {
+      "zh": "约C$1,400-1,800/月",
+      "en": "~C$1,400-1,800/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或安省省提名(OINP)申请永久居留。渥太华联邦政府就业机会丰富。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Ontario PNP (OINP). Ottawa has abundant federal government jobs."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$9,000-14,000/年\n🏢 校外租房：渥太华租金中等，Studio约C$1,200-1,600/月\n📍 推荐区域：Sandy Hill、Byward Market",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$9,000-14,000/yr\n🏢 Off-campus: Ottawa moderate rents, studio ~C$1,200-1,600/mo\n📍 Recommended: Sandy Hill, Byward Market"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约72%，六年毕业率约80%。提供英法双语学术支持。",
+      "en": "4-year graduation rate ~72%, 6-year rate ~80%. Bilingual academic support available."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约86%\n💼 联邦政府、国际组织、科技公司（Shopify总部在渥太华）\n🌟 双语能力是就业加分项",
+      "en": "📊 ~86% employed within 6 months\n💼 Federal government, international organizations, tech (Shopify HQ)\n🌟 Bilingual skills are a major asset"
+    },
+    "healthcare": {
+      "zh": "✅ 安省国际学生需购买UHIP，约C$756/年。校内有健康服务中心。",
+      "en": "✅ Ontario international students must enroll in UHIP, ~C$756/yr. On-campus health services centre."
+    },
+    "application": {
+      "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：4月1日\n💰 申请费：C$150\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: April 1\n💰 Fee: C$150\n📝 Materials: Transcripts, English proficiency"
+    }
+  },
+  {
+    "id": "ucalgary",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "卡尔加里大学",
+      "en": "University of Calgary"
+    },
+    "city": {
+      "zh": "阿尔伯塔省 卡尔加里",
+      "en": "Calgary, AB"
+    },
+    "qs": 182,
+    "the": 201,
+    "usnews": 175,
+    "arwu": 201,
+    "tuition": 52000,
+    "tuitionRange": [
+      31000,
+      52000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "能源与环境",
+        "商学",
+        "运动学",
+        "理科"
+      ],
+      "en": [
+        "Engineering",
+        "Energy & Environment",
+        "Commerce",
+        "Kinesiology",
+        "Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "卡尔加里大学国际生学费：\n• 文科：C$31,000/年\n• 理科：C$34,500/年\n• 商学(Haskayne)：C$45,000/年\n• 工程：C$52,000/年",
+      "en": "U of Calgary international tuition:\n• Arts: C$31,000/yr\n• Science: C$34,500/yr\n• Commerce (Haskayne): C$45,000/yr\n• Engineering: C$52,000/yr"
+    },
+    "desc": {
+      "zh": "位于加拿大能源之都卡尔加里的综合性研究型大学。能源工程、商学和运动学实力突出。毗邻落基山脉，户外活动丰富。阿省无省销售税。",
+      "en": "A comprehensive research university in Canada's energy capital. Strong in energy engineering, business, and kinesiology. Near the Rocky Mountains. Alberta has no provincial sales tax."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 52000,
+        "食宿": 12000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 52000,
+        "Room & Board": 12000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "3月1日（直接向UCalgary申请）",
+      "en": "March 1 (apply directly to UCalgary)"
+    },
+    "safetyDetail": {
+      "zh": "卡尔加里连续多年被评为全球最宜居城市之一，治安良好。校园面积大，安保完善。",
+      "en": "Calgary consistently ranked among world's most livable cities. Large campus with comprehensive security."
+    },
+    "climate": {
+      "zh": "冬季寒冷（-15°C至-5°C），但Chinook暖风可带来短暂升温。夏季凉爽干燥（15-23°C）。阳光充足。",
+      "en": "Cold winters (-15°C to -5°C) but Chinook winds bring brief warm spells. Cool, dry summers (15-23°C). Very sunny."
+    },
+    "livingCost": {
+      "zh": "约C$1,300-1,700/月",
+      "en": "~C$1,300-1,700/month"
+    },
+    "livingCostAnnual": 13800,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或阿省省提名(AINP)申请永久居留。卡尔加里能源和科技行业就业机会多。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Alberta PNP (AINP). Calgary has strong energy and tech jobs."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$8,500-13,000/年\n🏢 校外租房：卡尔加里租金适中，Studio约C$1,000-1,400/月\n📍 推荐区域：University Heights、Brentwood",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$8,500-13,000/yr\n🏢 Off-campus: Calgary moderate rents, studio ~C$1,000-1,400/mo\n📍 Recommended: University Heights, Brentwood"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约71%，六年毕业率约79%。",
+      "en": "4-year graduation rate ~71%, 6-year rate ~79%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约85%\n💼 能源行业（石油天然气巨头总部）、金融、科技创业\n🌟 Haskayne商学院与能源行业联系紧密",
+      "en": "📊 ~85% employed within 6 months\n💼 Energy sector (oil & gas HQs), finance, tech startups\n🌟 Haskayne closely tied to energy industry"
+    },
+    "healthcare": {
+      "zh": "✅ 阿省国际学生可加入AHCIP，享受与本地居民相同的基本医疗保障。",
+      "en": "✅ Alberta international students eligible for AHCIP, same basic coverage as residents."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过UCalgary官网申请\n📅 截止日期：3月1日\n💰 申请费：C$145\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: Apply directly via UCalgary website\n📅 Deadline: March 1\n💰 Fee: C$145\n📝 Materials: Transcripts, English proficiency"
+    }
+  },
+  {
+    "id": "uwaterloo",
     "country": "CA",
     "flag": "🇨🇦",
     "name": {
@@ -557,13 +884,13 @@
       "en": "Waterloo, ON"
     },
     "qs": 112,
-    "the": 113,
+    "the": 158,
     "usnews": 199,
     "arwu": 151,
-    "tuition": 64070,
+    "tuition": 65000,
     "tuitionRange": [
-      40750,
-      64070
+      38000,
+      65000
     ],
     "safety": 8,
     "majors": {
@@ -571,86 +898,86 @@
         "计算机科学",
         "工程学",
         "数学",
-        "精算",
-        "会计"
+        "精算学",
+        "商学"
       ],
       "en": [
         "Computer Science",
         "Engineering",
         "Mathematics",
         "Actuarial Science",
-        "Accounting"
+        "Commerce"
       ]
     },
     "majorTuition": {
-      "zh": "滑铁卢大学国际生学费因专业差异大：C$40,750-C$64,070/年。",
-      "en": "University of Waterloo international tuition varies: C$40,750-C$64,070/yr."
+      "zh": "滑铁卢大学国际生学费：\n• 文科：C$38,000/年\n• 数学：C$52,000/年\n• 商学(AFM/CFM)：C$55,000/年\n• CS/工程：C$65,000/年\n注：Co-op有额外费用",
+      "en": "U of Waterloo international tuition:\n• Arts: C$38,000/yr\n• Mathematics: C$52,000/yr\n• Commerce (AFM/CFM): C$55,000/yr\n• CS/Engineering: C$65,000/yr\nNote: Co-op has additional fees"
     },
     "desc": {
-      "zh": "滑铁卢大学拥有全球最大的Co-op带薪实习项目，CS和工程毕业生备受硅谷和华尔街青睐。",
-      "en": "UWaterloo has the world's largest co-op program. CS and engineering grads are highly sought by Silicon Valley and Wall Street."
+      "zh": "加拿大最具创新精神的大学，拥有全球最大的Co-op（带薪实习）项目。CS和工程在北美享有极高声誉，毕业生遍布硅谷。数学和精算学全球领先。",
+      "en": "Canada's most innovative university with the world's largest co-op program. CS and Engineering highly respected in North America; graduates work at top Silicon Valley companies. World-leading in math and actuarial science."
     },
     "tuitionBreakdown": {
       "zh": {
-        "学费": 64070,
+        "学费": 65000,
         "食宿": 14000,
         "书本费": 1000,
-        "杂费": 1500
+        "杂费": 2000
       },
       "en": {
-        "Tuition": 64070,
+        "Tuition": 65000,
         "Room & Board": 14000,
         "Books": 1000,
-        "Incidentals": 1500
+        "Incidentals": 2000
       }
     },
     "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
+      "TOEFL": "90+（写作/口语25+）",
+      "IELTS": "6.5+（写作/口语6.5+）",
       "SAT": "不要求/Not Required"
     },
     "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
+      "zh": "2月1日（安省OUAC 105）",
+      "en": "February 1 (via OUAC 105)"
     },
     "safetyDetail": {
-      "zh": "滑铁卢大学校园安全良好。加拿大整体治安优秀。",
-      "en": "University of Waterloo campus is safe. Canada overall has excellent public safety."
+      "zh": "滑铁卢是安静安全的大学城，治安良好。校园安保24小时运行，社区友好。",
+      "en": "Waterloo is a quiet, safe university town. 24/7 campus security and friendly community."
     },
     "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
+      "zh": "四季分明，冬季寒冷（-10°C至-2°C），降雪较多。夏季温暖（18-26°C）。",
+      "en": "Four distinct seasons. Cold winters (-10°C to -2°C) with significant snow. Warm summers (18-26°C)."
     },
     "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
+      "zh": "约C$1,400-1,800/月",
+      "en": "~C$1,400-1,800/month"
     },
-    "livingCostAnnual": 17000,
+    "livingCostAnnual": 14400,
     "insurance": 900,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或安省省提名(OINP)。Co-op期间也可合法工作，积累加拿大工作经验。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Ontario PNP. Co-op terms allow legal work experience."
     },
     "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$9,500-15,000/年\n🏢 校外租房：滑铁卢租金适中，Studio约C$1,200-1,600/月\n📍 推荐区域：University Ave、Lester St",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$9,500-15,000/yr\n🏢 Off-campus: Waterloo moderate rents, studio ~C$1,200-1,600/mo\n📍 Recommended: University Ave, Lester St"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "zh": "本科五年毕业率约82%（含Co-op）。Co-op项目需五年完成本科。学术压力较大，但Co-op经验极有价值。",
+      "en": "5-year graduation rate ~82% (including co-op). Co-op programs require 5 years. Academically demanding but co-op experience is invaluable."
     },
     "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+      "zh": "📊 毕业6个月内就业率约93%（含Co-op返聘）\n💼 硅谷科技巨头（Google、Meta、Apple）、华尔街\n🌟 Co-op使学生毕业前即积累2年工作经验",
+      "en": "📊 ~93% employed within 6 months (including co-op return offers)\n💼 Silicon Valley (Google, Meta, Apple), Wall Street\n🌟 Co-op provides ~2 years work experience before graduation"
     },
     "healthcare": {
-      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
-      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+      "zh": "✅ 安省国际学生需购买UHIP，约C$756/年。校内有Health Services。",
+      "en": "✅ Ontario international students must enroll in UHIP, ~C$756/yr. On-campus Health Services."
     },
     "application": {
-      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+      "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：2月1日\n💰 申请费：C$170\n📝 所需材料：高中成绩单、语言成绩、AIF（入学信息表）、部分专业需视频面试或数学竞赛成绩",
+      "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: February 1\n💰 Fee: C$170\n📝 Materials: Transcripts, English proficiency, AIF, some programs need video interview or math competition results"
     }
   },
   {
@@ -669,97 +996,97 @@
     "the": 201,
     "usnews": 300,
     "arwu": 301,
-    "tuition": 49200,
+    "tuition": 55000,
     "tuitionRange": [
       35000,
-      49200
+      55000
     ],
     "safety": 8,
     "majors": {
       "zh": [
         "商学",
         "医学",
-        "法学",
         "工程学",
-        "传媒"
+        "传媒学",
+        "理科"
       ],
       "en": [
-        "Business",
+        "Commerce",
         "Medicine",
-        "Law",
         "Engineering",
-        "Media"
+        "Media Studies",
+        "Science"
       ]
     },
     "majorTuition": {
-      "zh": "西安大略大学国际生学费因专业差异大：C$35,000-C$49,200/年。",
-      "en": "Western University international tuition varies: C$35,000-C$49,200/yr."
+      "zh": "Western国际生学费：\n• 文科/社科：C$35,000/年\n• 理科：C$39,000/年\n• 商学(Ivey)：C$55,000/年\n• 工程：C$53,000/年",
+      "en": "Western international tuition:\n• Arts/Social Sciences: C$35,000/yr\n• Science: C$39,000/yr\n• Commerce (Ivey): C$55,000/yr\n• Engineering: C$53,000/yr"
     },
     "desc": {
-      "zh": "Western的Ivey商学院是加拿大顶级商学院之一，以案例教学法闻名。校园被评为加拿大最美。",
-      "en": "Western's Ivey Business School is one of Canada's top business schools, known for case-based learning. Campus rated one of Canada's most beautiful."
+      "zh": "以Ivey商学院闻名，采用独特的案例教学法（Case Method），是加拿大顶尖商学院之一。校园被评为加拿大最美校园之一，校园文化活跃。",
+      "en": "Renowned for Ivey Business School, which uses the distinctive Case Method. One of Canada's top business schools. Campus rated among Canada's most beautiful with vibrant culture."
     },
     "tuitionBreakdown": {
       "zh": {
-        "学费": 49200,
-        "食宿": 14000,
+        "学费": 55000,
+        "食宿": 13500,
         "书本费": 1000,
         "杂费": 1500
       },
       "en": {
-        "Tuition": 49200,
-        "Room & Board": 14000,
+        "Tuition": 55000,
+        "Room & Board": 13500,
         "Books": 1000,
         "Incidentals": 1500
       }
     },
     "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
+      "TOEFL": "83+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
       "SAT": "不要求/Not Required"
     },
     "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
+      "zh": "1月15日（安省OUAC 105）",
+      "en": "January 15 (via OUAC 105)"
     },
     "safetyDetail": {
-      "zh": "西安大略大学校园安全良好。加拿大整体治安优秀。",
-      "en": "Western University campus is safe. Canada overall has excellent public safety."
+      "zh": "伦敦(安省)是安静友好的中型城市，校园安全。提供24小时安保和免费护送服务。",
+      "en": "London, Ontario is a quiet, friendly mid-sized city with a safe campus. 24/7 security and free escort services."
     },
     "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
+      "zh": "四季分明，冬季寒冷（-8°C至-1°C），降雪适中。夏季温暖（19-26°C）。",
+      "en": "Four distinct seasons. Cold winters (-8°C to -1°C) with moderate snow. Warm summers (19-26°C)."
     },
     "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
+      "zh": "约C$1,300-1,700/月",
+      "en": "~C$1,300-1,700/month"
     },
-    "livingCostAnnual": 17000,
+    "livingCostAnnual": 13800,
     "insurance": 900,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或安省省提名(OINP)申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Ontario PNP (OINP)."
     },
     "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$10,000-15,000/年\n🏢 校外租房：伦敦租金实惠，Studio约C$1,000-1,400/月\n📍 推荐区域：Richmond Row、Old North",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$10,000-15,000/yr\n🏢 Off-campus: London affordable rents, studio ~C$1,000-1,400/mo\n📍 Recommended: Richmond Row, Old North"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "zh": "本科四年毕业率约77%，六年毕业率约84%。",
+      "en": "4-year graduation rate ~77%, 6-year rate ~84%."
     },
     "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+      "zh": "📊 毕业6个月内就业率约88%\n💼 Ivey商学院毕业生进入投行、咨询公司比例极高\n🌟 校友网络在金融和咨询行业尤为强大",
+      "en": "📊 ~88% employed within 6 months\n💼 Ivey grads have very high placement in investment banking and consulting\n🌟 Alumni network particularly strong in finance and consulting"
     },
     "healthcare": {
-      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
-      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+      "zh": "✅ 安省国际学生需购买UHIP，约C$756/年。校内有学生健康服务中心。",
+      "en": "✅ Ontario international students must enroll in UHIP, ~C$756/yr. On-campus Student Health Services."
     },
     "application": {
-      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+      "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：1月15日\n💰 申请费：C$155\n📝 所需材料：高中成绩单、语言成绩、部分专业需补充申请",
+      "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: January 15\n💰 Fee: C$155\n📝 Materials: Transcripts, English proficiency, supplementary application for some programs"
     }
   },
   {
@@ -767,7 +1094,7 @@
     "country": "CA",
     "flag": "🇨🇦",
     "name": {
-      "zh": "女王大学",
+      "zh": "皇后大学",
       "en": "Queen's University"
     },
     "city": {
@@ -776,535 +1103,99 @@
     },
     "qs": 209,
     "the": 251,
-    "usnews": 300,
+    "usnews": 360,
     "arwu": 301,
-    "tuition": 55883,
+    "tuition": 58000,
     "tuitionRange": [
-      40600,
-      55883
+      38000,
+      58000
     ],
-    "safety": 8,
+    "safety": 9,
     "majors": {
       "zh": [
         "商学",
         "工程学",
         "法学",
-        "医学",
-        "文理科学"
+        "理科",
+        "人文社科"
       ],
       "en": [
         "Commerce",
         "Engineering",
         "Law",
-        "Medicine",
-        "Arts & Science"
+        "Science",
+        "Humanities & Social Sciences"
       ]
     },
     "majorTuition": {
-      "zh": "女王大学国际生学费因专业差异大：C$40,600-C$55,883/年。",
-      "en": "Queen's University international tuition varies: C$40,600-C$55,883/yr."
+      "zh": "皇后大学国际生学费：\n• 文科/社科：C$38,000/年\n• 理科：C$42,000/年\n• 商学(Smith)：C$58,000/年\n• 工程：C$56,000/年",
+      "en": "Queen's international tuition:\n• Arts/Social Sciences: C$38,000/yr\n• Science: C$42,000/yr\n• Commerce (Smith): C$58,000/yr\n• Engineering: C$56,000/yr"
     },
     "desc": {
-      "zh": "女王大学Smith商学院全加顶尖，校园社区感极强，学生满意度常年第一。金斯顿是安全宜居的小城。",
-      "en": "Queen's Smith School of Business is among Canada's best. Extremely strong campus community with top student satisfaction. Kingston is a safe, livable city."
+      "zh": "加拿大历史悠久的名校之一，Smith商学院是加拿大顶尖商学院。位于安大略湖畔的金斯顿市，校园古典优美，学生满意度全加拿大最高。以强烈的校园归属感著称。",
+      "en": "One of Canada's most historic universities. Smith School of Business is a top Canadian business school. Located on Lake Ontario in Kingston, with highest student satisfaction in Canada. Known for strong school spirit."
     },
     "tuitionBreakdown": {
       "zh": {
-        "学费": 55883,
+        "学费": 58000,
         "食宿": 14000,
         "书本费": 1000,
         "杂费": 1500
       },
       "en": {
-        "Tuition": 55883,
+        "Tuition": 58000,
         "Room & Board": 14000,
         "Books": 1000,
         "Incidentals": 1500
       }
     },
     "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
+      "TOEFL": "88+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
       "SAT": "不要求/Not Required"
     },
     "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
+      "zh": "2月1日（安省OUAC 105）",
+      "en": "February 1 (via OUAC 105)"
     },
     "safetyDetail": {
-      "zh": "女王大学校园安全良好。加拿大整体治安优秀。",
-      "en": "Queen's University campus is safe. Canada overall has excellent public safety."
+      "zh": "金斯顿是非常安全的小城市，校园氛围温馨。社区治安极好，步行安全。",
+      "en": "Kingston is a very safe small city with a warm campus atmosphere. Excellent community safety; very walkable."
     },
     "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
+      "zh": "四季分明，冬季寒冷（-10°C至-2°C），靠近安大略湖，降雪较多。夏季温暖（19-26°C）。",
+      "en": "Four distinct seasons. Cold winters (-10°C to -2°C), near Lake Ontario with significant snowfall. Warm summers (19-26°C)."
     },
     "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
+      "zh": "约C$1,300-1,700/月",
+      "en": "~C$1,300-1,700/month"
     },
-    "livingCostAnnual": 17000,
+    "livingCostAnnual": 13800,
     "insurance": 900,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或安省省提名(OINP)申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Ontario PNP (OINP)."
     },
     "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$10,000-15,000/年\n🏢 校外租房：金斯顿租金实惠，Studio约C$1,000-1,400/月\n📍 推荐区域：University District",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$10,000-15,000/yr\n🏢 Off-campus: Kingston affordable rents, studio ~C$1,000-1,400/mo\n📍 Recommended: University District"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "zh": "本科四年毕业率约82%，六年毕业率约89%。学生满意度极高。",
+      "en": "4-year graduation rate ~82%, 6-year rate ~89%. Extremely high student satisfaction."
     },
     "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+      "zh": "📊 毕业6个月内就业率约90%\n💼 Smith商学院毕业生在金融和咨询行业就业率极高\n🌟 校友文化强大，毕业生互助网络活跃",
+      "en": "📊 ~90% employed within 6 months\n💼 Smith Commerce grads have excellent finance and consulting placement\n🌟 Strong alumni culture with active support network"
     },
     "healthcare": {
-      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
-      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+      "zh": "✅ 安省国际学生需购买UHIP，约C$756/年。校内有学生健康服务中心。",
+      "en": "✅ Ontario international students must enroll in UHIP, ~C$756/yr. On-campus Student Wellness Services."
     },
     "application": {
-      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
-    }
-  },
-  {
-    "id": "uottawa",
-    "country": "CA",
-    "flag": "🇨🇦",
-    "name": {
-      "zh": "渥太华大学",
-      "en": "University of Ottawa"
-    },
-    "city": {
-      "zh": "安大略省 渥太华",
-      "en": "Ottawa, ON"
-    },
-    "qs": 203,
-    "the": 177,
-    "usnews": 215,
-    "arwu": 151,
-    "tuition": 45192,
-    "tuitionRange": [
-      35000,
-      45192
-    ],
-    "safety": 7,
-    "majors": {
-      "zh": [
-        "法学",
-        "政治学",
-        "工程学",
-        "健康科学",
-        "双语教育"
-      ],
-      "en": [
-        "Law",
-        "Political Science",
-        "Engineering",
-        "Health Sciences",
-        "Bilingual Education"
-      ]
-    },
-    "majorTuition": {
-      "zh": "渥太华大学国际生学费因专业差异大：C$35,000-C$45,192/年。",
-      "en": "University of Ottawa international tuition varies: C$35,000-C$45,192/yr."
-    },
-    "desc": {
-      "zh": "渥太华大学是全球最大的英法双语大学，毗邻加拿大国会。政治学和法学因首都优势极具竞争力。",
-      "en": "UOttawa is the world's largest English-French bilingual university, next to Parliament. Political science and law benefit from the capital location."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费": 45192,
-        "食宿": 14000,
-        "书本费": 1000,
-        "杂费": 1500
-      },
-      "en": {
-        "Tuition": 45192,
-        "Room & Board": 14000,
-        "Books": 1000,
-        "Incidentals": 1500
-      }
-    },
-    "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
-      "SAT": "不要求/Not Required"
-    },
-    "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
-    },
-    "safetyDetail": {
-      "zh": "渥太华大学校园安全良好。加拿大整体治安优秀。",
-      "en": "University of Ottawa campus is safe. Canada overall has excellent public safety."
-    },
-    "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
-    },
-    "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
-    },
-    "livingCostAnnual": 17000,
-    "insurance": 900,
-    "flights": 2200,
-    "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
-    },
-    "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
-    },
-    "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
-    },
-    "healthcare": {
-      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
-      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
-    },
-    "application": {
-      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
-    }
-  },
-  {
-    "id": "ucalgary",
-    "country": "CA",
-    "flag": "🇨🇦",
-    "name": {
-      "zh": "卡尔加里大学",
-      "en": "University of Calgary"
-    },
-    "city": {
-      "zh": "阿尔伯塔省 卡尔加里",
-      "en": "Calgary, AB"
-    },
-    "qs": 170,
-    "the": 182,
-    "usnews": 166,
-    "arwu": 151,
-    "tuition": 38560,
-    "tuitionRange": [
-      30000,
-      38560
-    ],
-    "safety": 7,
-    "majors": {
-      "zh": [
-        "工程学",
-        "石油工程",
-        "商学",
-        "运动机能学",
-        "医学"
-      ],
-      "en": [
-        "Engineering",
-        "Petroleum Engineering",
-        "Business",
-        "Kinesiology",
-        "Medicine"
-      ]
-    },
-    "majorTuition": {
-      "zh": "卡尔加里大学国际生学费因专业差异大：C$30,000-C$38,560/年。",
-      "en": "University of Calgary international tuition varies: C$30,000-C$38,560/yr."
-    },
-    "desc": {
-      "zh": "卡尔加里大学以能源工程闻名，Haskayne商学院与当地石油行业联系紧密。卡尔加里连年评为全球最宜居城市。",
-      "en": "UCalgary is known for energy engineering. Haskayne Business School has strong ties to the local oil industry. Calgary is consistently rated among the world's most livable cities."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费": 38560,
-        "食宿": 14000,
-        "书本费": 1000,
-        "杂费": 1500
-      },
-      "en": {
-        "Tuition": 38560,
-        "Room & Board": 14000,
-        "Books": 1000,
-        "Incidentals": 1500
-      }
-    },
-    "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
-      "SAT": "不要求/Not Required"
-    },
-    "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
-    },
-    "safetyDetail": {
-      "zh": "卡尔加里大学校园安全良好。加拿大整体治安优秀。",
-      "en": "University of Calgary campus is safe. Canada overall has excellent public safety."
-    },
-    "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
-    },
-    "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
-    },
-    "livingCostAnnual": 17000,
-    "insurance": 900,
-    "flights": 2200,
-    "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
-    },
-    "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
-    },
-    "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
-    },
-    "healthcare": {
-      "zh": "✅ 可加入AHCIP省医保。校内Health Centre提供基础医疗。",
-      "en": "✅ 可加入AHCIP省医保。On-campusHealth Centre提供基础医疗。"
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向UCalgary申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: 直接向UCalgary申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
-    }
-  },
-  {
-    "id": "sfu",
-    "country": "CA",
-    "flag": "🇨🇦",
-    "name": {
-      "zh": "西蒙菲莎大学",
-      "en": "Simon Fraser University"
-    },
-    "city": {
-      "zh": "不列颠哥伦比亚省 本拿比",
-      "en": "Burnaby, BC"
-    },
-    "qs": 318,
-    "the": 251,
-    "usnews": 300,
-    "arwu": 301,
-    "tuition": 35400,
-    "tuitionRange": [
-      28000,
-      35400
-    ],
-    "safety": 7,
-    "majors": {
-      "zh": [
-        "计算机科学",
-        "商学",
-        "传播学",
-        "犯罪学",
-        "环境科学"
-      ],
-      "en": [
-        "Computer Science",
-        "Business",
-        "Communications",
-        "Criminology",
-        "Environmental Science"
-      ]
-    },
-    "majorTuition": {
-      "zh": "西蒙菲莎大学国际生学费因专业差异大：C$28,000-C$35,400/年。",
-      "en": "Simon Fraser University international tuition varies: C$28,000-C$35,400/yr."
-    },
-    "desc": {
-      "zh": "SFU以Co-op项目和跨学科教学闻名。三学期制让学生可以更灵活地安排学业和实习。",
-      "en": "SFU is known for its co-op program and interdisciplinary approach. The trimester system allows flexible scheduling of academics and internships."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费": 35400,
-        "食宿": 14000,
-        "书本费": 1000,
-        "杂费": 1500
-      },
-      "en": {
-        "Tuition": 35400,
-        "Room & Board": 14000,
-        "Books": 1000,
-        "Incidentals": 1500
-      }
-    },
-    "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
-      "SAT": "不要求/Not Required"
-    },
-    "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
-    },
-    "safetyDetail": {
-      "zh": "西蒙菲莎大学校园安全良好。加拿大整体治安优秀。",
-      "en": "Simon Fraser University campus is safe. Canada overall has excellent public safety."
-    },
-    "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
-    },
-    "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
-    },
-    "livingCostAnnual": 17000,
-    "insurance": 900,
-    "flights": 2200,
-    "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
-    },
-    "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
-    },
-    "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
-    },
-    "healthcare": {
-      "zh": "✅ 可加入BC省MSP医疗保险（等待期内需购买私保）。校内Student Health Service提供基础医疗。",
-      "en": "✅ 可加入BC省MSP医疗保险（等待期内需购买私保）。On-campusStudent Health Service提供基础医疗。"
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向SFU申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: 直接向SFU申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
-    }
-  },
-  {
-    "id": "uvic",
-    "country": "CA",
-    "flag": "🇨🇦",
-    "name": {
-      "zh": "维多利亚大学",
-      "en": "University of Victoria"
-    },
-    "city": {
-      "zh": "不列颠哥伦比亚省 维多利亚",
-      "en": "Victoria, BC"
-    },
-    "qs": 322,
-    "the": 301,
-    "usnews": 300,
-    "arwu": 301,
-    "tuition": 33240,
-    "tuitionRange": [
-      26000,
-      33240
-    ],
-    "safety": 8,
-    "majors": {
-      "zh": [
-        "工程学",
-        "海洋科学",
-        "法学",
-        "商学",
-        "环境科学"
-      ],
-      "en": [
-        "Engineering",
-        "Ocean Sciences",
-        "Law",
-        "Business",
-        "Environmental Science"
-      ]
-    },
-    "majorTuition": {
-      "zh": "维多利亚大学国际生学费因专业差异大：C$26,000-C$33,240/年。",
-      "en": "University of Victoria international tuition varies: C$26,000-C$33,240/yr."
-    },
-    "desc": {
-      "zh": "维多利亚大学以Co-op项目和海洋/气候研究闻名。维多利亚市气候温和，是加拿大最温暖的城市之一。",
-      "en": "UVic is known for co-op programs and ocean/climate research. Victoria has Canada's mildest climate, one of the country's warmest cities."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费": 33240,
-        "食宿": 14000,
-        "书本费": 1000,
-        "杂费": 1500
-      },
-      "en": {
-        "Tuition": 33240,
-        "Room & Board": 14000,
-        "Books": 1000,
-        "Incidentals": 1500
-      }
-    },
-    "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
-      "SAT": "不要求/Not Required"
-    },
-    "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
-    },
-    "safetyDetail": {
-      "zh": "维多利亚大学校园安全良好。加拿大整体治安优秀。",
-      "en": "University of Victoria campus is safe. Canada overall has excellent public safety."
-    },
-    "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
-    },
-    "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
-    },
-    "livingCostAnnual": 17000,
-    "insurance": 900,
-    "flights": 2200,
-    "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
-    },
-    "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
-    },
-    "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
-    },
-    "healthcare": {
-      "zh": "✅ 可加入BC省MSP医疗保险（等待期内需购买私保）。校内Student Health Service提供基础医疗。",
-      "en": "✅ 可加入BC省MSP医疗保险（等待期内需购买私保）。On-campusStudent Health Service提供基础医疗。"
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向UVic申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: 直接向UVic申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+      "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：2月1日\n💰 申请费：C$165\n📝 所需材料：高中成绩单、语言成绩、个人陈述/补充申请",
+      "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: February 1\n💰 Fee: C$165\n📝 Materials: Transcripts, English proficiency, personal statement/supplementary application"
     }
   },
   {
@@ -1321,208 +1212,317 @@
     },
     "qs": 298,
     "the": 251,
-    "usnews": 300,
-    "arwu": 201,
-    "tuition": 32500,
+    "usnews": 401,
+    "arwu": 301,
+    "tuition": 42000,
     "tuitionRange": [
-      25000,
-      32500
+      30000,
+      42000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "海洋科学",
+        "工程学",
+        "商学",
+        "医学",
+        "计算机科学"
+      ],
+      "en": [
+        "Ocean Sciences",
+        "Engineering",
+        "Commerce",
+        "Medicine",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "达尔豪斯大学国际生学费：\n• 文科：C$30,000/年\n• 理科：C$33,000/年\n• 商学(Rowe)：C$38,000/年\n• 工程/CS：C$42,000/年",
+      "en": "Dalhousie international tuition:\n• Arts: C$30,000/yr\n• Science: C$33,000/yr\n• Commerce (Rowe): C$38,000/yr\n• Engineering/CS: C$42,000/yr"
+    },
+    "desc": {
+      "zh": "大西洋加拿大地区最大的研究型大学，位于美丽的海港城市哈利法克斯。海洋科学全球领先，工程和医学实力强劲。生活成本相对较低，城市友好宜居。",
+      "en": "The largest research university in Atlantic Canada, in the beautiful port city of Halifax. World-leading in ocean sciences, strong in engineering and medicine. Relatively low living costs."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 42000,
+        "食宿": 12000,
+        "书本费": 1000,
+        "杂费": 1200
+      },
+      "en": {
+        "Tuition": 42000,
+        "Room & Board": 12000,
+        "Books": 1000,
+        "Incidentals": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "4月1日（直接向Dalhousie申请）",
+      "en": "April 1 (apply directly to Dalhousie)"
+    },
+    "safetyDetail": {
+      "zh": "哈利法克斯是友好安全的海港城市，人口约40万。校园安全，社区温馨。",
+      "en": "Halifax is a friendly, safe port city of ~400K people. Safe campus with a warm community."
+    },
+    "climate": {
+      "zh": "海洋性气候，冬季较冷（-8°C至0°C），降雪较多。夏季凉爽（16-23°C）。靠海湿度较大。",
+      "en": "Maritime climate. Cold winters (-8°C to 0°C) with significant snow. Cool summers (16-23°C). Higher humidity."
+    },
+    "livingCost": {
+      "zh": "约C$1,200-1,600/月",
+      "en": "~C$1,200-1,600/month"
+    },
+    "livingCostAnnual": 12600,
+    "insurance": 1000,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或大西洋移民试点项目(AIP)申请永久居留。AIP为大西洋省份独有的移民快速通道。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Atlantic Immigration Program (AIP). AIP is a unique fast-track for Atlantic provinces."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：大一优先，约C$8,500-13,000/年\n🏢 校外租房：哈利法克斯租金低廉，Studio约C$1,000-1,400/月\n📍 推荐区域：South End、North End",
+      "en": "🏠 On-campus: Priority for first year, ~C$8,500-13,000/yr\n🏢 Off-campus: Halifax low rents, studio ~C$1,000-1,400/mo\n📍 Recommended: South End, North End"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约70%，六年毕业率约78%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~78%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约83%\n💼 海洋产业、医疗、科技初创公司\n🌟 大西洋移民计划(AIP)为留学生提供独特的移民优势",
+      "en": "📊 ~83% employed within 6 months\n💼 Ocean industry, healthcare, tech startups\n🌟 Atlantic Immigration Program offers unique immigration advantages"
+    },
+    "healthcare": {
+      "zh": "✅ 新斯科舍省国际学生需购买学校提供的健康保险计划，约C$900/年。",
+      "en": "✅ Nova Scotia international students need university-provided health insurance, ~C$900/yr."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过Dalhousie官网申请\n📅 截止日期：4月1日\n💰 申请费：C$70\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: Apply directly via Dalhousie website\n📅 Deadline: April 1\n💰 Fee: C$70\n📝 Materials: Transcripts, English proficiency"
+    }
+  },
+  {
+    "id": "sfu",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "西蒙菲莎大学",
+      "en": "Simon Fraser University"
+    },
+    "city": {
+      "zh": "不列颠哥伦比亚省 本拿比/温哥华",
+      "en": "Burnaby/Vancouver, BC"
+    },
+    "qs": 318,
+    "the": 251,
+    "usnews": 317,
+    "arwu": 301,
+    "tuition": 52000,
+    "tuitionRange": [
+      33000,
+      52000
     ],
     "safety": 7,
     "majors": {
       "zh": [
-        "海洋学",
-        "医学",
+        "计算机科学",
+        "商学",
+        "传媒学",
+        "工程学",
+        "环境科学"
+      ],
+      "en": [
+        "Computer Science",
+        "Commerce",
+        "Communication",
+        "Engineering",
+        "Environmental Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "SFU国际生学费：\n• 文科：C$33,000/年\n• 理科：C$36,000/年\n• 商学(Beedie)：C$45,000/年\n• 工程/CS：C$52,000/年",
+      "en": "SFU international tuition:\n• Arts: C$33,000/yr\n• Science: C$36,000/yr\n• Commerce (Beedie): C$45,000/yr\n• Engineering/CS: C$52,000/yr"
+    },
+    "desc": {
+      "zh": "BC省创新型综合大学，三学期制让学生可以更灵活安排学业。Co-op项目优秀，商学院(Beedie)声誉良好。主校区位于本拿比山顶，建筑独特。",
+      "en": "An innovative BC university with a trimester system for flexible study. Excellent co-op programs and well-regarded Beedie School of Business. Main campus atop Burnaby Mountain with unique architecture."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 52000,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 52000,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "88+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月31日（直接向SFU申请）",
+      "en": "January 31 (apply directly to SFU)"
+    },
+    "safetyDetail": {
+      "zh": "本拿比和温哥华治安良好。主校区在山顶，环境封闭安全。市中心校区交通便利。",
+      "en": "Burnaby and Vancouver have good safety. Main campus atop mountain is enclosed and secure. Downtown campus well-connected."
+    },
+    "climate": {
+      "zh": "温和的海洋性气候，冬季温和多雨（3-8°C），夏季凉爽（15-22°C）。山顶校区雾气较多。",
+      "en": "Mild oceanic climate. Warm, rainy winters (3-8°C), cool summers (15-22°C). Mountain campus can be foggy."
+    },
+    "livingCost": {
+      "zh": "约C$1,600-2,100/月",
+      "en": "~C$1,600-2,100/month"
+    },
+    "livingCostAnnual": 16800,
+    "insurance": 1000,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或BC省提名(BC PNP)申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or BC PNP."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：约C$9,000-14,000/年\n🏢 校外租房：本拿比/温哥华Studio约C$1,400-2,000/月\n📍 推荐区域：UniverCity、Lougheed附近",
+      "en": "🏠 On-campus: ~C$9,000-14,000/yr\n🏢 Off-campus: Burnaby/Vancouver studio ~C$1,400-2,000/mo\n📍 Recommended: UniverCity, near Lougheed"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约68%（三学期制下许多学生提前毕业），六年毕业率约76%。",
+      "en": "4-year graduation rate ~68% (many students graduate early under trimester system), 6-year rate ~76%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约86%\n💼 温哥华科技公司、媒体行业、商业咨询\n🌟 Co-op项目与温哥华企业联系紧密",
+      "en": "📊 ~86% employed within 6 months\n💼 Vancouver tech companies, media, business consulting\n🌟 Co-op programs closely connected to Vancouver businesses"
+    },
+    "healthcare": {
+      "zh": "✅ BC省国际学生可加入MSP，等待期后享受基本医疗保障。SFU另有补充健康保险。",
+      "en": "✅ BC international students eligible for MSP after waiting period. SFU also provides supplementary health insurance."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过SFU官网申请\n📅 截止日期：1月31日\n💰 申请费：C$75\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: Apply directly via SFU website\n📅 Deadline: January 31\n💰 Fee: C$75\n📝 Materials: Transcripts, English proficiency"
+    }
+  },
+  {
+    "id": "uvic",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "维多利亚大学",
+      "en": "University of Victoria"
+    },
+    "city": {
+      "zh": "不列颠哥伦比亚省 维多利亚",
+      "en": "Victoria, BC"
+    },
+    "qs": 322,
+    "the": 301,
+    "usnews": 317,
+    "arwu": 401,
+    "tuition": 50000,
+    "tuitionRange": [
+      32000,
+      50000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
         "工程学",
         "计算机科学",
+        "商学",
+        "环境科学",
         "法学"
       ],
       "en": [
-        "Ocean Sciences",
-        "Medicine",
         "Engineering",
         "Computer Science",
+        "Commerce",
+        "Environmental Science",
         "Law"
       ]
     },
     "majorTuition": {
-      "zh": "达尔豪斯大学国际生学费因专业差异大：C$25,000-C$32,500/年。",
-      "en": "Dalhousie University international tuition varies: C$25,000-C$32,500/yr."
+      "zh": "维多利亚大学国际生学费：\n• 文科：C$32,000/年\n• 理科：C$35,000/年\n• 商学(Gustavson)：C$45,000/年\n• 工程/CS：C$50,000/年",
+      "en": "UVic international tuition:\n• Arts: C$32,000/yr\n• Science: C$35,000/yr\n• Commerce (Gustavson): C$45,000/yr\n• Engineering/CS: C$50,000/yr"
     },
     "desc": {
-      "zh": "达尔豪斯是加拿大大西洋省份最好的大学，海洋科学全球领先。哈利法克斯生活成本较低，海滨城市氛围好。",
-      "en": "Dalhousie is the top university in Atlantic Canada with globally leading ocean sciences. Halifax has lower living costs and a great coastal city vibe."
+      "zh": "位于BC省首府维多利亚市的综合性研究型大学，以Co-op项目闻名（加拿大第二大Co-op项目）。校园环境优美，气候是加拿大最温和的。海洋科学和清洁能源研究突出。",
+      "en": "A comprehensive research university in BC's capital Victoria, known for its co-op program (Canada's second largest). Beautiful campus with Canada's mildest climate. Strong in ocean science and clean energy."
     },
     "tuitionBreakdown": {
       "zh": {
-        "学费": 32500,
-        "食宿": 14000,
+        "学费": 50000,
+        "食宿": 13000,
         "书本费": 1000,
         "杂费": 1500
       },
       "en": {
-        "Tuition": 32500,
-        "Room & Board": 14000,
+        "Tuition": 50000,
+        "Room & Board": 13000,
         "Books": 1000,
         "Incidentals": 1500
       }
     },
     "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
+      "TOEFL": "90+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
       "SAT": "不要求/Not Required"
     },
     "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
+      "zh": "2月28日（直接向UVic申请）",
+      "en": "February 28 (apply directly to UVic)"
     },
     "safetyDetail": {
-      "zh": "达尔豪斯大学校园安全良好。加拿大整体治安优秀。",
-      "en": "Dalhousie University campus is safe. Canada overall has excellent public safety."
+      "zh": "维多利亚是加拿大最安全的城市之一，治安极好。校园绿树环绕，环境宁静安全。",
+      "en": "Victoria is one of Canada's safest cities. Campus surrounded by greenery, quiet and secure environment."
     },
     "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
+      "zh": "加拿大最温和的气候，冬季温和（3-8°C），极少降雪。夏季凉爽舒适（15-22°C）。全年适合户外活动。",
+      "en": "Canada's mildest climate. Mild winters (3-8°C) with rare snow. Cool summers (15-22°C). Year-round outdoor activities."
     },
     "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
+      "zh": "约C$1,500-2,000/月",
+      "en": "~C$1,500-2,000/month"
     },
-    "livingCostAnnual": 17000,
-    "insurance": 900,
+    "livingCostAnnual": 15600,
+    "insurance": 1000,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或BC省提名(BC PNP)申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or BC PNP."
     },
     "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$9,000-14,000/年\n🏢 校外租房：维多利亚Studio约C$1,300-1,800/月\n📍 推荐区域：Gordon Head、Cadboro Bay",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$9,000-14,000/yr\n🏢 Off-campus: Victoria studio ~C$1,300-1,800/mo\n📍 Recommended: Gordon Head, Cadboro Bay"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "zh": "本科四年毕业率约72%（含Co-op），六年毕业率约79%。",
+      "en": "4-year graduation rate ~72% (with co-op), 6-year rate ~79%."
     },
     "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+      "zh": "📊 毕业6个月内就业率约87%\n💼 科技公司、政府（BC省府所在地）、清洁能源行业\n🌟 Co-op项目使学生在毕业前积累丰富工作经验",
+      "en": "📊 ~87% employed within 6 months\n💼 Tech companies, government (BC's capital), clean energy\n🌟 Co-op program provides rich work experience before graduation"
     },
     "healthcare": {
-      "zh": "✅ 需购买私人医疗保险约C$900/年。校内Health Centre提供基础医疗。",
-      "en": "✅ 需购买私人医疗保险约C$900/年。On-campusHealth Centre提供基础医疗。"
+      "zh": "✅ BC省国际学生可加入MSP，等待期后享受基本医疗保障。UVic有补充健康保险计划。",
+      "en": "✅ BC international students eligible for MSP after waiting period. UVic provides supplementary health insurance."
     },
     "application": {
-      "zh": "📋 申请平台：直接向Dalhousie申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: 直接向Dalhousie申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
-    }
-  },
-  {
-    "id": "umontreal",
-    "country": "CA",
-    "flag": "🇨🇦",
-    "name": {
-      "zh": "蒙特利尔大学",
-      "en": "Université de Montréal"
-    },
-    "city": {
-      "zh": "魁北克省 蒙特利尔",
-      "en": "Montreal, QC"
-    },
-    "qs": 111,
-    "the": 73,
-    "usnews": 160,
-    "arwu": 78,
-    "tuition": 31176,
-    "tuitionRange": [
-      24000,
-      31176
-    ],
-    "safety": 7,
-    "majors": {
-      "zh": [
-        "人工智能",
-        "医学",
-        "法学",
-        "药学",
-        "公共卫生"
-      ],
-      "en": [
-        "Artificial Intelligence",
-        "Medicine",
-        "Law",
-        "Pharmacy",
-        "Public Health"
-      ]
-    },
-    "majorTuition": {
-      "zh": "蒙特利尔大学国际生学费因专业差异大：C$24,000-C$31,176/年。",
-      "en": "Université de Montréal international tuition varies: C$24,000-C$31,176/yr."
-    },
-    "desc": {
-      "zh": "蒙特利尔大学是加拿大最大的法语大学，AI研究全球领先（Yoshua Bengio所在的Mila实验室）。",
-      "en": "UdeM is Canada's largest French university with globally leading AI research (home to Yoshua Bengio's Mila lab)."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费": 31176,
-        "食宿": 14000,
-        "书本费": 1000,
-        "杂费": 1500
-      },
-      "en": {
-        "Tuition": 31176,
-        "Room & Board": 14000,
-        "Books": 1000,
-        "Incidentals": 1500
-      }
-    },
-    "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
-      "SAT": "不要求/Not Required"
-    },
-    "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
-    },
-    "safetyDetail": {
-      "zh": "蒙特利尔大学校园安全良好。加拿大整体治安优秀。",
-      "en": "Université de Montréal campus is safe. Canada overall has excellent public safety."
-    },
-    "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
-    },
-    "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
-    },
-    "livingCostAnnual": 17000,
-    "insurance": 900,
-    "flights": 2200,
-    "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
-    },
-    "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
-    },
-    "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
-    },
-    "healthcare": {
-      "zh": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。校内Health Centre提供医疗服务。",
-      "en": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。On-campusHealth Centre提供医疗服务。"
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向UdeM申请（法语授课为主）\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: 直接向UdeM申请（法语授课为主）\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+      "zh": "📋 申请平台：直接通过UVic官网申请\n📅 截止日期：2月28日\n💰 申请费：C$125\n📝 所需材料：高中成绩单、语言成绩、个人陈述",
+      "en": "📋 Platform: Apply directly via UVic website\n📅 Deadline: February 28\n💰 Fee: C$125\n📝 Materials: Transcripts, English proficiency, personal statement"
     }
   },
   {
@@ -1538,100 +1538,645 @@
       "en": "Quebec City, QC"
     },
     "qs": 420,
-    "the": 350,
-    "usnews": 300,
-    "arwu": 301,
-    "tuition": 28000,
+    "the": 351,
+    "usnews": 395,
+    "arwu": 401,
+    "tuition": 33000,
     "tuitionRange": [
-      22000,
-      28000
+      30000,
+      33000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "林学",
+        "农学",
+        "工程学",
+        "医学",
+        "人文社科"
+      ],
+      "en": [
+        "Forestry",
+        "Agriculture",
+        "Engineering",
+        "Medicine",
+        "Humanities & Social Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "拉瓦尔大学国际生学费（法语授课）：\n• 文科/社科：C$30,000/年\n• 理科：C$31,500/年\n• 工程：C$33,000/年\n注：魁省法语大学学费相对实惠",
+      "en": "Laval international tuition (French instruction):\n• Arts/Social Sciences: C$30,000/yr\n• Science: C$31,500/yr\n• Engineering: C$33,000/yr\nNote: Quebec French universities have affordable tuition"
+    },
+    "desc": {
+      "zh": "北美最古老的法语大学之一，位于美丽的世界遗产城市魁北克城。林学、农学在加拿大名列前茅。校园是北美最大的大学校园之一。注意：法语授课。",
+      "en": "One of North America's oldest French-language universities, in the beautiful UNESCO World Heritage city of Quebec City. Top-ranked in forestry and agriculture. One of North America's largest campuses. Note: French instruction."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 33000,
+        "食宿": 11000,
+        "书本费": 1000,
+        "杂费": 1000
+      },
+      "en": {
+        "Tuition": 33000,
+        "Room & Board": 11000,
+        "Books": 1000,
+        "Incidentals": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "不适用（法语授课）",
+      "IELTS": "不适用（法语授课）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "2月1日（直接向Laval申请）",
+      "en": "February 1 (apply directly to Laval)"
+    },
+    "safetyDetail": {
+      "zh": "魁北克城是加拿大最安全的城市之一，犯罪率极低。校园宽广安全，社区友好。",
+      "en": "Quebec City is one of Canada's safest cities with very low crime rates. Spacious, safe campus with a friendly community."
+    },
+    "climate": {
+      "zh": "冬季漫长寒冷（-18°C至-7°C），降雪量非常大。夏季温暖宜人（18-25°C）。需要专业防寒装备。",
+      "en": "Long, cold winters (-18°C to -7°C) with very heavy snowfall. Pleasant warm summers (18-25°C). Professional winter gear essential."
+    },
+    "livingCost": {
+      "zh": "约C$1,100-1,500/月",
+      "en": "~C$1,100-1,500/month"
+    },
+    "livingCostAnnual": 12000,
+    "insurance": 1000,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或魁省PEQ项目申请永久居留。法语授课学生在PEQ移民中有显著优势。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Quebec PEQ. French-instruction students have significant advantage for PEQ."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：约C$6,500-11,000/年\n🏢 校外租房：魁北克城租金极低，Studio约C$800-1,200/月\n📍 推荐区域：Sainte-Foy、校园周边",
+      "en": "🏠 On-campus: ~C$6,500-11,000/yr\n🏢 Off-campus: Quebec City very low rents, studio ~C$800-1,200/mo\n📍 Recommended: Sainte-Foy, near campus"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约70%，六年毕业率约78%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~78%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约84%\n💼 魁省政府、林业/农业、保险和金融\n🌟 法语能力在魁省就业市场是必备技能",
+      "en": "📊 ~84% employed within 6 months\n💼 Quebec government, forestry/agriculture, insurance and finance\n🌟 French proficiency is essential in Quebec job market"
+    },
+    "healthcare": {
+      "zh": "✅ 魁省国际学生需加入RAMQ或购买学校健康保险计划。",
+      "en": "✅ Quebec international students need RAMQ or university health insurance plan."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过Laval官网申请（魁省独立系统）\n📅 截止日期：2月1日\n💰 申请费：C$90\n📝 所需材料：高中成绩单、法语能力证明",
+      "en": "📋 Platform: Apply directly via Laval website (Quebec separate system)\n📅 Deadline: February 1\n💰 Fee: C$90\n📝 Materials: Transcripts, French proficiency"
+    }
+  },
+  {
+    "id": "umanitoba",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "曼尼托巴大学",
+      "en": "University of Manitoba"
+    },
+    "city": {
+      "zh": "曼尼托巴省 温尼伯",
+      "en": "Winnipeg, MB"
+    },
+    "qs": 601,
+    "the": 351,
+    "usnews": 401,
+    "arwu": 401,
+    "tuition": 42000,
+    "tuitionRange": [
+      30000,
+      42000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "农学",
+        "医学",
+        "商学",
+        "理科"
+      ],
+      "en": [
+        "Engineering",
+        "Agriculture",
+        "Medicine",
+        "Commerce",
+        "Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "曼尼托巴大学国际生学费：\n• 文科：C$30,000/年\n• 理科：C$33,000/年\n• 商学(Asper)：C$38,000/年\n• 工程：C$42,000/年",
+      "en": "U of Manitoba international tuition:\n• Arts: C$30,000/yr\n• Science: C$33,000/yr\n• Commerce (Asper): C$38,000/yr\n• Engineering: C$42,000/yr"
+    },
+    "desc": {
+      "zh": "西加拿大最古老的大学，位于曼尼托巴省首府温尼伯。工程学和农学研究实力强劲，生活成本是加拿大主要大学城中最低的之一。曼省移民政策对留学生非常友好。",
+      "en": "Western Canada's oldest university, in Manitoba's capital Winnipeg. Strong engineering and agriculture research. Among the lowest living costs of major Canadian university cities. Manitoba has very immigrant-friendly policies."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 42000,
+        "食宿": 11000,
+        "书本费": 1000,
+        "杂费": 1200
+      },
+      "en": {
+        "Tuition": 42000,
+        "Room & Board": 11000,
+        "Books": 1000,
+        "Incidentals": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "3月1日（直接向UManitoba申请）",
+      "en": "March 1 (apply directly to UManitoba)"
+    },
+    "safetyDetail": {
+      "zh": "温尼伯部分区域治安需注意，但校园安保完善。建议避免深夜独行于市中心某些区域。",
+      "en": "Some Winnipeg areas require caution, but campus security is comprehensive. Avoid walking alone late at night in certain downtown areas."
+    },
+    "climate": {
+      "zh": "冬季极寒（-25°C至-12°C），是加拿大最冷的大城市之一。夏季温暖（17-26°C）。需要最高级别的防寒装备。",
+      "en": "Extremely cold winters (-25°C to -12°C), one of Canada's coldest major cities. Warm summers (17-26°C). Top-tier winter gear essential."
+    },
+    "livingCost": {
+      "zh": "约C$1,100-1,500/月",
+      "en": "~C$1,100-1,500/month"
+    },
+    "livingCostAnnual": 12000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或曼省省提名(MPNP)申请永久居留。MPNP是加拿大最友好的省提名项目之一，毕业即可申请。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Manitoba PNP (MPNP). MPNP is one of Canada's most accessible provincial nomination programs."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：约C$7,500-12,000/年\n🏢 校外租房：温尼伯租金极低，Studio约C$800-1,200/月\n📍 推荐区域：Fort Richmond、Pembina Highway",
+      "en": "🏠 On-campus: ~C$7,500-12,000/yr\n🏢 Off-campus: Winnipeg very low rents, studio ~C$800-1,200/mo\n📍 Recommended: Fort Richmond, Pembina Highway"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约65%，六年毕业率约74%。",
+      "en": "4-year graduation rate ~65%, 6-year rate ~74%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约82%\n💼 农业、制造业、政府、医疗行业\n🌟 MPNP省提名项目使曼省成为留学移民最容易的省份之一",
+      "en": "📊 ~82% employed within 6 months\n💼 Agriculture, manufacturing, government, healthcare\n🌟 MPNP makes Manitoba one of easiest provinces for student immigration"
+    },
+    "healthcare": {
+      "zh": "✅ 曼省国际学生可加入Manitoba Health，享受与本地居民相同的基本医疗保障。",
+      "en": "✅ Manitoba international students eligible for Manitoba Health, same basic coverage as residents."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过UManitoba官网申请\n📅 截止日期：3月1日\n💰 申请费：C$100\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: Apply directly via UManitoba website\n📅 Deadline: March 1\n💰 Fee: C$100\n📝 Materials: Transcripts, English proficiency"
+    }
+  },
+  {
+    "id": "usask",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "萨斯喀彻温大学",
+      "en": "University of Saskatchewan"
+    },
+    "city": {
+      "zh": "萨斯喀彻温省 萨斯卡通",
+      "en": "Saskatoon, SK"
+    },
+    "qs": 601,
+    "the": 401,
+    "usnews": 450,
+    "arwu": 401,
+    "tuition": 40000,
+    "tuitionRange": [
+      30000,
+      40000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "农学",
+        "兽医学",
+        "工程学",
+        "水资源",
+        "理科"
+      ],
+      "en": [
+        "Agriculture",
+        "Veterinary Medicine",
+        "Engineering",
+        "Water Resources",
+        "Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "萨斯喀彻温大学国际生学费：\n• 文科：C$30,000/年\n• 理科：C$32,000/年\n• 商学(Edwards)：C$36,000/年\n• 工程：C$40,000/年",
+      "en": "USask international tuition:\n• Arts: C$30,000/yr\n• Science: C$32,000/yr\n• Commerce (Edwards): C$36,000/yr\n• Engineering: C$40,000/yr"
+    },
+    "desc": {
+      "zh": "位于加拿大草原省份的综合性研究型大学，拥有加拿大粒子加速器中心（CLS）。农学、兽医学和水资源研究全球知名。生活成本极低，校园沿河而建，风景优美。",
+      "en": "A comprehensive research university in Canada's prairie province, home to the Canadian Light Source (CLS) synchrotron. Globally known for agriculture, veterinary medicine, and water resources. Very low living costs; scenic riverside campus."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 40000,
+        "食宿": 10500,
+        "书本费": 1000,
+        "杂费": 1200
+      },
+      "en": {
+        "Tuition": 40000,
+        "Room & Board": 10500,
+        "Books": 1000,
+        "Incidentals": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+（单项不低于19）",
+      "IELTS": "6.5+（单项不低于6.0）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "4月1日（直接向USask申请）",
+      "en": "April 1 (apply directly to USask)"
+    },
+    "safetyDetail": {
+      "zh": "萨斯卡通是友好的中小城市，校园安全。建议冬季注意出行安全。",
+      "en": "Saskatoon is a friendly small-medium city with a safe campus. Exercise winter travel caution."
+    },
+    "climate": {
+      "zh": "冬季极寒（-25°C至-12°C），是加拿大最冷的地区之一。夏季温暖干燥（16-25°C）。阳光充足。",
+      "en": "Extremely cold winters (-25°C to -12°C), among Canada's coldest. Warm, dry summers (16-25°C). Very sunny."
+    },
+    "livingCost": {
+      "zh": "约C$1,000-1,400/月",
+      "en": "~C$1,000-1,400/month"
+    },
+    "livingCostAnnual": 11400,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或萨省省提名(SINP)申请永久居留。SINP对留学生友好，门槛较低。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Saskatchewan PNP (SINP). SINP is immigrant-friendly with lower thresholds."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：约C$7,000-11,000/年\n🏢 校外租房：萨斯卡通租金极低，Studio约C$750-1,100/月\n📍 推荐区域：Varsity View、Nutana",
+      "en": "🏠 On-campus: ~C$7,000-11,000/yr\n🏢 Off-campus: Saskatoon very low rents, studio ~C$750-1,100/mo\n📍 Recommended: Varsity View, Nutana"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约63%，六年毕业率约72%。",
+      "en": "4-year graduation rate ~63%, 6-year rate ~72%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约80%\n💼 农业、矿业、政府、医疗\n🌟 SINP省提名使萨省成为移民友好省份",
+      "en": "📊 ~80% employed within 6 months\n💼 Agriculture, mining, government, healthcare\n🌟 SINP makes Saskatchewan an immigrant-friendly province"
+    },
+    "healthcare": {
+      "zh": "✅ 萨省国际学生可加入Saskatchewan Health，享受基本医疗保障。",
+      "en": "✅ Saskatchewan international students eligible for Saskatchewan Health, basic medical coverage."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过USask官网申请\n📅 截止日期：4月1日\n💰 申请费：C$100\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: Apply directly via USask website\n📅 Deadline: April 1\n💰 Fee: C$100\n📝 Materials: Transcripts, English proficiency"
+    }
+  },
+  {
+    "id": "concordia",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "康考迪亚大学",
+      "en": "Concordia University"
+    },
+    "city": {
+      "zh": "魁北克省 蒙特利尔",
+      "en": "Montreal, QC"
+    },
+    "qs": 551,
+    "the": 601,
+    "usnews": 601,
+    "arwu": 601,
+    "tuition": 42000,
+    "tuitionRange": [
+      30000,
+      42000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "艺术与设计",
+        "工程学",
+        "计算机科学",
+        "商学",
+        "电影制作"
+      ],
+      "en": [
+        "Art & Design",
+        "Engineering",
+        "Computer Science",
+        "Commerce",
+        "Film Production"
+      ]
+    },
+    "majorTuition": {
+      "zh": "康考迪亚大学国际生学费：\n• 文科/艺术：C$30,000/年\n• 理科：C$33,000/年\n• 商学(JMSB)：C$38,000/年\n• 工程/CS：C$42,000/年",
+      "en": "Concordia international tuition:\n• Arts/Fine Arts: C$30,000/yr\n• Science: C$33,000/yr\n• Commerce (JMSB): C$38,000/yr\n• Engineering/CS: C$42,000/yr"
+    },
+    "desc": {
+      "zh": "蒙特利尔的英语综合性大学，以艺术与设计、电影制作和游戏设计闻名。JMSB商学院获AACSB认证，工程和计算机科学持续进步。校园分布在市中心和西部两个校区。",
+      "en": "Montreal's English-language comprehensive university, known for art & design, film production, and game design. JMSB business school is AACSB-accredited. Two campuses: downtown and west end."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 42000,
+        "食宿": 13000,
+        "书本费": 1000,
+        "杂费": 1200
+      },
+      "en": {
+        "Tuition": 42000,
+        "Room & Board": 13000,
+        "Books": 1000,
+        "Incidentals": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于5.5）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "2月1日（直接向Concordia申请）",
+      "en": "February 1 (apply directly to Concordia)"
+    },
+    "safetyDetail": {
+      "zh": "蒙特利尔治安良好。市中心校区交通便利，西校区环境安静安全。",
+      "en": "Montreal has good safety. Downtown campus well-connected; west campus is quiet and secure."
+    },
+    "climate": {
+      "zh": "冬季漫长寒冷（-15°C至-5°C），降雪量大。夏季温暖湿润（20-26°C）。",
+      "en": "Long, cold winters (-15°C to -5°C) with heavy snow. Warm, humid summers (20-26°C)."
+    },
+    "livingCost": {
+      "zh": "约C$1,400-1,800/月",
+      "en": "~C$1,400-1,800/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 1000,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或魁省PEQ项目申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Quebec PEQ."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：约C$9,000-14,000/年\n🏢 校外租房：蒙特利尔租金实惠，Studio约C$1,000-1,500/月\n📍 推荐区域：NDG、Westmount附近",
+      "en": "🏠 On-campus: ~C$9,000-14,000/yr\n🏢 Off-campus: Montreal affordable, studio ~C$1,000-1,500/mo\n📍 Recommended: NDG, near Westmount"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约60%，六年毕业率约70%。",
+      "en": "4-year graduation rate ~60%, 6-year rate ~70%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约82%\n💼 游戏产业（Ubisoft、EA）、影视制作、科技创业\n🌟 艺术和设计专业在蒙特利尔创意产业中很受欢迎",
+      "en": "📊 ~82% employed within 6 months\n💼 Gaming (Ubisoft, EA), film production, tech startups\n🌟 Art and design grads popular in Montreal's creative industry"
+    },
+    "healthcare": {
+      "zh": "✅ 魁省国际学生需加入RAMQ或购买学校健康保险。",
+      "en": "✅ Quebec international students need RAMQ or university health insurance."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过Concordia官网申请（魁省独立系统）\n📅 截止日期：2月1日\n💰 申请费：C$100\n📝 所需材料：高中成绩单、语言成绩、作品集（艺术专业）",
+      "en": "📋 Platform: Apply directly via Concordia website (Quebec separate system)\n📅 Deadline: February 1\n💰 Fee: C$100\n📝 Materials: Transcripts, English proficiency, portfolio (art programs)"
+    }
+  },
+  {
+    "id": "tmu",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "多伦多都市大学",
+      "en": "Toronto Metropolitan University"
+    },
+    "city": {
+      "zh": "安大略省 多伦多",
+      "en": "Toronto, ON"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 45000,
+    "tuitionRange": [
+      33000,
+      45000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商学",
+        "工程学",
+        "计算机科学",
+        "新闻传媒",
+        "创意产业"
+      ],
+      "en": [
+        "Commerce",
+        "Engineering",
+        "Computer Science",
+        "Journalism",
+        "Creative Industries"
+      ]
+    },
+    "majorTuition": {
+      "zh": "TMU国际生学费：\n• 文科/传媒：C$33,000/年\n• 理科：C$36,000/年\n• 商学(TRSM)：C$40,000/年\n• 工程/CS：C$45,000/年",
+      "en": "TMU international tuition:\n• Arts/Media: C$33,000/yr\n• Science: C$36,000/yr\n• Commerce (TRSM): C$40,000/yr\n• Engineering/CS: C$45,000/yr"
+    },
+    "desc": {
+      "zh": "位于多伦多市中心的应用型大学，以创业创新闻名。拥有加拿大最大的本科商学院之一，新闻传媒和创意产业专业实力强。校园地处多伦多最繁华地段，实习机会丰富。",
+      "en": "An applied university in downtown Toronto known for entrepreneurship. One of Canada's largest undergraduate business schools. Strong in journalism and creative industries. Campus in Toronto's busiest area with abundant internship opportunities."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 45000,
+        "食宿": 16000,
+        "书本费": 1000,
+        "杂费": 1800
+      },
+      "en": {
+        "Tuition": 45000,
+        "Room & Board": 16000,
+        "Books": 1000,
+        "Incidentals": 1800
+      }
+    },
+    "requirements": {
+      "TOEFL": "83+（单项不低于20）",
+      "IELTS": "6.5+（单项不低于6.0）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "2月1日（安省OUAC 105）",
+      "en": "February 1 (via OUAC 105)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于多伦多市中心，人流密集，整体安全。有校园安保和紧急电话系统。晚间注意周边环境。",
+      "en": "Campus in busy downtown Toronto, generally safe. Campus security and emergency phone system available. Be aware of surroundings at night."
+    },
+    "climate": {
+      "zh": "四季分明，冬季寒冷（-7°C至-1°C），常有降雪。夏季温暖宜人（20-27°C）。",
+      "en": "Four distinct seasons. Cold winters (-7°C to -1°C) with frequent snow. Pleasant summers (20-27°C)."
+    },
+    "livingCost": {
+      "zh": "约C$2,000-2,500/月",
+      "en": "~C$2,000-2,500/month"
+    },
+    "livingCostAnnual": 19200,
+    "insurance": 1100,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或安省省提名(OINP)申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Ontario PNP (OINP)."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：有限，约C$12,000-17,000/年\n🏢 校外租房：多伦多市中心Studio约C$1,800-2,400/月\n📍 推荐区域：Church-Yonge Corridor、Garden District",
+      "en": "🏠 On-campus: Limited, ~C$12,000-17,000/yr\n🏢 Off-campus: Downtown Toronto studio ~C$1,800-2,400/mo\n📍 Recommended: Church-Yonge Corridor, Garden District"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约68%，六年毕业率约76%。",
+      "en": "4-year graduation rate ~68%, 6-year rate ~76%."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约85%\n💼 创业孵化器(DMZ)全球排名第一，科技创业氛围浓厚\n🌟 位于多伦多市中心，实习和就业机会极其便利",
+      "en": "📊 ~85% employed within 6 months\n💼 DMZ startup incubator ranked #1 globally; strong tech entrepreneurship\n🌟 Downtown Toronto location offers exceptional internship and job access"
+    },
+    "healthcare": {
+      "zh": "✅ 安省国际学生需购买UHIP，约C$756/年。",
+      "en": "✅ Ontario international students must enroll in UHIP, ~C$756/yr."
+    },
+    "application": {
+      "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：2月1日\n💰 申请费：C$150\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: February 1\n💰 Fee: C$150\n📝 Materials: Transcripts, English proficiency"
+    }
+  },
+  {
+    "id": "carleton",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "卡尔顿大学",
+      "en": "Carleton University"
+    },
+    "city": {
+      "zh": "安大略省 渥太华",
+      "en": "Ottawa, ON"
+    },
+    "qs": 601,
+    "the": 601,
+    "usnews": 601,
+    "arwu": 601,
+    "tuition": 48000,
+    "tuitionRange": [
+      33000,
+      48000
     ],
     "safety": 8,
     "majors": {
       "zh": [
-        "法学",
-        "农业",
-        "林业",
-        "医学",
-        "教育学"
+        "工程学",
+        "计算机科学",
+        "国际事务",
+        "建筑学",
+        "新闻传媒"
       ],
       "en": [
-        "Law",
-        "Agriculture",
-        "Forestry",
-        "Medicine",
-        "Education"
+        "Engineering",
+        "Computer Science",
+        "International Affairs",
+        "Architecture",
+        "Journalism"
       ]
     },
     "majorTuition": {
-      "zh": "拉瓦尔大学国际生学费因专业差异大：C$22,000-C$28,000/年。",
-      "en": "Université Laval international tuition varies: C$22,000-C$28,000/yr."
+      "zh": "卡尔顿大学国际生学费：\n• 文科/社科：C$33,000/年\n• 理科：C$36,000/年\n• 商学(Sprott)：C$42,000/年\n• 工程/CS：C$48,000/年",
+      "en": "Carleton international tuition:\n• Arts/Social Sciences: C$33,000/yr\n• Science: C$36,000/yr\n• Commerce (Sprott): C$42,000/yr\n• Engineering/CS: C$48,000/yr"
     },
     "desc": {
-      "zh": "拉瓦尔大学是加拿大第一所法语大学，林业和农业研究全加领先。魁北克城是北美最具欧洲风情的城市。",
-      "en": "Laval is Canada's first French university with leading forestry and agriculture research. Quebec City is North America's most European city."
+      "zh": "位于加拿大首都渥太华的综合性大学，以工程、计算机科学、国际事务和新闻专业闻名。与联邦政府和科技行业联系紧密，Co-op项目优秀。校园沿Rideau运河而建，环境优美。",
+      "en": "A comprehensive university in Canada's capital Ottawa, known for engineering, CS, international affairs, and journalism. Strong ties to federal government and tech sector. Excellent co-op programs. Beautiful campus along the Rideau Canal."
     },
     "tuitionBreakdown": {
       "zh": {
-        "学费": 28000,
-        "食宿": 14000,
+        "学费": 48000,
+        "食宿": 13000,
         "书本费": 1000,
         "杂费": 1500
       },
       "en": {
-        "Tuition": 28000,
-        "Room & Board": 14000,
+        "Tuition": 48000,
+        "Room & Board": 13000,
         "Books": 1000,
         "Incidentals": 1500
       }
     },
     "requirements": {
-      "TOEFL": "86+",
-      "IELTS": "6.5+",
+      "TOEFL": "86+（写作/口语22+）",
+      "IELTS": "6.5+（单项不低于6.0）",
       "SAT": "不要求/Not Required"
     },
     "deadline": {
-      "zh": "1月15日-3月1日（因学校而异）",
-      "en": "Jan 15 - Mar 1 (varies by school)"
+      "zh": "4月1日（安省OUAC 105）",
+      "en": "April 1 (via OUAC 105)"
     },
     "safetyDetail": {
-      "zh": "拉瓦尔大学校园安全良好。加拿大整体治安优秀。",
-      "en": "Université Laval campus is safe. Canada overall has excellent public safety."
+      "zh": "渥太华是加拿大首都，治安非常好。校园沿运河而建，环境安静安全。",
+      "en": "Ottawa is Canada's capital with excellent safety. Campus along the canal, quiet and secure environment."
     },
     "climate": {
-      "zh": "冬季寒冷多雪，夏季温暖",
-      "en": "Cold snowy winters, warm summers"
+      "zh": "冬季寒冷（-15°C至-5°C），降雪量大。夏季温暖（20-26°C）。校园地下通道系统可避寒。",
+      "en": "Cold winters (-15°C to -5°C) with heavy snow. Warm summers (20-26°C). Campus underground tunnel system helps beat the cold."
     },
     "livingCost": {
-      "zh": "约C$1,800/月",
-      "en": "~C$1,800/month"
+      "zh": "约C$1,400-1,800/月",
+      "en": "~C$1,400-1,800/month"
     },
-    "livingCostAnnual": 17000,
+    "livingCostAnnual": 14400,
     "insurance": 900,
     "flights": 2200,
     "visa": {
-      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
-      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+      "zh": "Study Permit → PGWP（最长3年）→ Express Entry或安省省提名(OINP)申请永久居留。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or Ontario PNP (OINP)."
     },
     "housing": {
-      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
-      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$9,500-14,000/年\n🏢 校外租房：渥太华租金中等，Studio约C$1,200-1,600/月\n📍 推荐区域：Old Ottawa South、Glebe",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$9,500-14,000/yr\n🏢 Off-campus: Ottawa moderate rents, studio ~C$1,200-1,600/mo\n📍 Recommended: Old Ottawa South, Glebe"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "zh": "本科四年毕业率约68%，六年毕业率约76%。",
+      "en": "4-year graduation rate ~68%, 6-year rate ~76%."
     },
     "employment": {
-      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
-      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+      "zh": "📊 毕业6个月内就业率约85%\n💼 联邦政府、科技公司（Shopify、BlackBerry QNX）、国防产业\n🌟 Co-op项目与政府和科技行业合作广泛",
+      "en": "📊 ~85% employed within 6 months\n💼 Federal government, tech (Shopify, BlackBerry QNX), defence\n🌟 Co-op programs with extensive government and tech partnerships"
     },
     "healthcare": {
-      "zh": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。校内Health Centre提供医疗服务。",
-      "en": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。On-campusHealth Centre提供医疗服务。"
+      "zh": "✅ 安省国际学生需购买UHIP，约C$756/年。校内有健康服务中心。",
+      "en": "✅ Ontario international students must enroll in UHIP, ~C$756/yr. On-campus Health Services."
     },
     "application": {
-      "zh": "📋 申请平台：直接向Laval申请（法语授课）\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
-      "en": "📋 Platform: 直接向Laval申请（法语授课）\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+      "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：4月1日\n💰 申请费：C$150\n📝 所需材料：高中成绩单、语言成绩",
+      "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: April 1\n💰 Fee: C$150\n📝 Materials: Transcripts, English proficiency"
     }
   }
 ]
