@@ -15557,7 +15557,7 @@ function openCompare(){
     ['compare_requirements', s=>`TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}`],
     ['compare_ib', s=>s.requirements.IB || 'N/A'],
     ['compare_deadline', s=>s.deadline[lang]],
-    ['compare_visa', s=>s.visa[lang]],
+
     ['compare_housing_label', s=>s.housing[lang]],
     ['compare_graduation', s=>s.graduationRate[lang]],
     ['compare_employment', s=>s.employment[lang]],
@@ -15630,10 +15630,6 @@ function openDetail(id){
         <p class="detail-desc">${s.livingCost[lang]}</p>
       </div>
       <div class="detail-section">
-        <h3>${t('detail_visa')}</h3>
-        <p class="detail-desc">${s.visa[lang]}</p>
-      </div>
-      <div class="detail-section">
         <h3>${t('detail_housing')}</h3>
         <p class="detail-desc">${s.housing[lang]}</p>
       </div>
@@ -15701,7 +15697,7 @@ function closeDetail(){
     {id:'rank', zh:'🏆 排名高', en:'🏆 High Ranking'},
     {id:'cheap', zh:'💰 学费低', en:'💰 Low Tuition'},
     {id:'safe', zh:'🛡️ 安全', en:'🛡️ Safety'},
-    {id:'immigrate', zh:'🌏 移民友好', en:'🌏 Immigration'},
+
     {id:'employ', zh:'💼 就业强', en:'💼 Employment'},
   ];
   const pDiv = document.getElementById('recPriority');
@@ -15777,7 +15773,7 @@ function runRecommend(){
       else if(s.tuition <= 20000) { score += 8; }
     }
     if(selPriorities.includes('safe') && s.safety >= 8) { score += 8; reasons.push(lang==='zh'?'🛡️ 高安全评分':'🛡️ High safety'); }
-    if(selPriorities.includes('immigrate') && immigrationFriendly.includes(s.country)) { score += 8; reasons.push(lang==='zh'?'🌏 移民友好国家':'🌏 Immigration-friendly'); }
+
     if(selPriorities.includes('employ') && employStrong.includes(s.country)) { score += 5; }
 
     return { school: s, score, reasons };
