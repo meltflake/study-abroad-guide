@@ -97,6 +97,7 @@ img{max-width:100%}
 .tag-rank{background:#eff6ff;color:#1d4ed8}
 .tag-tuition{background:#fef3c7;color:#92400e}
 .tag-city{background:#f0fdf4;color:#166534}
+.tag-ib{background:#fdf2f8;color:#9d174d;font-weight:600}
 .card-info{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
 .card-info-item{display:flex;align-items:center;gap:.4rem;font-size:.85rem;color:var(--gray-600)}
 .card-info-item .icon{font-size:1rem}
@@ -356,10 +357,21 @@ img{max-width:100%}
         <button class="filter-btn" data-rank="usnews" onclick="setRankFilter(this)">US News</button>
         <button class="filter-btn" data-rank="arwu" onclick="setRankFilter(this)">ARWU</button>
       </div>
+      <div class="filter-group" id="ibFilter" style="display:flex;align-items:center;gap:.5rem;flex-wrap:wrap">
+        <span style="font-size:.8rem;color:var(--gray-500);font-weight:600" data-i18n="ib_label">IB分数：</span>
+        <button class="filter-btn active" data-ib="all" onclick="setIBFilter(this)"><span data-i18n="ib_all">不限</span></button>
+        <button class="filter-btn" data-ib="45-42" onclick="setIBFilter(this)">42-45</button>
+        <button class="filter-btn" data-ib="41-38" onclick="setIBFilter(this)">38-41</button>
+        <button class="filter-btn" data-ib="37-34" onclick="setIBFilter(this)">34-37</button>
+        <button class="filter-btn" data-ib="33-30" onclick="setIBFilter(this)">30-33</button>
+        <button class="filter-btn" data-ib="29-0" onclick="setIBFilter(this)">≤29</button>
+      </div>
       <select class="sort-select" id="sortSelect" onchange="renderCards()">
         <option value="rank" data-i18n="sort_rank">按排名 ↑</option>
         <option value="tuition_asc" data-i18n="sort_tuition_asc">按学费 ↑</option>
         <option value="tuition_desc" data-i18n="sort_tuition_desc">按学费 ↓</option>
+        <option value="ib_desc" data-i18n="sort_ib_desc">按IB要求 ↓</option>
+        <option value="ib_asc" data-i18n="sort_ib_asc">按IB要求 ↑</option>
       </select>
     </div>
 
@@ -13165,6 +13177,8 @@ const I18N = {
   filter_ca:{zh:'加拿大',en:'Canada'},
   filter_cn:{zh:'中国',en:'China'},
   filter_au:{zh:'澳大利亚',en:'Australia'},
+  ib_label:{zh:'IB分数：',en:'IB Score:'},
+  ib_all:{zh:'不限',en:'All'},
   sort_rank:{zh:'按 QS 排名',en:'By QS Ranking'},
   rank_label:{zh:'排名体系：',en:'Ranking:'},
   sort_rank_the:{zh:'按 THE 排名',en:'THE Ranking'},
@@ -13172,6 +13186,8 @@ const I18N = {
   sort_rank_arwu:{zh:'按 ARWU 排名',en:'ARWU Ranking'},
   sort_tuition_asc:{zh:'按学费 ↑',en:'Tuition ↑'},
   sort_tuition_desc:{zh:'按学费 ↓',en:'Tuition ↓'},
+  sort_ib_desc:{zh:'按IB要求 ↓',en:'IB Req ↓'},
+  sort_ib_asc:{zh:'按IB要求 ↑',en:'IB Req ↑'},
   section_calc:{zh:'留学费用计算器',en:'Study Abroad Cost Calculator'},
   section_calc_desc:{zh:'估算留学总花费，包含学费、生活费、保险及往返机票',en:'Estimate total costs including tuition, living expenses, insurance & flights'},
   calc_school:{zh:'选择学校',en:'Select School'},
@@ -13260,12 +13276,31 @@ let currentCountry = 'all';
 let selectedIds = [];
 
 let currentRankSystem = 'qs';
+let currentIBRange = 'all';
 
 function setFilter(btn){
   document.querySelectorAll('#countryFilters .filter-btn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
   currentCountry = btn.dataset.country;
   renderCards();
+}
+
+function setIBFilter(btn){
+  document.querySelectorAll('#ibFilter .filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  currentIBRange = btn.dataset.ib;
+  renderCards();
+}
+
+function getIBMinScore(s){
+  // Extract the lowest number from the IB string to use for filtering
+  const ib = s.requirements && s.requirements.IB;
+  if(!ib) return null;
+  const nums = ib.match(/\d+/g);
+  if(!nums) return null;
+  // Return the smallest number >= 20 (filter out HL scores like 6,7)
+  const valid = nums.map(Number).filter(n=>n>=20 && n<=45);
+  return valid.length ? Math.min(...valid) : null;
 }
 
 function setRankFilter(btn){
@@ -13301,11 +13336,24 @@ function getFiltered(){
     if(s.desc.zh.toLowerCase().includes(q) || s.desc.en.toLowerCase().includes(q)) return true;
     return false;
   });
+  // IB filter
+  if(currentIBRange && currentIBRange !== 'all'){
+    const parts = currentIBRange.split('-').map(Number);
+    const hi = parts[0], lo = parts[1];
+    list = list.filter(s => {
+      const minIB = getIBMinScore(s);
+      if(minIB === null) return false;
+      if(lo === 0) return minIB <= hi; // "≤29" case
+      return minIB >= lo && minIB <= hi;
+    });
+  }
   // sort
   const sort = document.getElementById('sortSelect').value;
   if(sort==='rank') list.sort((a,b)=>getRankValue(a,currentRankSystem)-getRankValue(b,currentRankSystem));
   else if(sort==='tuition_asc') list.sort((a,b)=>a.tuition-b.tuition);
   else if(sort==='tuition_desc') list.sort((a,b)=>b.tuition-a.tuition);
+  else if(sort==='ib_desc') list.sort((a,b)=>(getIBMinScore(b)||0)-(getIBMinScore(a)||0));
+  else if(sort==='ib_asc') list.sort((a,b)=>(getIBMinScore(a)||99)-(getIBMinScore(b)||99));
   return list;
 }
 
@@ -13413,6 +13461,7 @@ function renderCards(){
           ${['qs','the','usnews','arwu'].filter(r=>r!==currentRankSystem).map(r=>`<span class="tag" style="background:var(--gray-100);color:var(--gray-500);font-size:.7rem">${getRankLabel(r)} #${getRankValue(s,r)}</span>`).join('')}
           <span class="tag tag-tuition">${s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()}/yr</span>
           <span class="tag tag-city">${s.city[lang]}</span>
+          ${s.requirements&&s.requirements.IB ? `<span class="tag tag-ib">IB ${getIBMinScore(s)||'?'}+</span>` : ''}
         </div>
         <div class="card-info">
           <div class="card-info-item"><span class="icon">🛡️</span> <span class="safety-badge ${safetyClass(s.safety)}">${s.safety}/10 ${safetyLabel(s.safety)}</span></div>
