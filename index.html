@@ -2,7 +2,10 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5">
+<meta name="theme-color" content="#1a365d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <title>留学择校通 | StudyAbroad Guide</title>
 <style>
 /* ===== Reset & Base ===== */
@@ -18,7 +21,8 @@
   --shadow-lg:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);
   --transition:all .3s ease;
 }
-html{scroll-behavior:smooth}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+*{-webkit-tap-highlight-color:transparent}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;color:var(--gray-800);background:var(--gray-50);line-height:1.6}
 a{text-decoration:none;color:inherit}
 button{cursor:pointer;font-family:inherit}
@@ -158,27 +162,130 @@ img{max-width:100%}
 .footer{background:var(--navy-dark);color:var(--gray-400);text-align:center;padding:2.5rem 2rem;font-size:.85rem}
 .footer .brand{color:var(--gold);font-weight:700;font-size:1.1rem;margin-bottom:.5rem}
 
-/* ===== Responsive ===== */
-@media(max-width:768px){
-  .hero h1{font-size:2rem}
-  .hero-stats{gap:1.5rem}
-  .schools-grid{grid-template-columns:1fr}
-  .controls{flex-direction:column;align-items:stretch}
-  .search-box{max-width:100%}
-  .filter-group{justify-content:center}
-  .detail-grid{grid-template-columns:1fr}
-  .compare-table{font-size:.8rem}
-  .compare-table th,.compare-table td{padding:.5rem}
-  .calc-row{flex-direction:column}
-  .navbar{padding:0 1rem}
-  .nav-links{gap:.8rem}
-  .nav-links a{display:none}
-  .calc-result .breakdown{grid-template-columns:1fr}
+/* ===== Responsive - Tablet ===== */
+@media(max-width:1024px){
+  .schools-grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1rem}
+  .detail-panel{max-width:95vw}
+  .compare-panel{max-width:95vw}
 }
-@media(max-width:480px){
-  .hero h1{font-size:1.6rem}
-  .hero .subtitle{font-size:1rem}
-  .section{padding:3rem 1rem}
+
+/* ===== Responsive - Mobile ===== */
+@media(max-width:768px){
+  /* Nav */
+  .navbar{padding:0 .8rem;height:56px}
+  .nav-brand{font-size:1.05rem}
+  .nav-brand span{display:none}
+  .nav-links{gap:.5rem}
+  .nav-links a{display:none}
+  .lang-toggle{padding:.35rem .8rem;font-size:.8rem}
+
+  /* Hero */
+  .hero{padding:5.5rem 1.2rem 3rem}
+  .hero h1{font-size:1.8rem}
+  .hero h1 .gold{display:block;font-size:1rem;margin-top:.3rem}
+  .hero .subtitle{font-size:.92rem;padding:0 .5rem}
+  .hero-stats{gap:1.2rem;margin-top:1.5rem}
+  .hero-stat .num{font-size:1.5rem}
+  .hero-stat .label{font-size:.75rem}
+  .scroll-hint{margin-top:1.5rem;font-size:.8rem}
+
+  /* Sections */
+  .section{padding:2.5rem 1rem}
+  .section-title{font-size:1.4rem}
+  .section-desc{font-size:.88rem;padding:0 .5rem;margin-bottom:1.5rem}
+
+  /* Controls */
+  .controls{flex-direction:column;align-items:stretch;gap:.8rem}
+  .search-box{max-width:100%}
+  .search-box input{padding:.65rem 1rem .65rem 2.3rem;font-size:.9rem}
+  .filter-group{justify-content:center;gap:.4rem}
+  .filter-btn{padding:.5rem .9rem;font-size:.82rem}
+  .sort-select{width:100%;padding:.6rem 1rem;font-size:.88rem}
+
+  /* Cards */
+  .schools-grid{grid-template-columns:1fr;gap:1rem}
+  .school-card:hover{transform:none}
+  .card-header{padding:1rem 1.2rem}
+  .card-header .school-name{font-size:1.05rem}
+  .card-body{padding:1rem 1.2rem}
+  .card-info{grid-template-columns:1fr}
+  .card-expand-hint{padding:.5rem;font-size:.78rem}
+
+  /* Detail overlay - full screen on mobile */
+  .detail-overlay{padding:.5rem;align-items:flex-start}
+  .detail-panel{max-width:100%;max-height:95vh;border-radius:12px}
+  .detail-close{padding:.8rem 1rem .3rem}
+  .detail-header{margin:0 .5rem;padding:1.2rem 1.2rem;border-radius:10px}
+  .detail-header h2{font-size:1.25rem}
+  .detail-header .sub{font-size:.82rem}
+  .detail-content{padding:1rem 1.2rem 1.5rem}
+  .detail-section h3{font-size:.95rem}
+  .detail-grid{grid-template-columns:1fr;gap:.4rem}
+  .detail-grid .item{font-size:.85rem;padding:.45rem .7rem}
+  .detail-desc{font-size:.88rem}
+
+  /* Compare bar */
+  .compare-bar{padding:.8rem 1rem;flex-direction:column;gap:.6rem;align-items:stretch}
+  .compare-bar .selected-list{justify-content:center}
+  .compare-chip{font-size:.8rem;padding:.25rem .6rem}
+  .compare-btn{width:100%;text-align:center;padding:.55rem 1rem}
+
+  /* Compare modal */
+  .compare-overlay{padding:.5rem}
+  .compare-panel{padding:1rem;border-radius:12px;max-height:95vh}
+  .compare-panel h2{font-size:1.2rem;margin-bottom:1rem}
+  .compare-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .compare-table th,.compare-table td{padding:.45rem .6rem;font-size:.78rem;white-space:nowrap}
+  .compare-table th{width:100px;min-width:100px}
+
+  /* Calculator */
+  .calc-section{padding:1.2rem 1rem}
+  .calc-row{flex-direction:column;gap:.8rem}
+  .calc-field{min-width:100%}
+  .calc-field label{font-size:.82rem}
+  .calc-field select,.calc-field input{padding:.6rem .8rem;font-size:.88rem}
+  .calc-result{padding:1.2rem 1rem;border-radius:10px}
+  .calc-result .total{font-size:1.6rem}
+  .calc-result .breakdown{grid-template-columns:1fr;gap:.4rem}
+  .calc-result .breakdown .item{font-size:.82rem}
+
+  /* Footer */
+  .footer{padding:2rem 1rem;font-size:.8rem}
+}
+
+/* ===== Responsive - Small Phone ===== */
+@media(max-width:380px){
+  .hero h1{font-size:1.5rem}
+  .hero .subtitle{font-size:.85rem}
+  .section-title{font-size:1.2rem}
+  .filter-btn{padding:.4rem .7rem;font-size:.78rem}
+  .card-header .school-name{font-size:.95rem}
+  .tag{font-size:.7rem;padding:.2rem .5rem}
+  .detail-header h2{font-size:1.1rem}
+  .compare-table th,.compare-table td{font-size:.72rem;padding:.35rem .4rem}
+}
+
+/* ===== Touch & Interaction ===== */
+@media(hover:none){
+  .school-card:hover{transform:none;box-shadow:var(--shadow)}
+  .school-card:active{transform:scale(.98);transition:transform .1s}
+  .filter-btn:active{background:var(--navy);color:var(--white);border-color:var(--navy)}
+  .lang-toggle:active{transform:scale(.95)}
+}
+
+/* ===== Safe area for notched phones ===== */
+@supports(padding:max(0px)){
+  .navbar{padding-left:max(.8rem,env(safe-area-inset-left));padding-right:max(.8rem,env(safe-area-inset-right))}
+  .compare-bar{padding-bottom:max(.8rem,env(safe-area-inset-bottom))}
+  .footer{padding-bottom:max(2rem,env(safe-area-inset-bottom))}
+}
+
+/* ===== Landscape phone ===== */
+@media(max-height:500px) and (orientation:landscape){
+  .hero{padding:4rem 1.5rem 2rem}
+  .hero h1{font-size:1.5rem}
+  .hero-stats{display:none}
+  .scroll-hint{display:none}
 }
 
 /* ===== No Results ===== */
