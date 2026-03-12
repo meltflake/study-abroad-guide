@@ -1802,6 +1802,4327 @@
     }
   },
   {
+    "id": "notre-dame",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "圣母大学",
+      "en": "University of Notre Dame"
+    },
+    "city": {
+      "zh": "印第安纳州 圣母",
+      "en": "Notre Dame, IN"
+    },
+    "qs": 166,
+    "the": 138,
+    "usnews": 18,
+    "arwu": 164,
+    "tuition": 62693,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "金融",
+        "政治学",
+        "计算机科学",
+        "会计学",
+        "心理学"
+      ],
+      "en": [
+        "Finance",
+        "Political Science",
+        "Computer Science",
+        "Accounting",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "圣母大学所有本科专业统一学费$62,693/年。",
+      "en": "Notre Dame charges a flat tuition of $62,693/year."
+    },
+    "desc": {
+      "zh": "圣母大学是美国最著名的天主教大学，以强大的校友网络、卓越的商科和法学教育以及狂热的橄榄球文化闻名。校园的金色圆顶是标志性建筑。",
+      "en": "Notre Dame is the most prestigious Catholic university in the US, known for its powerful alumni network, excellent business and law programs, and passionate football culture. The Golden Dome is an iconic landmark."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62693,
+        "食宿": 18060,
+        "书本费": 1050,
+        "个人花费": 2400
+      },
+      "en": {
+        "Tuition": 62693,
+        "Room & Board": 18060,
+        "Books": 1050,
+        "Personal": 2400
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1450+/ACT 33+"
+    },
+    "deadline": {
+      "zh": "1月1日（常规申请）/ 11月1日（限制性提前申请）",
+      "en": "Jan 1 (Regular) / Nov 1 (Restrictive Early Action)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于印第安纳州小城，环境安全宁静。Notre Dame Security Police提供24小时巡逻服务。",
+      "en": "Campus in a small Indiana town is safe and quiet. Notre Dame Security Police provide 24/7 patrol services."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季寒冷多雪（-8~0°C），夏季温暖（20~28°C）。受五大湖效应影响降雪较多。",
+      "en": "Continental climate with cold snowy winters (-8~0°C) and warm summers (20~28°C). Lake-effect snow from the Great Lakes."
+    },
+    "livingCost": {
+      "zh": "约$1,300/月",
+      "en": "~$1,300/month"
+    },
+    "livingCostAnnual": 15600,
+    "insurance": 3200,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。圣母大学校友网络在金融和咨询界极为强大，就业支持出色。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Notre Dame's alumni network in finance and consulting is exceptionally strong with excellent career support."
+    },
+    "housing": {
+      "zh": "所有本科生必须住校。学校有29个宿舍楼，每栋楼都有自己的传统和文化。宿舍生活是圣母大学体验的核心。",
+      "en": "All undergrads must live on campus in one of 29 residence halls, each with its own traditions. Residential life is central to the Notre Dame experience."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约93%，六年毕业率约96%。",
+      "en": "4-year graduation rate ~93%, 6-year rate ~96%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$68,000。金融、咨询、会计、科技为主要方向。Mendoza商学院本科在全美排名靠前。",
+      "en": "Median starting salary ~$68,000. Finance, consulting, accounting, and tech are top paths. Mendoza College of Business undergrad ranks among the nation's best."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Student Health Insurance，费用约$3,200/年。University Health Services提供校内医疗和心理健康服务。",
+      "en": "Student Health Insurance required (~$3,200/year). University Health Services provides on-campus medical and mental health care."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、1封教师推荐信、1封顾问信、论文。REA截止11月1日，RD截止1月1日。",
+      "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 1 teacher rec, 1 counselor rec, essays. REA Nov 1, RD Jan 1."
+    }
+  },
+  {
+    "id": "georgetown",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "乔治城大学",
+      "en": "Georgetown University"
+    },
+    "city": {
+      "zh": "华盛顿特区",
+      "en": "Washington, DC"
+    },
+    "qs": 97,
+    "the": 82,
+    "usnews": 19,
+    "arwu": 150,
+    "tuition": 63580,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "国际关系",
+        "政治学",
+        "金融",
+        "外交",
+        "护理学"
+      ],
+      "en": [
+        "International Relations",
+        "Government",
+        "Finance",
+        "Diplomacy",
+        "Nursing"
+      ]
+    },
+    "majorTuition": {
+      "zh": "乔治城大学所有本科专业统一学费$63,580/年。",
+      "en": "Georgetown charges a flat tuition of $63,580/year."
+    },
+    "desc": {
+      "zh": "乔治城大学位于美国首都华盛顿DC，是美国最古老的天主教和耶稳会大学。外交学院（SFS）全球闻名，培养了大量外交官和政策制定者。",
+      "en": "Georgetown is located in Washington DC and is the oldest Catholic and Jesuit university in the US. Its School of Foreign Service (SFS) is globally renowned, producing many diplomats and policymakers."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 63580,
+        "食宿": 20238,
+        "书本费": 1200,
+        "个人花费": 2800
+      },
+      "en": {
+        "Tuition": 63580,
+        "Room & Board": 20238,
+        "Books": 1200,
+        "Personal": 2800
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1440+/ACT 33+"
+    },
+    "deadline": {
+      "zh": "1月10日（常规申请）/ 11月1日（提前申请EA）",
+      "en": "Jan 10 (Regular) / Nov 1 (Early Action)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于DC乔治城街区，环境优雅安全。GUPD提供24小时巡逻和SafeRides服务。DC部分地区需注意安全。",
+      "en": "Campus in Georgetown neighborhood, elegant and safe. GUPD provides 24/7 patrols and SafeRides. Some DC areas require caution."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-2~7°C），夏季炎热潮湿（22~32°C）。春季樱花盛开时景色优美。",
+      "en": "Four seasons. Cold winters (-2~7°C), hot humid summers (22~32°C). Beautiful cherry blossoms in spring."
+    },
+    "livingCost": {
+      "zh": "约$2,200/月",
+      "en": "~$2,200/month"
+    },
+    "livingCostAnnual": 26400,
+    "insurance": 3600,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。DC拥有大量国际组织、智库和政府机构，国际关系专业就业优势明显。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. DC offers abundant opportunities at international organizations, think tanks, and government agencies."
+    },
+    "housing": {
+      "zh": "大一至大三学生必须住校。校内宿舍有限但学校努力扩建中。高年级可住校外，乔治城区域租金较高，约$1,500-2,500/月。",
+      "en": "Freshmen through juniors must live on campus. Limited on-campus housing being expanded. Seniors may live off-campus; Georgetown area rent ~$1,500-2,500/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约91%，六年毕业率约95%。",
+      "en": "4-year graduation rate ~91%, 6-year rate ~95%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$68,000。政府/外交、咨询、金融、国际组织为主要方向。SFS毕业生在国务院和联合国等机构影响深远。",
+      "en": "Median starting salary ~$68,000. Government/diplomacy, consulting, finance, and international organizations are top paths. SFS grads are influential at State Department and UN."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Georgetown Student Health Insurance，费用约$3,600/年。Student Health Center提供综合医疗服务。",
+      "en": "Georgetown Student Health Insurance required (~$3,600/year). Student Health Center provides comprehensive care."
+    },
+    "application": {
+      "zh": "通过Georgetown自有申请系统申请（不接受Common App）。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文、面试（可选）。EA截止11月1日，RD截止1月10日。",
+      "en": "Apply through Georgetown's own application system (does not accept Common App). $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recommendations, essays, interview (optional). EA Nov 1, RD Jan 10."
+    }
+  },
+  {
+    "id": "ucla",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学洛杉矶分校",
+      "en": "University of California, Los Angeles"
+    },
+    "city": {
+      "zh": "加利福尼亚州 洛杉矶",
+      "en": "Los Angeles, CA"
+    },
+    "qs": 20,
+    "the": 18,
+    "usnews": 20,
+    "arwu": 13,
+    "tuition": 46326,
+    "tuitionRange": [
+      44830,
+      48216
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "经济学",
+        "生物学",
+        "心理学",
+        "传播学"
+      ],
+      "en": [
+        "Computer Science",
+        "Economics",
+        "Biology",
+        "Psychology",
+        "Communications"
+      ]
+    },
+    "majorTuition": {
+      "zh": "UCLA国际生学费因专业不同，范围约$44,830-$48,216/年。工程和计算机科学类专业学费较高。",
+      "en": "UCLA international tuition varies by program, ~$44,830-$48,216/year. Engineering and CS programs are at the higher end."
+    },
+    "desc": {
+      "zh": "UCLA是加州大学系统中申请人数最多的校区，位于洛杉矶西木区。学术实力全面，体育传统深厚，校园生活丰富多彩，是公立大学中的旗舰。",
+      "en": "UCLA is the most applied-to campus in the UC system, located in Westwood, LA. It has comprehensive academic strength, deep athletic traditions, and vibrant campus life as a flagship public university."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 46326,
+        "食宿": 18684,
+        "书本费": 1053,
+        "个人花费": 3120
+      },
+      "en": {
+        "Tuition": 46326,
+        "Room & Board": 18684,
+        "Books": 1053,
+        "Personal": 3120
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "不要求/ACT 不要求"
+    },
+    "deadline": {
+      "zh": "11月30日（统一截止，UC系统不设EA/ED）",
+      "en": "Nov 30 (single deadline, UC system has no EA/ED)"
+    },
+    "safetyDetail": {
+      "zh": "西木区是洛杉矶较安全的社区。UCPD提供24小时巡逻、CSO夜间护送和安全穿梭巴士。校园周围商业区繁华热闹。",
+      "en": "Westwood is a relatively safe LA neighborhood. UCPD provides 24/7 patrols, CSO night escorts, and safety shuttles. Lively commercial district surrounds campus."
+    },
+    "climate": {
+      "zh": "地中海气候，全年温暖宜人。冬季温和（8~18°C），夏季炎热干燥（18~30°C）。很少下雨。",
+      "en": "Mediterranean climate, warm year-round. Mild winters (8~18°C), hot dry summers (18~30°C). Very little rain."
+    },
+    "livingCost": {
+      "zh": "约$2,200/月",
+      "en": "~$2,200/month"
+    },
+    "livingCostAnnual": 26400,
+    "insurance": 3200,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。洛杉矶就业市场巨大，娱乐、科技、金融行业机会丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. LA's vast job market offers opportunities in entertainment, tech, and finance."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供传统宿舍和公寓式住宿。校外西木区租金较高，约$1,500-2,500/月。",
+      "en": "Freshman housing guaranteed. Traditional dorms and apartment-style options. Off-campus Westwood rent is high, ~$1,500-2,500/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约82%，六年毕业率约92%。",
+      "en": "4-year graduation rate ~82%, 6-year rate ~92%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$62,000。科技、娱乐、金融、医疗为主要方向。UCLA在南加州雇主中声誉极高。",
+      "en": "Median starting salary ~$62,000. Tech, entertainment, finance, and healthcare are top paths. UCLA has excellent reputation among SoCal employers."
+    },
+    "healthcare": {
+      "zh": "要求学生购买UC SHIP健康保险，费用约$3,200/年。Arthur Ashe Student Health & Wellness Center提供综合医疗服务。",
+      "en": "UC SHIP required (~$3,200/year). Arthur Ashe Student Health & Wellness Center provides comprehensive care."
+    },
+    "application": {
+      "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
+      "en": "Apply via UC Application (not Common App). $80 fee ($95 international). Required: transcripts, no SAT/ACT required, TOEFL/IELTS, personal insight questions (4 essays), activities. No recommendation letters required. Single deadline Nov 30."
+    }
+  },
+  {
+    "id": "uc-berkeley",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学伯克利分校",
+      "en": "University of California, Berkeley"
+    },
+    "city": {
+      "zh": "加利福尼亚州 伯克利",
+      "en": "Berkeley, CA"
+    },
+    "qs": 12,
+    "the": 9,
+    "usnews": 22,
+    "arwu": 5,
+    "tuition": 48176,
+    "tuitionRange": [
+      46176,
+      50176
+    ],
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "电子工程",
+        "经济学",
+        "商科",
+        "分子与细胞生物学"
+      ],
+      "en": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Economics",
+        "Business",
+        "Molecular & Cell Biology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州大学伯克利分校国际生学费因专业不同，范围约$46,176-$50,176/年。工程和计算机类专业学费较高。",
+      "en": "University of California international tuition varies by program, ~$46,176-$50,176/year. Engineering and CS are at the higher end."
+    },
+    "desc": {
+      "zh": "加州大学伯克利分校是全球最顶尖的公立大学之一，以自由开放的学术氛围和卓越的研究实力著称。计算机科学、工程和自然科学领域全球领先。",
+      "en": "UC Berkeley is one of the world's top public universities, known for its free-spirited academic culture and outstanding research. It leads globally in CS, engineering, and natural sciences."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 48176,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 48176,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/ACT 不要求"
+    },
+    "deadline": {
+      "zh": "11月30日（统一截止，UC系统不设EA/ED）",
+      "en": "Nov 30 (single deadline, UC system has no EA/ED)"
+    },
+    "safetyDetail": {
+      "zh": "伯克利校园周边城市环境复杂，部分区域治安一般。UCPD提供24小时巡逻和BearWalk夜间护送。",
+      "en": "The area around Berkeley campus can be mixed in terms of safety. UCPD provides 24/7 patrols and BearWalk night escorts."
+    },
+    "climate": {
+      "zh": "地中海气候，全年温和。冬季凉爽多雨（8~15°C），夏季干燥温暖（15~25°C）。",
+      "en": "Mediterranean climate, mild year-round. Cool rainy winters (8~15°C), dry warm summers (15~25°C)."
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 27600,
+    "insurance": 3286,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。加州科技产业发达，STEM毕业生就业机会丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. California's tech industry offers abundant STEM employment."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍和公寓选择。校外租金较高。",
+      "en": "Freshman housing guaranteed. Various dorm and apartment options. Off-campus rent is high."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$65,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$65,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买UC SHIP健康保险，费用约$3,286/年。Student Health Center提供综合医疗服务。",
+      "en": "UC SHIP required (~$3,286/year). Student Health Center provides comprehensive care."
+    },
+    "application": {
+      "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
+      "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    }
+  },
+  {
+    "id": "ucsd",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学圣迭戈分校",
+      "en": "University of California, San Diego"
+    },
+    "city": {
+      "zh": "加利福尼亚州 圣迭戈",
+      "en": "San Diego, CA"
+    },
+    "qs": 53,
+    "the": 39,
+    "usnews": 28,
+    "arwu": 18,
+    "tuition": 47052,
+    "tuitionRange": [
+      45052,
+      49052
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "生物学",
+        "计算机科学",
+        "工程学",
+        "经济学",
+        "认知科学"
+      ],
+      "en": [
+        "Biology",
+        "Computer Science",
+        "Engineering",
+        "Economics",
+        "Cognitive Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州大学圣迭戈分校国际生学费因专业不同，范围约$45,052-$49,052/年。工程和计算机类专业学费较高。",
+      "en": "University of California international tuition varies by program, ~$45,052-$49,052/year. Engineering and CS are at the higher end."
+    },
+    "desc": {
+      "zh": "UC San Diego位于美丽的La Jolla海滨，以强大的STEM研究和生物技术产业联系闻名。校园采用独特的学院制度，每个学院有自己的通识教育要求。",
+      "en": "UC San Diego is located in beautiful coastal La Jolla, known for strong STEM research and biotech industry ties. Its unique college system gives each college its own general education requirements."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 47052,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 47052,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/ACT 不要求"
+    },
+    "deadline": {
+      "zh": "11月30日（统一截止，UC系统不设EA/ED）",
+      "en": "Nov 30 (single deadline, UC system has no EA/ED)"
+    },
+    "safetyDetail": {
+      "zh": "La Jolla是圣迭戈最安全的社区之一。UCSD Police提供24小时巡逻和安全护送服务。",
+      "en": "La Jolla is one of San Diego's safest neighborhoods. UCSD Police provide 24/7 patrols and safety escorts."
+    },
+    "climate": {
+      "zh": "地中海气候，全年温暖宜人。冬季温和（10~18°C），夏季凉爽干燥（18~25°C）。",
+      "en": "Mediterranean climate, pleasant year-round. Mild winters (10~18°C), cool dry summers (18~25°C)."
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3100,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。加州科技产业发达，STEM毕业生就业机会丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. California's tech industry offers abundant STEM employment."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍和公寓选择。校外租金较高。",
+      "en": "Freshman housing guaranteed. Various dorm and apartment options. Off-campus rent is high."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$65,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$65,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买UC SHIP健康保险，费用约$3,100/年。Student Health Center提供综合医疗服务。",
+      "en": "UC SHIP required (~$3,100/year). Student Health Center provides comprehensive care."
+    },
+    "application": {
+      "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
+      "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    }
+  },
+  {
+    "id": "ucsb",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学圣芭芭拉分校",
+      "en": "University of California, Santa Barbara"
+    },
+    "city": {
+      "zh": "加利福尼亚州 圣芭芭拉",
+      "en": "Santa Barbara, CA"
+    },
+    "qs": 139,
+    "the": 68,
+    "usnews": 35,
+    "arwu": 52,
+    "tuition": 46362,
+    "tuitionRange": [
+      44362,
+      48362
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "经济学",
+        "生物学",
+        "心理学",
+        "传播学"
+      ],
+      "en": [
+        "Computer Science",
+        "Economics",
+        "Biology",
+        "Psychology",
+        "Communications"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州大学圣芭芭拉分校国际生学费因专业不同，范围约$44,362-$48,362/年。工程和计算机类专业学费较高。",
+      "en": "University of California international tuition varies by program, ~$44,362-$48,362/year. Engineering and CS are at the higher end."
+    },
+    "desc": {
+      "zh": "UC Santa Barbara坐落在太平洋海岸的悬崖上，校园风景绝美。以物理、材料科学和海洋生物学研究闻名，拥有多位诺贝尔奖得主。",
+      "en": "UC Santa Barbara sits on cliffs above the Pacific Ocean with stunning scenery. Known for physics, materials science, and marine biology research, with multiple Nobel laureates."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 46362,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 46362,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/ACT 不要求"
+    },
+    "deadline": {
+      "zh": "11月30日（统一截止，UC系统不设EA/ED）",
+      "en": "Nov 30 (single deadline, UC system has no EA/ED)"
+    },
+    "safetyDetail": {
+      "zh": "Isla Vista学生社区整体安全。UCSB Police提供24小时巡逻。校园氛围友好轻松。",
+      "en": "Isla Vista student community is generally safe. UCSB Police provide 24/7 patrols. Campus atmosphere is friendly and relaxed."
+    },
+    "climate": {
+      "zh": "地中海气候，全年温和。冬季凉爽（10~18°C），夏季温暖（18~25°C）。海风宜人。",
+      "en": "Mediterranean climate, mild year-round. Cool winters (10~18°C), warm summers (18~25°C). Pleasant sea breeze."
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 3000,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。加州科技产业发达，STEM毕业生就业机会丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. California's tech industry offers abundant STEM employment."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍和公寓选择。校外租金较高。",
+      "en": "Freshman housing guaranteed. Various dorm and apartment options. Off-campus rent is high."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$65,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$65,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买UC SHIP健康保险，费用约$3,000/年。Student Health Center提供综合医疗服务。",
+      "en": "UC SHIP required (~$3,000/year). Student Health Center provides comprehensive care."
+    },
+    "application": {
+      "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
+      "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    }
+  },
+  {
+    "id": "ucd",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学戴维斯分校",
+      "en": "University of California, Davis"
+    },
+    "city": {
+      "zh": "加利福尼亚州 戴维斯",
+      "en": "Davis, CA"
+    },
+    "qs": 132,
+    "the": 78,
+    "usnews": 28,
+    "arwu": 40,
+    "tuition": 46043,
+    "tuitionRange": [
+      44043,
+      48043
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "农业科学",
+        "生物学",
+        "兽医学",
+        "环境科学",
+        "计算机科学"
+      ],
+      "en": [
+        "Agricultural Sciences",
+        "Biology",
+        "Veterinary Medicine",
+        "Environmental Science",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州大学戴维斯分校国际生学费因专业不同，范围约$44,043-$48,043/年。工程和计算机类专业学费较高。",
+      "en": "University of California international tuition varies by program, ~$44,043-$48,043/year. Engineering and CS are at the higher end."
+    },
+    "desc": {
+      "zh": "UC Davis是全美农业和兽医学顶尖大学，校园是UC系统中面积最大的。以可持续发展研究和友好的自行车文化闻名，校园生活悠闲。",
+      "en": "UC Davis is a top US university for agriculture and veterinary medicine, with the largest campus in the UC system. Known for sustainability research and bike-friendly culture."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 46043,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 46043,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/ACT 不要求"
+    },
+    "deadline": {
+      "zh": "11月30日（统一截止，UC系统不设EA/ED）",
+      "en": "Nov 30 (single deadline, UC system has no EA/ED)"
+    },
+    "safetyDetail": {
+      "zh": "戴维斯是安全宁静的大学城，自行车是主要交通方式。UC Davis Police提供24小时巡逻。",
+      "en": "Davis is a safe, quiet college town where bicycles are the main transport. UC Davis Police provide 24/7 patrols."
+    },
+    "climate": {
+      "zh": "地中海气候，夏季炎热干燥（20~35°C），冬季温和多雨（5~15°C）。",
+      "en": "Mediterranean climate with hot dry summers (20~35°C) and mild rainy winters (5~15°C)."
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 2900,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。加州科技产业发达，STEM毕业生就业机会丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. California's tech industry offers abundant STEM employment."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍和公寓选择。校外租金较高。",
+      "en": "Freshman housing guaranteed. Various dorm and apartment options. Off-campus rent is high."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$65,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$65,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买UC SHIP健康保险，费用约$2,900/年。Student Health Center提供综合医疗服务。",
+      "en": "UC SHIP required (~$2,900/year). Student Health Center provides comprehensive care."
+    },
+    "application": {
+      "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
+      "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    }
+  },
+  {
+    "id": "uci",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学尔湾分校",
+      "en": "University of California, Irvine"
+    },
+    "city": {
+      "zh": "加利福尼亚州 尔湾",
+      "en": "Irvine, CA"
+    },
+    "qs": 89,
+    "the": 96,
+    "usnews": 33,
+    "arwu": 61,
+    "tuition": 46551,
+    "tuitionRange": [
+      44551,
+      48551
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "生物学",
+        "商科",
+        "心理学",
+        "工程学"
+      ],
+      "en": [
+        "Computer Science",
+        "Biology",
+        "Business",
+        "Psychology",
+        "Engineering"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州大学尔湾分校国际生学费因专业不同，范围约$44,551-$48,551/年。工程和计算机类专业学费较高。",
+      "en": "University of California international tuition varies by program, ~$44,551-$48,551/year. Engineering and CS are at the higher end."
+    },
+    "desc": {
+      "zh": "UC Irvine位于南加州规划完善的尔湾市，以计算机科学和游戏设计闻名。校园现代化，周边社区是全美最安全的城市之一。",
+      "en": "UC Irvine is located in well-planned Irvine, Southern California. Known for CS and game design. Modern campus surrounded by one of America's safest cities."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 46551,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 46551,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/ACT 不要求"
+    },
+    "deadline": {
+      "zh": "11月30日（统一截止，UC系统不设EA/ED）",
+      "en": "Nov 30 (single deadline, UC system has no EA/ED)"
+    },
+    "safetyDetail": {
+      "zh": "尔湾连续多年被评为全美最安全的大城市。UCI Police提供24小时巡逻和安全护送。",
+      "en": "Irvine is consistently ranked as one of America's safest large cities. UCI Police provide 24/7 patrols and safety escorts."
+    },
+    "climate": {
+      "zh": "地中海气候，全年温暖。冬季温和（10~20°C），夏季炎热干燥（20~30°C）。",
+      "en": "Mediterranean climate, warm year-round. Mild winters (10~20°C), hot dry summers (20~30°C)."
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 22800,
+    "insurance": 3000,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。加州科技产业发达，STEM毕业生就业机会丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. California's tech industry offers abundant STEM employment."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍和公寓选择。校外租金较高。",
+      "en": "Freshman housing guaranteed. Various dorm and apartment options. Off-campus rent is high."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$65,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$65,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买UC SHIP健康保险，费用约$3,000/年。Student Health Center提供综合医疗服务。",
+      "en": "UC SHIP required (~$3,000/year). Student Health Center provides comprehensive care."
+    },
+    "application": {
+      "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
+      "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    }
+  },
+  {
+    "id": "umich",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "密歇根大学安娜堡分校",
+      "en": "University of Michigan, Ann Arbor"
+    },
+    "city": {
+      "zh": "密歇根州 安娜堡",
+      "en": "Ann Arbor, MI"
+    },
+    "qs": 21,
+    "the": 23,
+    "usnews": 21,
+    "arwu": 22,
+    "tuition": 55584,
+    "tuitionRange": [
+      53584,
+      57584
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "商科",
+        "工程学",
+        "心理学",
+        "经济学"
+      ],
+      "en": [
+        "Computer Science",
+        "Business",
+        "Engineering",
+        "Psychology",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "密歇根大学安娜堡分校国际生学费约$53,584-$57,584/年。",
+      "en": "International tuition ~$53,584-$57,584/year."
+    },
+    "desc": {
+      "zh": "密歇根大学安娜堡分校是美国顶尖的公立研究型大学，被誉为'公立常春藤'。学术实力全面，体育传统深厚，拥有全美最大的体育场之一。",
+      "en": "UMich Ann Arbor is a top US public research university, often called a 'Public Ivy.' Comprehensive academic strength with deep athletic traditions."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 55584,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 55584,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "2月1日（常规）/ 11月1日（EA）",
+      "en": "Feb 1 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "安娜堡是密歇根州最安全的城市之一，大学城氛围浓厚。",
+      "en": "Ann Arbor is one of Michigan's safest cities with a strong college town vibe."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季漫长寒冷多雪（-8~0°C），夏季温暖（20~28°C）。",
+      "en": "Continental climate with long cold snowy winters (-8~0°C) and warm summers (20~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,400/月",
+      "en": "~$1,400/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3200,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生建议住校。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshmen encouraged to live on campus. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$60,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$3,200/年。",
+      "en": "Student health insurance required (~$3,200/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "uva",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "弗吉尼亚大学",
+      "en": "University of Virginia"
+    },
+    "city": {
+      "zh": "弗吉尼亚州 夏洛茨维尔",
+      "en": "Charlottesville, VA"
+    },
+    "qs": 118,
+    "the": 89,
+    "usnews": 24,
+    "arwu": 51,
+    "tuition": 55914,
+    "tuitionRange": [
+      53914,
+      57914
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "经济学",
+        "商科",
+        "政治学",
+        "计算机科学",
+        "生物学"
+      ],
+      "en": [
+        "Economics",
+        "Commerce",
+        "Government",
+        "Computer Science",
+        "Biology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "弗吉尼亚大学国际生学费约$53,914-$57,914/年。",
+      "en": "International tuition ~$53,914-$57,914/year."
+    },
+    "desc": {
+      "zh": "弗吉尼亚大学由托马斯·杰斐逊创立，是美国最顶尖的公立大学之一。校园被联合国列为世界遗产，McIntire商学院本科全美排名靠前。",
+      "en": "Founded by Thomas Jefferson, UVA is one of America's top public universities. Its UNESCO World Heritage campus and McIntire Commerce School are nationally recognized."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 55914,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 55914,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（EA）",
+      "en": "Jan 5 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "夏洛茨维尔是宁静的大学城，治安良好。",
+      "en": "Charlottesville is a quiet college town with good safety."
+    },
+    "climate": {
+      "zh": "温带气候，四季分明。冬季温和（-2~8°C），夏季温暖潮湿（20~31°C）。",
+      "en": "Temperate climate with mild winters (-2~8°C) and warm humid summers (20~31°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,400/月",
+      "en": "~$1,400/month"
+    },
+    "livingCostAnnual": 16800,
+    "insurance": 3100,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生建议住校。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshmen encouraged to live on campus. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$60,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$3,100/年。",
+      "en": "Student health insurance required (~$3,100/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$70。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. $70 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "cmu",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "卡内基梅隆大学",
+      "en": "Carnegie Mellon University"
+    },
+    "city": {
+      "zh": "宾夕法尼亚州 匹兹堡",
+      "en": "Pittsburgh, PA"
+    },
+    "qs": 32,
+    "the": 28,
+    "usnews": 24,
+    "arwu": 57,
+    "tuition": 62260,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "人工智能",
+        "电子与计算机工程",
+        "商科",
+        "戏剧"
+      ],
+      "en": [
+        "Computer Science",
+        "Artificial Intelligence",
+        "Electrical & Computer Engineering",
+        "Business",
+        "Drama"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$62,260/年。",
+      "en": "Flat tuition of $62,260/year."
+    },
+    "desc": {
+      "zh": "卡内基梅隆大学拥有全美排名第一的计算机科学学院，是人工智能和机器人研究的先驱。培养了大批科技行业领袖。",
+      "en": "Carnegie Mellon has the #1 CS school in the US and is a pioneer in AI and robotics research. Produces many tech industry leaders."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62260,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 62260,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1400+/ACT 32+"
+    },
+    "deadline": {
+      "zh": "1月3日（常规）/ 11月1日（ED）",
+      "en": "Jan 3 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于匹兹堡奥克兰区，环境安全。",
+      "en": "Campus in Pittsburgh's Oakland neighborhood is safe."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-5~3°C），夏季温暖（20~28°C）。",
+      "en": "Four seasons. Cold winters (-5~3°C), warm summers (20~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。提供多种宿舍选择。",
+      "en": "Freshmen must live on campus. Various dorm options."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约92%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~92%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$65,000。",
+      "en": "Median starting salary ~$65,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$3,500/年。",
+      "en": "Student health insurance required (~$3,500/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "nyu",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "纽约大学",
+      "en": "New York University"
+    },
+    "city": {
+      "zh": "纽约州 纽约市",
+      "en": "New York, NY"
+    },
+    "qs": 38,
+    "the": 27,
+    "usnews": 28,
+    "arwu": 27,
+    "tuition": 60438,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "商科",
+        "表演艺术",
+        "电影",
+        "经济学",
+        "计算机科学"
+      ],
+      "en": [
+        "Business",
+        "Performing Arts",
+        "Film",
+        "Economics",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$60,438/年。",
+      "en": "Flat tuition of $60,438/year."
+    },
+    "desc": {
+      "zh": "纽约大学位于曼哈顿格林威治村，是全美国际学生最多的大学之一。Stern商学院和Tisch艺术学院享誉全球。",
+      "en": "NYU is in Greenwich Village, Manhattan, with one of the largest international student populations. Stern Business and Tisch Arts are globally renowned."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 60438,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 60438,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1400+/ACT 32+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "校园分布在曼哈顿多个地点，纽约市整体需保持安全意识。",
+      "en": "Campus across Manhattan; general NYC awareness needed."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-3~5°C），夏季炎热潮湿（22~32°C）。",
+      "en": "Four seasons. Cold winters (-3~5°C), hot humid summers (22~32°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 30000,
+    "insurance": 3800,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。提供多种宿舍选择。",
+      "en": "Freshmen must live on campus. Various dorm options."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约92%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~92%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$65,000。",
+      "en": "Median starting salary ~$65,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$3,800/年。",
+      "en": "Student health insurance required (~$3,800/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "georgia-tech",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "佐治亚理工学院",
+      "en": "Georgia Institute of Technology"
+    },
+    "city": {
+      "zh": "佐治亚州 亚特兰大",
+      "en": "Atlanta, GA"
+    },
+    "qs": 45,
+    "the": 33,
+    "usnews": 33,
+    "arwu": 45,
+    "tuition": 46824,
+    "tuitionRange": [
+      44824,
+      48824
+    ],
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "机械工程",
+        "工业工程",
+        "航空航天工程",
+        "商科"
+      ],
+      "en": [
+        "Computer Science",
+        "Mechanical Engineering",
+        "Industrial Engineering",
+        "Aerospace Engineering",
+        "Business"
+      ]
+    },
+    "majorTuition": {
+      "zh": "佐治亚理工学院国际生学费约$44,824-$48,824/年。",
+      "en": "International tuition ~$44,824-$48,824/year."
+    },
+    "desc": {
+      "zh": "佐治亚理工学院是美国顶尖的理工科公立大学，工程和计算机科学全美领先。以Co-op实习项目和创新创业文化闻名。",
+      "en": "Georgia Tech is a top US public STEM university with nationally leading engineering and CS. Known for Co-op and innovation culture."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 46824,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 46824,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "1月6日（常规）/ 11月1日（EA）",
+      "en": "Jan 6 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于亚特兰大市中心，学校大力投入安保。",
+      "en": "Campus in downtown Atlanta with significant security investment."
+    },
+    "climate": {
+      "zh": "亚热带湿润气候。冬季温和（1~12°C），夏季炎热潮湿（22~33°C）。",
+      "en": "Subtropical humid climate. Mild winters (1~12°C), hot humid summers (22~33°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,400/月",
+      "en": "~$1,400/month"
+    },
+    "livingCostAnnual": 16800,
+    "insurance": 2800,
+    "flights": 2200,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生建议住校。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshmen encouraged to live on campus. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$60,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,800/年。",
+      "en": "Student health insurance required (~$2,800/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "uiuc",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "伊利诺伊大学厄巴纳-香槟分校",
+      "en": "University of Illinois Urbana-Champaign"
+    },
+    "city": {
+      "zh": "伊利诺伊州 香槟",
+      "en": "Champaign, IL"
+    },
+    "qs": 64,
+    "the": 45,
+    "usnews": 35,
+    "arwu": 28,
+    "tuition": 52658,
+    "tuitionRange": [
+      48658,
+      56658
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "会计学",
+        "商科",
+        "农业科学"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Accounting",
+        "Business",
+        "Agricultural Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "伊利诺伊大学厄巴纳-香槟分校国际生学费约$48,658-$56,658/年。",
+      "en": "International tuition ~$48,658-$56,658/year."
+    },
+    "desc": {
+      "zh": "UIUC是美国顶尖的公立研究型大学，计算机科学和工程学全美名列前茅。以大规模的中国留学生社区和强大的STEM研究实力著称。",
+      "en": "UIUC is a top US public research university with nationally leading CS and engineering. Known for large Chinese student community and strong STEM research."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 52658,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 52658,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（EA）",
+      "en": "Jan 5 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "香槟-厄巴纳是典型的中西部大学城，整体治安良好。",
+      "en": "Champaign-Urbana is a typical Midwest college town with good safety."
+    },
+    "climate": {
+      "zh": "大陆性气候。冬季寒冷（-8~1°C），夏季温暖潮湿（20~30°C）。",
+      "en": "Continental climate. Cold winters (-8~1°C), warm humid summers (20~30°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,400/月",
+      "en": "~$1,400/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 2800,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生建议住校。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshmen encouraged to live on campus. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$60,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,800/年。",
+      "en": "Student health insurance required (~$2,800/year)."
+    },
+    "application": {
+      "zh": "通过Common App或myIllini申请。申请费$50。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
+      "en": "Apply via Common App or myIllini. $50 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    }
+  },
+  {
+    "id": "ut-austin",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "得克萨斯大学奥斯汀分校",
+      "en": "University of Texas at Austin"
+    },
+    "city": {
+      "zh": "得克萨斯州 奥斯汀",
+      "en": "Austin, TX"
+    },
+    "qs": 58,
+    "the": 43,
+    "usnews": 32,
+    "arwu": 38,
+    "tuition": 54012,
+    "tuitionRange": [
+      52012,
+      56012
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "商科",
+        "传播学",
+        "生物学"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Communications",
+        "Biology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "得克萨斯大学奥斯汀分校国际生学费约$52,012-$56,012/年。",
+      "en": "International tuition ~$52,012-$56,012/year."
+    },
+    "desc": {
+      "zh": "UT Austin是得克萨斯州的旗舰公立大学，以强大的工程、商科和计算机科学项目闻名。位于充满活力的奥斯汀市。",
+      "en": "UT Austin is Texas's flagship public university, known for strong engineering, business, and CS. Located in vibrant Austin."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 54012,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 54012,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "12月1日（国际生截止）",
+      "en": "Dec 1 (international deadline)"
+    },
+    "safetyDetail": {
+      "zh": "奥斯汀是美国最安全的大城市之一。",
+      "en": "Austin is one of the safest large cities in the US."
+    },
+    "climate": {
+      "zh": "亚热带气候，夏季炎热（25~38°C），冬季温和（3~16°C）。",
+      "en": "Subtropical climate with hot summers (25~38°C) and mild winters (3~16°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,400/月",
+      "en": "~$1,400/month"
+    },
+    "livingCostAnnual": 16800,
+    "insurance": 2700,
+    "flights": 2200,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生建议住校。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshmen encouraged to live on campus. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$60,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,700/年。",
+      "en": "Student health insurance required (~$2,700/year)."
+    },
+    "application": {
+      "zh": "通过ApplyTexas或Common App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
+      "en": "Apply via ApplyTexas or Common App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    }
+  },
+  {
+    "id": "uw-madison",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "威斯康星大学麦迪逊分校",
+      "en": "University of Wisconsin-Madison"
+    },
+    "city": {
+      "zh": "威斯康星州 麦迪逊",
+      "en": "Madison, WI"
+    },
+    "qs": 83,
+    "the": 51,
+    "usnews": 38,
+    "arwu": 31,
+    "tuition": 52600,
+    "tuitionRange": [
+      50600,
+      54600
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "生物学",
+        "经济学",
+        "工程学",
+        "心理学"
+      ],
+      "en": [
+        "Computer Science",
+        "Biology",
+        "Economics",
+        "Engineering",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "威斯康星大学麦迪逊分校国际生学费约$50,600-$54,600/年。",
+      "en": "International tuition ~$50,600-$54,600/year."
+    },
+    "desc": {
+      "zh": "威斯康星大学麦迪逊分校是美国顶尖的公立研究型大学之一，以强大的STEM研究和优美的湖畔校园闻名。",
+      "en": "UW-Madison is one of America's top public research universities, known for strong STEM research and beautiful lakefront campus."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 52600,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 52600,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "2月1日（常规）/ 11月1日（EA）",
+      "en": "Feb 1 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "麦迪逊多次被评为美国最宜居城市之一，治安良好。",
+      "en": "Madison is frequently rated as one of America's most livable cities with good safety."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季漫长寒冷（-12~-2°C），夏季温暖（18~28°C）。",
+      "en": "Continental climate with long cold winters (-12~-2°C) and warm summers (18~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,400/月",
+      "en": "~$1,400/month"
+    },
+    "livingCostAnnual": 15600,
+    "insurance": 2800,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生建议住校。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshmen encouraged to live on campus. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$60,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,800/年。",
+      "en": "Student health insurance required (~$2,800/year)."
+    },
+    "application": {
+      "zh": "通过UW Application或Common App申请。申请费$60。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
+      "en": "Apply via UW Application or Common App. $60 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    }
+  },
+  {
+    "id": "purdue",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "普渡大学",
+      "en": "Purdue University"
+    },
+    "city": {
+      "zh": "印第安纳州 西拉法叶",
+      "en": "West Lafayette, IN"
+    },
+    "qs": 99,
+    "the": 86,
+    "usnews": 43,
+    "arwu": 63,
+    "tuition": 47972,
+    "tuitionRange": [
+      45972,
+      49972
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "航空航天工程",
+        "农业科学",
+        "商科"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Aerospace Engineering",
+        "Agricultural Sciences",
+        "Business"
+      ]
+    },
+    "majorTuition": {
+      "zh": "普渡大学国际生学费约$45,972-$49,972/年。",
+      "en": "International tuition ~$45,972-$49,972/year."
+    },
+    "desc": {
+      "zh": "普渡大学是美国顶尖的工程和理工类公立大学，航空航天工程全美第一。培养了多位宇航员，包括阿姆斯特朗。",
+      "en": "Purdue is a top US public university for engineering and STEM, with #1 aerospace engineering. Alumni include Neil Armstrong."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 47972,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 47972,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "1月15日（常规）/ 11月1日（EA）",
+      "en": "Jan 15 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "西拉法叶是安静的大学城，治安优良。",
+      "en": "West Lafayette is a quiet college town with excellent safety."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季寒冷（-8~1°C），夏季温暖潮湿（20~30°C）。",
+      "en": "Continental climate with cold winters (-8~1°C) and warm humid summers (20~30°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,300/月",
+      "en": "~$1,300/month"
+    },
+    "livingCostAnnual": 13200,
+    "insurance": 2500,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshman housing guaranteed. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$58,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$58,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,500/年。",
+      "en": "Student health insurance required (~$2,500/year)."
+    },
+    "application": {
+      "zh": "通过Common App或Purdue Application申请。申请费$60。",
+      "en": "Apply via Common App or Purdue Application. $60 fee."
+    }
+  },
+  {
+    "id": "ohio-state",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "俄亥俄州立大学",
+      "en": "The Ohio State University"
+    },
+    "city": {
+      "zh": "俄亥俄州 哥伦布",
+      "en": "Columbus, OH"
+    },
+    "qs": 120,
+    "the": 72,
+    "usnews": 43,
+    "arwu": 42,
+    "tuition": 51936,
+    "tuitionRange": [
+      49936,
+      53936
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商科",
+        "工程学",
+        "心理学",
+        "生物学",
+        "传播学"
+      ],
+      "en": [
+        "Business",
+        "Engineering",
+        "Psychology",
+        "Biology",
+        "Communications"
+      ]
+    },
+    "majorTuition": {
+      "zh": "俄亥俄州立大学国际生学费约$49,936-$53,936/年。",
+      "en": "International tuition ~$49,936-$53,936/year."
+    },
+    "desc": {
+      "zh": "俄亥俄州立大学是美国规模最大的公立大学之一，以全面的学术项目和强大的体育传统闻名。",
+      "en": "Ohio State is one of the largest US public universities, known for comprehensive academics and strong athletics."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 51936,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 51936,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "2月1日（常规）/ 11月1日（EA）",
+      "en": "Feb 1 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于哥伦布市区，整体安全。",
+      "en": "Campus in Columbus is generally safe."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季寒冷（-5~3°C），夏季温暖潮湿（20~30°C）。",
+      "en": "Continental climate with cold winters (-5~3°C) and warm humid summers (20~30°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,300/月",
+      "en": "~$1,300/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 2700,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshman housing guaranteed. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$58,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$58,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,700/年。",
+      "en": "Student health insurance required (~$2,700/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$60。",
+      "en": "Apply via Common App. $60 fee."
+    }
+  },
+  {
+    "id": "penn-state",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "宾州州立大学",
+      "en": "Pennsylvania State University"
+    },
+    "city": {
+      "zh": "宾夕法尼亚州 州学院",
+      "en": "University Park, PA"
+    },
+    "qs": 93,
+    "the": 78,
+    "usnews": 60,
+    "arwu": 77,
+    "tuition": 52358,
+    "tuitionRange": [
+      50358,
+      54358
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "商科",
+        "信息科学",
+        "气象学",
+        "农业科学"
+      ],
+      "en": [
+        "Engineering",
+        "Business",
+        "Information Sciences",
+        "Meteorology",
+        "Agricultural Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "宾州州立大学国际生学费约$50,358-$54,358/年。",
+      "en": "International tuition ~$50,358-$54,358/year."
+    },
+    "desc": {
+      "zh": "宾州州立大学是美国最大的公立大学之一，以强大的校友网络和狂热的体育文化闻名。",
+      "en": "Penn State is one of the largest US public universities, known for its powerful alumni network and passionate athletics."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 52358,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 52358,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "滚动录取（建议11月30日前）",
+      "en": "Rolling admission (recommended by Nov 30)"
+    },
+    "safetyDetail": {
+      "zh": "州学院是典型的安全大学城。",
+      "en": "State College is a typically safe college town."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-6~2°C），夏季温暖（18~28°C）。",
+      "en": "Four seasons. Cold winters (-6~2°C), warm summers (18~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,300/月",
+      "en": "~$1,300/month"
+    },
+    "livingCostAnnual": 13200,
+    "insurance": 2600,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshman housing guaranteed. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$58,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$58,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,600/年。",
+      "en": "Student health insurance required (~$2,600/year)."
+    },
+    "application": {
+      "zh": "通过Penn State Application或Common App申请。申请费$65。",
+      "en": "Apply via Penn State Application or Common App. $65 fee."
+    }
+  },
+  {
+    "id": "uf",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "佛罗里达大学",
+      "en": "University of Florida"
+    },
+    "city": {
+      "zh": "佛罗里达州 盖恩斯维尔",
+      "en": "Gainesville, FL"
+    },
+    "qs": 152,
+    "the": 89,
+    "usnews": 27,
+    "arwu": 69,
+    "tuition": 47100,
+    "tuitionRange": [
+      45100,
+      49100
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商科",
+        "工程学",
+        "生物学",
+        "计算机科学",
+        "心理学"
+      ],
+      "en": [
+        "Business",
+        "Engineering",
+        "Biology",
+        "Computer Science",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "佛罗里达大学国际生学费约$45,100-$49,100/年。",
+      "en": "International tuition ~$45,100-$49,100/year."
+    },
+    "desc": {
+      "zh": "佛罗里达大学是全美最大的公立大学之一，近年排名快速攀升。以高性价比和全面的学术项目闻名。",
+      "en": "UF is one of the largest US public universities with rapidly rising rankings. Known for excellent value."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 47100,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 47100,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "3月1日（国际生）",
+      "en": "Mar 1 (international)"
+    },
+    "safetyDetail": {
+      "zh": "盖恩斯维尔是典型的大学城，整体安全。",
+      "en": "Gainesville is a typical college town with good overall safety."
+    },
+    "climate": {
+      "zh": "亚热带气候，冬季温暖（6~20°C），夏季炎热潮湿（22~34°C）。",
+      "en": "Subtropical climate with warm winters (6~20°C) and hot humid summers (22~34°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,300/月",
+      "en": "~$1,300/month"
+    },
+    "livingCostAnnual": 13200,
+    "insurance": 2500,
+    "flights": 2200,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshman housing guaranteed. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$58,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$58,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,500/年。",
+      "en": "Student health insurance required (~$2,500/year)."
+    },
+    "application": {
+      "zh": "通过Common App或UF Application申请。申请费$30。",
+      "en": "Apply via Common App or UF Application. $30 fee."
+    }
+  },
+  {
+    "id": "unc",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "北卡罗来纳大学教堂山分校",
+      "en": "University of North Carolina at Chapel Hill"
+    },
+    "city": {
+      "zh": "北卡罗来纳州 教堂山",
+      "en": "Chapel Hill, NC"
+    },
+    "qs": 92,
+    "the": 54,
+    "usnews": 22,
+    "arwu": 30,
+    "tuition": 54338,
+    "tuitionRange": [
+      52338,
+      56338
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "生物学",
+        "商科",
+        "心理学",
+        "计算机科学",
+        "传播学"
+      ],
+      "en": [
+        "Biology",
+        "Business",
+        "Psychology",
+        "Computer Science",
+        "Communications"
+      ]
+    },
+    "majorTuition": {
+      "zh": "北卡罗来纳大学教堂山分校国际生学费约$52,338-$56,338/年。",
+      "en": "International tuition ~$52,338-$56,338/year."
+    },
+    "desc": {
+      "zh": "UNC教堂山是美国第一所公立大学，历史悠久。以优秀的文理教育和Kenan-Flagler商学院闻名。",
+      "en": "UNC Chapel Hill is the first US public university with a long history. Known for liberal arts and Kenan-Flagler Business."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 54338,
+        "食宿": 14000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 54338,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1300+/ACT 29+"
+    },
+    "deadline": {
+      "zh": "1月15日（常规）/ 10月15日（EA）",
+      "en": "Jan 15 (Regular) / Oct 15 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "教堂山是宁静的大学城，治安良好。",
+      "en": "Chapel Hill is a quiet college town with good safety."
+    },
+    "climate": {
+      "zh": "温带气候。冬季温和（-1~10°C），夏季温暖潮湿（22~32°C）。",
+      "en": "Temperate climate. Mild winters (-1~10°C), warm humid summers (22~32°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,300/月",
+      "en": "~$1,300/month"
+    },
+    "livingCostAnnual": 15600,
+    "insurance": 2800,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。提供多种宿舍选择。校外租金合理。",
+      "en": "Freshman housing guaranteed. Various dorm options. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%，六年毕业率约88%。",
+      "en": "4-year graduation rate ~70%, 6-year rate ~88%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$58,000。科技、工程、商科为主要方向。",
+      "en": "Median starting salary ~$58,000. Tech, engineering, and business are top paths."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$2,800/年。",
+      "en": "Student health insurance required (~$2,800/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$85。需要推荐信。",
+      "en": "Apply via Common App. $85 fee. Recs required."
+    }
+  },
+  {
+    "id": "bu",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "波士顿大学",
+      "en": "Boston University"
+    },
+    "city": {
+      "zh": "马萨诸塞州 波士顿",
+      "en": "Boston, MA"
+    },
+    "qs": 78,
+    "the": 61,
+    "usnews": 41,
+    "arwu": 75,
+    "tuition": 63798,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "传播学",
+        "商科",
+        "工程学",
+        "国际关系",
+        "心理学"
+      ],
+      "en": [
+        "Communications",
+        "Business",
+        "Engineering",
+        "International Relations",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$63,798/年。",
+      "en": "Flat tuition of $63,798/year."
+    },
+    "desc": {
+      "zh": "波士顿大学位于查尔斯河畔，是美国最大的私立大学之一。以国际化氛围和强大的传播学项目闻名。",
+      "en": "BU sits along the Charles River, one of the largest US private universities. Known for international atmosphere and strong communications."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 63798,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 63798,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1400+/ACT 32+"
+    },
+    "deadline": {
+      "zh": "1月4日（常规）/ 11月1日（ED）",
+      "en": "Jan 4 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "校园沿Commonwealth大道延伸，位于波士顿安全区域。",
+      "en": "Campus along Commonwealth Ave in a safe Boston area."
+    },
+    "climate": {
+      "zh": "新英格兰气候，四季分明。冬季寒冷多雪（-5~3°C），夏季温暖（20~28°C）。",
+      "en": "New England climate. Cold snowy winters (-5~3°C), warm summers (20~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 25200,
+    "insurance": 3600,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。提供多种宿舍选择。",
+      "en": "Freshmen must live on campus. Various dorm options."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约92%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~92%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$62,000。",
+      "en": "Median starting salary ~$62,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$3,600/年。",
+      "en": "Student health insurance required (~$3,600/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$80。需要推荐信。",
+      "en": "Apply via Common App. $80 fee. Recs required."
+    }
+  },
+  {
+    "id": "northeastern",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "东北大学",
+      "en": "Northeastern University"
+    },
+    "city": {
+      "zh": "马萨诸塞州 波士顿",
+      "en": "Boston, MA"
+    },
+    "qs": 187,
+    "the": 168,
+    "usnews": 40,
+    "arwu": 175,
+    "tuition": 60192,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "商科",
+        "工程学",
+        "健康科学",
+        "网络安全"
+      ],
+      "en": [
+        "Computer Science",
+        "Business",
+        "Engineering",
+        "Health Sciences",
+        "Cybersecurity"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$60,192/年。",
+      "en": "Flat tuition of $60,192/year."
+    },
+    "desc": {
+      "zh": "东北大学以全美最强大的Co-op带薪实习项目闻名，学生在五年制中交替进行学术学习和专业工作。",
+      "en": "Northeastern is famous for the nation's strongest Co-op program, alternating academic study and professional work."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 60192,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 60192,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1400+/ACT 32+"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（ED）",
+      "en": "Jan 1 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于波士顿Fenway区域，安全措施完善。",
+      "en": "Campus in Boston's Fenway area with strong security."
+    },
+    "climate": {
+      "zh": "新英格兰气候，四季分明。冬季寒冷多雪（-5~3°C），夏季温暖（20~28°C）。",
+      "en": "New England climate. Cold snowy winters (-5~3°C), warm summers (20~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 25200,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。提供多种宿舍选择。",
+      "en": "Freshmen must live on campus. Various dorm options."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约92%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~92%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$62,000。",
+      "en": "Median starting salary ~$62,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$3,500/年。",
+      "en": "Student health insurance required (~$3,500/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$75。需要推荐信。",
+      "en": "Apply via Common App. $75 fee. Recs required."
+    }
+  },
+  {
+    "id": "usc",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "南加州大学",
+      "en": "University of Southern California"
+    },
+    "city": {
+      "zh": "加利福尼亚州 洛杉矶",
+      "en": "Los Angeles, CA"
+    },
+    "qs": 80,
+    "the": 58,
+    "usnews": 27,
+    "arwu": 59,
+    "tuition": 65880,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "电影制作",
+        "商科",
+        "工程学",
+        "传播学",
+        "计算机科学"
+      ],
+      "en": [
+        "Film Production",
+        "Business",
+        "Engineering",
+        "Communications",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$65,880/年。",
+      "en": "Flat tuition of $65,880/year."
+    },
+    "desc": {
+      "zh": "南加州大学位于洛杉矶市中心，以全球最顶尖的电影学院和强大的Trojan校友网络闻名。",
+      "en": "USC is in downtown LA, renowned for the world's top film school and powerful Trojan alumni network."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 65880,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 65880,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1400+/ACT 32+"
+    },
+    "deadline": {
+      "zh": "1月15日（常规）",
+      "en": "Jan 15 (Regular)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于洛杉矶市中心南部，学校大力投入安保。校园周边需注意安全。",
+      "en": "Campus in south-central LA with heavy security investment. Off-campus awareness needed."
+    },
+    "climate": {
+      "zh": "地中海气候，全年温暖宜人。冬季温和（8~18°C），夏季炎热干燥（18~30°C）。",
+      "en": "Mediterranean climate. Mild winters (8~18°C), hot dry summers (18~30°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 26400,
+    "insurance": 3200,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。提供多种宿舍选择。",
+      "en": "Freshmen must live on campus. Various dorm options."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约92%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~92%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$62,000。",
+      "en": "Median starting salary ~$62,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买学校健康保险，费用约$3,200/年。",
+      "en": "Student health insurance required (~$3,200/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$85。需要推荐信。",
+      "en": "Apply via Common App. $85 fee. Recs required."
+    }
+  },
+  {
+    "id": "emory",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "埃默里大学",
+      "en": "Emory University"
+    },
+    "city": {
+      "zh": "佐治亚州 亚特兰大",
+      "en": "Atlanta, GA"
+    },
+    "qs": 152,
+    "the": 71,
+    "usnews": 24,
+    "arwu": 76,
+    "tuition": 60774,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商科",
+        "生物学",
+        "心理学",
+        "护理学",
+        "经济学"
+      ],
+      "en": [
+        "Business",
+        "Biology",
+        "Psychology",
+        "Nursing",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$60,774/年。",
+      "en": "Flat tuition of $60,774/year."
+    },
+    "desc": {
+      "zh": "埃默里大学是美国南部最顶尖的私立研究型大学之一，与CDC（美国疾控中心）比邻。以医学院和公共卫生闻名。",
+      "en": "Emory is one of the top private research universities in the US South, adjacent to the CDC. Known for medicine and public health."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 60774,
+        "食宿": 17000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 60774,
+        "Room & Board": 17000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1380+/ACT 31+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于亚特兰大郊区Druid Hills，环境安全优美。",
+      "en": "Campus in Atlanta's suburban Druid Hills is safe and scenic."
+    },
+    "climate": {
+      "zh": "亚热带湿润气候。冬季温和（1~12°C），夏季炎热潮湿（22~33°C）。",
+      "en": "Subtropical humid climate. Mild winters (1~12°C), hot humid summers (22~33°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,600/月",
+      "en": "~$1,600/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3200,
+    "flights": 2200,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。",
+      "en": "Freshmen must live on campus."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约90%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~90%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。",
+      "en": "Median starting salary ~$60,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,200/年。",
+      "en": "Health insurance required (~$3,200/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "tufts",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "塔夫茨大学",
+      "en": "Tufts University"
+    },
+    "city": {
+      "zh": "马萨诸塞州 梅德福",
+      "en": "Medford, MA"
+    },
+    "qs": 207,
+    "the": 152,
+    "usnews": 32,
+    "arwu": 145,
+    "tuition": 65222,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "国际关系",
+        "计算机科学",
+        "经济学",
+        "生物学",
+        "政治学"
+      ],
+      "en": [
+        "International Relations",
+        "Computer Science",
+        "Economics",
+        "Biology",
+        "Political Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$65,222/年。",
+      "en": "Flat tuition of $65,222/year."
+    },
+    "desc": {
+      "zh": "塔夫茨大学以国际关系和公民参与闻名，Fletcher法律与外交学院全球顶尖。",
+      "en": "Tufts is renowned for international relations and civic engagement. Fletcher School is globally top-ranked."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 65222,
+        "食宿": 17000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 65222,
+        "Room & Board": 17000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1380+/ACT 31+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "梅德福是波士顿北郊安全的社区。",
+      "en": "Medford is a safe community north of Boston."
+    },
+    "climate": {
+      "zh": "新英格兰气候，四季分明。冬季寒冷多雪，夏季温暖。",
+      "en": "New England climate with four seasons. Cold snowy winters, warm summers."
+    },
+    "livingCost": {
+      "zh": "约$1,600/月",
+      "en": "~$1,600/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3400,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。",
+      "en": "Freshmen must live on campus."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约90%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~90%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。",
+      "en": "Median starting salary ~$60,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,400/年。",
+      "en": "Health insurance required (~$3,400/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "wake-forest",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "维克森林大学",
+      "en": "Wake Forest University"
+    },
+    "city": {
+      "zh": "北卡罗来纳州 温斯顿-塞勒姆",
+      "en": "Winston-Salem, NC"
+    },
+    "qs": 371,
+    "the": 201,
+    "usnews": 29,
+    "arwu": 301,
+    "tuition": 62294,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商科",
+        "心理学",
+        "政治学",
+        "传播学",
+        "经济学"
+      ],
+      "en": [
+        "Business",
+        "Psychology",
+        "Political Science",
+        "Communications",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$62,294/年。",
+      "en": "Flat tuition of $62,294/year."
+    },
+    "desc": {
+      "zh": "维克森林大学是美国南方著名的精英私立大学，以小班教学和个性化关注闻名。",
+      "en": "Wake Forest is a prestigious private university in the US South, known for small classes and personalized attention."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62294,
+        "食宿": 17000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 62294,
+        "Room & Board": 17000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1380+/ACT 31+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "温斯顿-塞勒姆市校园区域安全。",
+      "en": "Campus area in Winston-Salem is safe."
+    },
+    "climate": {
+      "zh": "温带气候。冬季温和（-1~10°C），夏季温暖潮湿（22~32°C）。",
+      "en": "Temperate climate. Mild winters (-1~10°C), warm humid summers (22~32°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,600/月",
+      "en": "~$1,600/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 3000,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。",
+      "en": "Freshmen must live on campus."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约90%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~90%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。",
+      "en": "Median starting salary ~$60,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,000/年。",
+      "en": "Health insurance required (~$3,000/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "william-mary",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "威廉与玛丽学院",
+      "en": "William & Mary"
+    },
+    "city": {
+      "zh": "弗吉尼亚州 威廉斯堡",
+      "en": "Williamsburg, VA"
+    },
+    "qs": 501,
+    "the": 251,
+    "usnews": 41,
+    "arwu": 401,
+    "tuition": 48841,
+    "tuitionRange": [
+      46841,
+      50841
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "政治学",
+        "商科",
+        "国际关系",
+        "心理学",
+        "生物学"
+      ],
+      "en": [
+        "Government",
+        "Business",
+        "International Relations",
+        "Psychology",
+        "Biology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "国际生学费约$46,841-$50,841/年。",
+      "en": "International tuition ~$46,841-$50,841/year."
+    },
+    "desc": {
+      "zh": "威廉与玛丽学院是美国第二古老的大学（1693年创立），以卓越的本科教育和亲密的学术社区闻名。",
+      "en": "William & Mary is the second-oldest US college (1693), known for excellent undergraduate education and intimate academic community."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 48841,
+        "食宿": 13000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 48841,
+        "Room & Board": 13000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1250+/ACT 28+"
+    },
+    "deadline": {
+      "zh": "2月1日（常规）/ 11月1日（EA）",
+      "en": "Feb 1 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "威廉斯堡是安静的历史城镇，治安极好。",
+      "en": "Williamsburg is a quiet historic town with excellent safety."
+    },
+    "climate": {
+      "zh": "温带气候。冬季温和（-1~10°C），夏季温暖潮湿（22~32°C）。",
+      "en": "Temperate climate. Mild winters (-1~10°C), warm humid summers (22~32°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,200/月",
+      "en": "~$1,200/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 2800,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。校外租金合理。",
+      "en": "Freshman housing guaranteed. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约65%，六年毕业率约85%。",
+      "en": "4-year graduation rate ~65%, 6-year rate ~85%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$55,000。",
+      "en": "Median starting salary ~$55,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$2,800/年。",
+      "en": "Health insurance required (~$2,800/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
+      "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    }
+  },
+  {
+    "id": "brandeis",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "布兰迪斯大学",
+      "en": "Brandeis University"
+    },
+    "city": {
+      "zh": "马萨诸塞州 沃尔瑟姆",
+      "en": "Waltham, MA"
+    },
+    "qs": 352,
+    "the": 178,
+    "usnews": 44,
+    "arwu": 301,
+    "tuition": 62722,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "经济学",
+        "生物学",
+        "心理学",
+        "政治学",
+        "计算机科学"
+      ],
+      "en": [
+        "Economics",
+        "Biology",
+        "Psychology",
+        "Politics",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$62,722/年。",
+      "en": "Flat tuition of $62,722/year."
+    },
+    "desc": {
+      "zh": "布兰迪斯大学是一所年轻而卓越的研究型大学，以社会正义和人文精神著称。规模小，注重个性化教育。",
+      "en": "Brandeis is a young yet distinguished research university known for social justice and humanistic values. Small size with personalized education."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62722,
+        "食宿": 17000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 62722,
+        "Room & Board": 17000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1380+/ACT 31+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "沃尔瑟姆是波士顿西郊安全的社区。",
+      "en": "Waltham is a safe suburban community west of Boston."
+    },
+    "climate": {
+      "zh": "新英格兰气候，四季分明。",
+      "en": "New England climate with four seasons."
+    },
+    "livingCost": {
+      "zh": "约$1,600/月",
+      "en": "~$1,600/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 3300,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。",
+      "en": "Freshmen must live on campus."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约90%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~90%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。",
+      "en": "Median starting salary ~$60,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,300/年。",
+      "en": "Health insurance required (~$3,300/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "case-western",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "凯斯西储大学",
+      "en": "Case Western Reserve University"
+    },
+    "city": {
+      "zh": "俄亥俄州 克利夫兰",
+      "en": "Cleveland, OH"
+    },
+    "qs": 175,
+    "the": 129,
+    "usnews": 44,
+    "arwu": 114,
+    "tuition": 58940,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "生物医学工程",
+        "计算机科学",
+        "护理学",
+        "商科",
+        "心理学"
+      ],
+      "en": [
+        "Biomedical Engineering",
+        "Computer Science",
+        "Nursing",
+        "Business",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$58,940/年。",
+      "en": "Flat tuition of $58,940/year."
+    },
+    "desc": {
+      "zh": "凯斯西储大学是美国顶尖的研究型大学，以生物医学工程和医学研究闻名。与克利夫兰诊所联系紧密。",
+      "en": "Case Western is a top US research university known for biomedical engineering. Strong ties to Cleveland Clinic."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 58940,
+        "食宿": 17000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 58940,
+        "Room & Board": 17000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1380+/ACT 31+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于克利夫兰大学圈，学校投入大量安保资源。",
+      "en": "Campus in Cleveland's University Circle with significant security investment."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季寒冷多雪，夏季温暖潮湿。",
+      "en": "Continental climate with cold snowy winters and warm humid summers."
+    },
+    "livingCost": {
+      "zh": "约$1,600/月",
+      "en": "~$1,600/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3100,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。",
+      "en": "Freshmen must live on campus."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约90%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~90%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。",
+      "en": "Median starting salary ~$60,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,100/年。",
+      "en": "Health insurance required (~$3,100/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "tulane",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "杜兰大学",
+      "en": "Tulane University"
+    },
+    "city": {
+      "zh": "路易斯安那州 新奥尔良",
+      "en": "New Orleans, LA"
+    },
+    "qs": 401,
+    "the": 175,
+    "usnews": 44,
+    "arwu": 251,
+    "tuition": 62844,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "商科",
+        "公共卫生",
+        "建筑学",
+        "政治学",
+        "生物学"
+      ],
+      "en": [
+        "Business",
+        "Public Health",
+        "Architecture",
+        "Political Science",
+        "Biology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "所有本科专业统一学费$62,844/年。",
+      "en": "Flat tuition of $62,844/year."
+    },
+    "desc": {
+      "zh": "杜兰大学位于新奥尔良，以独特的城市文化和强大的公共卫生项目闻名。社区服务传统深厚。",
+      "en": "Tulane is in New Orleans, known for unique city culture and strong public health programs. Deep service tradition."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62844,
+        "食宿": 17000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 62844,
+        "Room & Board": 17000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1380+/ACT 31+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规）/ 11月1日（ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于新奥尔良Uptown区，学校安保完善。需注意校外安全。",
+      "en": "Campus in Uptown New Orleans with strong security. Off-campus awareness needed."
+    },
+    "climate": {
+      "zh": "亚热带气候，冬季温和（6~18°C），夏季炎热潮湿（24~34°C）。",
+      "en": "Subtropical climate. Mild winters (6~18°C), hot humid summers (24~34°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,600/月",
+      "en": "~$1,600/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3200,
+    "flights": 2200,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。",
+      "en": "Freshmen must live on campus."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85%，六年毕业率约90%。",
+      "en": "4-year graduation rate ~85%, 6-year rate ~90%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$60,000。",
+      "en": "Median starting salary ~$60,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,200/年。",
+      "en": "Health insurance required (~$3,200/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
+      "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    }
+  },
+  {
+    "id": "indiana",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "印第安纳大学伯明顿分校",
+      "en": "Indiana University Bloomington"
+    },
+    "city": {
+      "zh": "印第安纳州 布卢明顿",
+      "en": "Bloomington, IN"
+    },
+    "qs": 312,
+    "the": 175,
+    "usnews": 72,
+    "arwu": 89,
+    "tuition": 46918,
+    "tuitionRange": [
+      44918,
+      48918
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商科",
+        "音乐",
+        "新闻学",
+        "计算机科学",
+        "公共政策"
+      ],
+      "en": [
+        "Business",
+        "Music",
+        "Journalism",
+        "Computer Science",
+        "Public Policy"
+      ]
+    },
+    "majorTuition": {
+      "zh": "国际生学费约$44,918-$48,918/年。",
+      "en": "International tuition ~$44,918-$48,918/year."
+    },
+    "desc": {
+      "zh": "印第安纳大学伯明顿分校是美国顶尖的公立大学之一，Kelley商学院和Jacobs音乐学院全国知名。",
+      "en": "Indiana University Bloomington is a top US public university. Kelley Business and Jacobs Music are nationally recognized."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 46918,
+        "食宿": 13000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 46918,
+        "Room & Board": 13000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "1250+/ACT 28+"
+    },
+    "deadline": {
+      "zh": "2月1日（常规）/ 11月1日（EA）",
+      "en": "Feb 1 (Regular) / Nov 1 (EA)"
+    },
+    "safetyDetail": {
+      "zh": "布卢明顿是典型的安全大学城。",
+      "en": "Bloomington is a typically safe college town."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季寒冷（-5~4°C），夏季温暖潮湿（20~30°C）。",
+      "en": "Continental climate. Cold winters (-5~4°C), warm humid summers (20~30°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,200/月",
+      "en": "~$1,200/month"
+    },
+    "livingCostAnnual": 13200,
+    "insurance": 2600,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一新生保证住宿。校外租金合理。",
+      "en": "Freshman housing guaranteed. Reasonable off-campus rent."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约65%，六年毕业率约85%。",
+      "en": "4-year graduation rate ~65%, 6-year rate ~85%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$55,000。",
+      "en": "Median starting salary ~$55,000."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$2,600/年。",
+      "en": "Health insurance required (~$2,600/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
+      "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    }
+  },
+  {
+    "id": "berkeley",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学伯克利分校",
+      "en": "UC Berkeley"
+    },
+    "city": {
+      "zh": "加利福尼亚州 伯克利",
+      "en": "Berkeley, CA"
+    },
+    "qs": 10,
+    "the": 8,
+    "usnews": 4,
+    "arwu": 5,
+    "tuition": 48176,
+    "tuitionRange": [
+      44066,
+      48176
+    ],
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "商学",
+        "物理学",
+        "化学"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Physics",
+        "Chemistry"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州大学伯克利分校国际生学费因专业有所不同，范围$44,066-$48,176/年。",
+      "en": "UC Berkeley international tuition varies by program: $44,066-$48,176/yr."
+    },
+    "desc": {
+      "zh": "加州大学伯克利分校是全球顶尖公立大学，以工程、计算机科学和自然科学享誉世界。硅谷创新文化的重要源头。",
+      "en": "UC Berkeley is a world-leading public university renowned for engineering, CS, and natural sciences. A major source of Silicon Valley innovation."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 48176,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 48176,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "建议提交/Recommended"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（提前）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early)"
+    },
+    "safetyDetail": {
+      "zh": "加州大学伯克利分校校园安全良好，设有专职校警和24小时巡逻。",
+      "en": "UC Berkeley has good campus security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "四季分明",
+      "en": "Four distinct seasons"
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
+      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
+      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85-90%，学术支持完善。",
+      "en": "4-year graduation rate ~85-90%. Strong academic support."
+    },
+    "employment": {
+      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
+      "en": "Strong employment prospects. Career Center provides comprehensive support."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
+      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
+    },
+    "application": {
+      "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
+      "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    }
+  },
+  {
+    "id": "gatech",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "佐治亚理工学院",
+      "en": "Georgia Institute of Technology"
+    },
+    "city": {
+      "zh": "佐治亚州 亚特兰大",
+      "en": "Atlanta, GA"
+    },
+    "qs": 61,
+    "the": 45,
+    "usnews": 33,
+    "arwu": 101,
+    "tuition": 37606,
+    "tuitionRange": [
+      33964,
+      37606
+    ],
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "商学",
+        "工业工程",
+        "生物医学工程"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Industrial Engineering",
+        "Biomedical Engineering"
+      ]
+    },
+    "majorTuition": {
+      "zh": "佐治亚理工学院国际生学费因专业有所不同，范围$33,964-$37,606/年。",
+      "en": "Georgia Institute of Technology international tuition varies by program: $33,964-$37,606/yr."
+    },
+    "desc": {
+      "zh": "佐治亚理工是美国顶尖理工大学，工程和CS专业全美前五。学费在顶尖大学中性价比极高。",
+      "en": "Georgia Tech is a top US engineering university with top-5 engineering and CS programs. Excellent value among top universities."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 37606,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 37606,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "建议提交/Recommended"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（提前）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early)"
+    },
+    "safetyDetail": {
+      "zh": "佐治亚理工学院校园安全良好，设有专职校警和24小时巡逻。",
+      "en": "Georgia Institute of Technology has good campus security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "四季分明",
+      "en": "Four distinct seasons"
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
+      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
+      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85-90%，学术支持完善。",
+      "en": "4-year graduation rate ~85-90%. Strong academic support."
+    },
+    "employment": {
+      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
+      "en": "Strong employment prospects. Career Center provides comprehensive support."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
+      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
+    },
+    "application": {
+      "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
+      "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    }
+  },
+  {
+    "id": "utaustin",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "德克萨斯大学奥斯汀分校",
+      "en": "UT Austin"
+    },
+    "city": {
+      "zh": "德克萨斯州 奥斯汀",
+      "en": "Austin, TX"
+    },
+    "qs": 58,
+    "the": 50,
+    "usnews": 32,
+    "arwu": 41,
+    "tuition": 40996,
+    "tuitionRange": [
+      38474,
+      40996
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "商学",
+        "传播学",
+        "地质学"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Communications",
+        "Geology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "德克萨斯大学奥斯汀分校国际生学费因专业有所不同，范围$38,474-$40,996/年。",
+      "en": "UT Austin international tuition varies by program: $38,474-$40,996/yr."
+    },
+    "desc": {
+      "zh": "UT Austin是德州旗舰大学，McCombs商学院和Cockrell工程学院全美领先。奥斯汀是美国科技中心之一。",
+      "en": "UT Austin is Texas's flagship university. McCombs Business and Cockrell Engineering are nationally leading. Austin is a major US tech hub."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 40996,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 40996,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "建议提交/Recommended"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（提前）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early)"
+    },
+    "safetyDetail": {
+      "zh": "德克萨斯大学奥斯汀分校校园安全良好，设有专职校警和24小时巡逻。",
+      "en": "UT Austin has good campus security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "四季分明",
+      "en": "Four distinct seasons"
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
+      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
+      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85-90%，学术支持完善。",
+      "en": "4-year graduation rate ~85-90%. Strong academic support."
+    },
+    "employment": {
+      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
+      "en": "Strong employment prospects. Career Center provides comprehensive support."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
+      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
+    },
+    "application": {
+      "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
+      "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    }
+  },
+  {
+    "id": "uwmadison",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "威斯康星大学麦迪逊分校",
+      "en": "UW-Madison"
+    },
+    "city": {
+      "zh": "威斯康星州 麦迪逊",
+      "en": "Madison, WI"
+    },
+    "qs": 83,
+    "the": 58,
+    "usnews": 42,
+    "arwu": 30,
+    "tuition": 40603,
+    "tuitionRange": [
+      38186,
+      40603
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "生物科学",
+        "工程学",
+        "商学",
+        "社会学",
+        "经济学"
+      ],
+      "en": [
+        "Biological Sciences",
+        "Engineering",
+        "Business",
+        "Sociology",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "威斯康星大学麦迪逊分校国际生学费因专业有所不同，范围$38,186-$40,603/年。",
+      "en": "UW-Madison international tuition varies by program: $38,186-$40,603/yr."
+    },
+    "desc": {
+      "zh": "UW-Madison是美国顶尖公立研究型大学，研究经费全美前列。麦迪逊多次被评为全美最宜居大学城。",
+      "en": "UW-Madison is a top US public research university with among the highest research funding nationally. Madison is consistently rated one of America's best college towns."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 40603,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 40603,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "建议提交/Recommended"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（提前）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early)"
+    },
+    "safetyDetail": {
+      "zh": "威斯康星大学麦迪逊分校校园安全良好，设有专职校警和24小时巡逻。",
+      "en": "UW-Madison has good campus security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "四季分明",
+      "en": "Four distinct seasons"
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
+      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
+      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85-90%，学术支持完善。",
+      "en": "4-year graduation rate ~85-90%. Strong academic support."
+    },
+    "employment": {
+      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
+      "en": "Strong employment prospects. Career Center provides comprehensive support."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
+      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
+    },
+    "application": {
+      "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
+      "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    }
+  },
+  {
+    "id": "osu",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "俄亥俄州立大学",
+      "en": "Ohio State University"
+    },
+    "city": {
+      "zh": "俄亥俄州 哥伦布",
+      "en": "Columbus, OH"
+    },
+    "qs": 140,
+    "the": 82,
+    "usnews": 46,
+    "arwu": 101,
+    "tuition": 36722,
+    "tuitionRange": [
+      34370,
+      36722
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商学",
+        "工程学",
+        "医学",
+        "传播学",
+        "心理学"
+      ],
+      "en": [
+        "Business",
+        "Engineering",
+        "Medicine",
+        "Communications",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "俄亥俄州立大学国际生学费因专业有所不同，范围$34,370-$36,722/年。",
+      "en": "Ohio State University international tuition varies by program: $34,370-$36,722/yr."
+    },
+    "desc": {
+      "zh": "俄亥俄州立是美国最大的大学之一，Fisher商学院和工程学院实力强劲。校园文化丰富，体育传统深厚。",
+      "en": "Ohio State is one of the largest US universities. Fisher College of Business and Engineering are strong. Rich campus culture and athletics tradition."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 36722,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 36722,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "建议提交/Recommended"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（提前）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early)"
+    },
+    "safetyDetail": {
+      "zh": "俄亥俄州立大学校园安全良好，设有专职校警和24小时巡逻。",
+      "en": "Ohio State University has good campus security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "四季分明",
+      "en": "Four distinct seasons"
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
+      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
+      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85-90%，学术支持完善。",
+      "en": "4-year graduation rate ~85-90%. Strong academic support."
+    },
+    "employment": {
+      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
+      "en": "Strong employment prospects. Career Center provides comprehensive support."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
+      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
+    },
+    "application": {
+      "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
+      "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    }
+  },
+  {
+    "id": "pennstate",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "宾夕法尼亚州立大学",
+      "en": "Penn State"
+    },
+    "city": {
+      "zh": "宾夕法尼亚州 州学院",
+      "en": "State College, PA"
+    },
+    "qs": 93,
+    "the": 78,
+    "usnews": 47,
+    "arwu": 101,
+    "tuition": 39404,
+    "tuitionRange": [
+      36854,
+      39404
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "商学",
+        "传播学",
+        "农业",
+        "地球科学"
+      ],
+      "en": [
+        "Engineering",
+        "Business",
+        "Communications",
+        "Agriculture",
+        "Earth Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "宾夕法尼亚州立大学国际生学费因专业有所不同，范围$36,854-$39,404/年。",
+      "en": "Penn State international tuition varies by program: $36,854-$39,404/yr."
+    },
+    "desc": {
+      "zh": "宾州州立拥有全美最大的校友网络之一，Smeal商学院和工程学院声誉卓著。校园社区感极强。",
+      "en": "Penn State has one of the largest alumni networks in the US. Smeal Business and Engineering are well-regarded. Extremely strong campus community."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 39404,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 39404,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "建议提交/Recommended"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（提前）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early)"
+    },
+    "safetyDetail": {
+      "zh": "宾夕法尼亚州立大学校园安全良好，设有专职校警和24小时巡逻。",
+      "en": "Penn State has good campus security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "四季分明",
+      "en": "Four distinct seasons"
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
+      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
+      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85-90%，学术支持完善。",
+      "en": "4-year graduation rate ~85-90%. Strong academic support."
+    },
+    "employment": {
+      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
+      "en": "Strong employment prospects. Career Center provides comprehensive support."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
+      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
+    },
+    "application": {
+      "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
+      "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    }
+  },
+  {
+    "id": "ucdavis",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学戴维斯分校",
+      "en": "UC Davis"
+    },
+    "city": {
+      "zh": "加利福尼亚州 戴维斯",
+      "en": "Davis, CA"
+    },
+    "qs": 130,
+    "the": 95,
+    "usnews": 56,
+    "arwu": 101,
+    "tuition": 46326,
+    "tuitionRange": [
+      42356,
+      46326
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "农业科学",
+        "兽医学",
+        "生物科学",
+        "食品科学",
+        "环境工程"
+      ],
+      "en": [
+        "Agricultural Sciences",
+        "Veterinary Medicine",
+        "Biological Sciences",
+        "Food Science",
+        "Environmental Engineering"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州大学戴维斯分校国际生学费因专业有所不同，范围$42,356-$46,326/年。",
+      "en": "UC Davis international tuition varies by program: $42,356-$46,326/yr."
+    },
+    "desc": {
+      "zh": "UC Davis的农业和兽医专业全球第一，生物科学研究实力雄厚。校园是美国最大的大学校园之一，自行车文化浓厚。",
+      "en": "UC Davis is ranked #1 globally in agriculture and veterinary science. Strong biological sciences. One of the largest US campuses with a vibrant bike culture."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 46326,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 46326,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "建议提交/Recommended"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（提前）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early)"
+    },
+    "safetyDetail": {
+      "zh": "加州大学戴维斯分校校园安全良好，设有专职校警和24小时巡逻。",
+      "en": "UC Davis has good campus security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "四季分明",
+      "en": "Four distinct seasons"
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
+      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
+      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85-90%，学术支持完善。",
+      "en": "4-year graduation rate ~85-90%. Strong academic support."
+    },
+    "employment": {
+      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
+      "en": "Strong employment prospects. Career Center provides comprehensive support."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
+      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
+    },
+    "application": {
+      "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
+      "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    }
+  },
+  {
+    "id": "ucirvine",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州大学尔湾分校",
+      "en": "UC Irvine"
+    },
+    "city": {
+      "zh": "加利福尼亚州 尔湾",
+      "en": "Irvine, CA"
+    },
+    "qs": 210,
+    "the": 95,
+    "usnews": 33,
+    "arwu": 63,
+    "tuition": 46326,
+    "tuitionRange": [
+      43530,
+      46326
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "犯罪学",
+        "商学",
+        "生物科学"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Criminology",
+        "Business",
+        "Biological Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州大学尔湾分校国际生学费因专业有所不同，范围$43,530-$46,326/年。",
+      "en": "UC Irvine international tuition varies by program: $43,530-$46,326/yr."
+    },
+    "desc": {
+      "zh": "UC Irvine位于南加州最安全的城市之一，CS和工程实力强劲。校园现代化，华人社区庞大。",
+      "en": "UCI is in one of Southern California's safest cities. Strong CS and engineering. Modern campus with a large Chinese community."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 46326,
+        "食宿": 18000,
+        "书本费": 1000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 46326,
+        "Room & Board": 18000,
+        "Books": 1000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "建议提交/Recommended"
+    },
+    "deadline": {
+      "zh": "1月1日（常规）/ 11月1日（提前）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early)"
+    },
+    "safetyDetail": {
+      "zh": "加州大学尔湾分校校园安全良好，设有专职校警和24小时巡逻。",
+      "en": "UC Irvine has good campus security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "四季分明",
+      "en": "Four distinct seasons"
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
+      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
+      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约85-90%，学术支持完善。",
+      "en": "4-year graduation rate ~85-90%. Strong academic support."
+    },
+    "employment": {
+      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
+      "en": "Strong employment prospects. Career Center provides comprehensive support."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
+      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
+    },
+    "application": {
+      "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
+      "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    }
+  },
+  {
     "id": "oxford",
     "country": "UK",
     "flag": "🇬🇧",
@@ -5233,6 +9554,1423 @@
     "application": {
       "zh": "📋 申请平台：直接通过UBC官网在线申请\n📅 截止日期：1月15日\n💰 申请费：C$116.25\n📝 所需材料：高中成绩单、语言成绩、个人简介（Personal Profile）",
       "en": "📋 Platform: Apply directly via UBC website\n📅 Deadline: January 15\n💰 Fee: C$116.25\n📝 Materials: Transcripts, English proficiency, Personal Profile essay"
+    }
+  },
+  {
+    "id": "mcgill",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "麦吉尔大学",
+      "en": "McGill University"
+    },
+    "city": {
+      "zh": "魁北克省 蒙特利尔",
+      "en": "Montreal, QC"
+    },
+    "qs": 30,
+    "the": 49,
+    "usnews": 54,
+    "arwu": 73,
+    "tuition": 55600,
+    "tuitionRange": [
+      38236,
+      55600
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "医学",
+        "工程学",
+        "商学",
+        "法学",
+        "音乐"
+      ],
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Commerce",
+        "Law",
+        "Music"
+      ]
+    },
+    "majorTuition": {
+      "zh": "麦吉尔大学国际生学费因专业差异大：C$38,236-C$55,600/年。",
+      "en": "McGill University international tuition varies: C$38,236-C$55,600/yr."
+    },
+    "desc": {
+      "zh": "被誉为加拿大的哈佛，麦吉尔是加拿大历史最悠久的英语大学之一。医学、法学世界领先。",
+      "en": "Known as the Harvard of Canada, McGill is one of Canada's oldest English universities. World-leading in medicine and law."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 55600,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 55600,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "麦吉尔大学校园安全良好。加拿大整体治安优秀。",
+      "en": "McGill University campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。校内Health Centre提供医疗服务。",
+      "en": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。On-campusHealth Centre提供医疗服务。"
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向McGill申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: 直接向McGill申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "mcmaster",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "麦克马斯特大学",
+      "en": "McMaster University"
+    },
+    "city": {
+      "zh": "安大略省 汉密尔顿",
+      "en": "Hamilton, ON"
+    },
+    "qs": 152,
+    "the": 103,
+    "usnews": 126,
+    "arwu": 90,
+    "tuition": 48262,
+    "tuitionRange": [
+      36100,
+      48262
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "医学",
+        "工程学",
+        "商学",
+        "健康科学",
+        "社会科学"
+      ],
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Business",
+        "Health Sciences",
+        "Social Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "麦克马斯特大学国际生学费因专业差异大：C$36,100-C$48,262/年。",
+      "en": "McMaster University international tuition varies: C$36,100-C$48,262/yr."
+    },
+    "desc": {
+      "zh": "麦克马斯特大学以医学院闻名，其PBL教学法被全球医学院效仿。工程和商学也很强。",
+      "en": "McMaster is famous for its medical school and PBL teaching method adopted globally. Engineering and business are also strong."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 48262,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 48262,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "麦克马斯特大学校园安全良好。加拿大整体治安优秀。",
+      "en": "McMaster University campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
+      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "ualberta",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "阿尔伯塔大学",
+      "en": "University of Alberta"
+    },
+    "city": {
+      "zh": "阿尔伯塔省 埃德蒙顿",
+      "en": "Edmonton, AB"
+    },
+    "qs": 96,
+    "the": 109,
+    "usnews": 123,
+    "arwu": 101,
+    "tuition": 40966,
+    "tuitionRange": [
+      33058,
+      40966
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "人工智能",
+        "农业",
+        "石油工程",
+        "医学"
+      ],
+      "en": [
+        "Engineering",
+        "Artificial Intelligence",
+        "Agriculture",
+        "Petroleum Engineering",
+        "Medicine"
+      ]
+    },
+    "majorTuition": {
+      "zh": "阿尔伯塔大学国际生学费因专业差异大：C$33,058-C$40,966/年。",
+      "en": "University of Alberta international tuition varies: C$33,058-C$40,966/yr."
+    },
+    "desc": {
+      "zh": "阿尔伯塔大学AI研究全球领先（强化学习之父Rich Sutton在此任教），工程和能源学科实力强劲。",
+      "en": "UAlberta is a global leader in AI research (Rich Sutton, father of reinforcement learning, teaches here). Strong engineering and energy programs."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 40966,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 40966,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "阿尔伯塔大学校园安全良好。加拿大整体治安优秀。",
+      "en": "University of Alberta campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 可加入AHCIP省医保。校内Health Centre提供基础医疗。",
+      "en": "✅ 可加入AHCIP省医保。On-campusHealth Centre提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向UAlberta申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: 直接向UAlberta申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "waterloo",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "滑铁卢大学",
+      "en": "University of Waterloo"
+    },
+    "city": {
+      "zh": "安大略省 滑铁卢",
+      "en": "Waterloo, ON"
+    },
+    "qs": 112,
+    "the": 113,
+    "usnews": 199,
+    "arwu": 151,
+    "tuition": 64070,
+    "tuitionRange": [
+      40750,
+      64070
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "数学",
+        "精算",
+        "会计"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Mathematics",
+        "Actuarial Science",
+        "Accounting"
+      ]
+    },
+    "majorTuition": {
+      "zh": "滑铁卢大学国际生学费因专业差异大：C$40,750-C$64,070/年。",
+      "en": "University of Waterloo international tuition varies: C$40,750-C$64,070/yr."
+    },
+    "desc": {
+      "zh": "滑铁卢大学拥有全球最大的Co-op带薪实习项目，CS和工程毕业生备受硅谷和华尔街青睐。",
+      "en": "UWaterloo has the world's largest co-op program. CS and engineering grads are highly sought by Silicon Valley and Wall Street."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 64070,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 64070,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "滑铁卢大学校园安全良好。加拿大整体治安优秀。",
+      "en": "University of Waterloo campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
+      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "western",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "西安大略大学",
+      "en": "Western University"
+    },
+    "city": {
+      "zh": "安大略省 伦敦",
+      "en": "London, ON"
+    },
+    "qs": 114,
+    "the": 201,
+    "usnews": 300,
+    "arwu": 301,
+    "tuition": 49200,
+    "tuitionRange": [
+      35000,
+      49200
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "商学",
+        "医学",
+        "法学",
+        "工程学",
+        "传媒"
+      ],
+      "en": [
+        "Business",
+        "Medicine",
+        "Law",
+        "Engineering",
+        "Media"
+      ]
+    },
+    "majorTuition": {
+      "zh": "西安大略大学国际生学费因专业差异大：C$35,000-C$49,200/年。",
+      "en": "Western University international tuition varies: C$35,000-C$49,200/yr."
+    },
+    "desc": {
+      "zh": "Western的Ivey商学院是加拿大顶级商学院之一，以案例教学法闻名。校园被评为加拿大最美。",
+      "en": "Western's Ivey Business School is one of Canada's top business schools, known for case-based learning. Campus rated one of Canada's most beautiful."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 49200,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 49200,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "西安大略大学校园安全良好。加拿大整体治安优秀。",
+      "en": "Western University campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
+      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "queens",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "女王大学",
+      "en": "Queen's University"
+    },
+    "city": {
+      "zh": "安大略省 金斯顿",
+      "en": "Kingston, ON"
+    },
+    "qs": 209,
+    "the": 251,
+    "usnews": 300,
+    "arwu": 301,
+    "tuition": 55883,
+    "tuitionRange": [
+      40600,
+      55883
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "商学",
+        "工程学",
+        "法学",
+        "医学",
+        "文理科学"
+      ],
+      "en": [
+        "Commerce",
+        "Engineering",
+        "Law",
+        "Medicine",
+        "Arts & Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "女王大学国际生学费因专业差异大：C$40,600-C$55,883/年。",
+      "en": "Queen's University international tuition varies: C$40,600-C$55,883/yr."
+    },
+    "desc": {
+      "zh": "女王大学Smith商学院全加顶尖，校园社区感极强，学生满意度常年第一。金斯顿是安全宜居的小城。",
+      "en": "Queen's Smith School of Business is among Canada's best. Extremely strong campus community with top student satisfaction. Kingston is a safe, livable city."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 55883,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 55883,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "女王大学校园安全良好。加拿大整体治安优秀。",
+      "en": "Queen's University campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
+      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "uottawa",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "渥太华大学",
+      "en": "University of Ottawa"
+    },
+    "city": {
+      "zh": "安大略省 渥太华",
+      "en": "Ottawa, ON"
+    },
+    "qs": 203,
+    "the": 177,
+    "usnews": 215,
+    "arwu": 151,
+    "tuition": 45192,
+    "tuitionRange": [
+      35000,
+      45192
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "法学",
+        "政治学",
+        "工程学",
+        "健康科学",
+        "双语教育"
+      ],
+      "en": [
+        "Law",
+        "Political Science",
+        "Engineering",
+        "Health Sciences",
+        "Bilingual Education"
+      ]
+    },
+    "majorTuition": {
+      "zh": "渥太华大学国际生学费因专业差异大：C$35,000-C$45,192/年。",
+      "en": "University of Ottawa international tuition varies: C$35,000-C$45,192/yr."
+    },
+    "desc": {
+      "zh": "渥太华大学是全球最大的英法双语大学，毗邻加拿大国会。政治学和法学因首都优势极具竞争力。",
+      "en": "UOttawa is the world's largest English-French bilingual university, next to Parliament. Political science and law benefit from the capital location."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 45192,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 45192,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "渥太华大学校园安全良好。加拿大整体治安优秀。",
+      "en": "University of Ottawa campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买UHIP保险约C$756/年。安大略省国际学生不享受OHIP。校内Health Centre提供基础医疗。",
+      "en": "✅ MandatoryUHIP保险约C$756/年。安大略省国际学生不享受OHIP。On-campusHealth Centre提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：OUAC 105\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: OUAC 105\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "ucalgary",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "卡尔加里大学",
+      "en": "University of Calgary"
+    },
+    "city": {
+      "zh": "阿尔伯塔省 卡尔加里",
+      "en": "Calgary, AB"
+    },
+    "qs": 170,
+    "the": 182,
+    "usnews": 166,
+    "arwu": 151,
+    "tuition": 38560,
+    "tuitionRange": [
+      30000,
+      38560
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "石油工程",
+        "商学",
+        "运动机能学",
+        "医学"
+      ],
+      "en": [
+        "Engineering",
+        "Petroleum Engineering",
+        "Business",
+        "Kinesiology",
+        "Medicine"
+      ]
+    },
+    "majorTuition": {
+      "zh": "卡尔加里大学国际生学费因专业差异大：C$30,000-C$38,560/年。",
+      "en": "University of Calgary international tuition varies: C$30,000-C$38,560/yr."
+    },
+    "desc": {
+      "zh": "卡尔加里大学以能源工程闻名，Haskayne商学院与当地石油行业联系紧密。卡尔加里连年评为全球最宜居城市。",
+      "en": "UCalgary is known for energy engineering. Haskayne Business School has strong ties to the local oil industry. Calgary is consistently rated among the world's most livable cities."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 38560,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 38560,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "卡尔加里大学校园安全良好。加拿大整体治安优秀。",
+      "en": "University of Calgary campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 可加入AHCIP省医保。校内Health Centre提供基础医疗。",
+      "en": "✅ 可加入AHCIP省医保。On-campusHealth Centre提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向UCalgary申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: 直接向UCalgary申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "sfu",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "西蒙菲莎大学",
+      "en": "Simon Fraser University"
+    },
+    "city": {
+      "zh": "不列颠哥伦比亚省 本拿比",
+      "en": "Burnaby, BC"
+    },
+    "qs": 318,
+    "the": 251,
+    "usnews": 300,
+    "arwu": 301,
+    "tuition": 35400,
+    "tuitionRange": [
+      28000,
+      35400
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "商学",
+        "传播学",
+        "犯罪学",
+        "环境科学"
+      ],
+      "en": [
+        "Computer Science",
+        "Business",
+        "Communications",
+        "Criminology",
+        "Environmental Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "西蒙菲莎大学国际生学费因专业差异大：C$28,000-C$35,400/年。",
+      "en": "Simon Fraser University international tuition varies: C$28,000-C$35,400/yr."
+    },
+    "desc": {
+      "zh": "SFU以Co-op项目和跨学科教学闻名。三学期制让学生可以更灵活地安排学业和实习。",
+      "en": "SFU is known for its co-op program and interdisciplinary approach. The trimester system allows flexible scheduling of academics and internships."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 35400,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 35400,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "西蒙菲莎大学校园安全良好。加拿大整体治安优秀。",
+      "en": "Simon Fraser University campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 可加入BC省MSP医疗保险（等待期内需购买私保）。校内Student Health Service提供基础医疗。",
+      "en": "✅ 可加入BC省MSP医疗保险（等待期内需购买私保）。On-campusStudent Health Service提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向SFU申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: 直接向SFU申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "uvic",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "维多利亚大学",
+      "en": "University of Victoria"
+    },
+    "city": {
+      "zh": "不列颠哥伦比亚省 维多利亚",
+      "en": "Victoria, BC"
+    },
+    "qs": 322,
+    "the": 301,
+    "usnews": 300,
+    "arwu": 301,
+    "tuition": 33240,
+    "tuitionRange": [
+      26000,
+      33240
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "海洋科学",
+        "法学",
+        "商学",
+        "环境科学"
+      ],
+      "en": [
+        "Engineering",
+        "Ocean Sciences",
+        "Law",
+        "Business",
+        "Environmental Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "维多利亚大学国际生学费因专业差异大：C$26,000-C$33,240/年。",
+      "en": "University of Victoria international tuition varies: C$26,000-C$33,240/yr."
+    },
+    "desc": {
+      "zh": "维多利亚大学以Co-op项目和海洋/气候研究闻名。维多利亚市气候温和，是加拿大最温暖的城市之一。",
+      "en": "UVic is known for co-op programs and ocean/climate research. Victoria has Canada's mildest climate, one of the country's warmest cities."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 33240,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 33240,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "维多利亚大学校园安全良好。加拿大整体治安优秀。",
+      "en": "University of Victoria campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 可加入BC省MSP医疗保险（等待期内需购买私保）。校内Student Health Service提供基础医疗。",
+      "en": "✅ 可加入BC省MSP医疗保险（等待期内需购买私保）。On-campusStudent Health Service提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向UVic申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: 直接向UVic申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "dalhousie",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "达尔豪斯大学",
+      "en": "Dalhousie University"
+    },
+    "city": {
+      "zh": "新斯科舍省 哈利法克斯",
+      "en": "Halifax, NS"
+    },
+    "qs": 298,
+    "the": 251,
+    "usnews": 300,
+    "arwu": 201,
+    "tuition": 32500,
+    "tuitionRange": [
+      25000,
+      32500
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "海洋学",
+        "医学",
+        "工程学",
+        "计算机科学",
+        "法学"
+      ],
+      "en": [
+        "Ocean Sciences",
+        "Medicine",
+        "Engineering",
+        "Computer Science",
+        "Law"
+      ]
+    },
+    "majorTuition": {
+      "zh": "达尔豪斯大学国际生学费因专业差异大：C$25,000-C$32,500/年。",
+      "en": "Dalhousie University international tuition varies: C$25,000-C$32,500/yr."
+    },
+    "desc": {
+      "zh": "达尔豪斯是加拿大大西洋省份最好的大学，海洋科学全球领先。哈利法克斯生活成本较低，海滨城市氛围好。",
+      "en": "Dalhousie is the top university in Atlantic Canada with globally leading ocean sciences. Halifax has lower living costs and a great coastal city vibe."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 32500,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 32500,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "达尔豪斯大学校园安全良好。加拿大整体治安优秀。",
+      "en": "Dalhousie University campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 需购买私人医疗保险约C$900/年。校内Health Centre提供基础医疗。",
+      "en": "✅ 需购买私人医疗保险约C$900/年。On-campusHealth Centre提供基础医疗。"
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向Dalhousie申请\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: 直接向Dalhousie申请\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "umontreal",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "蒙特利尔大学",
+      "en": "Université de Montréal"
+    },
+    "city": {
+      "zh": "魁北克省 蒙特利尔",
+      "en": "Montreal, QC"
+    },
+    "qs": 111,
+    "the": 73,
+    "usnews": 160,
+    "arwu": 78,
+    "tuition": 31176,
+    "tuitionRange": [
+      24000,
+      31176
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "人工智能",
+        "医学",
+        "法学",
+        "药学",
+        "公共卫生"
+      ],
+      "en": [
+        "Artificial Intelligence",
+        "Medicine",
+        "Law",
+        "Pharmacy",
+        "Public Health"
+      ]
+    },
+    "majorTuition": {
+      "zh": "蒙特利尔大学国际生学费因专业差异大：C$24,000-C$31,176/年。",
+      "en": "Université de Montréal international tuition varies: C$24,000-C$31,176/yr."
+    },
+    "desc": {
+      "zh": "蒙特利尔大学是加拿大最大的法语大学，AI研究全球领先（Yoshua Bengio所在的Mila实验室）。",
+      "en": "UdeM is Canada's largest French university with globally leading AI research (home to Yoshua Bengio's Mila lab)."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 31176,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 31176,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "蒙特利尔大学校园安全良好。加拿大整体治安优秀。",
+      "en": "Université de Montréal campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。校内Health Centre提供医疗服务。",
+      "en": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。On-campusHealth Centre提供医疗服务。"
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向UdeM申请（法语授课为主）\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: 直接向UdeM申请（法语授课为主）\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
+    }
+  },
+  {
+    "id": "laval",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "拉瓦尔大学",
+      "en": "Université Laval"
+    },
+    "city": {
+      "zh": "魁北克省 魁北克城",
+      "en": "Quebec City, QC"
+    },
+    "qs": 420,
+    "the": 350,
+    "usnews": 300,
+    "arwu": 301,
+    "tuition": 28000,
+    "tuitionRange": [
+      22000,
+      28000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "法学",
+        "农业",
+        "林业",
+        "医学",
+        "教育学"
+      ],
+      "en": [
+        "Law",
+        "Agriculture",
+        "Forestry",
+        "Medicine",
+        "Education"
+      ]
+    },
+    "majorTuition": {
+      "zh": "拉瓦尔大学国际生学费因专业差异大：C$22,000-C$28,000/年。",
+      "en": "Université Laval international tuition varies: C$22,000-C$28,000/yr."
+    },
+    "desc": {
+      "zh": "拉瓦尔大学是加拿大第一所法语大学，林业和农业研究全加领先。魁北克城是北美最具欧洲风情的城市。",
+      "en": "Laval is Canada's first French university with leading forestry and agriculture research. Quebec City is North America's most European city."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 28000,
+        "食宿": 14000,
+        "书本费": 1000,
+        "杂费": 1500
+      },
+      "en": {
+        "Tuition": 28000,
+        "Room & Board": 14000,
+        "Books": 1000,
+        "Incidentals": 1500
+      }
+    },
+    "requirements": {
+      "TOEFL": "86+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日-3月1日（因学校而异）",
+      "en": "Jan 15 - Mar 1 (varies by school)"
+    },
+    "safetyDetail": {
+      "zh": "拉瓦尔大学校园安全良好。加拿大整体治安优秀。",
+      "en": "Université Laval campus is safe. Canada overall has excellent public safety."
+    },
+    "climate": {
+      "zh": "冬季寒冷多雪，夏季温暖",
+      "en": "Cold snowy winters, warm summers"
+    },
+    "livingCost": {
+      "zh": "约C$1,800/月",
+      "en": "~C$1,800/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 900,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit → 毕业后PGWP工签(最长3年) → Express Entry申请PR。加拿大移民政策对留学生友好。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry. Canada has immigration-friendly policies for graduates."
+    },
+    "housing": {
+      "zh": "大一通常保证校内住宿（需提前申请）。校内约C$10,000-16,000/年。",
+      "en": "Freshman housing typically guaranteed (apply early). On-campus ~C$10,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "加拿大就业市场稳定，Co-op项目提供实习机会。",
+      "en": "Stable Canadian job market. Co-op programs provide internship opportunities."
+    },
+    "healthcare": {
+      "zh": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。校内Health Centre提供医疗服务。",
+      "en": "✅ 可申请RAMQ魁省医保（部分国家学生免费）。On-campusHealth Centre提供医疗服务。"
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向Laval申请（法语授课）\n📅 截止日期：1月15日-3月1日\n💰 申请费：C$100-180\n📝 所需材料：成绩单、个人简介、TOEFL/IELTS\n✅ 大部分不要求SAT/ACT",
+      "en": "📋 Platform: 直接向Laval申请（法语授课）\n📅 Deadline: Jan 15 - Mar 1\n💰 Fee: C$100-180\n📝 Required: Transcripts, personal profile, TOEFL/IELTS\n✅ SAT/ACT generally not required"
     }
   }
 ]
