@@ -104,6 +104,10 @@
     "application": {
       "zh": "📋 直接向ETH申请\\n📅 截止4月30日（秋季入学）\\n💰 申请费：CHF 150\\n📝 所需材料：IB成绩（需达标）或通过入学考试\\n⚠️ 本科主要德语授课！硕士多英语授课\\n💰 学费极低：仅CHF 730/学期！",
       "en": "📋 Apply directly to ETH\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 Required: IB scores (must meet threshold) or entrance exam\\n⚠️ BSc mostly in German! MSc often in English\\n💰 Extremely low tuition: CHF 730/semester!"
+    },
+    "acceptanceRate": {
+      "overall": "27.0%",
+      "intl": "~25%"
     }
   },
   {
@@ -211,6 +215,10 @@
     "application": {
       "zh": "📋 直接向EPFL申请\\n📅 截止4月30日\\n💰 申请费：CHF 150\\n📝 IB成绩需达标 / 入学考试\\n⚠️ 本科法语授课！\\n💰 学费仅CHF 633/学期",
       "en": "📋 Apply directly to EPFL\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 IB scores / entrance exam\\n⚠️ BSc in French!\\n💰 Tuition only CHF 633/semester"
+    },
+    "acceptanceRate": {
+      "overall": "25.0%",
+      "intl": "~25%"
     }
   },
   {
@@ -316,6 +324,10 @@
       "IELTS": "N/A",
       "SAT": "不要求",
       "IB": "IB 34+（需通过入学评估）\\n⚠️ 本科多数德语授课"
+    },
+    "acceptanceRate": {
+      "overall": "~25-40%",
+      "intl": "~25-35%"
     }
   },
   {
@@ -421,6 +433,10 @@
       "IELTS": "N/A",
       "SAT": "不要求",
       "IB": "IB 32+\\n⚠️ 本科法语授课为主"
+    },
+    "acceptanceRate": {
+      "overall": "~25-40%",
+      "intl": "~25-35%"
     }
   }
 ]

@@ -104,6 +104,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "9.0%",
+      "intl": "~8%"
     }
   },
   {
@@ -211,6 +215,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "15.0%",
+      "intl": "~12%"
     }
   },
   {
@@ -318,6 +326,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "13.0%",
+      "intl": "~10%"
     }
   },
   {
@@ -425,6 +437,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "25.0%",
+      "intl": "~20%"
     }
   },
   {
@@ -532,6 +548,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "28.0%",
+      "intl": "~25%"
     }
   },
   {
@@ -639,6 +659,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "~20-35%",
+      "intl": "~15-30%"
     }
   }
 ]

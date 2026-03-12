@@ -107,6 +107,10 @@
     "application": {
       "zh": "📋 通过CAO系统申请（类似UCAS）\\n📅 截止2月1日\\n💰 申请费：€45\\n📝 所需材料：IB/A-Level成绩、个人陈述、IELTS\\n✅ 英语授课，无需学其他语言",
       "en": "📋 Via CAO system (similar to UCAS)\\n📅 Deadline: Feb 1\\n💰 Fee: €45\\n📝 Required: IB/A-Level scores, personal statement, IELTS\\n✅ Taught in English"
+    },
+    "acceptanceRate": {
+      "overall": "35.0%",
+      "intl": "~30%"
     }
   },
   {
@@ -217,6 +221,10 @@
     "application": {
       "zh": "📋 通过CAO系统\\n📅 截止2月1日\\n💰 €45\\n📝 IB成绩+IELTS\\n✅ 英语授课",
       "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB scores + IELTS\\n✅ English-taught"
+    },
+    "acceptanceRate": {
+      "overall": "~45-65%",
+      "intl": "~40-60%"
     }
   },
   {
@@ -327,6 +335,10 @@
     "application": {
       "zh": "📋 通过CAO\\n📅 2月1日\\n💰 €45\\n📝 IB+IELTS",
       "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB + IELTS"
+    },
+    "acceptanceRate": {
+      "overall": "~45-65%",
+      "intl": "~40-60%"
     }
   },
   {
@@ -433,6 +445,10 @@
       "IELTS": "6.5+",
       "SAT": "不要求",
       "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Science 理学：28\\n• Commerce 商学：30\\n• Pharmacy 药学：33\\n• Medicine 医学：36+\\n• Law 法学：32"
+    },
+    "acceptanceRate": {
+      "overall": "~45-65%",
+      "intl": "~40-60%"
     }
   },
   {
@@ -539,6 +555,10 @@
       "IELTS": "6.5+",
       "SAT": "不要求",
       "IB": "各专业IB要求不同：\\n• Arts 文学：25\\n• Business 商学：28\\n• Engineering 工程：29\\n• Science 理学：27\\n• Education 教育：26"
+    },
+    "acceptanceRate": {
+      "overall": "~45-65%",
+      "intl": "~40-60%"
     }
   }
 ]

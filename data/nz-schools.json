@@ -107,6 +107,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：NZ$0（免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT",
       "en": "📋 Platform: Apply directly\\n📅 Intakes: Feb (main) / Jul\\n💰 Fee: NZ$0 (free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT"
+    },
+    "acceptanceRate": {
+      "overall": "65.0%",
+      "intl": "~60%"
     }
   },
   {
@@ -217,6 +221,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 入学时间：2月（主）/ 7月\\n💰 申请费：NZ$0\\n📝 所需材料：成绩单、IELTS、个人陈述",
       "en": "📋 Platform: Apply directly\\n📅 Intakes: Feb (main) / Jul\\n💰 Fee: NZ$0\\n📝 Required: Transcripts, IELTS, personal statement"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -327,6 +335,10 @@
     "application": {
       "zh": "📋 直接向学校申请\\n📅 入学：3月/7月/11月（三学期制）\\n💰 免申请费\\n📝 成绩单+IELTS",
       "en": "📋 Apply directly\\n📅 Intakes: Mar/Jul/Nov (trimester)\\n💰 No application fee\\n📝 Transcripts + IELTS"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -433,6 +445,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 26+，工程29+"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -539,6 +555,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 24+，管理学26+"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -645,6 +665,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 24+，兽医28+"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   }
 ]

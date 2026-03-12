@@ -104,6 +104,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$85。需要提交：高中成绩单、SAT/ACT成绩（可选但建议）、TOEFL/IELTS成绩、2封教师推荐信、1封升学顾问推荐信、个人陈述、课外活动列表。提前申请（REA）截止11月1日，常规申请截止1月1日。",
       "en": "Apply via Common App or Coalition App. $85 application fee. Required: transcripts, SAT/ACT (test-optional but recommended), TOEFL/IELTS, 2 teacher recommendations, 1 counselor recommendation, personal essay, activities list. REA deadline Nov 1, Regular Decision Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "3.2%",
+      "intl": "~3%"
     }
   },
   {
@@ -211,6 +215,10 @@
     "application": {
       "zh": "通过MIT自有申请系统MyMIT申请（不接受Common App）。申请费$75。需要：成绩单、SAT/ACT（2024-25恢复要求）、TOEFL/IELTS、2封推荐信、个人陈述、活动列表、面试（可能要求）。EA截止11月1日，RD截止1月5日。",
       "en": "Apply through MIT's own MyMIT portal (does not accept Common App). $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 recommendations, essays, activities, interview (may be required). EA Nov 1, RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "3.5%",
+      "intl": "~3%"
     }
   },
   {
@@ -318,6 +326,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$90。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、个人陈述、短文。REA截止11月1日，RD截止1月5日。",
       "en": "Apply via Common App or Coalition App. $90 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, personal essay, short essays. REA Nov 1, RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "3.7%",
+      "intl": "~3.5%"
     }
   },
   {
@@ -425,6 +437,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$70。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文/短文、面试（建议）。SCEA截止11月1日，RD截止1月1日。",
       "en": "Apply via Common App or Coalition App. $70 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, essays, interview (recommended). SCEA Nov 1, RD Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "3.5%",
+      "intl": "~3%"
     }
   },
   {
@@ -532,6 +548,10 @@
     "application": {
       "zh": "通过Common App或Coalition App/QuestBridge申请。申请费$80。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文。REA截止11月1日，RD截止1月2日。",
       "en": "Apply via Common App, Coalition App, or QuestBridge. $80 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, essays. REA Nov 1, RD Jan 2."
+    },
+    "acceptanceRate": {
+      "overall": "4.3%",
+      "intl": "~4%"
     }
   },
   {
@@ -639,6 +659,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、2封STEM教师推荐信、1封人文教师推荐信、论文。EA截止11月1日，RD截止1月3日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 2 STEM teacher recs, 1 humanities teacher rec, essays. EA Nov 1, RD Jan 3."
+    },
+    "acceptanceRate": {
+      "overall": "3.0%",
+      "intl": "~5%"
     }
   },
   {
@@ -746,6 +770,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、UChicago特色论文、面试（可选）。ED I截止11月1日，ED II和RD截止1月4日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, UChicago-specific essays, interview (optional). ED I Nov 1, ED II/RD Jan 4."
+    },
+    "acceptanceRate": {
+      "overall": "5.2%",
+      "intl": "~5%"
     }
   },
   {
@@ -853,6 +881,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$85。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、Columbia特色论文。ED截止11月1日，RD截止1月1日。",
       "en": "Apply via Common App or Coalition App. $85 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, Columbia-specific essays. ED Nov 1, RD Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "3.9%",
+      "intl": "~4%"
     }
   },
   {
@@ -960,6 +992,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文、Penn特色短文。ED截止11月1日，RD截止1月5日。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, personal essay, Penn-specific essays. ED Nov 1, RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "5.4%",
+      "intl": "~5%"
     }
   },
   {
@@ -1067,6 +1103,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$85。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文和Duke短文。ED截止11月1日，RD截止1月4日。",
       "en": "Apply via Common App. $85 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays and Duke supplements. ED Nov 1, RD Jan 4."
+    },
+    "acceptanceRate": {
+      "overall": "5.0%",
+      "intl": "~5%"
     }
   },
   {
@@ -1174,6 +1214,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、1-2封推荐信、1封顾问信、论文。ED截止11月1日，RD截止1月3日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 1-2 recs, 1 counselor rec, essays. ED Nov 1, RD Jan 3."
+    },
+    "acceptanceRate": {
+      "overall": "7.0%",
+      "intl": "~7%"
     }
   },
   {
@@ -1281,6 +1325,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$70。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文。ED I截止11月1日，ED II/RD截止1月5日。",
       "en": "Apply via Common App or Coalition App. $70 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays. ED I Nov 1, ED II/RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "6.5%",
+      "intl": "~6%"
     }
   },
   {
@@ -1388,6 +1436,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问信、Dartmouth短文、面试（推荐）。ED截止11月1日，RD截止1月3日。",
       "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, Dartmouth supplements, interview (recommended). ED Nov 1, RD Jan 3."
+    },
+    "acceptanceRate": {
+      "overall": "6.2%",
+      "intl": "~6%"
     }
   },
   {
@@ -1495,6 +1547,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文和Brown短文。ED截止11月1日，RD截止1月5日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays and Brown supplements. ED Nov 1, RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "5.0%",
+      "intl": "~5%"
     }
   },
   {
@@ -1602,6 +1658,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（可选，部分学院要求）、TOEFL/IELTS、2封推荐信、1封顾问信、论文。按学院申请，不同学院可能有额外要求。ED截止11月1日，RD截止1月2日。",
       "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (test-optional, some colleges require), TOEFL/IELTS, 2 recs, 1 counselor rec, essays. Apply to specific colleges; some have additional requirements. ED Nov 1, RD Jan 2."
+    },
+    "acceptanceRate": {
+      "overall": "7.3%",
+      "intl": "~8%"
     }
   },
   {
@@ -1709,6 +1769,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封推荐信、1封顾问信、论文、面试（要求）。ED截止11月1日，RD截止1月4日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 recs, 1 counselor rec, essays, interview (required). ED Nov 1, RD Jan 4."
+    },
+    "acceptanceRate": {
+      "overall": "7.7%",
+      "intl": "~7%"
     }
   },
   {
@@ -1816,6 +1880,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$50。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。ED I截止11月1日，ED II/RD截止1月1日。",
       "en": "Apply via Common App or Coalition App. $50 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recommendations, essays. ED I Nov 1, ED II/RD Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "5.6%",
+      "intl": "~6%"
     }
   },
   {
@@ -1923,6 +1991,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、1封教师推荐信、1封顾问信、论文。REA截止11月1日，RD截止1月1日。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 1 teacher rec, 1 counselor rec, essays. REA Nov 1, RD Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2030,6 +2102,10 @@
     "application": {
       "zh": "通过Georgetown自有申请系统申请（不接受Common App）。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文、面试（可选）。EA截止11月1日，RD截止1月10日。",
       "en": "Apply through Georgetown's own application system (does not accept Common App). $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recommendations, essays, interview (optional). EA Nov 1, RD Jan 10."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2140,6 +2216,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 international). Required: transcripts, no SAT/ACT required, TOEFL/IELTS, personal insight questions (4 essays), activities. No recommendation letters required. Single deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "8.6%",
+      "intl": "~7%"
     }
   },
   {
@@ -2250,6 +2330,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2360,6 +2444,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "24.7%",
+      "intl": "~18%"
     }
   },
   {
@@ -2470,6 +2558,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "25.9%",
+      "intl": "~20%"
     }
   },
   {
@@ -2580,6 +2672,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2690,6 +2786,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2800,6 +2900,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "17.7%",
+      "intl": "~15%"
     }
   },
   {
@@ -2910,6 +3014,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$70。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $70 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "16.3%",
+      "intl": "~14%"
     }
   },
   {
@@ -3017,6 +3125,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "11.2%",
+      "intl": "~10%"
     }
   },
   {
@@ -3124,6 +3236,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "12.2%",
+      "intl": "~15%"
     }
   },
   {
@@ -3234,6 +3350,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -3344,6 +3464,10 @@
     "application": {
       "zh": "通过Common App或myIllini申请。申请费$50。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via Common App or myIllini. $50 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "43.7%",
+      "intl": "~35%"
     }
   },
   {
@@ -3454,6 +3578,10 @@
     "application": {
       "zh": "通过ApplyTexas或Common App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via ApplyTexas or Common App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -3564,6 +3692,10 @@
     "application": {
       "zh": "通过UW Application或Common App申请。申请费$60。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via UW Application or Common App. $60 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -3674,6 +3806,10 @@
     "application": {
       "zh": "通过Common App或Purdue Application申请。申请费$60。",
       "en": "Apply via Common App or Purdue Application. $60 fee."
+    },
+    "acceptanceRate": {
+      "overall": "53.0%",
+      "intl": "~45%"
     }
   },
   {
@@ -3784,6 +3920,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$60。",
       "en": "Apply via Common App. $60 fee."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -3894,6 +4034,10 @@
     "application": {
       "zh": "通过Penn State Application或Common App申请。申请费$65。",
       "en": "Apply via Penn State Application or Common App. $65 fee."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -4004,6 +4148,10 @@
     "application": {
       "zh": "通过Common App或UF Application申请。申请费$30。",
       "en": "Apply via Common App or UF Application. $30 fee."
+    },
+    "acceptanceRate": {
+      "overall": "23.1%",
+      "intl": "~20%"
     }
   },
   {
@@ -4114,6 +4262,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$85。需要推荐信。",
       "en": "Apply via Common App. $85 fee. Recs required."
+    },
+    "acceptanceRate": {
+      "overall": "16.8%",
+      "intl": "~12%"
     }
   },
   {
@@ -4221,6 +4373,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$80。需要推荐信。",
       "en": "Apply via Common App. $80 fee. Recs required."
+    },
+    "acceptanceRate": {
+      "overall": "14.4%",
+      "intl": "~18%"
     }
   },
   {
@@ -4328,6 +4484,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要推荐信。",
       "en": "Apply via Common App. $75 fee. Recs required."
+    },
+    "acceptanceRate": {
+      "overall": "6.7%",
+      "intl": "~10%"
     }
   },
   {
@@ -4435,6 +4595,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$85。需要推荐信。",
       "en": "Apply via Common App. $85 fee. Recs required."
+    },
+    "acceptanceRate": {
+      "overall": "9.9%",
+      "intl": "~12%"
     }
   },
   {
@@ -4542,6 +4706,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "11.4%",
+      "intl": "~12%"
     }
   },
   {
@@ -4649,6 +4817,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "9.5%",
+      "intl": "~10%"
     }
   },
   {
@@ -4756,6 +4928,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -4866,6 +5042,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -4973,6 +5153,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -5080,6 +5264,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -5187,6 +5375,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -5297,6 +5489,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -5407,6 +5603,10 @@
     "application": {
       "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
       "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    },
+    "acceptanceRate": {
+      "overall": "11.6%",
+      "intl": "~8.5%"
     }
   },
   {
@@ -5517,6 +5717,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "16.0%",
+      "intl": "~12%"
     }
   },
   {
@@ -5627,6 +5831,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "29.0%",
+      "intl": "~20%"
     }
   },
   {
@@ -5737,6 +5945,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "49.2%",
+      "intl": "~40%"
     }
   },
   {
@@ -5847,6 +6059,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "53.0%",
+      "intl": "~45%"
     }
   },
   {
@@ -5957,6 +6173,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "55.0%",
+      "intl": "~50%"
     }
   },
   {
@@ -6067,6 +6287,10 @@
     "application": {
       "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
       "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    },
+    "acceptanceRate": {
+      "overall": "36.5%",
+      "intl": "~30%"
     }
   },
   {
@@ -6177,6 +6401,10 @@
     "application": {
       "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
       "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    },
+    "acceptanceRate": {
+      "overall": "20.9%",
+      "intl": "~15%"
     }
   },
   {
@@ -6287,6 +6515,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：10月15日\n💰 申请费：UCAS £27.50 + 部分专业需面试/入学考试\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信、入学考试(如MAT/TSA/PAT)、面试\n⚠️ 注意：牛津和剑桥不能同时申请",
       "en": "📋 Platform: UCAS\n📅 Deadline: October 15\n💰 Fees: UCAS £27.50 + some subjects require admissions tests\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference, admissions test (e.g. MAT/TSA/PAT), interview\n⚠️ Note: Cannot apply to both Oxford and Cambridge"
+    },
+    "acceptanceRate": {
+      "overall": "14.5%",
+      "intl": "~9%"
     }
   },
   {
@@ -6397,6 +6629,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：10月15日\n💰 申请费：UCAS £27.50 + 部分专业需入学考试\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信、入学考试(如STEP/ENGAA/NSAA)、面试\n⚠️ 注意：牛津和剑桥不能同时申请",
       "en": "📋 Platform: UCAS\n📅 Deadline: October 15\n💰 Fees: UCAS £27.50 + some subjects require admissions tests\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference, admissions test (e.g. STEP/ENGAA/NSAA), interview\n⚠️ Note: Cannot apply to both Oxford and Cambridge"
+    },
+    "acceptanceRate": {
+      "overall": "15.5%",
+      "intl": "~10%"
     }
   },
   {
@@ -6505,6 +6741,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信、部分专业需入学考试或面试",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference, some subjects require admissions tests or interviews"
+    },
+    "acceptanceRate": {
+      "overall": "14.3%",
+      "intl": "~14%"
     }
   },
   {
@@ -6613,6 +6853,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "22.0%",
+      "intl": "~25%"
     }
   },
   {
@@ -6721,6 +6965,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "11.0%",
+      "intl": "~12%"
     }
   },
   {
@@ -6829,6 +7077,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信\n📌 苏格兰本科学制4年",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference\n📌 Scottish undergraduate degree is 4 years"
+    },
+    "acceptanceRate": {
+      "overall": "33.0%",
+      "intl": "~30%"
     }
   },
   {
@@ -6937,6 +7189,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "55.0%",
+      "intl": "~50%"
     }
   },
   {
@@ -7045,6 +7301,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "28.0%",
+      "intl": "~30%"
     }
   },
   {
@@ -7153,6 +7413,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "38.0%",
+      "intl": "~35%"
     }
   },
   {
@@ -7261,6 +7525,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "35.0%",
+      "intl": "~30%"
     }
   },
   {
@@ -7369,6 +7637,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信\n📌 苏格兰本科学制4年",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference\n📌 Scottish undergraduate degree is 4 years"
+    },
+    "acceptanceRate": {
+      "overall": "50.0%",
+      "intl": "~45%"
     }
   },
   {
@@ -7477,6 +7749,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -7585,6 +7861,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -7693,6 +7973,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -7801,6 +8085,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -7909,6 +8197,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信\n📌 苏格兰本科学制4年",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference\n📌 Scottish undergraduate degree is 4 years"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -8019,6 +8311,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "30.0%",
+      "intl": "~28%"
     }
   },
   {
@@ -8127,6 +8423,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -8235,6 +8535,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -8343,6 +8647,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -8451,6 +8759,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -8559,6 +8871,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -8667,6 +8983,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "25.0%",
+      "intl": "~22%"
     }
   },
   {
@@ -8775,6 +9095,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -8883,6 +9207,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -8991,6 +9319,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -9099,6 +9431,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -9207,6 +9543,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -9315,6 +9655,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -9423,6 +9767,10 @@
     "application": {
       "zh": "📋 申请平台：UCAS\n📅 截止日期：1月31日\n💰 申请费：UCAS £27.50\n📝 所需材料：个人陈述(PS)、A-Level预估成绩/IB、推荐信",
       "en": "📋 Platform: UCAS\n📅 Deadline: January 31\n💰 Fees: UCAS £27.50\n📝 Required: Personal Statement, predicted A-Level/IB grades, reference"
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-55%"
     }
   },
   {
@@ -9533,6 +9881,10 @@
     "application": {
       "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：1月15日\n💰 申请费：C$180\n📝 所需材料：高中成绩单、语言成绩、个人陈述、补充申请",
       "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: January 15\n💰 Fee: C$180\n📝 Materials: Transcripts, English proficiency, personal statement"
+    },
+    "acceptanceRate": {
+      "overall": "43.0%",
+      "intl": "~35%"
     }
   },
   {
@@ -9643,6 +9995,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过UBC官网在线申请\n📅 截止日期：1月15日\n💰 申请费：C$116.25\n📝 所需材料：高中成绩单、语言成绩、Personal Profile",
       "en": "📋 Platform: Apply directly via UBC website\n📅 Deadline: January 15\n💰 Fee: C$116.25\n📝 Materials: Transcripts, English proficiency, Personal Profile essay"
+    },
+    "acceptanceRate": {
+      "overall": "46.0%",
+      "intl": "~35%"
     }
   },
   {
@@ -9753,6 +10109,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过McGill官网申请（魁省独立系统）\n📅 截止日期：1月15日\n💰 申请费：C$129\n📝 所需材料：高中成绩单、语言成绩、个人陈述",
       "en": "📋 Platform: Apply directly via McGill website (Quebec separate system)\n📅 Deadline: January 15\n💰 Fee: C$129\n📝 Materials: Transcripts, English proficiency, personal statement"
+    },
+    "acceptanceRate": {
+      "overall": "41.0%",
+      "intl": "~30%"
     }
   },
   {
@@ -9863,6 +10223,10 @@
     "application": {
       "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：1月15日\n💰 申请费：C$156\n📝 所需材料：高中成绩单、语言成绩、补充申请",
       "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: January 15\n💰 Fee: C$156\n📝 Materials: Transcripts, English proficiency, supplementary application"
+    },
+    "acceptanceRate": {
+      "overall": "58.0%",
+      "intl": "~50%"
     }
   },
   {
@@ -9973,6 +10337,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过UdeM官网申请（魁省独立系统）\n📅 截止日期：2月1日\n💰 申请费：C$100\n📝 所需材料：高中成绩单、法语能力证明（TFI/DALF）",
       "en": "📋 Platform: Apply directly via UdeM website (Quebec separate system)\n📅 Deadline: February 1\n💰 Fee: C$100\n📝 Materials: Transcripts, French proficiency (TFI/DALF)"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -10083,6 +10451,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过UAlberta官网申请\n📅 截止日期：3月1日\n💰 申请费：C$125\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: Apply directly via UAlberta website\n📅 Deadline: March 1\n💰 Fee: C$125\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -10193,6 +10565,10 @@
     "application": {
       "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：4月1日\n💰 申请费：C$150\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: April 1\n💰 Fee: C$150\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -10303,6 +10679,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过UCalgary官网申请\n📅 截止日期：3月1日\n💰 申请费：C$145\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: Apply directly via UCalgary website\n📅 Deadline: March 1\n💰 Fee: C$145\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -10413,6 +10793,10 @@
     "application": {
       "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：2月1日\n💰 申请费：C$170\n📝 所需材料：高中成绩单、语言成绩、AIF（入学信息表）、部分专业需视频面试或数学竞赛成绩",
       "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: February 1\n💰 Fee: C$170\n📝 Materials: Transcripts, English proficiency, AIF, some programs need video interview or math competition results"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -10523,6 +10907,10 @@
     "application": {
       "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：1月15日\n💰 申请费：C$155\n📝 所需材料：高中成绩单、语言成绩、部分专业需补充申请",
       "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: January 15\n💰 Fee: C$155\n📝 Materials: Transcripts, English proficiency, supplementary application for some programs"
+    },
+    "acceptanceRate": {
+      "overall": "56.0%",
+      "intl": "~50%"
     }
   },
   {
@@ -10633,6 +11021,10 @@
     "application": {
       "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：2月1日\n💰 申请费：C$165\n📝 所需材料：高中成绩单、语言成绩、个人陈述/补充申请",
       "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: February 1\n💰 Fee: C$165\n📝 Materials: Transcripts, English proficiency, personal statement/supplementary application"
+    },
+    "acceptanceRate": {
+      "overall": "42.0%",
+      "intl": "~35%"
     }
   },
   {
@@ -10743,6 +11135,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过Dalhousie官网申请\n📅 截止日期：4月1日\n💰 申请费：C$70\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: Apply directly via Dalhousie website\n📅 Deadline: April 1\n💰 Fee: C$70\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -10853,6 +11249,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过SFU官网申请\n📅 截止日期：1月31日\n💰 申请费：C$75\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: Apply directly via SFU website\n📅 Deadline: January 31\n💰 Fee: C$75\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -10963,6 +11363,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过UVic官网申请\n📅 截止日期：2月28日\n💰 申请费：C$125\n📝 所需材料：高中成绩单、语言成绩、个人陈述",
       "en": "📋 Platform: Apply directly via UVic website\n📅 Deadline: February 28\n💰 Fee: C$125\n📝 Materials: Transcripts, English proficiency, personal statement"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -11073,6 +11477,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过Laval官网申请（魁省独立系统）\n📅 截止日期：2月1日\n💰 申请费：C$90\n📝 所需材料：高中成绩单、法语能力证明",
       "en": "📋 Platform: Apply directly via Laval website (Quebec separate system)\n📅 Deadline: February 1\n💰 Fee: C$90\n📝 Materials: Transcripts, French proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -11183,6 +11591,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过UManitoba官网申请\n📅 截止日期：3月1日\n💰 申请费：C$100\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: Apply directly via UManitoba website\n📅 Deadline: March 1\n💰 Fee: C$100\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -11293,6 +11705,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过USask官网申请\n📅 截止日期：4月1日\n💰 申请费：C$100\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: Apply directly via USask website\n📅 Deadline: April 1\n💰 Fee: C$100\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -11403,6 +11819,10 @@
     "application": {
       "zh": "📋 申请平台：直接通过Concordia官网申请（魁省独立系统）\n📅 截止日期：2月1日\n💰 申请费：C$100\n📝 所需材料：高中成绩单、语言成绩、作品集（艺术专业）",
       "en": "📋 Platform: Apply directly via Concordia website (Quebec separate system)\n📅 Deadline: February 1\n💰 Fee: C$100\n📝 Materials: Transcripts, English proficiency, portfolio (art programs)"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -11513,6 +11933,10 @@
     "application": {
       "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：2月1日\n💰 申请费：C$150\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: February 1\n💰 Fee: C$150\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -11623,6 +12047,10 @@
     "application": {
       "zh": "📋 申请平台：OUAC 105通道\n📅 截止日期：4月1日\n💰 申请费：C$150\n📝 所需材料：高中成绩单、语言成绩",
       "en": "📋 Platform: OUAC Stream 105\n📅 Deadline: April 1\n💰 Fee: C$150\n📝 Materials: Transcripts, English proficiency"
+    },
+    "acceptanceRate": {
+      "overall": "~50-65%",
+      "intl": "~40-55%"
     }
   },
   {
@@ -11733,6 +12161,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "70.0%",
+      "intl": "~65%"
     }
   },
   {
@@ -11843,6 +12275,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "68.0%",
+      "intl": "~60%"
     }
   },
   {
@@ -11953,6 +12389,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "65.0%",
+      "intl": "~60%"
     }
   },
   {
@@ -12063,6 +12503,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "55.0%",
+      "intl": "~50%"
     }
   },
   {
@@ -12173,6 +12617,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "66.0%",
+      "intl": "~60%"
     }
   },
   {
@@ -12283,6 +12731,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "65.0%",
+      "intl": "~60%"
     }
   },
   {
@@ -12393,6 +12845,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -12503,6 +12959,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -12613,6 +13073,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -12723,6 +13187,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -12831,6 +13299,10 @@
     "application": {
       "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
       "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -12939,6 +13411,10 @@
     "application": {
       "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
       "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -13047,6 +13523,10 @@
     "application": {
       "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
       "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -13155,6 +13635,10 @@
     "application": {
       "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
       "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -13263,6 +13747,10 @@
     "application": {
       "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
       "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    },
+    "acceptanceRate": {
+      "overall": "~60-75%",
+      "intl": "~55-70%"
     }
   },
   {
@@ -13373,6 +13861,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：NZ$0（免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT",
       "en": "📋 Platform: Apply directly\\n📅 Intakes: Feb (main) / Jul\\n💰 Fee: NZ$0 (free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT"
+    },
+    "acceptanceRate": {
+      "overall": "65.0%",
+      "intl": "~60%"
     }
   },
   {
@@ -13483,6 +13975,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 入学时间：2月（主）/ 7月\\n💰 申请费：NZ$0\\n📝 所需材料：成绩单、IELTS、个人陈述",
       "en": "📋 Platform: Apply directly\\n📅 Intakes: Feb (main) / Jul\\n💰 Fee: NZ$0\\n📝 Required: Transcripts, IELTS, personal statement"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -13593,6 +14089,10 @@
     "application": {
       "zh": "📋 直接向学校申请\\n📅 入学：3月/7月/11月（三学期制）\\n💰 免申请费\\n📝 成绩单+IELTS",
       "en": "📋 Apply directly\\n📅 Intakes: Mar/Jul/Nov (trimester)\\n💰 No application fee\\n📝 Transcripts + IELTS"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -13699,6 +14199,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 26+，工程29+"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -13805,6 +14309,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 24+，管理学26+"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -13911,6 +14419,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 24+，兽医28+"
+    },
+    "acceptanceRate": {
+      "overall": "~65-80%",
+      "intl": "~60-75%"
     }
   },
   {
@@ -14018,6 +14530,10 @@
     "application": {
       "zh": "📋 直接向ETH申请\\n📅 截止4月30日（秋季入学）\\n💰 申请费：CHF 150\\n📝 所需材料：IB成绩（需达标）或通过入学考试\\n⚠️ 本科主要德语授课！硕士多英语授课\\n💰 学费极低：仅CHF 730/学期！",
       "en": "📋 Apply directly to ETH\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 Required: IB scores (must meet threshold) or entrance exam\\n⚠️ BSc mostly in German! MSc often in English\\n💰 Extremely low tuition: CHF 730/semester!"
+    },
+    "acceptanceRate": {
+      "overall": "27.0%",
+      "intl": "~25%"
     }
   },
   {
@@ -14125,6 +14641,10 @@
     "application": {
       "zh": "📋 直接向EPFL申请\\n📅 截止4月30日\\n💰 申请费：CHF 150\\n📝 IB成绩需达标 / 入学考试\\n⚠️ 本科法语授课！\\n💰 学费仅CHF 633/学期",
       "en": "📋 Apply directly to EPFL\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 IB scores / entrance exam\\n⚠️ BSc in French!\\n💰 Tuition only CHF 633/semester"
+    },
+    "acceptanceRate": {
+      "overall": "25.0%",
+      "intl": "~25%"
     }
   },
   {
@@ -14230,6 +14750,10 @@
       "IELTS": "N/A",
       "SAT": "不要求",
       "IB": "IB 34+（需通过入学评估）\\n⚠️ 本科多数德语授课"
+    },
+    "acceptanceRate": {
+      "overall": "~25-40%",
+      "intl": "~25-35%"
     }
   },
   {
@@ -14335,6 +14859,10 @@
       "IELTS": "N/A",
       "SAT": "不要求",
       "IB": "IB 32+\\n⚠️ 本科法语授课为主"
+    },
+    "acceptanceRate": {
+      "overall": "~25-40%",
+      "intl": "~25-35%"
     }
   },
   {
@@ -14445,6 +14973,10 @@
     "application": {
       "zh": "📋 通过CAO系统申请（类似UCAS）\\n📅 截止2月1日\\n💰 申请费：€45\\n📝 所需材料：IB/A-Level成绩、个人陈述、IELTS\\n✅ 英语授课，无需学其他语言",
       "en": "📋 Via CAO system (similar to UCAS)\\n📅 Deadline: Feb 1\\n💰 Fee: €45\\n📝 Required: IB/A-Level scores, personal statement, IELTS\\n✅ Taught in English"
+    },
+    "acceptanceRate": {
+      "overall": "35.0%",
+      "intl": "~30%"
     }
   },
   {
@@ -14555,6 +15087,10 @@
     "application": {
       "zh": "📋 通过CAO系统\\n📅 截止2月1日\\n💰 €45\\n📝 IB成绩+IELTS\\n✅ 英语授课",
       "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB scores + IELTS\\n✅ English-taught"
+    },
+    "acceptanceRate": {
+      "overall": "~45-65%",
+      "intl": "~40-60%"
     }
   },
   {
@@ -14665,6 +15201,10 @@
     "application": {
       "zh": "📋 通过CAO\\n📅 2月1日\\n💰 €45\\n📝 IB+IELTS",
       "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB + IELTS"
+    },
+    "acceptanceRate": {
+      "overall": "~45-65%",
+      "intl": "~40-60%"
     }
   },
   {
@@ -14771,6 +15311,10 @@
       "IELTS": "6.5+",
       "SAT": "不要求",
       "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Science 理学：28\\n• Commerce 商学：30\\n• Pharmacy 药学：33\\n• Medicine 医学：36+\\n• Law 法学：32"
+    },
+    "acceptanceRate": {
+      "overall": "~45-65%",
+      "intl": "~40-60%"
     }
   },
   {
@@ -14877,6 +15421,10 @@
       "IELTS": "6.5+",
       "SAT": "不要求",
       "IB": "各专业IB要求不同：\\n• Arts 文学：25\\n• Business 商学：28\\n• Engineering 工程：29\\n• Science 理学：27\\n• Education 教育：26"
+    },
+    "acceptanceRate": {
+      "overall": "~45-65%",
+      "intl": "~40-60%"
     }
   },
   {
@@ -14987,6 +15535,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    },
+    "acceptanceRate": {
+      "overall": "6.0%",
+      "intl": "~3-5%"
     }
   },
   {
@@ -15097,6 +15649,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    },
+    "acceptanceRate": {
+      "overall": "8.0%",
+      "intl": "~5-8%"
     }
   },
   {
@@ -15207,6 +15763,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    },
+    "acceptanceRate": {
+      "overall": "25.0%",
+      "intl": "~20%"
     }
   },
   {
@@ -15317,6 +15877,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    },
+    "acceptanceRate": {
+      "overall": "~15-30%",
+      "intl": "~10-20%"
     }
   },
   {
@@ -15423,6 +15987,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 28-32\\n• Engineering 工程：IB 30+\\n• IT：IB 29+\\n• Health Sciences：IB 30+"
+    },
+    "acceptanceRate": {
+      "overall": "~15-30%",
+      "intl": "~10-20%"
     }
   },
   {
@@ -15529,6 +16097,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 26-30\\n• Business 商学：IB 28+\\n• Law 法学：IB 32+\\n• Psychology 心理：IB 28+"
+    },
+    "acceptanceRate": {
+      "overall": "~15-30%",
+      "intl": "~10-20%"
     }
   },
   {
@@ -15636,6 +16208,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "9.0%",
+      "intl": "~8%"
     }
   },
   {
@@ -15743,6 +16319,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "15.0%",
+      "intl": "~12%"
     }
   },
   {
@@ -15850,6 +16430,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "13.0%",
+      "intl": "~10%"
     }
   },
   {
@@ -15957,6 +16541,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "25.0%",
+      "intl": "~20%"
     }
   },
   {
@@ -16064,6 +16652,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "28.0%",
+      "intl": "~25%"
     }
   },
   {
@@ -16171,6 +16763,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
       "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    },
+    "acceptanceRate": {
+      "overall": "~20-35%",
+      "intl": "~15-30%"
     }
   }
 ]

@@ -104,6 +104,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$85。需要提交：高中成绩单、SAT/ACT成绩（可选但建议）、TOEFL/IELTS成绩、2封教师推荐信、1封升学顾问推荐信、个人陈述、课外活动列表。提前申请（REA）截止11月1日，常规申请截止1月1日。",
       "en": "Apply via Common App or Coalition App. $85 application fee. Required: transcripts, SAT/ACT (test-optional but recommended), TOEFL/IELTS, 2 teacher recommendations, 1 counselor recommendation, personal essay, activities list. REA deadline Nov 1, Regular Decision Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "3.2%",
+      "intl": "~3%"
     }
   },
   {
@@ -211,6 +215,10 @@
     "application": {
       "zh": "通过MIT自有申请系统MyMIT申请（不接受Common App）。申请费$75。需要：成绩单、SAT/ACT（2024-25恢复要求）、TOEFL/IELTS、2封推荐信、个人陈述、活动列表、面试（可能要求）。EA截止11月1日，RD截止1月5日。",
       "en": "Apply through MIT's own MyMIT portal (does not accept Common App). $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 recommendations, essays, activities, interview (may be required). EA Nov 1, RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "3.5%",
+      "intl": "~3%"
     }
   },
   {
@@ -318,6 +326,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$90。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、个人陈述、短文。REA截止11月1日，RD截止1月5日。",
       "en": "Apply via Common App or Coalition App. $90 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, personal essay, short essays. REA Nov 1, RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "3.7%",
+      "intl": "~3.5%"
     }
   },
   {
@@ -425,6 +437,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$70。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文/短文、面试（建议）。SCEA截止11月1日，RD截止1月1日。",
       "en": "Apply via Common App or Coalition App. $70 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, essays, interview (recommended). SCEA Nov 1, RD Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "3.5%",
+      "intl": "~3%"
     }
   },
   {
@@ -532,6 +548,10 @@
     "application": {
       "zh": "通过Common App或Coalition App/QuestBridge申请。申请费$80。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文。REA截止11月1日，RD截止1月2日。",
       "en": "Apply via Common App, Coalition App, or QuestBridge. $80 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, essays. REA Nov 1, RD Jan 2."
+    },
+    "acceptanceRate": {
+      "overall": "4.3%",
+      "intl": "~4%"
     }
   },
   {
@@ -639,6 +659,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、2封STEM教师推荐信、1封人文教师推荐信、论文。EA截止11月1日，RD截止1月3日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 2 STEM teacher recs, 1 humanities teacher rec, essays. EA Nov 1, RD Jan 3."
+    },
+    "acceptanceRate": {
+      "overall": "3.0%",
+      "intl": "~5%"
     }
   },
   {
@@ -746,6 +770,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、UChicago特色论文、面试（可选）。ED I截止11月1日，ED II和RD截止1月4日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, UChicago-specific essays, interview (optional). ED I Nov 1, ED II/RD Jan 4."
+    },
+    "acceptanceRate": {
+      "overall": "5.2%",
+      "intl": "~5%"
     }
   },
   {
@@ -853,6 +881,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$85。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、Columbia特色论文。ED截止11月1日，RD截止1月1日。",
       "en": "Apply via Common App or Coalition App. $85 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, Columbia-specific essays. ED Nov 1, RD Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "3.9%",
+      "intl": "~4%"
     }
   },
   {
@@ -960,6 +992,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文、Penn特色短文。ED截止11月1日，RD截止1月5日。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, personal essay, Penn-specific essays. ED Nov 1, RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "5.4%",
+      "intl": "~5%"
     }
   },
   {
@@ -1067,6 +1103,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$85。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文和Duke短文。ED截止11月1日，RD截止1月4日。",
       "en": "Apply via Common App. $85 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays and Duke supplements. ED Nov 1, RD Jan 4."
+    },
+    "acceptanceRate": {
+      "overall": "5.0%",
+      "intl": "~5%"
     }
   },
   {
@@ -1174,6 +1214,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、1-2封推荐信、1封顾问信、论文。ED截止11月1日，RD截止1月3日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 1-2 recs, 1 counselor rec, essays. ED Nov 1, RD Jan 3."
+    },
+    "acceptanceRate": {
+      "overall": "7.0%",
+      "intl": "~7%"
     }
   },
   {
@@ -1281,6 +1325,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$70。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文。ED I截止11月1日，ED II/RD截止1月5日。",
       "en": "Apply via Common App or Coalition App. $70 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays. ED I Nov 1, ED II/RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "6.5%",
+      "intl": "~6%"
     }
   },
   {
@@ -1388,6 +1436,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问信、Dartmouth短文、面试（推荐）。ED截止11月1日，RD截止1月3日。",
       "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, Dartmouth supplements, interview (recommended). ED Nov 1, RD Jan 3."
+    },
+    "acceptanceRate": {
+      "overall": "6.2%",
+      "intl": "~6%"
     }
   },
   {
@@ -1495,6 +1547,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文和Brown短文。ED截止11月1日，RD截止1月5日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays and Brown supplements. ED Nov 1, RD Jan 5."
+    },
+    "acceptanceRate": {
+      "overall": "5.0%",
+      "intl": "~5%"
     }
   },
   {
@@ -1602,6 +1658,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（可选，部分学院要求）、TOEFL/IELTS、2封推荐信、1封顾问信、论文。按学院申请，不同学院可能有额外要求。ED截止11月1日，RD截止1月2日。",
       "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (test-optional, some colleges require), TOEFL/IELTS, 2 recs, 1 counselor rec, essays. Apply to specific colleges; some have additional requirements. ED Nov 1, RD Jan 2."
+    },
+    "acceptanceRate": {
+      "overall": "7.3%",
+      "intl": "~8%"
     }
   },
   {
@@ -1709,6 +1769,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封推荐信、1封顾问信、论文、面试（要求）。ED截止11月1日，RD截止1月4日。",
       "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 recs, 1 counselor rec, essays, interview (required). ED Nov 1, RD Jan 4."
+    },
+    "acceptanceRate": {
+      "overall": "7.7%",
+      "intl": "~7%"
     }
   },
   {
@@ -1816,6 +1880,10 @@
     "application": {
       "zh": "通过Common App或Coalition App申请。申请费$50。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。ED I截止11月1日，ED II/RD截止1月1日。",
       "en": "Apply via Common App or Coalition App. $50 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recommendations, essays. ED I Nov 1, ED II/RD Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "5.6%",
+      "intl": "~6%"
     }
   },
   {
@@ -1923,6 +1991,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、1封教师推荐信、1封顾问信、论文。REA截止11月1日，RD截止1月1日。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 1 teacher rec, 1 counselor rec, essays. REA Nov 1, RD Jan 1."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2030,6 +2102,10 @@
     "application": {
       "zh": "通过Georgetown自有申请系统申请（不接受Common App）。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文、面试（可选）。EA截止11月1日，RD截止1月10日。",
       "en": "Apply through Georgetown's own application system (does not accept Common App). $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recommendations, essays, interview (optional). EA Nov 1, RD Jan 10."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2140,6 +2216,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 international). Required: transcripts, no SAT/ACT required, TOEFL/IELTS, personal insight questions (4 essays), activities. No recommendation letters required. Single deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "8.6%",
+      "intl": "~7%"
     }
   },
   {
@@ -2250,6 +2330,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2360,6 +2444,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "24.7%",
+      "intl": "~18%"
     }
   },
   {
@@ -2470,6 +2558,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "25.9%",
+      "intl": "~20%"
     }
   },
   {
@@ -2580,6 +2672,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2690,6 +2786,10 @@
     "application": {
       "zh": "通过UC Application系统申请（不接受Common App）。申请费$80（国际生$95）。需要：成绩单、不要求SAT/ACT、TOEFL/IELTS、个人陈述（4篇短文）、活动列表。不需要推荐信。统一截止11月30日。",
       "en": "Apply via UC Application (not Common App). $80 fee ($95 int'l). Required: transcripts, no SAT/ACT, TOEFL/IELTS, 4 personal insight essays, activities. No recommendation letters. Deadline Nov 30."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -2800,6 +2900,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "17.7%",
+      "intl": "~15%"
     }
   },
   {
@@ -2910,6 +3014,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$70。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $70 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "16.3%",
+      "intl": "~14%"
     }
   },
   {
@@ -3017,6 +3125,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "11.2%",
+      "intl": "~10%"
     }
   },
   {
@@ -3124,6 +3236,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "12.2%",
+      "intl": "~15%"
     }
   },
   {
@@ -3234,6 +3350,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -3344,6 +3464,10 @@
     "application": {
       "zh": "通过Common App或myIllini申请。申请费$50。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via Common App or myIllini. $50 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "43.7%",
+      "intl": "~35%"
     }
   },
   {
@@ -3454,6 +3578,10 @@
     "application": {
       "zh": "通过ApplyTexas或Common App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via ApplyTexas or Common App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -3564,6 +3692,10 @@
     "application": {
       "zh": "通过UW Application或Common App申请。申请费$60。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via UW Application or Common App. $60 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -3674,6 +3806,10 @@
     "application": {
       "zh": "通过Common App或Purdue Application申请。申请费$60。",
       "en": "Apply via Common App or Purdue Application. $60 fee."
+    },
+    "acceptanceRate": {
+      "overall": "53.0%",
+      "intl": "~45%"
     }
   },
   {
@@ -3784,6 +3920,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$60。",
       "en": "Apply via Common App. $60 fee."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -3894,6 +4034,10 @@
     "application": {
       "zh": "通过Penn State Application或Common App申请。申请费$65。",
       "en": "Apply via Penn State Application or Common App. $65 fee."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -4004,6 +4148,10 @@
     "application": {
       "zh": "通过Common App或UF Application申请。申请费$30。",
       "en": "Apply via Common App or UF Application. $30 fee."
+    },
+    "acceptanceRate": {
+      "overall": "23.1%",
+      "intl": "~20%"
     }
   },
   {
@@ -4114,6 +4262,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$85。需要推荐信。",
       "en": "Apply via Common App. $85 fee. Recs required."
+    },
+    "acceptanceRate": {
+      "overall": "16.8%",
+      "intl": "~12%"
     }
   },
   {
@@ -4221,6 +4373,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$80。需要推荐信。",
       "en": "Apply via Common App. $80 fee. Recs required."
+    },
+    "acceptanceRate": {
+      "overall": "14.4%",
+      "intl": "~18%"
     }
   },
   {
@@ -4328,6 +4484,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$75。需要推荐信。",
       "en": "Apply via Common App. $75 fee. Recs required."
+    },
+    "acceptanceRate": {
+      "overall": "6.7%",
+      "intl": "~10%"
     }
   },
   {
@@ -4435,6 +4595,10 @@
     "application": {
       "zh": "通过Common App申请。申请费$85。需要推荐信。",
       "en": "Apply via Common App. $85 fee. Recs required."
+    },
+    "acceptanceRate": {
+      "overall": "9.9%",
+      "intl": "~12%"
     }
   },
   {
@@ -4542,6 +4706,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "11.4%",
+      "intl": "~12%"
     }
   },
   {
@@ -4649,6 +4817,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "9.5%",
+      "intl": "~10%"
     }
   },
   {
@@ -4756,6 +4928,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -4866,6 +5042,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -4973,6 +5153,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -5080,6 +5264,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -5187,6 +5375,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recs, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -5297,6 +5489,10 @@
     "application": {
       "zh": "通过Common App申请。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、论文。",
       "en": "Apply via Common App. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, essays."
+    },
+    "acceptanceRate": {
+      "overall": "~40-60%",
+      "intl": "~35-50%"
     }
   },
   {
@@ -5407,6 +5603,10 @@
     "application": {
       "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
       "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    },
+    "acceptanceRate": {
+      "overall": "11.6%",
+      "intl": "~8.5%"
     }
   },
   {
@@ -5517,6 +5717,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "16.0%",
+      "intl": "~12%"
     }
   },
   {
@@ -5627,6 +5831,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "29.0%",
+      "intl": "~20%"
     }
   },
   {
@@ -5737,6 +5945,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "49.2%",
+      "intl": "~40%"
     }
   },
   {
@@ -5847,6 +6059,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "53.0%",
+      "intl": "~45%"
     }
   },
   {
@@ -5957,6 +6173,10 @@
     "application": {
       "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
       "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
+    },
+    "acceptanceRate": {
+      "overall": "55.0%",
+      "intl": "~50%"
     }
   },
   {
@@ -6067,6 +6287,10 @@
     "application": {
       "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
       "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    },
+    "acceptanceRate": {
+      "overall": "36.5%",
+      "intl": "~30%"
     }
   },
   {
@@ -6177,6 +6401,10 @@
     "application": {
       "zh": "📋 申请平台：UC Application (apply.universityofcalifornia.edu)\n📅 截止日期：11月30日（仅一轮）\n💰 申请费：$80\n📝 所需材料：4篇PIQ文书、成绩单、TOEFL/IELTS\n⚠️ UC系统不需要推荐信",
       "en": "📋 Platform: UC Application\n📅 Deadline: November 30 (single round)\n💰 Fee: $80\n📝 Required: 4 PIQ essays, transcripts, TOEFL/IELTS\n⚠️ No recommendation letters required"
+    },
+    "acceptanceRate": {
+      "overall": "20.9%",
+      "intl": "~15%"
     }
   }
 ]

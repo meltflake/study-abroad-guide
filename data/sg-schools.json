@@ -107,6 +107,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    },
+    "acceptanceRate": {
+      "overall": "6.0%",
+      "intl": "~3-5%"
     }
   },
   {
@@ -217,6 +221,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    },
+    "acceptanceRate": {
+      "overall": "8.0%",
+      "intl": "~5-8%"
     }
   },
   {
@@ -327,6 +335,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    },
+    "acceptanceRate": {
+      "overall": "25.0%",
+      "intl": "~20%"
     }
   },
   {
@@ -437,6 +449,10 @@
     "application": {
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    },
+    "acceptanceRate": {
+      "overall": "~15-30%",
+      "intl": "~10-20%"
     }
   },
   {
@@ -543,6 +559,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 28-32\\n• Engineering 工程：IB 30+\\n• IT：IB 29+\\n• Health Sciences：IB 30+"
+    },
+    "acceptanceRate": {
+      "overall": "~15-30%",
+      "intl": "~10-20%"
     }
   },
   {
@@ -649,6 +669,10 @@
       "IELTS": "6.0+",
       "SAT": "不要求",
       "IB": "一般要求IB 26-30\\n• Business 商学：IB 28+\\n• Law 法学：IB 32+\\n• Psychology 心理：IB 28+"
+    },
+    "acceptanceRate": {
+      "overall": "~15-30%",
+      "intl": "~10-20%"
     }
   }
 ]
