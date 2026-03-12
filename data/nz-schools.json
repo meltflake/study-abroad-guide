@@ -328,5 +328,323 @@
       "zh": "📋 直接向学校申请\\n📅 入学：3月/7月/11月（三学期制）\\n💰 免申请费\\n📝 成绩单+IELTS",
       "en": "📋 Apply directly\\n📅 Intakes: Mar/Jul/Nov (trimester)\\n💰 No application fee\\n📝 Transcripts + IELTS"
     }
+  },
+  {
+    "deadline": {
+      "zh": "2月/7月入学",
+      "en": "Feb/Jul intakes"
+    },
+    "safetyDetail": {
+      "zh": "校园安全良好。新西兰整体安全。",
+      "en": "Good campus safety. NZ overall very safe."
+    },
+    "climate": {
+      "zh": "温带海洋性",
+      "en": "Temperate maritime"
+    },
+    "livingCost": {
+      "zh": "约NZ$1,500/月",
+      "en": "~NZ$1,500/month"
+    },
+    "livingCostAnnual": 10800,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → PSWV → PR",
+      "en": "Student Visa → PSWV → PR"
+    },
+    "housing": {
+      "zh": "校内校外均可。",
+      "en": "Options available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好。",
+      "en": "Good prospects."
+    },
+    "healthcare": {
+      "zh": "✅ 强制学生医保。",
+      "en": "✅ Mandatory insurance."
+    },
+    "application": {
+      "zh": "📋 直接申请\\n📅 2月/7月\\n💰 免申请费",
+      "en": "📋 Apply directly\\n📅 Feb/Jul\\n💰 No fee"
+    },
+    "id": "canterbury",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "坎特伯雷大学",
+      "en": "University of Canterbury"
+    },
+    "city": {
+      "zh": "基督城",
+      "en": "Christchurch"
+    },
+    "qs": 256,
+    "the": 301,
+    "usnews": 300,
+    "arwu": 301,
+    "tuition": 30000,
+    "tuitionRange": [
+      26000,
+      35000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "林业",
+        "教育",
+        "商学",
+        "理学"
+      ],
+      "en": [
+        "Engineering",
+        "Forestry",
+        "Education",
+        "Commerce",
+        "Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费因专业而异。",
+      "en": "Varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(NZD)": 30000,
+        "住宿": 12000
+      },
+      "en": {
+        "Tuition(NZD)": 30000,
+        "Housing": 12000
+      }
+    },
+    "desc": {
+      "zh": "坎特伯雷大学工程学院全新西兰最好。基督城是南岛最大城市，靠近滑雪场和户外运动天堂。",
+      "en": "Canterbury has NZ's best engineering school. Christchurch is the South Island's largest city, near skiing and outdoor activities."
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0+",
+      "SAT": "不要求",
+      "IB": "一般要求IB 26+，工程29+"
+    }
+  },
+  {
+    "deadline": {
+      "zh": "2月/7月入学",
+      "en": "Feb/Jul intakes"
+    },
+    "safetyDetail": {
+      "zh": "校园安全良好。新西兰整体安全。",
+      "en": "Good campus safety. NZ overall very safe."
+    },
+    "climate": {
+      "zh": "温带海洋性",
+      "en": "Temperate maritime"
+    },
+    "livingCost": {
+      "zh": "约NZ$1,500/月",
+      "en": "~NZ$1,500/month"
+    },
+    "livingCostAnnual": 10800,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → PSWV → PR",
+      "en": "Student Visa → PSWV → PR"
+    },
+    "housing": {
+      "zh": "校内校外均可。",
+      "en": "Options available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好。",
+      "en": "Good prospects."
+    },
+    "healthcare": {
+      "zh": "✅ 强制学生医保。",
+      "en": "✅ Mandatory insurance."
+    },
+    "application": {
+      "zh": "📋 直接申请\\n📅 2月/7月\\n💰 免申请费",
+      "en": "📋 Apply directly\\n📅 Feb/Jul\\n💰 No fee"
+    },
+    "id": "waikato",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "怀卡托大学",
+      "en": "University of Waikato"
+    },
+    "city": {
+      "zh": "汉密尔顿",
+      "en": "Hamilton"
+    },
+    "qs": 331,
+    "the": 350,
+    "usnews": 400,
+    "arwu": 401,
+    "tuition": 28000,
+    "tuitionRange": [
+      24000,
+      32000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "管理学",
+        "计算机科学",
+        "教育",
+        "法学",
+        "环境科学"
+      ],
+      "en": [
+        "Management",
+        "Computer Science",
+        "Education",
+        "Law",
+        "Environmental Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费因专业而异。",
+      "en": "Varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(NZD)": 28000,
+        "住宿": 10000
+      },
+      "en": {
+        "Tuition(NZD)": 28000,
+        "Housing": 10000
+      }
+    },
+    "desc": {
+      "zh": "怀卡托管理学院获三皇冠认证，计算机科学研究出色。生活成本全新西兰最低之一。",
+      "en": "Waikato Management School holds triple crown accreditation. Strong CS research. Among NZ's lowest living costs."
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0+",
+      "SAT": "不要求",
+      "IB": "一般要求IB 24+，管理学26+"
+    }
+  },
+  {
+    "deadline": {
+      "zh": "2月/7月入学",
+      "en": "Feb/Jul intakes"
+    },
+    "safetyDetail": {
+      "zh": "校园安全良好。新西兰整体安全。",
+      "en": "Good campus safety. NZ overall very safe."
+    },
+    "climate": {
+      "zh": "温带海洋性",
+      "en": "Temperate maritime"
+    },
+    "livingCost": {
+      "zh": "约NZ$1,500/月",
+      "en": "~NZ$1,500/month"
+    },
+    "livingCostAnnual": 10800,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → PSWV → PR",
+      "en": "Student Visa → PSWV → PR"
+    },
+    "housing": {
+      "zh": "校内校外均可。",
+      "en": "Options available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好。",
+      "en": "Good prospects."
+    },
+    "healthcare": {
+      "zh": "✅ 强制学生医保。",
+      "en": "✅ Mandatory insurance."
+    },
+    "application": {
+      "zh": "📋 直接申请\\n📅 2月/7月\\n💰 免申请费",
+      "en": "📋 Apply directly\\n📅 Feb/Jul\\n💰 No fee"
+    },
+    "id": "massey",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "梅西大学",
+      "en": "Massey University"
+    },
+    "city": {
+      "zh": "北帕默斯顿/奥克兰",
+      "en": "Palmerston North/Auckland"
+    },
+    "qs": 239,
+    "the": 350,
+    "usnews": 350,
+    "arwu": 401,
+    "tuition": 29000,
+    "tuitionRange": [
+      25000,
+      34000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "兽医学",
+        "农业",
+        "航空",
+        "食品科学",
+        "设计"
+      ],
+      "en": [
+        "Veterinary Science",
+        "Agriculture",
+        "Aviation",
+        "Food Science",
+        "Design"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费因专业而异。",
+      "en": "Varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(NZD)": 29000,
+        "住宿": 11000
+      },
+      "en": {
+        "Tuition(NZD)": 29000,
+        "Housing": 11000
+      }
+    },
+    "desc": {
+      "zh": "梅西大学兽医学全球Top 30，是新西兰唯一提供航空学位的大学。农业和食品科学也很强。",
+      "en": "Massey has globally top-30 vet science and is NZ's only university offering aviation degrees. Strong agriculture and food science."
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0+",
+      "SAT": "不要求",
+      "IB": "一般要求IB 24+，兽医28+"
+    }
   }
 ]

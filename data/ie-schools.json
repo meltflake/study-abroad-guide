@@ -328,5 +328,217 @@
       "zh": "📋 通过CAO\\n📅 2月1日\\n💰 €45\\n📝 IB+IELTS",
       "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB + IELTS"
     }
+  },
+  {
+    "deadline": {
+      "zh": "2月1日（CAO）",
+      "en": "Feb 1 (CAO)"
+    },
+    "safetyDetail": {
+      "zh": "爱尔兰治安良好。",
+      "en": "Ireland is safe."
+    },
+    "climate": {
+      "zh": "温带海洋性，多雨",
+      "en": "Maritime, rainy"
+    },
+    "livingCost": {
+      "zh": "约€1,200/月",
+      "en": "~€1,200/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 500,
+    "flights": 1200,
+    "visa": {
+      "zh": "Stamp 2 → 毕业后2年工签 → PR",
+      "en": "Stamp 2 → 2-year post-study → PR"
+    },
+    "housing": {
+      "zh": "校内住宿可申请。",
+      "en": "On-campus available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "爱尔兰科技行业繁荣。",
+      "en": "Ireland's tech sector is booming."
+    },
+    "healthcare": {
+      "zh": "✅ 需私人医保约€500/年。",
+      "en": "✅ Private insurance ~€500/yr."
+    },
+    "application": {
+      "zh": "📋 通过CAO系统\\n📅 2月1日\\n✅ 英语授课",
+      "en": "📋 Via CAO\\n📅 Feb 1\\n✅ English-taught"
+    },
+    "id": "uccie",
+    "country": "IE",
+    "flag": "🇮🇪",
+    "name": {
+      "zh": "科克大学",
+      "en": "University College Cork (UCC)"
+    },
+    "city": {
+      "zh": "科克",
+      "en": "Cork"
+    },
+    "qs": 292,
+    "the": 301,
+    "usnews": 300,
+    "arwu": 301,
+    "tuition": 22000,
+    "tuitionRange": [
+      18000,
+      30000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "食品科学",
+        "药学",
+        "法学",
+        "商学",
+        "医学"
+      ],
+      "en": [
+        "Food Science",
+        "Pharmacy",
+        "Law",
+        "Commerce",
+        "Medicine"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费因专业而异。",
+      "en": "Varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(EUR)": 22000,
+        "住宿": 7000
+      },
+      "en": {
+        "Tuition(EUR)": 22000,
+        "Housing": 7000
+      }
+    },
+    "desc": {
+      "zh": "科克大学食品科学全球领先，是爱尔兰第二大城市。生活成本远低于都柏林。Apple欧洲总部在科克。",
+      "en": "UCC has globally leading food science in Ireland's second city. Much lower costs than Dublin. Apple's European HQ is in Cork."
+    },
+    "requirements": {
+      "TOEFL": "88+",
+      "IELTS": "6.5+",
+      "SAT": "不要求",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Science 理学：28\\n• Commerce 商学：30\\n• Pharmacy 药学：33\\n• Medicine 医学：36+\\n• Law 法学：32"
+    }
+  },
+  {
+    "deadline": {
+      "zh": "2月1日（CAO）",
+      "en": "Feb 1 (CAO)"
+    },
+    "safetyDetail": {
+      "zh": "爱尔兰治安良好。",
+      "en": "Ireland is safe."
+    },
+    "climate": {
+      "zh": "温带海洋性，多雨",
+      "en": "Maritime, rainy"
+    },
+    "livingCost": {
+      "zh": "约€1,200/月",
+      "en": "~€1,200/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 500,
+    "flights": 1200,
+    "visa": {
+      "zh": "Stamp 2 → 毕业后2年工签 → PR",
+      "en": "Stamp 2 → 2-year post-study → PR"
+    },
+    "housing": {
+      "zh": "校内住宿可申请。",
+      "en": "On-campus available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "爱尔兰科技行业繁荣。",
+      "en": "Ireland's tech sector is booming."
+    },
+    "healthcare": {
+      "zh": "✅ 需私人医保约€500/年。",
+      "en": "✅ Private insurance ~€500/yr."
+    },
+    "application": {
+      "zh": "📋 通过CAO系统\\n📅 2月1日\\n✅ 英语授课",
+      "en": "📋 Via CAO\\n📅 Feb 1\\n✅ English-taught"
+    },
+    "id": "ul",
+    "country": "IE",
+    "flag": "🇮🇪",
+    "name": {
+      "zh": "利默里克大学",
+      "en": "University of Limerick (UL)"
+    },
+    "city": {
+      "zh": "利默里克",
+      "en": "Limerick"
+    },
+    "qs": 355,
+    "the": 350,
+    "usnews": 400,
+    "arwu": 401,
+    "tuition": 18000,
+    "tuitionRange": [
+      15000,
+      25000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "商学",
+        "体育科学",
+        "教育",
+        "计算机"
+      ],
+      "en": [
+        "Engineering",
+        "Business",
+        "Sports Science",
+        "Education",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费因专业而异。",
+      "en": "Varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(EUR)": 18000,
+        "住宿": 6000
+      },
+      "en": {
+        "Tuition(EUR)": 18000,
+        "Housing": 6000
+      }
+    },
+    "desc": {
+      "zh": "利默里克大学以Co-op带薪实习闻名，是爱尔兰第一所引入Co-op的大学。校园沿香农河而建，被评为爱尔兰最美校园。学费在爱尔兰最低之一。",
+      "en": "UL pioneered co-op internships in Ireland. Campus along the River Shannon, voted Ireland's most beautiful. Among the lowest fees in Ireland."
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "不要求",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：25\\n• Business 商学：28\\n• Engineering 工程：29\\n• Science 理学：27\\n• Education 教育：26"
+    }
   }
 ]

@@ -438,5 +438,217 @@
       "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
       "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
     }
+  },
+  {
+    "deadline": {
+      "zh": "2月下旬截止",
+      "en": "Late Feb deadline"
+    },
+    "safetyDetail": {
+      "zh": "新加坡极度安全。",
+      "en": "Singapore is extremely safe."
+    },
+    "climate": {
+      "zh": "热带，全年温暖",
+      "en": "Tropical, warm year-round"
+    },
+    "livingCost": {
+      "zh": "约S$1,500/月",
+      "en": "~S$1,500/month"
+    },
+    "livingCostAnnual": 13300,
+    "insurance": 200,
+    "flights": 500,
+    "visa": {
+      "zh": "Student's Pass → EP → PR",
+      "en": "Student's Pass → EP → PR"
+    },
+    "housing": {
+      "zh": "校内宿舍竞争激烈。",
+      "en": "On-campus housing competitive."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀。",
+      "en": "Excellent graduation rates."
+    },
+    "employment": {
+      "zh": "新加坡就业市场活跃。",
+      "en": "Active SG job market."
+    },
+    "healthcare": {
+      "zh": "✅ 学校医保约S$100-200/年。",
+      "en": "✅ University insurance ~S$100-200/yr."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 2月下旬截止",
+      "en": "📋 Apply directly\\n📅 Late Feb deadline"
+    },
+    "id": "sit",
+    "country": "SG",
+    "flag": "🇸🇬",
+    "name": {
+      "zh": "新加坡理工大学",
+      "en": "Singapore Institute of Technology (SIT)"
+    },
+    "city": {
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "qs": 400,
+    "the": 400,
+    "usnews": 400,
+    "arwu": 501,
+    "tuition": 28000,
+    "tuitionRange": [
+      25000,
+      32000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "工程学",
+        "IT",
+        "健康科学",
+        "设计",
+        "酒店管理"
+      ],
+      "en": [
+        "Engineering",
+        "IT",
+        "Health Sciences",
+        "Design",
+        "Hospitality"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费因专业而异。",
+      "en": "Varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(SGD)": 28000,
+        "住宿": 8000
+      },
+      "en": {
+        "Tuition(SGD)": 28000,
+        "Housing": 8000
+      }
+    },
+    "desc": {
+      "zh": "SIT是新加坡最新的公立大学，专注应用型学位。与海外名校（如纽卡斯尔、慕尼黑工大）合办课程。就业率极高。",
+      "en": "SIT is Singapore's newest public university focused on applied degrees. Joint programs with overseas universities (Newcastle, TUM). Very high employment."
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0+",
+      "SAT": "不要求",
+      "IB": "一般要求IB 28-32\\n• Engineering 工程：IB 30+\\n• IT：IB 29+\\n• Health Sciences：IB 30+"
+    }
+  },
+  {
+    "deadline": {
+      "zh": "2月下旬截止",
+      "en": "Late Feb deadline"
+    },
+    "safetyDetail": {
+      "zh": "新加坡极度安全。",
+      "en": "Singapore is extremely safe."
+    },
+    "climate": {
+      "zh": "热带，全年温暖",
+      "en": "Tropical, warm year-round"
+    },
+    "livingCost": {
+      "zh": "约S$1,500/月",
+      "en": "~S$1,500/month"
+    },
+    "livingCostAnnual": 13300,
+    "insurance": 200,
+    "flights": 500,
+    "visa": {
+      "zh": "Student's Pass → EP → PR",
+      "en": "Student's Pass → EP → PR"
+    },
+    "housing": {
+      "zh": "校内宿舍竞争激烈。",
+      "en": "On-campus housing competitive."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀。",
+      "en": "Excellent graduation rates."
+    },
+    "employment": {
+      "zh": "新加坡就业市场活跃。",
+      "en": "Active SG job market."
+    },
+    "healthcare": {
+      "zh": "✅ 学校医保约S$100-200/年。",
+      "en": "✅ University insurance ~S$100-200/yr."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 2月下旬截止",
+      "en": "📋 Apply directly\\n📅 Late Feb deadline"
+    },
+    "id": "suss",
+    "country": "SG",
+    "flag": "🇸🇬",
+    "name": {
+      "zh": "新跃社科大学",
+      "en": "Singapore University of Social Sciences (SUSS)"
+    },
+    "city": {
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "qs": 400,
+    "the": 400,
+    "usnews": 400,
+    "arwu": 501,
+    "tuition": 22000,
+    "tuitionRange": [
+      20000,
+      26000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "商学",
+        "社会工作",
+        "心理学",
+        "法学",
+        "人力资源"
+      ],
+      "en": [
+        "Business",
+        "Social Work",
+        "Psychology",
+        "Law",
+        "Human Resources"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费在新加坡公立大学中最低。",
+      "en": "Lowest among SG public universities."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(SGD)": 22000,
+        "住宿": 8000
+      },
+      "en": {
+        "Tuition(SGD)": 22000,
+        "Housing": 8000
+      }
+    },
+    "desc": {
+      "zh": "SUSS前身为UniSIM，专注社会科学和应用学科。学费在新加坡公立大学中最亲民，适合注重实践的学生。",
+      "en": "SUSS (formerly UniSIM) focuses on social sciences and applied disciplines. Most affordable among SG public universities, suited for practice-oriented students."
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.0+",
+      "SAT": "不要求",
+      "IB": "一般要求IB 26-30\\n• Business 商学：IB 28+\\n• Law 法学：IB 32+\\n• Psychology 心理：IB 28+"
+    }
   }
 ]

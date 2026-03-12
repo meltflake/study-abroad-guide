@@ -1098,5 +1098,545 @@
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
     }
+  },
+  {
+    "id": "rmit",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "皇家墨尔本理工大学",
+      "en": "RMIT University"
+    },
+    "city": {
+      "zh": "维多利亚州 墨尔本",
+      "en": "Melbourne, VIC"
+    },
+    "qs": 123,
+    "the": 175,
+    "usnews": 200,
+    "arwu": 301,
+    "tuition": 38000,
+    "tuitionRange": [
+      32000,
+      42000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "设计",
+        "建筑",
+        "IT",
+        "商学",
+        "工程学"
+      ],
+      "en": [
+        "Design",
+        "Architecture",
+        "IT",
+        "Business",
+        "Engineering"
+      ]
+    },
+    "desc": {
+      "zh": "RMIT以设计和建筑全球知名，位于墨尔本市中心。与工业界联系紧密，就业导向强。",
+      "en": "RMIT is globally renowned for design and architecture, located in central Melbourne. Strong industry connections and employment focus."
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Design 设计：25\\n• Business 商学：28\\n• IT 信息技术：27\\n• Engineering 工程：29\\n• Architecture 建筑：28"
+    },
+    "majorTuition": {
+      "zh": "皇家墨尔本理工大学学费因专业而异。",
+      "en": "RMIT University tuition varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 38000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000
+      },
+      "en": {
+        "Tuition(AUD)": 38000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000
+      }
+    },
+    "deadline": {
+      "zh": "2月（Sem 1）/ 7月（Sem 2）",
+      "en": "Feb (Sem 1) / Jul (Sem 2)"
+    },
+    "safetyDetail": {
+      "zh": "皇家墨尔本理工大学校园安全良好。",
+      "en": "RMIT University has good campus safety."
+    },
+    "climate": {
+      "zh": "南半球气候",
+      "en": "Southern hemisphere climate"
+    },
+    "livingCost": {
+      "zh": "约A$1,800/月",
+      "en": "~A$1,800/month"
+    },
+    "livingCostAnnual": 14000,
+    "insurance": 450,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa → Temporary Graduate Visa (2-4年) → PR",
+      "en": "Student Visa → Temporary Graduate Visa (2-4 years) → PR"
+    },
+    "housing": {
+      "zh": "校内/校外住宿均可。",
+      "en": "On-campus and off-campus options available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好。",
+      "en": "Good employment prospects."
+    },
+    "healthcare": {
+      "zh": "✅ 强制OSHC保险约A$500-700/年。",
+      "en": "✅ Mandatory OSHC ~A$500-700/yr."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
+      "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    }
+  },
+  {
+    "id": "qut",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "昆士兰科技大学",
+      "en": "Queensland University of Technology (QUT)"
+    },
+    "city": {
+      "zh": "昆士兰州 布里斯班",
+      "en": "Brisbane, QLD"
+    },
+    "qs": 189,
+    "the": 186,
+    "usnews": 250,
+    "arwu": 301,
+    "tuition": 36000,
+    "tuitionRange": [
+      30000,
+      40000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "商学",
+        "传媒",
+        "创意产业",
+        "IT",
+        "教育"
+      ],
+      "en": [
+        "Business",
+        "Media",
+        "Creative Industries",
+        "IT",
+        "Education"
+      ]
+    },
+    "desc": {
+      "zh": "QUT以实践型教学闻名，商学院获三皇冠认证（AACSB/EQUIS/AMBA）。位于布里斯班市中心，创意产业专业全澳领先。",
+      "en": "QUT is known for practical education. Triple-crown accredited business school. Central Brisbane location with nationally leading creative industries."
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Business 商学：27\\n• Creative Industries 创意：25\\n• IT 信息技术：27\\n• Engineering 工程：28\\n• Education 教育：25"
+    },
+    "majorTuition": {
+      "zh": "昆士兰科技大学学费因专业而异。",
+      "en": "Queensland University of Technology (QUT) tuition varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 36000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000
+      },
+      "en": {
+        "Tuition(AUD)": 36000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000
+      }
+    },
+    "deadline": {
+      "zh": "2月（Sem 1）/ 7月（Sem 2）",
+      "en": "Feb (Sem 1) / Jul (Sem 2)"
+    },
+    "safetyDetail": {
+      "zh": "昆士兰科技大学校园安全良好。",
+      "en": "Queensland University of Technology (QUT) has good campus safety."
+    },
+    "climate": {
+      "zh": "南半球气候",
+      "en": "Southern hemisphere climate"
+    },
+    "livingCost": {
+      "zh": "约A$1,800/月",
+      "en": "~A$1,800/month"
+    },
+    "livingCostAnnual": 14000,
+    "insurance": 450,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa → Temporary Graduate Visa (2-4年) → PR",
+      "en": "Student Visa → Temporary Graduate Visa (2-4 years) → PR"
+    },
+    "housing": {
+      "zh": "校内/校外住宿均可。",
+      "en": "On-campus and off-campus options available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好。",
+      "en": "Good employment prospects."
+    },
+    "healthcare": {
+      "zh": "✅ 强制OSHC保险约A$500-700/年。",
+      "en": "✅ Mandatory OSHC ~A$500-700/yr."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
+      "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    }
+  },
+  {
+    "id": "wollongong",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "伍伦贡大学",
+      "en": "University of Wollongong"
+    },
+    "city": {
+      "zh": "新南威尔士州 伍伦贡",
+      "en": "Wollongong, NSW"
+    },
+    "qs": 162,
+    "the": 162,
+    "usnews": 188,
+    "arwu": 201,
+    "tuition": 32000,
+    "tuitionRange": [
+      28000,
+      38000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "IT",
+        "商学",
+        "教育",
+        "护理"
+      ],
+      "en": [
+        "Engineering",
+        "IT",
+        "Business",
+        "Education",
+        "Nursing"
+      ]
+    },
+    "desc": {
+      "zh": "伍伦贡大学工程和IT专业实力出色，校园靠近海滩。生活成本远低于悉尼，性价比极高。",
+      "en": "UOW has excellent engineering and IT. Campus near the beach. Much lower costs than Sydney with great value."
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "一般要求IB 25-30，工程28+"
+    },
+    "majorTuition": {
+      "zh": "伍伦贡大学学费因专业而异。",
+      "en": "University of Wollongong tuition varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 32000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000
+      },
+      "en": {
+        "Tuition(AUD)": 32000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000
+      }
+    },
+    "deadline": {
+      "zh": "2月（Sem 1）/ 7月（Sem 2）",
+      "en": "Feb (Sem 1) / Jul (Sem 2)"
+    },
+    "safetyDetail": {
+      "zh": "伍伦贡大学校园安全良好。",
+      "en": "University of Wollongong has good campus safety."
+    },
+    "climate": {
+      "zh": "南半球气候",
+      "en": "Southern hemisphere climate"
+    },
+    "livingCost": {
+      "zh": "约A$1,800/月",
+      "en": "~A$1,800/month"
+    },
+    "livingCostAnnual": 14000,
+    "insurance": 450,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa → Temporary Graduate Visa (2-4年) → PR",
+      "en": "Student Visa → Temporary Graduate Visa (2-4 years) → PR"
+    },
+    "housing": {
+      "zh": "校内/校外住宿均可。",
+      "en": "On-campus and off-campus options available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好。",
+      "en": "Good employment prospects."
+    },
+    "healthcare": {
+      "zh": "✅ 强制OSHC保险约A$500-700/年。",
+      "en": "✅ Mandatory OSHC ~A$500-700/yr."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
+      "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    }
+  },
+  {
+    "id": "curtin",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "科廷大学",
+      "en": "Curtin University"
+    },
+    "city": {
+      "zh": "西澳州 珀斯",
+      "en": "Perth, WA"
+    },
+    "qs": 174,
+    "the": 201,
+    "usnews": 220,
+    "arwu": 201,
+    "tuition": 33000,
+    "tuitionRange": [
+      28000,
+      38000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "采矿工程",
+        "商学",
+        "健康科学",
+        "IT",
+        "工程学"
+      ],
+      "en": [
+        "Mining Engineering",
+        "Business",
+        "Health Sciences",
+        "IT",
+        "Engineering"
+      ]
+    },
+    "desc": {
+      "zh": "科廷大学采矿工程全球顶尖，与西澳矿业紧密合作。珀斯生活成本合理，阳光充足。",
+      "en": "Curtin has globally top mining engineering with close ties to WA mining industry. Perth has reasonable costs and abundant sunshine."
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "一般要求IB 25-29，工程28+"
+    },
+    "majorTuition": {
+      "zh": "科廷大学学费因专业而异。",
+      "en": "Curtin University tuition varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 33000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000
+      },
+      "en": {
+        "Tuition(AUD)": 33000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000
+      }
+    },
+    "deadline": {
+      "zh": "2月（Sem 1）/ 7月（Sem 2）",
+      "en": "Feb (Sem 1) / Jul (Sem 2)"
+    },
+    "safetyDetail": {
+      "zh": "科廷大学校园安全良好。",
+      "en": "Curtin University has good campus safety."
+    },
+    "climate": {
+      "zh": "南半球气候",
+      "en": "Southern hemisphere climate"
+    },
+    "livingCost": {
+      "zh": "约A$1,800/月",
+      "en": "~A$1,800/month"
+    },
+    "livingCostAnnual": 14000,
+    "insurance": 450,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa → Temporary Graduate Visa (2-4年) → PR",
+      "en": "Student Visa → Temporary Graduate Visa (2-4 years) → PR"
+    },
+    "housing": {
+      "zh": "校内/校外住宿均可。",
+      "en": "On-campus and off-campus options available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好。",
+      "en": "Good employment prospects."
+    },
+    "healthcare": {
+      "zh": "✅ 强制OSHC保险约A$500-700/年。",
+      "en": "✅ Mandatory OSHC ~A$500-700/yr."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
+      "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    }
+  },
+  {
+    "id": "deakin",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "迪肯大学",
+      "en": "Deakin University"
+    },
+    "city": {
+      "zh": "维多利亚州 墨尔本/吉朗",
+      "en": "Melbourne/Geelong, VIC"
+    },
+    "qs": 233,
+    "the": 251,
+    "usnews": 300,
+    "arwu": 301,
+    "tuition": 34000,
+    "tuitionRange": [
+      28000,
+      38000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "运动科学",
+        "教育",
+        "商学",
+        "IT",
+        "护理"
+      ],
+      "en": [
+        "Sports Science",
+        "Education",
+        "Business",
+        "IT",
+        "Nursing"
+      ]
+    },
+    "desc": {
+      "zh": "迪肯大学运动科学全球Top 3，在线教育创新领先。墨尔本和吉朗双校区，生活选择灵活。",
+      "en": "Deakin has top-3 global sports science and leading online education innovation. Dual Melbourne/Geelong campuses offer flexible living."
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "一般要求IB 24-28，运动科学26+"
+    },
+    "majorTuition": {
+      "zh": "迪肯大学学费因专业而异。",
+      "en": "Deakin University tuition varies by program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 34000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000
+      },
+      "en": {
+        "Tuition(AUD)": 34000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000
+      }
+    },
+    "deadline": {
+      "zh": "2月（Sem 1）/ 7月（Sem 2）",
+      "en": "Feb (Sem 1) / Jul (Sem 2)"
+    },
+    "safetyDetail": {
+      "zh": "迪肯大学校园安全良好。",
+      "en": "Deakin University has good campus safety."
+    },
+    "climate": {
+      "zh": "南半球气候",
+      "en": "Southern hemisphere climate"
+    },
+    "livingCost": {
+      "zh": "约A$1,800/月",
+      "en": "~A$1,800/month"
+    },
+    "livingCostAnnual": 14000,
+    "insurance": 450,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa → Temporary Graduate Visa (2-4年) → PR",
+      "en": "Student Visa → Temporary Graduate Visa (2-4 years) → PR"
+    },
+    "housing": {
+      "zh": "校内/校外住宿均可。",
+      "en": "On-campus and off-campus options available."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好。",
+      "en": "Good employment prospects."
+    },
+    "healthcare": {
+      "zh": "✅ 强制OSHC保险约A$500-700/年。",
+      "en": "✅ Mandatory OSHC ~A$500-700/yr."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 2月/7月入学\\n✅ 不要求SAT",
+      "en": "📋 Apply directly\\n📅 Feb/Jul intakes\\n✅ No SAT required"
+    }
   }
 ]

@@ -212,5 +212,215 @@
       "zh": "📋 直接向EPFL申请\\n📅 截止4月30日\\n💰 申请费：CHF 150\\n📝 IB成绩需达标 / 入学考试\\n⚠️ 本科法语授课！\\n💰 学费仅CHF 633/学期",
       "en": "📋 Apply directly to EPFL\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 IB scores / entrance exam\\n⚠️ BSc in French!\\n💰 Tuition only CHF 633/semester"
     }
+  },
+  {
+    "deadline": {
+      "zh": "4月30日（秋季）/ 11月30日（春季）",
+      "en": "Apr 30 (autumn) / Nov 30 (spring)"
+    },
+    "safetyDetail": {
+      "zh": "瑞士极度安全。",
+      "en": "Switzerland is extremely safe."
+    },
+    "climate": {
+      "zh": "温带大陆性",
+      "en": "Continental"
+    },
+    "livingCost": {
+      "zh": "约CHF 1,800/月",
+      "en": "~CHF 1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 1200,
+    "flights": 1500,
+    "visa": {
+      "zh": "B Permit → 工作签 → C Permit",
+      "en": "B Permit → Work visa → C Permit"
+    },
+    "housing": {
+      "zh": "学生宿舍竞争激烈。",
+      "en": "Student housing is competitive."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "瑞士薪资全球最高。",
+      "en": "Swiss salaries are world's highest."
+    },
+    "healthcare": {
+      "zh": "✅ 强制瑞士医保。",
+      "en": "✅ Mandatory Swiss insurance."
+    },
+    "application": {
+      "zh": "📋 直接申请\\n💰 学费极低",
+      "en": "📋 Apply directly\\n💰 Very low tuition"
+    },
+    "id": "uzh",
+    "country": "CH",
+    "flag": "🇨🇭",
+    "name": {
+      "zh": "苏黎世大学",
+      "en": "University of Zurich (UZH)"
+    },
+    "city": {
+      "zh": "苏黎世",
+      "en": "Zurich"
+    },
+    "qs": 91,
+    "the": 80,
+    "usnews": 64,
+    "arwu": 56,
+    "tuition": 1600,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "医学",
+        "金融学",
+        "法学",
+        "经济学",
+        "心理学"
+      ],
+      "en": [
+        "Medicine",
+        "Finance",
+        "Law",
+        "Economics",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费极低：仅CHF 1,580/学期。",
+      "en": "Very low: CHF 1,580/semester."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(CHF)": 1580,
+        "住宿": 12000,
+        "生活费": 21600
+      },
+      "en": {
+        "Tuition(CHF)": 1580,
+        "Housing": 12000,
+        "Living": 21600
+      }
+    },
+    "desc": {
+      "zh": "苏黎世大学是瑞士最大的综合性大学，12位诺贝尔奖得主。金融和经济学享誉全球。学费极低。",
+      "en": "UZH is Switzerland's largest university with 12 Nobel laureates. Globally renowned finance and economics. Extremely low tuition."
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "不要求",
+      "IB": "IB 34+（需通过入学评估）\\n⚠️ 本科多数德语授课"
+    }
+  },
+  {
+    "deadline": {
+      "zh": "4月30日（秋季）/ 11月30日（春季）",
+      "en": "Apr 30 (autumn) / Nov 30 (spring)"
+    },
+    "safetyDetail": {
+      "zh": "瑞士极度安全。",
+      "en": "Switzerland is extremely safe."
+    },
+    "climate": {
+      "zh": "温带大陆性",
+      "en": "Continental"
+    },
+    "livingCost": {
+      "zh": "约CHF 1,800/月",
+      "en": "~CHF 1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 1200,
+    "flights": 1500,
+    "visa": {
+      "zh": "B Permit → 工作签 → C Permit",
+      "en": "B Permit → Work visa → C Permit"
+    },
+    "housing": {
+      "zh": "学生宿舍竞争激烈。",
+      "en": "Student housing is competitive."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "瑞士薪资全球最高。",
+      "en": "Swiss salaries are world's highest."
+    },
+    "healthcare": {
+      "zh": "✅ 强制瑞士医保。",
+      "en": "✅ Mandatory Swiss insurance."
+    },
+    "application": {
+      "zh": "📋 直接申请\\n💰 学费极低",
+      "en": "📋 Apply directly\\n💰 Very low tuition"
+    },
+    "id": "unige",
+    "country": "CH",
+    "flag": "🇨🇭",
+    "name": {
+      "zh": "日内瓦大学",
+      "en": "University of Geneva (UNIGE)"
+    },
+    "city": {
+      "zh": "日内瓦",
+      "en": "Geneva"
+    },
+    "qs": 128,
+    "the": 128,
+    "usnews": 100,
+    "arwu": 59,
+    "tuition": 1000,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "国际关系",
+        "物理学",
+        "翻译学",
+        "法学",
+        "经济学"
+      ],
+      "en": [
+        "International Relations",
+        "Physics",
+        "Translation",
+        "Law",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "学费极低：仅CHF 500/学期。",
+      "en": "Very low: CHF 500/semester."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(CHF)": 500,
+        "住宿": 10000,
+        "生活费": 20000
+      },
+      "en": {
+        "Tuition(CHF)": 500,
+        "Housing": 10000,
+        "Living": 20000
+      }
+    },
+    "desc": {
+      "zh": "日内瓦大学毗邻联合国欧洲总部、WTO、红十字会等国际组织。国际关系和翻译专业全球顶尖。CERN（欧洲核子研究中心）就在旁边。",
+      "en": "UNIGE neighbors the UN European HQ, WTO, Red Cross. Globally top international relations and translation. CERN is nearby."
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "不要求",
+      "IB": "IB 32+\\n⚠️ 本科法语授课为主"
+    }
   }
 ]
