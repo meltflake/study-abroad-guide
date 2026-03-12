@@ -1,0 +1,220 @@
+[
+  {
+    "id": "uoft",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "多伦多大学",
+      "en": "University of Toronto"
+    },
+    "city": {
+      "zh": "安大略省 多伦多",
+      "en": "Toronto, ON"
+    },
+    "qs": 25,
+    "the": 21,
+    "usnews": 18,
+    "arwu": 24,
+    "tuition": 62250,
+    "tuitionRange": [
+      42680,
+      62250
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "商学",
+        "生命科学",
+        "人文社科"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Commerce",
+        "Life Sciences",
+        "Humanities & Social Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "多大国际生学费按专业差异巨大：\n• 人文社科：C$42,680/年\n• 理科：C$47,230/年\n• 商学(Rotman)：C$57,020/年\n• 工程/CS：C$62,250/年",
+      "en": "U of T international tuition varies dramatically by program:\n• Arts/Humanities: C$42,680/yr\n• Science: C$47,230/yr\n• Commerce (Rotman): C$57,020/yr\n• Engineering/CS: C$62,250/yr"
+    },
+    "desc": {
+      "zh": "加拿大排名第一的综合性研究型大学，位于多伦多市中心。三大校区（圣乔治、密西沙加、士嘉堡）提供700+本科专业，学术声誉享誉全球。",
+      "en": "Canada's top-ranked comprehensive research university, located in downtown Toronto. Three campuses (St. George, Mississauga, Scarborough) offer 700+ undergraduate programs with world-class academic reputation."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62250,
+        "食宿": 16500,
+        "书本费": 1000,
+        "杂费": 2000
+      },
+      "en": {
+        "Tuition": 62250,
+        "Room & Board": 16500,
+        "Books": 1000,
+        "Incidentals": 2000
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+（写作22+）",
+      "IELTS": "6.5+（单项不低于6.0）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日（安省OUAC 101/105）",
+      "en": "January 15 (via OUAC 101/105)"
+    },
+    "safetyDetail": {
+      "zh": "多伦多是加拿大最大城市，整体治安良好。校园有24小时安保巡逻和蓝光紧急电话系统。市中心部分区域夜间需注意安全，建议避免深夜独行。",
+      "en": "Toronto is Canada's largest city with generally good safety. Campus has 24/7 security patrols and blue-light emergency phones. Exercise caution in some downtown areas at night."
+    },
+    "climate": {
+      "zh": "四季分明，冬季寒冷（-7°C至-1°C），常有降雪。夏季温暖宜人（20-27°C）。需准备防寒衣物。",
+      "en": "Four distinct seasons. Cold winters (-7°C to -1°C) with frequent snow. Pleasant summers (20-27°C). Warm clothing essential."
+    },
+    "livingCost": {
+      "zh": "约C$2,000-2,500/月",
+      "en": "~C$2,000-2,500/month"
+    },
+    "livingCostAnnual": 19200,
+    "insurance": 1100,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit学习许可 → 毕业后可申请PGWP工签（最长3年）→ 积累工作经验后通过Express Entry快速通道申请永久居留(PR)。加拿大移民政策对留学生友好，安省还有省提名项目(OINP)。",
+      "en": "Study Permit → Post-Graduation Work Permit (PGWP, up to 3 years) → Permanent Residency via Express Entry or Ontario PNP (OINP). Canada has immigrant-friendly policies for international graduates."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$12,000-18,000/年\n🏢 校外租房：市中心Studio约C$1,800-2,400/月\n📍 推荐区域：Annex、Harbord Village、Kensington附近",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$12,000-18,000/yr\n🏢 Off-campus: Downtown studio ~C$1,800-2,400/mo\n📍 Recommended areas: Annex, Harbord Village, near Kensington"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约78%，六年毕业率约85%。学术要求较高，建议充分利用学术辅导资源。",
+      "en": "4-year graduation rate ~78%, 6-year rate ~85%. Academically demanding; students are encouraged to use academic support services."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约89%\n💼 知名雇主：五大银行、四大会计师事务所、科技公司（Google、Amazon多伦多办公室）\n🌟 校友网络庞大，Bay Street金融中心就业机会丰富",
+      "en": "📊 ~89% employed within 6 months of graduation\n💼 Top employers: Big Five banks, Big Four accounting, tech (Google, Amazon Toronto)\n🌟 Vast alumni network; proximity to Bay Street financial district"
+    },
+    "healthcare": {
+      "zh": "✅ 安省国际学生需购买UHIP（University Health Insurance Plan），约C$756/年，覆盖基本医疗。看病需先预约家庭医生或去Walk-in Clinic。",
+      "en": "✅ Ontario international students must enroll in UHIP (University Health Insurance Plan), ~C$756/yr, covering basic medical care. Visit family doctor or walk-in clinic for appointments."
+    },
+    "application": {
+      "zh": "📋 申请平台：OUAC（安大略省大学申请中心）105通道\n📅 截止日期：1月15日\n💰 申请费：C$180（OUAC）+ 各专业补充材料费\n📝 所需材料：高中成绩单、语言成绩、个人陈述、补充申请（部分专业需视频面试）",
+      "en": "📋 Platform: OUAC (Ontario Universities' Application Centre) Stream 105\n📅 Deadline: January 15\n💰 Fee: C$180 (OUAC) + supplementary fees per program\n📝 Materials: Transcripts, English proficiency, personal statement, supplementary application (some programs require video interview)"
+    }
+  },
+  {
+    "id": "ubc",
+    "country": "CA",
+    "flag": "🇨🇦",
+    "name": {
+      "zh": "不列颠哥伦比亚大学",
+      "en": "University of British Columbia"
+    },
+    "city": {
+      "zh": "不列颠哥伦比亚省 温哥华",
+      "en": "Vancouver, BC"
+    },
+    "qs": 34,
+    "the": 41,
+    "usnews": 35,
+    "arwu": 44,
+    "tuition": 59000,
+    "tuitionRange": [
+      42803,
+      59000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "商学",
+        "林学",
+        "生命科学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Commerce",
+        "Forestry",
+        "Life Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "UBC国际生学费因专业不同：\n• 文科：C$42,803/年\n• 理科：C$47,937/年\n• 商学(Sauder)：C$55,500/年\n• 工程/应用科学：C$59,000/年",
+      "en": "UBC international tuition by program:\n• Arts: C$42,803/yr\n• Science: C$47,937/yr\n• Commerce (Sauder): C$55,500/yr\n• Engineering/Applied Science: C$59,000/yr"
+    },
+    "desc": {
+      "zh": "位于温哥华西海岸的世界顶尖公立研究型大学，校园依山傍海，被评为全球最美校园之一。Sauder商学院和工程学院享有盛誉，Co-op项目丰富。",
+      "en": "A world-class public research university on Vancouver's west coast, with one of the most beautiful campuses globally. Renowned Sauder School of Business and Engineering, with strong co-op programs."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 59000,
+        "食宿": 15000,
+        "书本费": 1000,
+        "杂费": 1800
+      },
+      "en": {
+        "Tuition": 59000,
+        "Room & Board": 15000,
+        "Books": 1000,
+        "Incidentals": 1800
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+（阅读/听力22+，写作/口语21+）",
+      "IELTS": "6.5+（单项不低于6.0）",
+      "SAT": "不要求/Not Required"
+    },
+    "deadline": {
+      "zh": "1月15日（直接向UBC申请）",
+      "en": "January 15 (apply directly to UBC)"
+    },
+    "safetyDetail": {
+      "zh": "温哥华多年被评为全球最宜居城市之一，治安良好。UBC校园位于半岛尽头，环境安全封闭。校园安保完善，有免费夜间班车服务。",
+      "en": "Vancouver consistently ranked among world's most livable cities. UBC campus is on a peninsula with secure, enclosed environment. Campus security and free night shuttle available."
+    },
+    "climate": {
+      "zh": "温和的海洋性气候，冬季温和多雨（3-8°C），少有降雪。夏季凉爽舒适（15-22°C）。雨季（10月-3月）需备雨具。",
+      "en": "Mild oceanic climate. Warm, rainy winters (3-8°C) with rare snow. Cool, comfortable summers (15-22°C). Rain gear essential for October-March rainy season."
+    },
+    "livingCost": {
+      "zh": "约C$1,800-2,300/月",
+      "en": "~C$1,800-2,300/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 1000,
+    "flights": 2200,
+    "visa": {
+      "zh": "Study Permit学习许可 → 毕业后可申请PGWP工签（最长3年）→ 通过Express Entry或BC省提名(BC PNP)申请永久居留。BC省对留学生移民政策优惠，科技类毕业生可走Tech Pilot快速通道。",
+      "en": "Study Permit → PGWP (up to 3 years) → PR via Express Entry or BC PNP. BC province offers favorable immigration for graduates; tech graduates can use BC Tech Pilot fast track."
+    },
+    "housing": {
+      "zh": "🏠 校内宿舍：大一保证住宿，约C$11,000-16,000/年\n🏢 校外租房：校区周边Studio约C$1,600-2,200/月\n📍 推荐区域：Wesbrook Village、University Village、Dunbar",
+      "en": "🏠 On-campus: Guaranteed for first year, ~C$11,000-16,000/yr\n🏢 Off-campus: Near-campus studio ~C$1,600-2,200/mo\n📍 Recommended: Wesbrook Village, University Village, Dunbar"
+    },
+    "graduationRate": {
+      "zh": "本科四年毕业率约80%，六年毕业率约87%。学术支持资源丰富，包括学术指导中心和同伴辅导。",
+      "en": "4-year graduation rate ~80%, 6-year rate ~87%. Rich academic support including advising centre and peer tutoring."
+    },
+    "employment": {
+      "zh": "📊 毕业6个月内就业率约90%\n💼 温哥华科技产业蓬勃：Amazon、Microsoft、SAP、EA均设有办公室\n🌟 Co-op项目覆盖广泛，商学院就业率极高",
+      "en": "📊 ~90% employed within 6 months\n💼 Vancouver tech hub: Amazon, Microsoft, SAP, EA offices\n🌟 Extensive co-op programs; Sauder grads have excellent placement rates"
+    },
+    "healthcare": {
+      "zh": "✅ BC省国际学生可加入MSP（Medical Services Plan），等待期后享受与本地居民相同的基本医疗保障。学校另有补充健康保险iMED覆盖处方药、牙科、视力等。",
+      "en": "✅ BC international students eligible for MSP (Medical Services Plan) after waiting period, same basic coverage as residents. UBC also provides iMED supplementary insurance for prescriptions, dental, vision."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接通过UBC官网在线申请\n📅 截止日期：1月15日\n💰 申请费：C$116.25\n📝 所需材料：高中成绩单、语言成绩、个人简介（Personal Profile）",
+      "en": "📋 Platform: Apply directly via UBC website\n📅 Deadline: January 15\n💰 Fee: C$116.25\n📝 Materials: Transcripts, English proficiency, Personal Profile essay"
+    }
+  }
+]

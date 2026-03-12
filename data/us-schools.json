@@ -1,0 +1,1804 @@
+[
+  {
+    "id": "harvard",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "哈佛大学",
+      "en": "Harvard University"
+    },
+    "city": {
+      "zh": "马萨诸塞州 剑桥市",
+      "en": "Cambridge, MA"
+    },
+    "qs": 4,
+    "the": 2,
+    "usnews": 1,
+    "arwu": 1,
+    "tuition": 59076,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "经济学",
+        "计算机科学",
+        "政治学",
+        "生物学",
+        "心理学"
+      ],
+      "en": [
+        "Economics",
+        "Computer Science",
+        "Political Science",
+        "Biology",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "哈佛本科所有专业统一学费，2024-25学年为$59,076/年，不按专业区分收费。",
+      "en": "Harvard charges a flat tuition of $59,076/year for all undergraduate programs regardless of major."
+    },
+    "desc": {
+      "zh": "哈佛大学成立于1636年，是美国历史最悠久的高等学府，位于波士顿地区的剑桥市。学校拥有全球最大的学术图书馆系统和最丰厚的大学捐赠基金，以卓越的学术研究和广泛的校友网络闻名世界。",
+      "en": "Founded in 1636, Harvard is the oldest institution of higher education in the US, located in Cambridge near Boston. It boasts the world's largest academic library system and the largest university endowment, renowned for academic excellence and an unparalleled alumni network."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 59076,
+        "食宿": 21486,
+        "书本费": 1000,
+        "个人花费": 3100
+      },
+      "en": {
+        "Tuition": 59076,
+        "Room & Board": 21486,
+        "Books": 1000,
+        "Personal": 3100
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1500+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月1日（常规申请）/ 11月1日（限制性提前申请）",
+      "en": "Jan 1 (Regular Decision) / Nov 1 (Restrictive Early Action)"
+    },
+    "safetyDetail": {
+      "zh": "哈佛校园位于剑桥市，治安良好。学校设有哈佛大学警察局（HUPD），提供24小时巡逻、紧急蓝光电话系统、夜间护送服务。校园周边公共交通便利，整体安全指数较高。",
+      "en": "Harvard's campus in Cambridge is generally safe. HUPD provides 24/7 patrols, blue-light emergency phones, and evening shuttle/escort services. The area around Harvard Square is well-lit and well-patrolled."
+    },
+    "climate": {
+      "zh": "典型新英格兰气候，四季分明。冬季寒冷多雪（12-2月平均-5~2°C），夏季温暖湿润（6-8月平均20~28°C）。秋季红叶景色优美，春季较短。",
+      "en": "Typical New England climate with four distinct seasons. Cold, snowy winters (Dec-Feb avg -5~2°C), warm humid summers (Jun-Aug avg 20~28°C). Beautiful fall foliage and short springs."
+    },
+    "livingCost": {
+      "zh": "约$2,200/月",
+      "en": "~$2,200/month"
+    },
+    "livingCostAnnual": 26400,
+    "insurance": 4000,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → 毕业后可申请OPT（12个月，STEM专业可延长至36个月）→ 雇主担保申请H-1B工作签证（抽签制）→ 雇主担保申请绿卡（永久居留权）。哈佛STEM专业毕业生享有3年OPT优势。",
+      "en": "F-1 student visa → OPT after graduation (12 months, STEM extends to 36 months) → Employer-sponsored H-1B work visa (lottery system) → Employer-sponsored Green Card. Harvard STEM graduates benefit from 3-year OPT."
+    },
+    "housing": {
+      "zh": "大一新生必须住校，住在哈佛庭院（Harvard Yard）的宿舍。大二至大四分配到12个本科生宿舍楼（House System），每个House有自己的餐厅和社交空间。校外租房月租约$1,500-2,500。",
+      "en": "Freshmen must live on campus in Harvard Yard. Sophomores through seniors are assigned to one of 12 residential Houses, each with its own dining hall and social spaces. Off-campus rent ranges from $1,500-2,500/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约97%，六年毕业率约98%，为全美最高之一。",
+      "en": "4-year graduation rate ~97%, 6-year rate ~98%, among the highest in the nation."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$80,000。金融、咨询、科技为最热门就业方向。约20%的毕业生直接进入研究生院深造。校友网络遍布全球，Career Services提供强大的就业支持。",
+      "en": "Median starting salary ~$80,000. Finance, consulting, and tech are top career paths. ~20% proceed directly to graduate school. Global alumni network and robust Career Services support."
+    },
+    "healthcare": {
+      "zh": "学校要求所有学生购买Harvard University Student Health Insurance Plan (SHIP)，费用约$4,036/年。Harvard University Health Services (HUHS) 提供校内医疗服务，包括门诊、心理咨询、急诊处理。",
+      "en": "All students must enroll in Harvard SHIP (~$4,036/year). Harvard University Health Services (HUHS) provides on-campus medical care including primary care, mental health counseling, and urgent care."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$85。需要提交：高中成绩单、SAT/ACT成绩（可选但建议）、TOEFL/IELTS成绩、2封教师推荐信、1封升学顾问推荐信、个人陈述、课外活动列表。提前申请（REA）截止11月1日，常规申请截止1月1日。",
+      "en": "Apply via Common App or Coalition App. $85 application fee. Required: transcripts, SAT/ACT (test-optional but recommended), TOEFL/IELTS, 2 teacher recommendations, 1 counselor recommendation, personal essay, activities list. REA deadline Nov 1, Regular Decision Jan 1."
+    }
+  },
+  {
+    "id": "mit",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "麻省理工学院",
+      "en": "Massachusetts Institute of Technology"
+    },
+    "city": {
+      "zh": "马萨诸塞州 剑桥市",
+      "en": "Cambridge, MA"
+    },
+    "qs": 1,
+    "the": 3,
+    "usnews": 2,
+    "arwu": 4,
+    "tuition": 61990,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "电子工程",
+        "机械工程",
+        "数学",
+        "物理学"
+      ],
+      "en": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Mathematics",
+        "Physics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "MIT本科所有专业统一学费，2024-25学年为$61,990/年。",
+      "en": "MIT charges a flat tuition of $61,990/year for all undergraduate programs."
+    },
+    "desc": {
+      "zh": "麻省理工学院是全球顶尖的理工科研究型大学，以创新精神和动手实践文化著称。校园紧邻哈佛，位于查尔斯河畔，培养了众多诺贝尔奖得主和科技领袖。",
+      "en": "MIT is a world-leading research university in science and engineering, known for its culture of innovation and hands-on learning. Located along the Charles River near Harvard, it has produced numerous Nobel laureates and tech leaders."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 61990,
+        "食宿": 21434,
+        "书本费": 820,
+        "个人花费": 2846
+      },
+      "en": {
+        "Tuition": 61990,
+        "Room & Board": 21434,
+        "Books": 820,
+        "Personal": 2846
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1520+/ACT 35+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规申请）/ 11月1日（提前申请）",
+      "en": "Jan 5 (Regular) / Nov 1 (Early Action)"
+    },
+    "safetyDetail": {
+      "zh": "MIT校警提供24小时巡逻和护送服务。校园位于剑桥市中心，周围社区安全。设有紧急报警系统和安全APP。",
+      "en": "MIT Police provide 24/7 patrols and escort services. Campus is in central Cambridge, a safe area. Emergency alert system and safety app available."
+    },
+    "climate": {
+      "zh": "与哈佛相同，新英格兰气候，四季分明。冬季寒冷（-5~3°C），夏季温暖（20~28°C）。",
+      "en": "Same as Harvard — New England climate with four seasons. Cold winters (-5~3°C), warm summers (20~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$2,200/月",
+      "en": "~$2,200/month"
+    },
+    "livingCostAnnual": 26400,
+    "insurance": 3900,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业延长至36个月）→ H-1B工作签证 → 绿卡。MIT工程和计算机专业毕业生享有STEM OPT 36个月优势，H-1B申请竞争力强。",
+      "en": "F-1 visa → OPT (12 months, STEM extends to 36 months) → H-1B → Green Card. MIT STEM graduates benefit from 36-month OPT and strong H-1B sponsorship prospects."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。MIT提供多种宿舍选择，包括传统宿舍和主题式生活社区。校外租房月租约$1,500-2,500。",
+      "en": "Freshmen must live on campus. MIT offers various housing options including traditional dorms and themed living communities. Off-campus rent $1,500-2,500/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约93%，六年毕业率约96%。",
+      "en": "4-year graduation rate ~93%, 6-year rate ~96%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$95,000。科技、工程、金融为主要就业方向。Google、Apple、McKinsey等为顶级雇主。约40%毕业生继续深造。",
+      "en": "Median starting salary ~$95,000. Tech, engineering, and finance are top paths. Google, Apple, McKinsey are top recruiters. ~40% pursue graduate studies."
+    },
+    "healthcare": {
+      "zh": "要求所有学生购买MIT Student Extended Insurance Plan，费用约$3,900/年。MIT Medical提供全面的校内医疗服务。",
+      "en": "All students must have MIT Student Extended Insurance (~$3,900/year). MIT Medical provides comprehensive on-campus healthcare."
+    },
+    "application": {
+      "zh": "通过MIT自有申请系统MyMIT申请（不接受Common App）。申请费$75。需要：成绩单、SAT/ACT（2024-25恢复要求）、TOEFL/IELTS、2封推荐信、个人陈述、活动列表、面试（可能要求）。EA截止11月1日，RD截止1月5日。",
+      "en": "Apply through MIT's own MyMIT portal (does not accept Common App). $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 recommendations, essays, activities, interview (may be required). EA Nov 1, RD Jan 5."
+    }
+  },
+  {
+    "id": "stanford",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "斯坦福大学",
+      "en": "Stanford University"
+    },
+    "city": {
+      "zh": "加利福尼亚州 斯坦福",
+      "en": "Stanford, CA"
+    },
+    "qs": 2,
+    "the": 4,
+    "usnews": 3,
+    "arwu": 2,
+    "tuition": 62484,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "经济学",
+        "人类生物学",
+        "国际关系"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Economics",
+        "Human Biology",
+        "International Relations"
+      ]
+    },
+    "majorTuition": {
+      "zh": "斯坦福本科所有专业统一学费$62,484/年。",
+      "en": "Stanford charges a flat tuition of $62,484/year for all undergraduate programs."
+    },
+    "desc": {
+      "zh": "斯坦福大学位于硅谷中心地带，是全球创新和创业的摇篮。校园占地8,180英亩，是美国最大的大学校园之一，以跨学科研究和与科技产业的紧密联系闻名。",
+      "en": "Stanford sits at the heart of Silicon Valley and is a global epicenter of innovation and entrepreneurship. Its 8,180-acre campus is among the largest in the US, renowned for interdisciplinary research and deep ties to the tech industry."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62484,
+        "食宿": 20955,
+        "书本费": 825,
+        "个人花费": 2700
+      },
+      "en": {
+        "Tuition": 62484,
+        "Room & Board": 20955,
+        "Books": 825,
+        "Personal": 2700
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1500+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规申请）/ 11月1日（限制性提前申请）",
+      "en": "Jan 5 (Regular) / Nov 1 (Restrictive Early Action)"
+    },
+    "safetyDetail": {
+      "zh": "斯坦福校园位于帕洛阿尔托，属于高收入安全社区。学校有自己的警察局和消防站，提供24小时安保、免费校车和夜间护送服务。",
+      "en": "Stanford's campus in Palo Alto is in a wealthy, safe community. The university has its own police and fire departments, offering 24/7 security, free shuttles, and night escort services."
+    },
+    "climate": {
+      "zh": "地中海气候，全年温和宜人。冬季温暖多雨（8~15°C），夏季干燥晴朗（18~28°C）。阳光充足，年均300天晴天。",
+      "en": "Mediterranean climate, mild year-round. Warm rainy winters (8~15°C), dry sunny summers (18~28°C). ~300 sunny days per year."
+    },
+    "livingCost": {
+      "zh": "约$2,500/月",
+      "en": "~$2,500/month"
+    },
+    "livingCostAnnual": 30000,
+    "insurance": 3800,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。斯坦福地处硅谷，STEM毕业生找到OPT和H-1B雇主担保的机会极多。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Stanford's Silicon Valley location provides exceptional OPT and H-1B sponsorship opportunities for STEM graduates."
+    },
+    "housing": {
+      "zh": "本科生保证四年住宿。提供多种宿舍类型，包括传统宿舍、主题楼和自助式公寓。校外帕洛阿尔托地区租金较高，约$2,000-3,500/月。",
+      "en": "4-year housing guaranteed for undergrads. Options include traditional dorms, themed houses, and self-op apartments. Off-campus rent in Palo Alto is high, ~$2,000-3,500/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约94%，六年毕业率约96%。",
+      "en": "4-year graduation rate ~94%, 6-year rate ~96%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$85,000。科技行业（Google、Apple、Meta等）是最大雇主群体。创业氛围浓厚，校友创办的公司包括Google、Nike、Netflix等。",
+      "en": "Median starting salary ~$85,000. Tech (Google, Apple, Meta) is the top employer sector. Strong entrepreneurial culture — alumni founded Google, Nike, Netflix, and more."
+    },
+    "healthcare": {
+      "zh": "要求所有学生购买Cardinal Care健康保险，费用约$3,800/年。Vaden Health Center提供校内医疗服务，Stanford Medical Center就在校园旁边。",
+      "en": "All students must enroll in Cardinal Care (~$3,800/year). Vaden Health Center provides on-campus care, and Stanford Medical Center is adjacent to campus."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$90。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、个人陈述、短文。REA截止11月1日，RD截止1月5日。",
+      "en": "Apply via Common App or Coalition App. $90 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, personal essay, short essays. REA Nov 1, RD Jan 5."
+    }
+  },
+  {
+    "id": "princeton",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "普林斯顿大学",
+      "en": "Princeton University"
+    },
+    "city": {
+      "zh": "新泽西州 普林斯顿",
+      "en": "Princeton, NJ"
+    },
+    "qs": 11,
+    "the": 6,
+    "usnews": 4,
+    "arwu": 6,
+    "tuition": 59710,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "经济学",
+        "公共政策",
+        "计算机科学",
+        "数学",
+        "物理学"
+      ],
+      "en": [
+        "Economics",
+        "Public Policy",
+        "Computer Science",
+        "Mathematics",
+        "Physics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "普林斯顿本科所有专业统一学费$59,710/年。",
+      "en": "Princeton charges a flat tuition of $59,710/year for all undergraduate programs."
+    },
+    "desc": {
+      "zh": "普林斯顿大学是常春藤盟校之一，以本科教育质量和小班教学著称。校园环境优美如画，学术氛围浓厚，尤其在理论科学和人文学科方面享有盛誉。",
+      "en": "Princeton is an Ivy League institution renowned for its undergraduate teaching quality and small class sizes. Its picturesque campus offers a rigorous academic environment, particularly strong in theoretical sciences and humanities."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 59710,
+        "食宿": 20190,
+        "书本费": 1050,
+        "个人花费": 2750
+      },
+      "en": {
+        "Tuition": 59710,
+        "Room & Board": 20190,
+        "Books": 1050,
+        "Personal": 2750
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1500+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月1日（常规申请）/ 11月1日（单选提前申请）",
+      "en": "Jan 1 (Regular) / Nov 1 (Single-Choice Early Action)"
+    },
+    "safetyDetail": {
+      "zh": "普林斯顿位于新泽西州的宁静小镇，校园安全指数很高。公共安全部门提供24小时巡逻、TigerSafe应急APP和免费穿梭巴士。",
+      "en": "Princeton is in a quiet NJ town with excellent campus safety. Public Safety provides 24/7 patrols, TigerSafe emergency app, and free shuttle service."
+    },
+    "climate": {
+      "zh": "四季分明，冬季寒冷（-3~5°C），夏季温暖（22~30°C）。秋季色彩斑斓，校园景色尤为优美。",
+      "en": "Four distinct seasons. Cold winters (-3~5°C), warm summers (22~30°C). Stunning fall foliage on campus."
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3800,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。普林斯顿靠近纽约和费城，就业机会丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Princeton's proximity to NYC and Philadelphia offers strong employment access."
+    },
+    "housing": {
+      "zh": "大一大二学生必须住校，住在六个住宿学院之一。高年级学生可选择住校或校外。学校提供餐饮计划。",
+      "en": "Freshmen and sophomores must live on campus in one of six residential colleges. Upperclassmen may live on or off campus. Meal plans available."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约96%，六年毕业率约98%。",
+      "en": "4-year graduation rate ~96%, 6-year rate ~98%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$78,000。金融、咨询、科技和学术研究为主要方向。约25%进入研究生院。华尔街和硅谷校友网络强大。",
+      "en": "Median starting salary ~$78,000. Finance, consulting, tech, and academia are top paths. ~25% go to graduate school. Strong Wall Street and Silicon Valley alumni networks."
+    },
+    "healthcare": {
+      "zh": "要求所有学生购买Student Health Plan，费用约$3,800/年。McCosh Health Center提供综合医疗服务和心理咨询。",
+      "en": "Student Health Plan required (~$3,800/year). McCosh Health Center provides comprehensive medical and counseling services."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$70。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文/短文、面试（建议）。SCEA截止11月1日，RD截止1月1日。",
+      "en": "Apply via Common App or Coalition App. $70 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, essays, interview (recommended). SCEA Nov 1, RD Jan 1."
+    }
+  },
+  {
+    "id": "yale",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "耶鲁大学",
+      "en": "Yale University"
+    },
+    "city": {
+      "zh": "康涅狄格州 纽黑文",
+      "en": "New Haven, CT"
+    },
+    "qs": 9,
+    "the": 8,
+    "usnews": 5,
+    "arwu": 11,
+    "tuition": 64700,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "经济学",
+        "政治学",
+        "历史学",
+        "英语文学",
+        "心理学"
+      ],
+      "en": [
+        "Economics",
+        "Political Science",
+        "History",
+        "English",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "耶鲁本科所有专业统一学费$64,700/年。",
+      "en": "Yale charges a flat tuition of $64,700/year for all undergraduate programs."
+    },
+    "desc": {
+      "zh": "耶鲁大学是常春藤盟校中以人文和社会科学见长的顶尖学府，其法学院和戏剧学院全美排名第一。独特的住宿学院制度为学生提供亲密的社区体验。",
+      "en": "Yale is an Ivy League powerhouse especially strong in humanities and social sciences, with the #1 ranked law school and drama school. Its residential college system provides an intimate community experience."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 64700,
+        "食宿": 19980,
+        "书本费": 1050,
+        "个人花费": 2800
+      },
+      "en": {
+        "Tuition": 64700,
+        "Room & Board": 19980,
+        "Books": 1050,
+        "Personal": 2800
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1500+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月2日（常规申请）/ 11月1日（限制性提前申请）",
+      "en": "Jan 2 (Regular) / Nov 1 (Restrictive Early Action)"
+    },
+    "safetyDetail": {
+      "zh": "纽黑文市部分区域治安一般，但校园内安全措施完善。耶鲁警察局提供24小时巡逻、校园穿梭巴士、蓝光电话系统和免费夜间护送。",
+      "en": "Some areas of New Haven have safety concerns, but campus security is strong. Yale Police provide 24/7 patrols, campus shuttles, blue-light phones, and free night escorts."
+    },
+    "climate": {
+      "zh": "新英格兰气候，四季分明。冬季寒冷多雪（-4~4°C），夏季温暖（20~28°C）。",
+      "en": "New England climate with four seasons. Cold snowy winters (-4~4°C), warm summers (20~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 3500,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。耶鲁靠近纽约，金融和法律领域就业优势明显。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Yale's proximity to NYC provides strong finance and legal career access."
+    },
+    "housing": {
+      "zh": "本科生全部住校，分配到14个住宿学院之一。每个学院有独立的餐厅、图书室和社交空间。住宿体验是耶鲁教育的核心部分。",
+      "en": "All undergrads live on campus in one of 14 residential colleges. Each has its own dining hall, library, and social spaces. Residential life is central to the Yale experience."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约96%，六年毕业率约98%。",
+      "en": "4-year graduation rate ~96%, 6-year rate ~98%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$75,000。金融、咨询、法律、公共服务为主要方向。耶鲁法学院和商学院校友网络极为强大。",
+      "en": "Median starting salary ~$75,000. Finance, consulting, law, and public service are top paths. Yale Law and SOM alumni networks are exceptionally powerful."
+    },
+    "healthcare": {
+      "zh": "要求所有学生购买Yale Health Hospitalization/Specialty Coverage，基础门诊免费。保险费用约$3,500/年。Yale Health Center提供全面医疗服务。",
+      "en": "Yale Health basic care is free for enrolled students. Hospitalization/Specialty Coverage ~$3,500/year. Yale Health Center provides comprehensive medical services."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App/QuestBridge申请。申请费$80。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文。REA截止11月1日，RD截止1月2日。",
+      "en": "Apply via Common App, Coalition App, or QuestBridge. $80 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, essays. REA Nov 1, RD Jan 2."
+    }
+  },
+  {
+    "id": "caltech",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "加州理工学院",
+      "en": "California Institute of Technology"
+    },
+    "city": {
+      "zh": "加利福尼亚州 帕萨迪纳",
+      "en": "Pasadena, CA"
+    },
+    "qs": 10,
+    "the": 7,
+    "usnews": 6,
+    "arwu": 9,
+    "tuition": 63402,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "物理学",
+        "计算机科学",
+        "机械工程",
+        "化学",
+        "数学"
+      ],
+      "en": [
+        "Physics",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Chemistry",
+        "Mathematics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "加州理工所有专业统一学费$63,402/年。",
+      "en": "Caltech charges a flat tuition of $63,402/year for all programs."
+    },
+    "desc": {
+      "zh": "加州理工学院是全球最顶尖的理工科大学之一，以极小的规模（约1,000名本科生）和超高的科研产出著称。学校管理着NASA的喷气推进实验室（JPL）。",
+      "en": "Caltech is among the world's top STEM universities, notable for its tiny size (~1,000 undergrads) and extraordinary research output. It manages NASA's Jet Propulsion Laboratory (JPL)."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 63402,
+        "食宿": 20546,
+        "书本费": 1400,
+        "个人花费": 2700
+      },
+      "en": {
+        "Tuition": 63402,
+        "Room & Board": 20546,
+        "Books": 1400,
+        "Personal": 2700
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1530+/ACT 35+"
+    },
+    "deadline": {
+      "zh": "1月3日（常规申请）/ 11月1日（提前申请）",
+      "en": "Jan 3 (Regular) / Nov 1 (Early Action)"
+    },
+    "safetyDetail": {
+      "zh": "帕萨迪纳是洛杉矶地区较安全的城市。校园小而封闭，安保严密。校警提供24小时巡逻服务。",
+      "en": "Pasadena is a relatively safe city in the LA area. The small, enclosed campus has tight security with 24/7 patrols."
+    },
+    "climate": {
+      "zh": "南加州地中海气候，全年温暖干燥。冬季温和（8~18°C），夏季炎热（20~33°C）。很少下雨。",
+      "en": "Southern California Mediterranean climate, warm and dry year-round. Mild winters (8~18°C), hot summers (20~33°C). Very little rain."
+    },
+    "livingCost": {
+      "zh": "约$2,300/月",
+      "en": "~$2,300/month"
+    },
+    "livingCostAnnual": 27600,
+    "insurance": 3600,
+    "flights": 2000,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。加州理工毕业生几乎全部为STEM专业，享36个月OPT。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Nearly all Caltech graduates qualify for 36-month STEM OPT."
+    },
+    "housing": {
+      "zh": "大一新生必须住校，分配到八个本科生宿舍之一。高年级学生可选择住校或校外。校外租房约$1,800-2,800/月。",
+      "en": "Freshmen must live on campus in one of eight undergraduate houses. Upperclassmen may live on or off campus. Off-campus rent ~$1,800-2,800/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约89%，六年毕业率约94%。",
+      "en": "4-year graduation rate ~89%, 6-year rate ~94%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$90,000。科技和研究为主要方向。约50%的本科生继续攻读研究生。与JPL和硅谷企业联系紧密。",
+      "en": "Median starting salary ~$90,000. Tech and research are primary paths. ~50% pursue graduate studies. Strong ties to JPL and Silicon Valley companies."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Caltech Student Health Insurance，费用约$3,600/年。Student Health Center提供校内基本医疗服务。",
+      "en": "Caltech Student Health Insurance required (~$3,600/year). Student Health Center provides basic on-campus care."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（要求）、TOEFL/IELTS、2封STEM教师推荐信、1封人文教师推荐信、论文。EA截止11月1日，RD截止1月3日。",
+      "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (required), TOEFL/IELTS, 2 STEM teacher recs, 1 humanities teacher rec, essays. EA Nov 1, RD Jan 3."
+    }
+  },
+  {
+    "id": "uchicago",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "芝加哥大学",
+      "en": "University of Chicago"
+    },
+    "city": {
+      "zh": "伊利诺伊州 芝加哥",
+      "en": "Chicago, IL"
+    },
+    "qs": 18,
+    "the": 13,
+    "usnews": 7,
+    "arwu": 10,
+    "tuition": 65619,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "经济学",
+        "数学",
+        "政治学",
+        "物理学",
+        "计算机科学"
+      ],
+      "en": [
+        "Economics",
+        "Mathematics",
+        "Political Science",
+        "Physics",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "芝加哥大学所有本科专业统一学费$65,619/年。",
+      "en": "UChicago charges a flat tuition of $65,619/year."
+    },
+    "desc": {
+      "zh": "芝加哥大学以严谨的学术氛围和核心课程体系闻名，经济学派享誉世界。学校注重理论思辨和批判性思维的培养，拥有众多诺贝尔经济学奖得主。",
+      "en": "UChicago is renowned for its rigorous academic culture and Core Curriculum. Its economics department is world-famous, with numerous Nobel laureates. The school emphasizes theoretical inquiry and critical thinking."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 65619,
+        "食宿": 20628,
+        "书本费": 1400,
+        "个人花费": 3000
+      },
+      "en": {
+        "Tuition": 65619,
+        "Room & Board": 20628,
+        "Books": 1400,
+        "Personal": 3000
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1510+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月4日（常规申请）/ 11月1日（提前申请ED I）/ 1月4日（ED II）",
+      "en": "Jan 4 (Regular) / Nov 1 (ED I) / Jan 4 (ED II)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于芝加哥南部海德公园社区，学校投入大量资源保障安全。UCPD是伊利诺伊州最大的私立警察部门之一，提供24小时巡逻和免费安全护送。",
+      "en": "Campus is in Hyde Park on Chicago's South Side. UCPD is one of the largest private police forces in Illinois, providing 24/7 patrols and free safety escorts."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季漫长寒冷（-10~0°C，风寒效应显著），夏季温暖（20~30°C）。密歇根湖畔风大。",
+      "en": "Continental climate with long cold winters (-10~0°C, significant wind chill) and warm summers (20~30°C). Windy lakefront location."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 4200,
+    "flights": 2200,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。芝加哥金融和咨询行业发达，就业机会多。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Chicago's strong finance and consulting sectors offer ample employment."
+    },
+    "housing": {
+      "zh": "大一大二学生必须住校。提供多种宿舍楼选择，校内餐饮多样。高年级可住校外，海德公园租金相对合理，约$1,200-2,000/月。",
+      "en": "Freshmen and sophomores must live on campus. Various dorm options with diverse dining. Upperclassmen may live off-campus; Hyde Park rent ~$1,200-2,000/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约92%，六年毕业率约95%。",
+      "en": "4-year graduation rate ~92%, 6-year rate ~95%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$72,000。金融、咨询、科技为主要方向。芝加哥大学在学术界和金融界的影响力巨大。",
+      "en": "Median starting salary ~$72,000. Finance, consulting, and tech are top paths. UChicago has enormous influence in academia and finance."
+    },
+    "healthcare": {
+      "zh": "要求学生购买U-SHIP健康保险，费用约$4,200/年。Student Health and Counseling Services提供综合医疗和心理健康服务。",
+      "en": "U-SHIP insurance required (~$4,200/year). Student Health and Counseling Services provides comprehensive medical and mental health care."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、UChicago特色论文、面试（可选）。ED I截止11月1日，ED II和RD截止1月4日。",
+      "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, UChicago-specific essays, interview (optional). ED I Nov 1, ED II/RD Jan 4."
+    }
+  },
+  {
+    "id": "columbia",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "哥伦比亚大学",
+      "en": "Columbia University"
+    },
+    "city": {
+      "zh": "纽约州 纽约市",
+      "en": "New York, NY"
+    },
+    "qs": 7,
+    "the": 11,
+    "usnews": 8,
+    "arwu": 8,
+    "tuition": 66139,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "经济学",
+        "政治学",
+        "计算机科学",
+        "英语文学",
+        "心理学"
+      ],
+      "en": [
+        "Economics",
+        "Political Science",
+        "Computer Science",
+        "English",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "哥大本科所有专业统一学费$66,139/年。",
+      "en": "Columbia charges a flat tuition of $66,139/year."
+    },
+    "desc": {
+      "zh": "哥伦比亚大学位于纽约曼哈顿，是常春藤盟校中唯一的真正都市大学。其核心课程（Core Curriculum）是美国通识教育的典范，新闻学院和国际关系学院全美顶尖。",
+      "en": "Columbia is the only true urban Ivy League school, located in Manhattan. Its Core Curriculum is a model of American liberal education, and its journalism and international affairs programs rank among the nation's best."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 66139,
+        "食宿": 22230,
+        "书本费": 1296,
+        "个人花费": 3000
+      },
+      "en": {
+        "Tuition": 66139,
+        "Room & Board": 22230,
+        "Books": 1296,
+        "Personal": 3000
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1500+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月1日（常规申请）/ 11月1日（提前申请ED）",
+      "en": "Jan 1 (Regular) / Nov 1 (Early Decision)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于曼哈顿上西区晨边高地，校内安全设施完善。哥大公共安全部门提供24小时巡逻和护送，但纽约市整体需要保持安全意识。",
+      "en": "Campus in Morningside Heights, Upper West Side. Public Safety provides 24/7 patrols and escorts. General NYC awareness is advised."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-3~5°C），夏季炎热潮湿（22~32°C）。春秋季宜人。",
+      "en": "Four distinct seasons. Cold winters (-3~5°C), hot humid summers (22~32°C). Pleasant spring and fall."
+    },
+    "livingCost": {
+      "zh": "约$2,500/月",
+      "en": "~$2,500/month"
+    },
+    "livingCostAnnual": 30000,
+    "insurance": 4100,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。纽约市就业市场全美最大，金融、媒体、科技行业机会极多。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. NYC is the largest US job market, with vast opportunities in finance, media, and tech."
+    },
+    "housing": {
+      "zh": "大一学生必须住校。哥大保证本科四年住宿。校内宿舍靠近百老汇大街。校外曼哈顿租金极高，约$2,000-4,000/月。",
+      "en": "Freshmen must live on campus. 4-year housing guaranteed. Dorms near Broadway. Off-campus Manhattan rent is very high, ~$2,000-4,000/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约93%，六年毕业率约96%。",
+      "en": "4-year graduation rate ~93%, 6-year rate ~96%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$78,000。金融（华尔街）、咨询、媒体、科技为主要方向。纽约市的实习和就业资源得天独厚。",
+      "en": "Median starting salary ~$78,000. Finance (Wall Street), consulting, media, and tech are top paths. NYC offers unmatched internship and career resources."
+    },
+    "healthcare": {
+      "zh": "要求学生参加Columbia Student Health Insurance，费用约$4,100/年。Medical Services at Columbia Health提供综合校内医疗。",
+      "en": "Columbia Student Health Insurance required (~$4,100/year). Medical Services at Columbia Health provides comprehensive on-campus care."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$85。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、Columbia特色论文。ED截止11月1日，RD截止1月1日。",
+      "en": "Apply via Common App or Coalition App. $85 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, Columbia-specific essays. ED Nov 1, RD Jan 1."
+    }
+  },
+  {
+    "id": "upenn",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "宾夕法尼亚大学",
+      "en": "University of Pennsylvania"
+    },
+    "city": {
+      "zh": "宾夕法尼亚州 费城",
+      "en": "Philadelphia, PA"
+    },
+    "qs": 13,
+    "the": 14,
+    "usnews": 9,
+    "arwu": 15,
+    "tuition": 63452,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "金融",
+        "护理学",
+        "经济学",
+        "计算机科学",
+        "生物学"
+      ],
+      "en": [
+        "Finance",
+        "Nursing",
+        "Economics",
+        "Computer Science",
+        "Biology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "宾大本科所有专业统一学费$63,452/年。沃顿商学院本科也同价。",
+      "en": "UPenn charges a flat tuition of $63,452/year. Wharton undergraduate tuition is the same."
+    },
+    "desc": {
+      "zh": "宾夕法尼亚大学是常春藤盟校之一，拥有全球最负盛名的沃顿商学院。学校注重跨学科教育，本科生可以同时在四个学院选课。",
+      "en": "UPenn is an Ivy League school home to the world-renowned Wharton School of Business. It emphasizes interdisciplinary education, allowing undergrads to take courses across four schools."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 63452,
+        "食宿": 19854,
+        "书本费": 1358,
+        "个人花费": 2854
+      },
+      "en": {
+        "Tuition": 63452,
+        "Room & Board": 19854,
+        "Books": 1358,
+        "Personal": 2854
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1500+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规申请）/ 11月1日（提前申请ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (Early Decision)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于费城西部大学城区域。宾大公共安全部门是全美最大的私立校园警察之一，提供24小时巡逻和步行护送服务。校园周边部分区域需注意安全。",
+      "en": "Campus in West Philadelphia's University City. Penn Public Safety is one of the largest private campus police forces, providing 24/7 patrols and walking escorts. Some surrounding areas require caution."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-2~6°C），夏季炎热潮湿（22~31°C）。降雪量适中。",
+      "en": "Four seasons. Cold winters (-2~6°C), hot humid summers (22~31°C). Moderate snowfall."
+    },
+    "livingCost": {
+      "zh": "约$1,900/月",
+      "en": "~$1,900/month"
+    },
+    "livingCostAnnual": 22800,
+    "insurance": 4000,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。沃顿商学院毕业生在金融行业H-1B担保成功率高。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Wharton graduates have high H-1B sponsorship rates in finance."
+    },
+    "housing": {
+      "zh": "大一新生必须住校。宾大提供多种宿舍选择，包括College House系统。高年级可住校外，费城租金相对合理，约$1,200-2,000/月。",
+      "en": "Freshmen must live on campus. Penn offers various housing including College Houses. Upperclassmen may live off-campus; Philadelphia rent is reasonable at ~$1,200-2,000/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约95%，六年毕业率约96%。",
+      "en": "4-year graduation rate ~95%, 6-year rate ~96%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$82,000。金融（沃顿）、咨询、科技为主要方向。沃顿毕业生在华尔街极具竞争力。",
+      "en": "Median starting salary ~$82,000. Finance (Wharton), consulting, and tech are top paths. Wharton grads are highly competitive on Wall Street."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Penn Student Insurance Plan (PSIP)，费用约$4,000/年。Student Health Service提供综合医疗服务，Penn Medicine系统资源丰富。",
+      "en": "PSIP required (~$4,000/year). Student Health Service offers comprehensive care backed by the Penn Medicine system."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$75。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问推荐信、论文、Penn特色短文。ED截止11月1日，RD截止1月5日。",
+      "en": "Apply via Common App. $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, personal essay, Penn-specific essays. ED Nov 1, RD Jan 5."
+    }
+  },
+  {
+    "id": "duke",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "杜克大学",
+      "en": "Duke University"
+    },
+    "city": {
+      "zh": "北卡罗来纳州 达勒姆",
+      "en": "Durham, NC"
+    },
+    "qs": 24,
+    "the": 21,
+    "usnews": 10,
+    "arwu": 26,
+    "tuition": 63450,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "经济学",
+        "公共政策",
+        "生物学",
+        "心理学"
+      ],
+      "en": [
+        "Computer Science",
+        "Economics",
+        "Public Policy",
+        "Biology",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "杜克大学所有本科专业统一学费$63,450/年。",
+      "en": "Duke charges a flat tuition of $63,450/year."
+    },
+    "desc": {
+      "zh": "杜克大学位于北卡罗来纳州，以卓越的学术研究、强大的体育传统（尤其是篮球）和美丽的哥特式校园闻名。医学院和法学院全美排名靠前。",
+      "en": "Duke, in North Carolina, is known for outstanding research, strong athletics (especially basketball), and its beautiful Gothic campus. Its medical and law schools rank among the nation's best."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 63450,
+        "食宿": 19682,
+        "书本费": 1180,
+        "个人花费": 2650
+      },
+      "en": {
+        "Tuition": 63450,
+        "Room & Board": 19682,
+        "Books": 1180,
+        "Personal": 2650
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1490+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月4日（常规申请）/ 11月1日（提前申请ED）",
+      "en": "Jan 4 (Regular) / Nov 1 (Early Decision)"
+    },
+    "safetyDetail": {
+      "zh": "杜克校园环境优美且安全，自有警察部门提供24小时服务。达勒姆市部分区域治安一般，校园内外安保措施完善。",
+      "en": "Duke's campus is beautiful and safe with its own police department providing 24/7 service. Some areas of Durham have safety concerns, but campus security is strong."
+    },
+    "climate": {
+      "zh": "温带气候，冬季温和（0~10°C），夏季炎热潮湿（22~33°C）。四季分明但冬天较短。",
+      "en": "Temperate climate with mild winters (0~10°C) and hot humid summers (22~33°C). Four seasons with short winters."
+    },
+    "livingCost": {
+      "zh": "约$1,500/月",
+      "en": "~$1,500/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3800,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。研究三角园区（Research Triangle Park）提供丰富的STEM就业机会。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Research Triangle Park provides abundant STEM employment opportunities."
+    },
+    "housing": {
+      "zh": "大一学生住在东校区，大二学生住在西校区。学校保证三年住宿。校外达勒姆租金较低，约$900-1,500/月。",
+      "en": "Freshmen live on East Campus, sophomores on West Campus. 3-year housing guaranteed. Off-campus Durham rent is affordable at ~$900-1,500/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约95%，六年毕业率约96%。",
+      "en": "4-year graduation rate ~95%, 6-year rate ~96%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$75,000。金融、咨询、科技、医疗为主要方向。杜克在东南部地区校友网络强大。",
+      "en": "Median starting salary ~$75,000. Finance, consulting, tech, and healthcare are top paths. Duke has a strong alumni network in the Southeast."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Duke Student Medical Insurance Plan，费用约$3,800/年。Student Health提供校内医疗，杜克大学医院是全美顶级医疗机构。",
+      "en": "Duke Student Medical Insurance required (~$3,800/year). Student Health provides on-campus care, and Duke University Hospital is a top medical facility."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$85。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文和Duke短文。ED截止11月1日，RD截止1月4日。",
+      "en": "Apply via Common App. $85 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays and Duke supplements. ED Nov 1, RD Jan 4."
+    }
+  },
+  {
+    "id": "northwestern",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "西北大学",
+      "en": "Northwestern University"
+    },
+    "city": {
+      "zh": "伊利诺伊州 埃文斯顿",
+      "en": "Evanston, IL"
+    },
+    "qs": 27,
+    "the": 24,
+    "usnews": 11,
+    "arwu": 29,
+    "tuition": 63468,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "新闻学",
+        "经济学",
+        "计算机科学",
+        "戏剧",
+        "材料科学"
+      ],
+      "en": [
+        "Journalism",
+        "Economics",
+        "Computer Science",
+        "Theatre",
+        "Materials Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "西北大学所有本科专业统一学费$63,468/年。",
+      "en": "Northwestern charges a flat tuition of $63,468/year."
+    },
+    "desc": {
+      "zh": "西北大学坐落于密歇根湖畔的埃文斯顿，兼具学术严谨性和实践导向。Medill新闻学院和Kellogg商学院全美顶尖，戏剧和表演艺术项目也非常出色。",
+      "en": "Northwestern sits on the shores of Lake Michigan in Evanston, combining academic rigor with practical orientation. Medill journalism and Kellogg business schools are nationally top-ranked, with outstanding theatre programs."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 63468,
+        "食宿": 20298,
+        "书本费": 1020,
+        "个人花费": 2700
+      },
+      "en": {
+        "Tuition": 63468,
+        "Room & Board": 20298,
+        "Books": 1020,
+        "Personal": 2700
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1480+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月3日（常规申请）/ 11月1日（提前申请ED）",
+      "en": "Jan 3 (Regular) / Nov 1 (Early Decision)"
+    },
+    "safetyDetail": {
+      "zh": "埃文斯顿是芝加哥北部的安全郊区。校园沿湖而建，环境优美。大学警察提供24小时巡逻和SafeRide项目。",
+      "en": "Evanston is a safe suburb north of Chicago. The lakefront campus is scenic. University Police provide 24/7 patrols and SafeRide service."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季寒冷多风（-8~1°C），夏季温暖（20~29°C）。湖畔风大，冬季体感更冷。",
+      "en": "Continental climate with cold windy winters (-8~1°C) and warm summers (20~29°C). Lakefront winds make winters feel colder."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 3900,
+    "flights": 2200,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。靠近芝加哥，媒体、金融和科技就业资源丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Proximity to Chicago provides strong media, finance, and tech career access."
+    },
+    "housing": {
+      "zh": "大一大二学生必须住校。提供多种宿舍和住宿学院选择。高年级可住校外。埃文斯顿租金约$1,200-2,000/月。",
+      "en": "Freshmen and sophomores must live on campus. Various dorms and residential colleges available. Off-campus Evanston rent ~$1,200-2,000/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约93%，六年毕业率约96%。",
+      "en": "4-year graduation rate ~93%, 6-year rate ~96%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$72,000。咨询、金融、媒体、科技为主要方向。Medill毕业生在新闻媒体行业极具影响力。",
+      "en": "Median starting salary ~$72,000. Consulting, finance, media, and tech are top paths. Medill graduates are highly influential in journalism."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Northwestern Student Health Insurance，费用约$3,900/年。Searle Hall Health Service提供综合医疗和心理健康服务。",
+      "en": "Student Health Insurance required (~$3,900/year). Searle Hall Health Service provides comprehensive medical and mental health care."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、1-2封推荐信、1封顾问信、论文。ED截止11月1日，RD截止1月3日。",
+      "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 1-2 recs, 1 counselor rec, essays. ED Nov 1, RD Jan 3."
+    }
+  },
+  {
+    "id": "jhu",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "约翰斯·霍普金斯大学",
+      "en": "Johns Hopkins University"
+    },
+    "city": {
+      "zh": "马里兰州 巴尔的摩",
+      "en": "Baltimore, MD"
+    },
+    "qs": 15,
+    "the": 15,
+    "usnews": 12,
+    "arwu": 16,
+    "tuition": 62840,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "公共卫生",
+        "生物医学工程",
+        "国际关系",
+        "神经科学",
+        "计算机科学"
+      ],
+      "en": [
+        "Public Health",
+        "Biomedical Engineering",
+        "International Relations",
+        "Neuroscience",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "JHU所有本科专业统一学费$62,840/年。",
+      "en": "JHU charges a flat tuition of $62,840/year."
+    },
+    "desc": {
+      "zh": "约翰斯·霍普金斯大学是美国第一所研究型大学，医学院和公共卫生学院全球顶尖。学校科研经费连续多年全美第一，在生物医学和国际关系领域享有极高声誉。",
+      "en": "Johns Hopkins is America's first research university, with globally top-ranked medical and public health schools. It consistently leads the nation in research expenditures, excelling in biomedicine and international relations."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62840,
+        "食宿": 19300,
+        "书本费": 1240,
+        "个人花费": 2600
+      },
+      "en": {
+        "Tuition": 62840,
+        "Room & Board": 19300,
+        "Books": 1240,
+        "Personal": 2600
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1500+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规申请）/ 11月1日（提前申请ED I）/ 1月5日（ED II）",
+      "en": "Jan 5 (Regular) / Nov 1 (ED I) / Jan 5 (ED II)"
+    },
+    "safetyDetail": {
+      "zh": "巴尔的摩市部分区域治安问题突出，但校园安保措施完善。JHU Security提供24小时巡逻、蓝光电话、免费NITE RIDE穿梭服务。建议学生注意校外安全。",
+      "en": "Baltimore has some areas with safety concerns, but campus security is robust. JHU Security provides 24/7 patrols, blue-light phones, and free NITE RIDE shuttle. Off-campus awareness advised."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-2~7°C），夏季炎热潮湿（22~32°C）。降雪量适中。",
+      "en": "Four seasons. Cold winters (-2~7°C), hot humid summers (22~32°C). Moderate snowfall."
+    },
+    "livingCost": {
+      "zh": "约$1,600/月",
+      "en": "~$1,600/month"
+    },
+    "livingCostAnnual": 19200,
+    "insurance": 3700,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。JHU在医疗和生物科技行业的雇主网络强大。靠近华盛顿DC，政策研究机会多。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. JHU has strong employer networks in healthcare and biotech. Near DC for policy research opportunities."
+    },
+    "housing": {
+      "zh": "大一学生必须住校。学校提供多种宿舍，包括Charles Commons等。高年级可住校外，巴尔的摩租金合理，约$800-1,500/月。",
+      "en": "Freshmen must live on campus. Various dorms including Charles Commons. Upperclassmen may live off-campus; Baltimore rent is reasonable at ~$800-1,500/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约90%，六年毕业率约94%。",
+      "en": "4-year graduation rate ~90%, 6-year rate ~94%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$70,000。医疗/生物科技、咨询、金融、政府/非营利为主要方向。与NIH和华盛顿DC智库联系紧密。",
+      "en": "Median starting salary ~$70,000. Healthcare/biotech, consulting, finance, and government/nonprofit are top paths. Strong ties to NIH and DC think tanks."
+    },
+    "healthcare": {
+      "zh": "要求学生购买JHU Student Health Insurance，费用约$3,700/年。Student Health and Wellness Center提供医疗服务，约翰斯·霍普金斯医院就在校旁。",
+      "en": "JHU Student Health Insurance required (~$3,700/year). Student Health and Wellness Center provides care, and Johns Hopkins Hospital is adjacent."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$70。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文。ED I截止11月1日，ED II/RD截止1月5日。",
+      "en": "Apply via Common App or Coalition App. $70 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays. ED I Nov 1, ED II/RD Jan 5."
+    }
+  },
+  {
+    "id": "dartmouth",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "达特茅斯学院",
+      "en": "Dartmouth College"
+    },
+    "city": {
+      "zh": "新罕布什尔州 汉诺威",
+      "en": "Hanover, NH"
+    },
+    "qs": 50,
+    "the": 99,
+    "usnews": 13,
+    "arwu": 92,
+    "tuition": 62658,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "经济学",
+        "政治学",
+        "计算机科学",
+        "工程学",
+        "历史学"
+      ],
+      "en": [
+        "Economics",
+        "Government",
+        "Computer Science",
+        "Engineering",
+        "History"
+      ]
+    },
+    "majorTuition": {
+      "zh": "达特茅斯所有本科专业统一学费$62,658/年。",
+      "en": "Dartmouth charges a flat tuition of $62,658/year."
+    },
+    "desc": {
+      "zh": "达特茅斯学院是常春藤中规模最小的，位于新英格兰乡村。以出色的本科教育、紧密的师生关系和强大的校友网络闻名。独特的D-Plan学期制度允许灵活安排。",
+      "en": "Dartmouth is the smallest Ivy, set in rural New England. Known for excellent undergraduate teaching, close faculty relationships, and a powerful alumni network. Its unique D-Plan allows flexible term scheduling."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62658,
+        "食宿": 19521,
+        "书本费": 1000,
+        "个人花费": 2100
+      },
+      "en": {
+        "Tuition": 62658,
+        "Room & Board": 19521,
+        "Books": 1000,
+        "Personal": 2100
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1470+/ACT 33+"
+    },
+    "deadline": {
+      "zh": "1月3日（常规申请）/ 11月1日（提前申请ED）",
+      "en": "Jan 3 (Regular) / Nov 1 (Early Decision)"
+    },
+    "safetyDetail": {
+      "zh": "汉诺威是安静的大学城，治安非常好。校园安全部门提供24小时巡逻和安全穿梭服务。",
+      "en": "Hanover is a quiet college town with excellent safety. Campus Safety provides 24/7 patrols and safe shuttle service."
+    },
+    "climate": {
+      "zh": "冬季漫长寒冷多雪（-12~-1°C），夏季短暂温暖（18~27°C）。适合喜欢户外运动和冬季运动的学生。",
+      "en": "Long cold snowy winters (-12~-1°C), short warm summers (18~27°C). Great for outdoor and winter sports enthusiasts."
+    },
+    "livingCost": {
+      "zh": "约$1,500/月",
+      "en": "~$1,500/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3600,
+    "flights": 2600,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。虽位于乡村，但校友网络在华尔街和硅谷极为强大。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Despite rural location, alumni network is extremely strong on Wall Street and in Silicon Valley."
+    },
+    "housing": {
+      "zh": "大一新生住在校园宿舍群。学校保证全部四年住宿。汉诺威校外住房选择有限，租金约$1,000-1,800/月。",
+      "en": "Freshmen live in campus dorm clusters. 4-year housing guaranteed. Limited off-campus options in Hanover, rent ~$1,000-1,800/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约95%，六年毕业率约97%。",
+      "en": "4-year graduation rate ~95%, 6-year rate ~97%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$72,000。金融、咨询、科技为主要方向。达特茅斯校友在华尔街的比例极高。",
+      "en": "Median starting salary ~$72,000. Finance, consulting, and tech are top paths. Dartmouth alumni are disproportionately represented on Wall Street."
+    },
+    "healthcare": {
+      "zh": "要求购买Dartmouth Student Health Insurance，费用约$3,600/年。Dick's House提供校内医疗和心理健康服务。",
+      "en": "Dartmouth Student Health Insurance required (~$3,600/year). Dick's House provides on-campus medical and mental health services."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封教师推荐信、1封顾问信、Dartmouth短文、面试（推荐）。ED截止11月1日，RD截止1月3日。",
+      "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 teacher recs, 1 counselor rec, Dartmouth supplements, interview (recommended). ED Nov 1, RD Jan 3."
+    }
+  },
+  {
+    "id": "brown",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "布朗大学",
+      "en": "Brown University"
+    },
+    "city": {
+      "zh": "罗得岛州 普罗维登斯",
+      "en": "Providence, RI"
+    },
+    "qs": 53,
+    "the": 55,
+    "usnews": 14,
+    "arwu": 69,
+    "tuition": 65146,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "经济学",
+        "生物学",
+        "应用数学",
+        "国际关系"
+      ],
+      "en": [
+        "Computer Science",
+        "Economics",
+        "Biology",
+        "Applied Mathematics",
+        "International Relations"
+      ]
+    },
+    "majorTuition": {
+      "zh": "布朗大学所有本科专业统一学费$65,146/年。",
+      "en": "Brown charges a flat tuition of $65,146/year."
+    },
+    "desc": {
+      "zh": "布朗大学以开放式课程（Open Curriculum）著称，学生可以完全自主设计学习路径，无核心课程要求。学术氛围自由创新，鼓励跨学科探索。",
+      "en": "Brown is famous for its Open Curriculum, allowing students complete freedom to design their studies with no core requirements. The academic culture is free-spirited and encourages interdisciplinary exploration."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 65146,
+        "食宿": 18736,
+        "书本费": 1560,
+        "个人花费": 2700
+      },
+      "en": {
+        "Tuition": 65146,
+        "Room & Board": 18736,
+        "Books": 1560,
+        "Personal": 2700
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1480+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月5日（常规申请）/ 11月1日（提前申请ED）",
+      "en": "Jan 5 (Regular) / Nov 1 (Early Decision)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于普罗维登斯东侧的大学山（College Hill），环境优美安全。公共安全部门提供24小时巡逻和SafeWalk护送服务。",
+      "en": "Campus on College Hill in Providence is scenic and safe. Public Safety provides 24/7 patrols and SafeWalk escort service."
+    },
+    "climate": {
+      "zh": "新英格兰气候，四季分明。冬季寒冷（-4~4°C），夏季温暖（20~28°C）。",
+      "en": "New England climate with four seasons. Cold winters (-4~4°C), warm summers (20~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,700/月",
+      "en": "~$1,700/month"
+    },
+    "livingCostAnnual": 20400,
+    "insurance": 3700,
+    "flights": 2400,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。布朗靠近波士顿和纽约，就业资源较丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Brown's proximity to Boston and NYC provides good career access."
+    },
+    "housing": {
+      "zh": "大一大二学生必须住校。布朗提供多种宿舍选择。高年级可住校外，普罗维登斯租金相对合理，约$1,000-1,800/月。",
+      "en": "Freshmen and sophomores must live on campus. Various dorm options. Upperclassmen may live off-campus; Providence rent ~$1,000-1,800/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约95%，六年毕业率约96%。",
+      "en": "4-year graduation rate ~95%, 6-year rate ~96%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$68,000。科技、咨询、金融、教育/非营利为主要方向。开放课程培养的自主学习能力受雇主青睐。",
+      "en": "Median starting salary ~$68,000. Tech, consulting, finance, and education/nonprofit are top paths. Self-directed skills from the Open Curriculum are valued by employers."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Brown Student Health Insurance，费用约$3,700/年。Health Services提供综合医疗和心理健康服务。",
+      "en": "Brown Student Health Insurance required (~$3,700/year). Health Services provides comprehensive medical and mental health care."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、2封推荐信、1封顾问信、论文和Brown短文。ED截止11月1日，RD截止1月5日。",
+      "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, 2 recs, 1 counselor rec, essays and Brown supplements. ED Nov 1, RD Jan 5."
+    }
+  },
+  {
+    "id": "cornell",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "康奈尔大学",
+      "en": "Cornell University"
+    },
+    "city": {
+      "zh": "纽约州 伊萨卡",
+      "en": "Ithaca, NY"
+    },
+    "qs": 16,
+    "the": 20,
+    "usnews": 15,
+    "arwu": 12,
+    "tuition": 63200,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "酒店管理",
+        "建筑学",
+        "生物学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Hotel Administration",
+        "Architecture",
+        "Biology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "康奈尔私立学院统一学费$63,200/年。部分公立学院（如农业与生命科学、人类生态学、工业与劳动关系学院）纽约州居民学费不同，但国际生学费相近。",
+      "en": "Cornell private college tuition is $63,200/year. Some statutory colleges (Agriculture, Human Ecology, ILR) have different NY resident rates, but international tuition is similar."
+    },
+    "desc": {
+      "zh": "康奈尔大学是常春藤中规模最大的，拥有七个本科学院。以工程、酒店管理和农业科学闻名，校园坐落在纽约州中部风景壮丽的峡谷地带。",
+      "en": "Cornell is the largest Ivy with seven undergraduate schools. Known for engineering, hotel administration, and agricultural sciences, its campus sits amid stunning gorges in central New York State."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 63200,
+        "食宿": 18696,
+        "书本费": 1000,
+        "个人花费": 2700
+      },
+      "en": {
+        "Tuition": 63200,
+        "Room & Board": 18696,
+        "Books": 1000,
+        "Personal": 2700
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1470+/ACT 33+"
+    },
+    "deadline": {
+      "zh": "1月2日（常规申请）/ 11月1日（提前申请ED）",
+      "en": "Jan 2 (Regular) / Nov 1 (Early Decision)"
+    },
+    "safetyDetail": {
+      "zh": "伊萨卡是安静的大学城，校园整体安全。Cornell Police提供24小时巡逻和蓝光电话系统。冬季路面结冰需注意安全。",
+      "en": "Ithaca is a quiet college town with generally safe campus. Cornell Police provide 24/7 patrols and blue-light phones. Icy winter paths require caution."
+    },
+    "climate": {
+      "zh": "冬季漫长寒冷多雪（-10~0°C），夏季温暖（18~27°C）。伊萨卡气候较为严寒，有'Ithaca is Gorges'的说法。",
+      "en": "Long cold snowy winters (-10~0°C), warm summers (18~27°C). Ithaca's climate is quite harsh — 'Ithaca is Gorges' is a famous saying."
+    },
+    "livingCost": {
+      "zh": "约$1,500/月",
+      "en": "~$1,500/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3500,
+    "flights": 2500,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。虽位于小城，但康奈尔校友网络在华尔街和硅谷非常强大。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Despite small-town location, Cornell alumni networks are powerful on Wall Street and in Silicon Valley."
+    },
+    "housing": {
+      "zh": "大一新生必须住校，住在北校区宿舍群。高年级可选择校内或校外住房。伊萨卡租金较合理，约$800-1,400/月。",
+      "en": "Freshmen must live on campus in North Campus dorms. Upperclassmen may live on or off campus. Ithaca rent is reasonable at ~$800-1,400/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约90%，六年毕业率约95%。",
+      "en": "4-year graduation rate ~90%, 6-year rate ~95%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$72,000。工程、科技、金融、酒店业为主要方向。Cornell Hotel School毕业生在酒店行业全球领先。",
+      "en": "Median starting salary ~$72,000. Engineering, tech, finance, and hospitality are top paths. Cornell Hotel School grads lead globally in hospitality."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Cornell Student Health Insurance Plan (SHP)，费用约$3,500/年。Cornell Health提供综合医疗和心理健康服务。",
+      "en": "Cornell SHP required (~$3,500/year). Cornell Health provides comprehensive medical and mental health services."
+    },
+    "application": {
+      "zh": "通过Common App申请。申请费$80。需要：成绩单、SAT/ACT（可选，部分学院要求）、TOEFL/IELTS、2封推荐信、1封顾问信、论文。按学院申请，不同学院可能有额外要求。ED截止11月1日，RD截止1月2日。",
+      "en": "Apply via Common App. $80 fee. Required: transcripts, SAT/ACT (test-optional, some colleges require), TOEFL/IELTS, 2 recs, 1 counselor rec, essays. Apply to specific colleges; some have additional requirements. ED Nov 1, RD Jan 2."
+    }
+  },
+  {
+    "id": "rice",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "莱斯大学",
+      "en": "Rice University"
+    },
+    "city": {
+      "zh": "得克萨斯州 休斯顿",
+      "en": "Houston, TX"
+    },
+    "qs": 77,
+    "the": 87,
+    "usnews": 16,
+    "arwu": 80,
+    "tuition": 58128,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "经济学",
+        "生物化学",
+        "建筑学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Economics",
+        "Biochemistry",
+        "Architecture"
+      ]
+    },
+    "majorTuition": {
+      "zh": "莱斯大学所有本科专业统一学费$58,128/年。",
+      "en": "Rice charges a flat tuition of $58,128/year."
+    },
+    "desc": {
+      "zh": "莱斯大学是一所精英小型研究型大学，以高性价比和住宿学院制度闻名。位于休斯顿博物馆区，校园绿树成荫，学生满意度极高。",
+      "en": "Rice is an elite small research university known for excellent value and its residential college system. Located in Houston's Museum District with a lush campus, it has exceptional student satisfaction rates."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 58128,
+        "食宿": 17250,
+        "书本费": 1200,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 58128,
+        "Room & Board": 17250,
+        "Books": 1200,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1490+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月4日（常规申请）/ 11月1日（提前申请ED）",
+      "en": "Jan 4 (Regular) / Nov 1 (Early Decision)"
+    },
+    "safetyDetail": {
+      "zh": "校园围墙封闭，设有进出管控。Rice University Police提供24小时安保。休斯顿大城市需注意校外安全。",
+      "en": "Enclosed campus with access control. Rice Police provide 24/7 security. Houston being a large city requires off-campus awareness."
+    },
+    "climate": {
+      "zh": "亚热带湿润气候，夏季炎热潮湿（25~35°C），冬季温和（5~17°C）。飓风季节（6-11月）偶有影响。",
+      "en": "Subtropical humid climate. Hot humid summers (25~35°C), mild winters (5~17°C). Hurricane season (Jun-Nov) may occasionally affect the area."
+    },
+    "livingCost": {
+      "zh": "约$1,500/月",
+      "en": "~$1,500/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3200,
+    "flights": 2200,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。休斯顿能源、医疗和航天产业发达，就业机会丰富。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Houston's energy, healthcare, and aerospace industries offer abundant employment."
+    },
+    "housing": {
+      "zh": "所有本科生分配到11个住宿学院之一，保证四年住宿。每个学院有自己的文化和传统。校外租房约$900-1,500/月。",
+      "en": "All undergrads assigned to one of 11 residential colleges with 4-year housing guarantee. Each college has its own culture. Off-campus rent ~$900-1,500/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约89%，六年毕业率约93%。",
+      "en": "4-year graduation rate ~89%, 6-year rate ~93%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$72,000。能源、科技、工程、咨询为主要方向。与休斯顿NASA和医学中心联系紧密。",
+      "en": "Median starting salary ~$72,000. Energy, tech, engineering, and consulting are top paths. Strong ties to Houston NASA and Medical Center."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Rice Student Health Insurance，费用约$3,200/年。Student Health Services提供校内医疗。Houston Medical Center世界级医疗资源就在附近。",
+      "en": "Rice Student Health Insurance required (~$3,200/year). Student Health Services provides on-campus care. World-class Houston Medical Center is nearby."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$75。需要：成绩单、SAT/ACT（恢复要求）、TOEFL/IELTS、2封推荐信、1封顾问信、论文、面试（要求）。ED截止11月1日，RD截止1月4日。",
+      "en": "Apply via Common App or Coalition App. $75 fee. Required: transcripts, SAT/ACT (reinstated), TOEFL/IELTS, 2 recs, 1 counselor rec, essays, interview (required). ED Nov 1, RD Jan 4."
+    }
+  },
+  {
+    "id": "vanderbilt",
+    "country": "US",
+    "flag": "🇺🇸",
+    "name": {
+      "zh": "范德堡大学",
+      "en": "Vanderbilt University"
+    },
+    "city": {
+      "zh": "田纳西州 纳什维尔",
+      "en": "Nashville, TN"
+    },
+    "qs": 130,
+    "the": 91,
+    "usnews": 17,
+    "arwu": 65,
+    "tuition": 62194,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "经济学",
+        "教育学",
+        "人文与组织发展",
+        "医学预科",
+        "计算机科学"
+      ],
+      "en": [
+        "Economics",
+        "Education",
+        "Human & Organizational Development",
+        "Pre-Med",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "范德堡大学所有本科专业统一学费$62,194/年。",
+      "en": "Vanderbilt charges a flat tuition of $62,194/year."
+    },
+    "desc": {
+      "zh": "范德堡大学位于音乐之城纳什维尔，是南方最具声望的私立大学之一。以教育学院、医学院和音乐城市文化氛围闻名，校园景色优美。",
+      "en": "Vanderbilt is located in Music City Nashville and is one of the most prestigious private universities in the South. Known for its education and medical schools, set in a beautiful campus with a vibrant city culture."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62194,
+        "食宿": 19832,
+        "书本费": 1194,
+        "个人花费": 2600
+      },
+      "en": {
+        "Tuition": 62194,
+        "Room & Board": 19832,
+        "Books": 1194,
+        "Personal": 2600
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "1480+/ACT 34+"
+    },
+    "deadline": {
+      "zh": "1月1日（常规申请）/ 11月1日（提前申请ED I）/ 1月1日（ED II）",
+      "en": "Jan 1 (Regular) / Nov 1 (ED I) / Jan 1 (ED II)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于纳什维尔市中心附近，校园内安保良好。VUPD提供24小时巡逻和护送服务。纳什维尔整体治安较好。",
+      "en": "Campus near downtown Nashville with good security. VUPD provides 24/7 patrols and escort services. Nashville is generally safe."
+    },
+    "climate": {
+      "zh": "温带气候，冬季温和（-1~9°C），夏季炎热潮湿（22~33°C）。四季分明，冬季偶有降雪。",
+      "en": "Temperate climate. Mild winters (-1~9°C), hot humid summers (22~33°C). Four seasons with occasional winter snow."
+    },
+    "livingCost": {
+      "zh": "约$1,500/月",
+      "en": "~$1,500/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3400,
+    "flights": 2300,
+    "visa": {
+      "zh": "F-1学生签证 → OPT（12个月，STEM专业36个月）→ H-1B → 绿卡。纳什维尔近年经济发展迅速，医疗和科技行业就业增长显著。",
+      "en": "F-1 → OPT (12 months, STEM 36 months) → H-1B → Green Card. Nashville's rapidly growing economy offers expanding healthcare and tech employment."
+    },
+    "housing": {
+      "zh": "大一学生住在The Commons，保证四年住宿。提供多种住宿学院选择。校外纳什维尔租金约$1,000-1,700/月。",
+      "en": "Freshmen live in The Commons. 4-year housing guaranteed with various residential college options. Off-campus Nashville rent ~$1,000-1,700/month."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约89%，六年毕业率约93%。",
+      "en": "4-year graduation rate ~89%, 6-year rate ~93%."
+    },
+    "employment": {
+      "zh": "毕业生起薪中位数约$65,000。医疗、咨询、金融、教育为主要方向。范德堡医学中心是重要雇主。",
+      "en": "Median starting salary ~$65,000. Healthcare, consulting, finance, and education are top paths. Vanderbilt Medical Center is a major employer."
+    },
+    "healthcare": {
+      "zh": "要求学生购买Vanderbilt Student Health Insurance，费用约$3,400/年。Student Health Center提供医疗服务，范德堡大学医学中心全美顶尖。",
+      "en": "Student Health Insurance required (~$3,400/year). Student Health Center provides care, with Vanderbilt University Medical Center among the nation's best."
+    },
+    "application": {
+      "zh": "通过Common App或Coalition App申请。申请费$50。需要：成绩单、SAT/ACT（可选）、TOEFL/IELTS、推荐信、论文。ED I截止11月1日，ED II/RD截止1月1日。",
+      "en": "Apply via Common App or Coalition App. $50 fee. Required: transcripts, SAT/ACT (test-optional), TOEFL/IELTS, recommendations, essays. ED I Nov 1, ED II/RD Jan 1."
+    }
+  }
+]

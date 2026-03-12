@@ -1,0 +1,3218 @@
+[
+  {
+    "id": "oxford",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "牛津大学",
+      "en": "University of Oxford"
+    },
+    "city": {
+      "zh": "英格兰 牛津",
+      "en": "Oxford, England"
+    },
+    "qs": 3,
+    "the": 1,
+    "usnews": 5,
+    "arwu": 7,
+    "tuition": 39740,
+    "tuitionRange": [
+      33050,
+      53350
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "哲学政治经济学(PPE)",
+        "法学",
+        "医学",
+        "文学",
+        "数学"
+      ],
+      "en": [
+        "Philosophy, Politics and Economics (PPE)",
+        "Law",
+        "Medicine",
+        "Literature",
+        "Mathematics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "牛津大学国际生学费按专业差异非常大：\n- 人文社科类：£33,050/年\n- 理科/数学：£39,740/年\n- 医学临床：£53,350/年",
+      "en": "Oxford international tuition varies significantly by subject: Humanities £33,050/yr, Sciences £39,740/yr, Clinical Medicine £53,350/yr"
+    },
+    "desc": {
+      "zh": "牛津大学创立于1096年，是英语世界最古老的大学。导师制教学是其核心特色，培养了28位英国首相和72位诺贝尔奖得主。",
+      "en": "Founded in 1096, Oxford is the oldest university in the English-speaking world with Tutorial System as its core. 28 British PMs and 72 Nobel laureates among alumni."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 39740,
+        "学院费": 4500,
+        "住宿费": 9500,
+        "生活费": 7600
+      },
+      "en": {
+        "Tuition": 39740,
+        "College Fees": 4500,
+        "Accommodation": 9500,
+        "Living": 7600
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "10月15日（UCAS）",
+      "en": "October 15 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "牛津是历史悠久的大学城，治安良好，犯罪率低于英国平均水平。各学院设有24小时门卫。",
+      "en": "Oxford is a historic university city with low crime rates. Colleges have 24-hour porters."
+    },
+    "climate": {
+      "zh": "温带海洋性气候，冬季2-7°C，夏季15-22°C。全年降雨较多。",
+      "en": "Temperate maritime climate. Winters 2-7C, summers 15-22C."
+    },
+    "livingCost": {
+      "zh": "约£1,425/月",
+      "en": "~£1,425/month"
+    },
+    "livingCostAnnual": 21500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "39个学院大部分保证本科生全程住宿。学院宿舍£7,500-£11,000/年。",
+      "en": "Most of 39 colleges guarantee accommodation. College rooms £7,500-£11,000/year."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约98%。学制3年（部分4年），医学6年。",
+      "en": "Completion rate ~98%. Degree: 3 years (some 4), Medicine 6 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约95%。起薪中位数£30,000-£35,000。",
+      "en": "Employment rate ~95%. Median starting salary £30,000-£35,000."
+    },
+    "healthcare": {
+      "zh": "必须缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Must pay IHS £776/yr for free NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期10月15日",
+      "en": "UCAS application, deadline October 15"
+    }
+  },
+  {
+    "id": "cambridge",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "剑桥大学",
+      "en": "University of Cambridge"
+    },
+    "city": {
+      "zh": "英格兰 剑桥",
+      "en": "Cambridge, England"
+    },
+    "qs": 2,
+    "the": 5,
+    "usnews": 8,
+    "arwu": 4,
+    "tuition": 37293,
+    "tuitionRange": [
+      24507,
+      63990
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "自然科学",
+        "工程学",
+        "数学",
+        "计算机科学",
+        "经济学"
+      ],
+      "en": [
+        "Natural Sciences",
+        "Engineering",
+        "Mathematics",
+        "Computer Science",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£24,507/年，理工科£37,293/年，医学£63,990/年",
+      "en": "Humanities £24,507/yr, Science/Engineering £37,293/yr, Medicine £63,990/yr"
+    },
+    "desc": {
+      "zh": "剑桥大学成立于1209年，与牛津并称。培养了121位诺贝尔奖得主，数量居世界之首。",
+      "en": "Founded in 1209, Cambridge has produced 121 Nobel laureates - the most worldwide."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 37293,
+        "学院费": 4000,
+        "住宿费": 8500,
+        "生活费": 7600
+      },
+      "en": {
+        "Tuition": 37293,
+        "College Fees": 4000,
+        "Accommodation": 8500,
+        "Living": 7600
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0-7.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "10月15日（UCAS）",
+      "en": "October 15 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "剑桥是安全的小城市，以自行车文化闻名。",
+      "en": "Cambridge is a safe small city famous for cycling."
+    },
+    "climate": {
+      "zh": "温带海洋性气候，冬季1-7°C，夏季14-22°C。",
+      "en": "Temperate maritime. Winters 1-7C, summers 14-22C."
+    },
+    "livingCost": {
+      "zh": "约£1,350/月",
+      "en": "~£1,350/month"
+    },
+    "livingCostAnnual": 20500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "31个学院大多保证本科全程住宿。",
+      "en": "Most of 31 colleges guarantee accommodation."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约98%。学制3-4年，医学6年。",
+      "en": "Completion rate ~98%. Degree: 3-4 years, Medicine 6 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约94%。起薪中位数£30,000-£35,000。",
+      "en": "Employment rate ~94%. Median starting salary £30,000-£35,000."
+    },
+    "healthcare": {
+      "zh": "必须缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Must pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期10月15日",
+      "en": "UCAS application, deadline October 15"
+    }
+  },
+  {
+    "id": "imperial",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "帝国理工学院",
+      "en": "Imperial College London"
+    },
+    "city": {
+      "zh": "英格兰 伦敦",
+      "en": "London, England"
+    },
+    "qs": 6,
+    "the": 8,
+    "usnews": 12,
+    "arwu": 22,
+    "tuition": 38900,
+    "tuitionRange": [
+      35100,
+      51000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "医学",
+        "物理学",
+        "商科"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Medicine",
+        "Physics",
+        "Business"
+      ]
+    },
+    "majorTuition": {
+      "zh": "理工科£35,100-£40,500/年，商科£36,200/年，医学£51,000/年",
+      "en": "Science/Engineering £35,100-£40,500/yr, Business £36,200/yr, Medicine £51,000/yr"
+    },
+    "desc": {
+      "zh": "帝国理工专注于理工科、医学和商科，位于伦敦南肯辛顿。毕业生起薪全英前三。",
+      "en": "Imperial specializes in science, engineering, medicine and business in London. Top-3 UK graduate salaries."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 38900,
+        "住宿费": 12000,
+        "生活费": 9600
+      },
+      "en": {
+        "Tuition": 38900,
+        "Accommodation": 12000,
+        "Living": 9600
+      }
+    },
+    "requirements": {
+      "TOEFL": "92+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "位于伦敦南肯辛顿富人区，非常安全。",
+      "en": "Located in affluent South Kensington, very safe."
+    },
+    "climate": {
+      "zh": "伦敦气候，冬季3-8°C，夏季15-23°C。",
+      "en": "London climate. Winters 3-8C, summers 15-23C."
+    },
+    "livingCost": {
+      "zh": "约£1,600/月",
+      "en": "~£1,600/month"
+    },
+    "livingCostAnnual": 25000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约95%。学制3-4年，医学5-6年。",
+      "en": "Completion rate ~95%. Degree: 3-4 years, Medicine 5-6 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约96%。起薪中位数£35,000-£40,000。",
+      "en": "Employment rate ~96%. Median starting salary £35,000-£40,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "ucl",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "伦敦大学学院",
+      "en": "University College London (UCL)"
+    },
+    "city": {
+      "zh": "英格兰 伦敦",
+      "en": "London, England"
+    },
+    "qs": 9,
+    "the": 22,
+    "usnews": 16,
+    "arwu": 17,
+    "tuition": 35000,
+    "tuitionRange": [
+      26200,
+      44000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "建筑学",
+        "教育学",
+        "法学",
+        "医学",
+        "心理学"
+      ],
+      "en": [
+        "Architecture",
+        "Education",
+        "Law",
+        "Medicine",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£26,200/年，理工科£35,000/年，医学£44,000/年",
+      "en": "Humanities £26,200/yr, Science/Engineering £35,000/yr, Medicine £44,000/yr"
+    },
+    "desc": {
+      "zh": "UCL是伦敦大学联盟旗舰学院，建筑学和教育学全球顶尖。",
+      "en": "UCL is flagship University of London with world-leading Architecture and Education."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 35000,
+        "住宿费": 11500,
+        "生活费": 9600
+      },
+      "en": {
+        "Tuition": 35000,
+        "Accommodation": 11500,
+        "Living": 9600
+      }
+    },
+    "requirements": {
+      "TOEFL": "92+",
+      "IELTS": "6.5-7.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "位于伦敦Bloomsbury区，较安全。",
+      "en": "Located in Bloomsbury, relatively safe."
+    },
+    "climate": {
+      "zh": "伦敦气候，冬季3-8°C，夏季15-23°C。",
+      "en": "London climate. Winters 3-8C, summers 15-23C."
+    },
+    "livingCost": {
+      "zh": "约£1,500/月",
+      "en": "~£1,500/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约93%。学制3年，医学5-6年。",
+      "en": "Completion rate ~93%. Degree: 3 years, Medicine 5-6 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约93%。起薪中位数£28,000-£32,000。",
+      "en": "Employment rate ~93%. Median starting salary £28,000-£32,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "lse",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "伦敦政治经济学院",
+      "en": "London School of Economics (LSE)"
+    },
+    "city": {
+      "zh": "英格兰 伦敦",
+      "en": "London, England"
+    },
+    "qs": 50,
+    "the": 46,
+    "usnews": 230,
+    "arwu": 151,
+    "tuition": 26856,
+    "tuitionRange": [
+      24264,
+      30384
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "经济学",
+        "金融学",
+        "政治学",
+        "社会学",
+        "法学"
+      ],
+      "en": [
+        "Economics",
+        "Finance",
+        "Political Science",
+        "Sociology",
+        "Law"
+      ]
+    },
+    "majorTuition": {
+      "zh": "社科类£24,264-£26,856/年，数学/统计£30,384/年",
+      "en": "Social Sciences £24,264-£26,856/yr, Mathematics/Statistics £30,384/yr"
+    },
+    "desc": {
+      "zh": "LSE是全球社会科学最高学府，经济学、政治学、法学享誉全球。",
+      "en": "LSE is worlds leading social science institution with global reputation in economics, politics and law."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 26856,
+        "住宿费": 11000,
+        "生活费": 9600
+      },
+      "en": {
+        "Tuition": 26856,
+        "Accommodation": 11000,
+        "Living": 9600
+      }
+    },
+    "requirements": {
+      "TOEFL": "100+",
+      "IELTS": "7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "位于伦敦Holborn区，治安良好。",
+      "en": "Located in Holborn, good security."
+    },
+    "climate": {
+      "zh": "伦敦气候，冬季3-8°C，夏季15-23°C。",
+      "en": "London climate. Winters 3-8C, summers 15-23C."
+    },
+    "livingCost": {
+      "zh": "约£1,550/月",
+      "en": "~£1,550/month"
+    },
+    "livingCostAnnual": 24500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约94%。学制3年。",
+      "en": "Completion rate ~94%. Degree: 3 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约90%。起薪中位数£32,000-£38,000。",
+      "en": "Employment rate ~90%. Median starting salary £32,000-£38,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "edinburgh",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "爱丁堡大学",
+      "en": "University of Edinburgh"
+    },
+    "city": {
+      "zh": "苏格兰 爱丁堡",
+      "en": "Edinburgh, Scotland"
+    },
+    "qs": 27,
+    "the": 30,
+    "usnews": 34,
+    "arwu": 38,
+    "tuition": 34800,
+    "tuitionRange": [
+      23950,
+      55000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "人工智能",
+        "医学",
+        "法学",
+        "文学",
+        "商科"
+      ],
+      "en": [
+        "Artificial Intelligence",
+        "Medicine",
+        "Law",
+        "Literature",
+        "Business"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£23,950/年，理工科£34,800/年，医学£55,000/年",
+      "en": "Humanities £23,950/yr, Science/Engineering £34,800/yr, Medicine £55,000/yr"
+    },
+    "desc": {
+      "zh": "爱丁堡大学是苏格兰最顶尖大学，成立于1583年，是全球AI研究先驱。",
+      "en": "Edinburgh is Scotlands top university, founded 1583, global AI pioneer."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 34800,
+        "住宿费": 7500,
+        "生活费": 7200
+      },
+      "en": {
+        "Tuition": 34800,
+        "Accommodation": 7500,
+        "Living": 7200
+      }
+    },
+    "requirements": {
+      "TOEFL": "92+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "爱丁堡是欧洲最安全的首都城市之一。",
+      "en": "Edinburgh is one of Europes safest capital cities."
+    },
+    "climate": {
+      "zh": "苏格兰气候较冷，冬季1-6°C，夏季11-19°C。",
+      "en": "Scottish climate. Winters 1-6C, summers 11-19C."
+    },
+    "livingCost": {
+      "zh": "约£1,100/月",
+      "en": "~£1,100/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。苏格兰学制4年。",
+      "en": "First-year accommodation guaranteed. Scottish degree: 4 years."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约92%。苏格兰学制4年，医学5-6年。",
+      "en": "Completion rate ~92%. Scottish degree: 4 years, Medicine 5-6 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约93%。起薪中位数£26,000-£30,000。",
+      "en": "Employment rate ~93%. Median starting salary £26,000-£30,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS（苏格兰）免费医疗。",
+      "en": "Pay IHS £776/yr for NHS Scotland healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "manchester",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "曼彻斯特大学",
+      "en": "University of Manchester"
+    },
+    "city": {
+      "zh": "英格兰 曼彻斯特",
+      "en": "Manchester, England"
+    },
+    "qs": 34,
+    "the": 50,
+    "usnews": 63,
+    "arwu": 36,
+    "tuition": 31000,
+    "tuitionRange": [
+      23500,
+      50000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "商科",
+        "计算机科学",
+        "物理学",
+        "医学"
+      ],
+      "en": [
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Physics",
+        "Medicine"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£23,500/年，理工科£31,000/年，医学£50,000/年",
+      "en": "Humanities £23,500/yr, Science/Engineering £31,000/yr, Medicine £50,000/yr"
+    },
+    "desc": {
+      "zh": "曼彻斯特大学是英国最大的单一校址大学，红砖大学之首。石墨烯在此被发现。",
+      "en": "Manchester is UKs largest single-site university, leading red brick. Graphene was discovered here."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 31000,
+        "住宿费": 7000,
+        "生活费": 7200
+      },
+      "en": {
+        "Tuition": 31000,
+        "Accommodation": 7000,
+        "Living": 7200
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.0-7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "曼彻斯特是大城市，校园区域相对安全。",
+      "en": "Manchester is large; campus area relatively safe."
+    },
+    "climate": {
+      "zh": "多雨，冬季2-7°C，夏季13-20°C。",
+      "en": "Rainy. Winters 2-7C, summers 13-20C."
+    },
+    "livingCost": {
+      "zh": "约£1,050/月",
+      "en": "~£1,050/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约91%。学制3年，医学5年。",
+      "en": "Completion rate ~91%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约92%。起薪中位数£26,000-£30,000。",
+      "en": "Employment rate ~92%. Median starting salary £26,000-£30,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "kcl",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "伦敦国王学院",
+      "en": "King's College London"
+    },
+    "city": {
+      "zh": "英格兰 伦敦",
+      "en": "London, England"
+    },
+    "qs": 40,
+    "the": 35,
+    "usnews": 33,
+    "arwu": 53,
+    "tuition": 31350,
+    "tuitionRange": [
+      23940,
+      51600
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "医学",
+        "法学",
+        "国际关系",
+        "护理学",
+        "心理学"
+      ],
+      "en": [
+        "Medicine",
+        "Law",
+        "International Relations",
+        "Nursing",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£23,940/年，理工科£31,350/年，医学£51,600/年",
+      "en": "Humanities £23,940/yr, Science/Engineering £31,350/yr, Medicine £51,600/yr"
+    },
+    "desc": {
+      "zh": "伦敦国王学院创立于1829年，医学和法学极为出色。",
+      "en": "King's College London founded 1829 with excellent medicine and law."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 31350,
+        "住宿费": 10500,
+        "生活费": 9600
+      },
+      "en": {
+        "Tuition": 31350,
+        "Accommodation": 10500,
+        "Living": 9600
+      }
+    },
+    "requirements": {
+      "TOEFL": "92+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "校区分布在伦敦市中心，治安良好。",
+      "en": "Campuses across central London, generally safe."
+    },
+    "climate": {
+      "zh": "伦敦气候，冬季3-8°C，夏季15-23°C。",
+      "en": "London climate. Winters 3-8C, summers 15-23C."
+    },
+    "livingCost": {
+      "zh": "约£1,500/月",
+      "en": "~£1,500/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约92%。学制3年，医学5-6年。",
+      "en": "Completion rate ~92%. Degree: 3 years, Medicine 5-6 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约92%。起薪中位数£27,000-£32,000。",
+      "en": "Employment rate ~92%. Median starting salary £27,000-£32,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "bristol",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "布里斯托大学",
+      "en": "University of Bristol"
+    },
+    "city": {
+      "zh": "英格兰 布里斯托",
+      "en": "Bristol, England"
+    },
+    "qs": 55,
+    "the": 76,
+    "usnews": 86,
+    "arwu": 78,
+    "tuition": 29300,
+    "tuitionRange": [
+      22300,
+      46500
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "法学",
+        "医学",
+        "社会学",
+        "地理学"
+      ],
+      "en": [
+        "Engineering",
+        "Law",
+        "Medicine",
+        "Sociology",
+        "Geography"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£22,300/年，理工科£29,300/年，医学/牙医£46,500/年",
+      "en": "Humanities £22,300/yr, Science/Engineering £29,300/yr, Medicine/Dentistry £46,500/yr"
+    },
+    "desc": {
+      "zh": "布里斯托大学是英国顶尖红砖大学之一，以工程和科学著称。",
+      "en": "Bristol is a leading red brick university renowned for engineering and science."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 29300,
+        "住宿费": 7500,
+        "生活费": 7200
+      },
+      "en": {
+        "Tuition": 29300,
+        "Accommodation": 7500,
+        "Living": 7200
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "布里斯托是英格兰西南部安全宜居的城市。",
+      "en": "Bristol is a safe, liveable city in southwest England."
+    },
+    "climate": {
+      "zh": "英格兰西南气候较温和，冬季3-8°C，夏季14-21°C。",
+      "en": "Southwest England climate. Winters 3-8C, summers 14-21C."
+    },
+    "livingCost": {
+      "zh": "约£1,050/月",
+      "en": "~£1,050/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约93%。学制3年，医学5年。",
+      "en": "Completion rate ~93%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约93%。起薪中位数£25,000-£28,000。",
+      "en": "Employment rate ~93%. Median starting salary £25,000-£28,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "warwick",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "华威大学",
+      "en": "University of Warwick"
+    },
+    "city": {
+      "zh": "英格兰 考文垂",
+      "en": "Coventry, England"
+    },
+    "qs": 69,
+    "the": 104,
+    "usnews": 127,
+    "arwu": 101,
+    "tuition": 30620,
+    "tuitionRange": [
+      22280,
+      47800
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "商科(WBS)",
+        "数学",
+        "经济学",
+        "戏剧",
+        "计算机科学"
+      ],
+      "en": [
+        "Business (WBS)",
+        "Mathematics",
+        "Economics",
+        "Theatre",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£22,280/年，理工科/商科£30,620/年，医学£47,800/年",
+      "en": "Humanities £22,280/yr, Science/Business £30,620/yr, Medicine £47,800/yr"
+    },
+    "desc": {
+      "zh": "华威大学成立仅60年却已跻身英国前十。Warwick商学院是全球顶尖商学院。",
+      "en": "Founded 1965, Warwick is UK top 10. Warwick Business School is globally elite."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 30620,
+        "住宿费": 6500,
+        "生活费": 6800
+      },
+      "en": {
+        "Tuition": 30620,
+        "Accommodation": 6500,
+        "Living": 6800
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.0-7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于郊区，自成一体，非常安全。",
+      "en": "Self-contained suburban campus, very safe."
+    },
+    "climate": {
+      "zh": "英格兰中部气候，冬季2-7°C，夏季14-21°C。",
+      "en": "English Midlands climate. Winters 2-7C, summers 14-21C."
+    },
+    "livingCost": {
+      "zh": "约£950/月",
+      "en": "~£950/month"
+    },
+    "livingCostAnnual": 15500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约94%。学制3-4年。",
+      "en": "Completion rate ~94%. Degree: 3-4 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约93%。起薪中位数£27,000-£32,000。",
+      "en": "Employment rate ~93%. Median starting salary £27,000-£32,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "glasgow",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "格拉斯哥大学",
+      "en": "University of Glasgow"
+    },
+    "city": {
+      "zh": "苏格兰 格拉斯哥",
+      "en": "Glasgow, Scotland"
+    },
+    "qs": 76,
+    "the": 87,
+    "usnews": 74,
+    "arwu": 101,
+    "tuition": 28420,
+    "tuitionRange": [
+      22060,
+      52000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "医学",
+        "工程学",
+        "法学",
+        "兽医学",
+        "会计金融"
+      ],
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Law",
+        "Veterinary Science",
+        "Accounting and Finance"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£22,060/年，理工科£28,420/年，医学£52,000/年",
+      "en": "Humanities £22,060/yr, Science/Engineering £28,420/yr, Medicine £52,000/yr"
+    },
+    "desc": {
+      "zh": "格拉斯哥大学始建于1451年，是全球最古老的大学之一。",
+      "en": "Founded in 1451, Glasgow is one of the worlds oldest universities."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 28420,
+        "住宿费": 6000,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 28420,
+        "Accommodation": 6000,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "格拉斯哥西区（大学所在地）治安良好。",
+      "en": "Glasgows West End is very safe."
+    },
+    "climate": {
+      "zh": "苏格兰西部气候湿润温和，冬季2-7°C，夏季12-19°C。",
+      "en": "West Scotland climate. Winters 2-7C, summers 12-19C."
+    },
+    "livingCost": {
+      "zh": "约£950/月",
+      "en": "~£950/month"
+    },
+    "livingCostAnnual": 15500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。苏格兰学制4年。",
+      "en": "First-year accommodation guaranteed. Scottish degree: 4 years."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约90%。苏格兰学制4年，医学5-6年。",
+      "en": "Completion rate ~90%. Scottish degree: 4 years, Medicine 5-6 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约92%。起薪中位数£24,000-£28,000。",
+      "en": "Employment rate ~92%. Median starting salary £24,000-£28,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS（苏格兰）免费医疗。",
+      "en": "Pay IHS £776/yr for NHS Scotland healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "southampton",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "南安普顿大学",
+      "en": "University of Southampton"
+    },
+    "city": {
+      "zh": "英格兰 南安普顿",
+      "en": "Southampton, England"
+    },
+    "qs": 81,
+    "the": 97,
+    "usnews": 104,
+    "arwu": 101,
+    "tuition": 27400,
+    "tuitionRange": [
+      21580,
+      43800
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "电子工程",
+        "计算机科学",
+        "海洋学",
+        "商科",
+        "医学"
+      ],
+      "en": [
+        "Electronic Engineering",
+        "Computer Science",
+        "Oceanography",
+        "Business",
+        "Medicine"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£21,580/年，理工科£27,400/年，医学£43,800/年",
+      "en": "Humanities £21,580/yr, Science/Engineering £27,400/yr, Medicine £43,800/yr"
+    },
+    "desc": {
+      "zh": "南安普顿大学以电子工程和计算机科学闻名，是互联网发展的重要贡献者。",
+      "en": "Southampton is renowned for electronic engineering and computer science."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 27400,
+        "住宿费": 6500,
+        "生活费": 6800
+      },
+      "en": {
+        "Tuition": 27400,
+        "Accommodation": 6500,
+        "Living": 6800
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "南安普顿是中型沿海城市，治安良好。",
+      "en": "Southampton is a mid-sized coastal city with good safety."
+    },
+    "climate": {
+      "zh": "英格兰南部沿海气候，冬季3-8°C，夏季15-22°C。",
+      "en": "South England coastal climate. Winters 3-8C, summers 15-22C."
+    },
+    "livingCost": {
+      "zh": "约£1,000/月",
+      "en": "~£1,000/month"
+    },
+    "livingCostAnnual": 16000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约91%。学制3年，医学5年。",
+      "en": "Completion rate ~91%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约91%。起薪中位数£24,000-£28,000。",
+      "en": "Employment rate ~91%. Median starting salary £24,000-£28,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "leeds",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "利兹大学",
+      "en": "University of Leeds"
+    },
+    "city": {
+      "zh": "英格兰 利兹",
+      "en": "Leeds, England"
+    },
+    "qs": 75,
+    "the": 129,
+    "usnews": 140,
+    "arwu": 101,
+    "tuition": 27750,
+    "tuitionRange": [
+      22250,
+      47500
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "传媒学",
+        "商科",
+        "工程学",
+        "医学",
+        "语言学"
+      ],
+      "en": [
+        "Media Studies",
+        "Business",
+        "Engineering",
+        "Medicine",
+        "Linguistics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£22,250/年，理工科£27,750/年，医学£47,500/年",
+      "en": "Humanities £22,250/yr, Science/Engineering £27,750/yr, Medicine £47,500/yr"
+    },
+    "desc": {
+      "zh": "利兹大学是英国规模最大的大学之一，传媒和商科全英领先。",
+      "en": "Leeds is one of UKs largest universities with leading media and business."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 27750,
+        "住宿费": 6000,
+        "生活费": 6800
+      },
+      "en": {
+        "Tuition": 27750,
+        "Accommodation": 6000,
+        "Living": 6800
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "利兹是友善的学生城市，治安良好。",
+      "en": "Leeds is a friendly student city with good safety."
+    },
+    "climate": {
+      "zh": "英格兰北部气候，冬季1-7°C，夏季12-20°C。",
+      "en": "Northern England climate. Winters 1-7C, summers 12-20C."
+    },
+    "livingCost": {
+      "zh": "约£950/月",
+      "en": "~£950/month"
+    },
+    "livingCostAnnual": 15500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约91%。学制3年，医学5年。",
+      "en": "Completion rate ~91%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约91%。起薪中位数£24,000-£27,000。",
+      "en": "Employment rate ~91%. Median starting salary £24,000-£27,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "birmingham",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "伯明翰大学",
+      "en": "University of Birmingham"
+    },
+    "city": {
+      "zh": "英格兰 伯明翰",
+      "en": "Birmingham, England"
+    },
+    "qs": 84,
+    "the": 105,
+    "usnews": 92,
+    "arwu": 101,
+    "tuition": 27180,
+    "tuitionRange": [
+      21540,
+      48000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商科",
+        "工程学",
+        "医学",
+        "体育科学",
+        "计算机科学"
+      ],
+      "en": [
+        "Business",
+        "Engineering",
+        "Medicine",
+        "Sports Science",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£21,540/年，理工科£27,180/年，医学£48,000/年",
+      "en": "Humanities £21,540/yr, Science/Engineering £27,180/yr, Medicine £48,000/yr"
+    },
+    "desc": {
+      "zh": "伯明翰大学是第一所红砖大学。商学院获三重认证。",
+      "en": "Birmingham was the first red brick university. Triple-accredited business school."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 27180,
+        "住宿费": 6000,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 27180,
+        "Accommodation": 6000,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.0-7.0+",
+      "SAT": "N/A (A-Level/IB/高考)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于Edgbaston安全住宅区。",
+      "en": "Campus in safe residential Edgbaston."
+    },
+    "climate": {
+      "zh": "英格兰中部气候，冬季2-7°C，夏季13-21°C。",
+      "en": "English Midlands climate. Winters 2-7C, summers 13-21C."
+    },
+    "livingCost": {
+      "zh": "约£950/月",
+      "en": "~£950/month"
+    },
+    "livingCostAnnual": 15500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约92%。学制3年，医学5年。",
+      "en": "Completion rate ~92%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约92%。起薪中位数£24,000-£28,000。",
+      "en": "Employment rate ~92%. Median starting salary £24,000-£28,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日。接受中国高考成绩。",
+      "en": "UCAS application, deadline January 31. Accepts Chinese Gaokao."
+    }
+  },
+  {
+    "id": "sheffield",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "谢菲尔德大学",
+      "en": "University of Sheffield"
+    },
+    "city": {
+      "zh": "英格兰 谢菲尔德",
+      "en": "Sheffield, England"
+    },
+    "qs": 105,
+    "the": 98,
+    "usnews": 127,
+    "arwu": 101,
+    "tuition": 26050,
+    "tuitionRange": [
+      21450,
+      47500
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "建筑学",
+        "工程学",
+        "新闻学",
+        "医学",
+        "计算机科学"
+      ],
+      "en": [
+        "Architecture",
+        "Engineering",
+        "Journalism",
+        "Medicine",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£21,450/年，理工科£26,050/年，医学£47,500/年",
+      "en": "Humanities £21,450/yr, Science/Engineering £26,050/yr, Medicine £47,500/yr"
+    },
+    "desc": {
+      "zh": "谢菲尔德大学以工程学和建筑学闻名，学生满意度极高。",
+      "en": "Sheffield is renowned for engineering and architecture with very high student satisfaction."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 26050,
+        "住宿费": 5500,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 26050,
+        "Accommodation": 5500,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "谢菲尔德是英国最安全的城市之一。",
+      "en": "Sheffield is one of the UKs safest cities."
+    },
+    "climate": {
+      "zh": "英格兰北部气候，冬季1-6°C，夏季12-20°C。",
+      "en": "Northern England climate. Winters 1-6C, summers 12-20C."
+    },
+    "livingCost": {
+      "zh": "约£900/月",
+      "en": "~£900/month"
+    },
+    "livingCostAnnual": 14500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约91%。学制3年，医学5年。",
+      "en": "Completion rate ~91%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约91%。起薪中位数£23,000-£27,000。",
+      "en": "Employment rate ~91%. Median starting salary £23,000-£27,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "st-andrews",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "圣安德鲁斯大学",
+      "en": "University of St Andrews"
+    },
+    "city": {
+      "zh": "苏格兰 圣安德鲁斯",
+      "en": "St Andrews, Scotland"
+    },
+    "qs": 96,
+    "the": 46,
+    "usnews": 206,
+    "arwu": 301,
+    "tuition": 30170,
+    "tuitionRange": [
+      23960,
+      38510
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "国际关系",
+        "心理学",
+        "计算机科学",
+        "经济学",
+        "历史学"
+      ],
+      "en": [
+        "International Relations",
+        "Psychology",
+        "Computer Science",
+        "Economics",
+        "History"
+      ]
+    },
+    "majorTuition": {
+      "zh": "文科£23,960/年，理科£30,170/年，医学£38,510/年",
+      "en": "Arts £23,960/yr, Sciences £30,170/yr, Medicine £38,510/yr"
+    },
+    "desc": {
+      "zh": "圣安德鲁斯是苏格兰最古老的大学（1413年），威廉王子与凯特王妃的母校。",
+      "en": "St Andrews is Scotlands oldest university (1413), Prince William and Catherine's alma mater."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 30170,
+        "住宿费": 7000,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 30170,
+        "Accommodation": 7000,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "94+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "圣安德鲁斯是全英最安全的大学城之一。",
+      "en": "St Andrews is one of the UKs safest university towns."
+    },
+    "climate": {
+      "zh": "苏格兰东海岸气候，冬季1-6°C，夏季11-18°C。",
+      "en": "Scottish east coast climate. Winters 1-6C, summers 11-18C."
+    },
+    "livingCost": {
+      "zh": "约£1,000/月",
+      "en": "~£1,000/month"
+    },
+    "livingCostAnnual": 16000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。苏格兰学制4年。",
+      "en": "First-year accommodation guaranteed. Scottish degree: 4 years."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约96%。苏格兰学制4年。",
+      "en": "Completion rate ~96%. Scottish degree: 4 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约90%。起薪中位数£25,000-£30,000。",
+      "en": "Employment rate ~90%. Median starting salary £25,000-£30,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS（苏格兰）免费医疗。",
+      "en": "Pay IHS £776/yr for NHS Scotland healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "durham",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "杜伦大学",
+      "en": "Durham University"
+    },
+    "city": {
+      "zh": "英格兰 杜伦",
+      "en": "Durham, England"
+    },
+    "qs": 92,
+    "the": 143,
+    "usnews": 190,
+    "arwu": 201,
+    "tuition": 29500,
+    "tuitionRange": [
+      23800,
+      38000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "法学",
+        "英语文学",
+        "地理学",
+        "商科",
+        "物理学"
+      ],
+      "en": [
+        "Law",
+        "English Literature",
+        "Geography",
+        "Business",
+        "Physics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£23,800/年，理工科/商科£29,500/年",
+      "en": "Humanities £23,800/yr, Science/Business £29,500/yr"
+    },
+    "desc": {
+      "zh": "杜伦大学是英格兰第三古老的大学，采用与牛剑类似的学院制。",
+      "en": "Durham is Englands third-oldest university using collegiate system like Oxbridge."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 29500,
+        "学院费": 2000,
+        "住宿费": 6500,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 29500,
+        "College Fees": 2000,
+        "Accommodation": 6500,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "92+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "杜伦是英格兰东北部的小城市，极其安全。",
+      "en": "Durham is a small city in northeast England, extremely safe."
+    },
+    "climate": {
+      "zh": "英格兰东北气候较冷，冬季0-6°C，夏季11-19°C。",
+      "en": "Northeast England climate. Winters 0-6C, summers 11-19C."
+    },
+    "livingCost": {
+      "zh": "约£900/月",
+      "en": "~£900/month"
+    },
+    "livingCostAnnual": 14500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "学院制保证本科全程住宿。",
+      "en": "Collegiate system guarantees accommodation throughout."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约95%。学制3年。",
+      "en": "Completion rate ~95%. Degree: 3 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约93%。起薪中位数£25,000-£30,000。",
+      "en": "Employment rate ~93%. Median starting salary £25,000-£30,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "nottingham",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "诺丁汉大学",
+      "en": "University of Nottingham"
+    },
+    "city": {
+      "zh": "英格兰 诺丁汉",
+      "en": "Nottingham, England"
+    },
+    "qs": 100,
+    "the": 108,
+    "usnews": 138,
+    "arwu": 101,
+    "tuition": 26500,
+    "tuitionRange": [
+      21000,
+      43000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "药学",
+        "工程学",
+        "商科",
+        "法学",
+        "教育学"
+      ],
+      "en": [
+        "Pharmacy",
+        "Engineering",
+        "Business",
+        "Law",
+        "Education"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£21,000/年，理工科£26,500/年，医学£43,000/年",
+      "en": "Humanities £21,000/yr, Science/Engineering £26,500/yr, Medicine £43,000/yr"
+    },
+    "desc": {
+      "zh": "诺丁汉大学拥有英国最美丽的校园之一，药学全英领先。",
+      "en": "Nottingham has one of UKs most beautiful campuses with UK-leading pharmacy."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 26500,
+        "住宿费": 5500,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 26500,
+        "Accommodation": 5500,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "University Park校区位于安全的住宅区。",
+      "en": "University Park campus in a safe residential area."
+    },
+    "climate": {
+      "zh": "英格兰中部气候，冬季2-7°C，夏季13-21°C。",
+      "en": "English Midlands climate. Winters 2-7C, summers 13-21C."
+    },
+    "livingCost": {
+      "zh": "约£900/月",
+      "en": "~£900/month"
+    },
+    "livingCostAnnual": 14500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约91%。学制3年，医学5年。",
+      "en": "Completion rate ~91%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约92%。起薪中位数£23,000-£27,000。",
+      "en": "Employment rate ~92%. Median starting salary £23,000-£27,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "queen-mary",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "伦敦玛丽女王大学",
+      "en": "Queen Mary University of London"
+    },
+    "city": {
+      "zh": "英格兰 伦敦",
+      "en": "London, England"
+    },
+    "qs": 145,
+    "the": 110,
+    "usnews": 112,
+    "arwu": 151,
+    "tuition": 28950,
+    "tuitionRange": [
+      21250,
+      44500
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "法学",
+        "医学",
+        "英语文学",
+        "语言学",
+        "工程学"
+      ],
+      "en": [
+        "Law",
+        "Medicine",
+        "English Literature",
+        "Linguistics",
+        "Engineering"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£21,250/年，理工科£28,950/年，医学/牙医£44,500/年",
+      "en": "Humanities £21,250/yr, Science/Engineering £28,950/yr, Medicine/Dentistry £44,500/yr"
+    },
+    "desc": {
+      "zh": "伦敦玛丽女王大学是伦敦大学联盟成员，拥有伦敦最大的独立校园。",
+      "en": "Queen Mary is a University of London member with Londons largest self-contained campus."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 28950,
+        "住宿费": 9500,
+        "生活费": 9600
+      },
+      "en": {
+        "Tuition": 28950,
+        "Accommodation": 9500,
+        "Living": 9600
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.0-7.0+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "Mile End校区有围墙和安保，校内安全。",
+      "en": "Mile End campus is gated with security."
+    },
+    "climate": {
+      "zh": "伦敦气候，冬季3-8°C，夏季15-23°C。",
+      "en": "London climate. Winters 3-8C, summers 15-23C."
+    },
+    "livingCost": {
+      "zh": "约£1,400/月",
+      "en": "~£1,400/month"
+    },
+    "livingCostAnnual": 22500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约88%。学制3年，医学5年。",
+      "en": "Completion rate ~88%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约89%。起薪中位数£25,000-£29,000。",
+      "en": "Employment rate ~89%. Median starting salary £25,000-£29,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "lancaster",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "兰卡斯特大学",
+      "en": "Lancaster University"
+    },
+    "city": {
+      "zh": "英格兰 兰卡斯特",
+      "en": "Lancaster, England"
+    },
+    "qs": 141,
+    "the": 122,
+    "usnews": 169,
+    "arwu": 201,
+    "tuition": 25550,
+    "tuitionRange": [
+      20350,
+      36500
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "商科",
+        "语言学",
+        "环境科学",
+        "创意写作",
+        "心理学"
+      ],
+      "en": [
+        "Business",
+        "Linguistics",
+        "Environmental Science",
+        "Creative Writing",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£20,350/年，理工科/商科£25,550/年",
+      "en": "Humanities £20,350/yr, Science/Business £25,550/yr"
+    },
+    "desc": {
+      "zh": "兰卡斯特大学采用学院制，学生满意度和教学质量全英名列前茅。",
+      "en": "Lancaster uses collegiate system with top UK student satisfaction."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 25550,
+        "住宿费": 5500,
+        "生活费": 6000
+      },
+      "en": {
+        "Tuition": 25550,
+        "Accommodation": 5500,
+        "Living": 6000
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "兰卡斯特是安全宁静的小城市，校园犯罪率极低。",
+      "en": "Lancaster is a safe, quiet small city with very low crime."
+    },
+    "climate": {
+      "zh": "英格兰西北气候多雨，冬季1-7°C，夏季12-19°C。",
+      "en": "Northwest England climate. Winters 1-7C, summers 12-19C."
+    },
+    "livingCost": {
+      "zh": "约£850/月",
+      "en": "~£850/month"
+    },
+    "livingCostAnnual": 13500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "学院制保证本科全程住宿。",
+      "en": "Collegiate system guarantees accommodation throughout."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约91%。学制3年。",
+      "en": "Completion rate ~91%. Degree: 3 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约91%。起薪中位数£23,000-£26,000。",
+      "en": "Employment rate ~91%. Median starting salary £23,000-£26,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "york",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "约克大学",
+      "en": "University of York"
+    },
+    "city": {
+      "zh": "英格兰 约克",
+      "en": "York, England"
+    },
+    "qs": 167,
+    "the": 136,
+    "usnews": 189,
+    "arwu": 201,
+    "tuition": 25500,
+    "tuitionRange": [
+      21050,
+      37250
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "考古学",
+        "心理学",
+        "计算机科学",
+        "教育学",
+        "社会政策"
+      ],
+      "en": [
+        "Archaeology",
+        "Psychology",
+        "Computer Science",
+        "Education",
+        "Social Policy"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£21,050/年，理工科£25,500/年，医学£37,250/年",
+      "en": "Humanities £21,050/yr, Science/Engineering £25,500/yr, Medicine £37,250/yr"
+    },
+    "desc": {
+      "zh": "约克大学以教学质量和研究创新闻名，考古学和心理学全英领先。",
+      "en": "York is known for teaching quality with UK-leading archaeology and psychology."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 25500,
+        "住宿费": 5500,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 25500,
+        "Accommodation": 5500,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "约克是英国最安全的城市之一。",
+      "en": "York is one of the UKs safest cities."
+    },
+    "climate": {
+      "zh": "英格兰北部气候，冬季1-7°C，夏季12-20°C。",
+      "en": "Northern England climate. Winters 1-7C, summers 12-20C."
+    },
+    "livingCost": {
+      "zh": "约£900/月",
+      "en": "~£900/month"
+    },
+    "livingCostAnnual": 14500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约93%。学制3年。",
+      "en": "Completion rate ~93%. Degree: 3 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约91%。起薪中位数£23,000-£27,000。",
+      "en": "Employment rate ~91%. Median starting salary £23,000-£27,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "exeter",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "埃克塞特大学",
+      "en": "University of Exeter"
+    },
+    "city": {
+      "zh": "英格兰 埃克塞特",
+      "en": "Exeter, England"
+    },
+    "qs": 153,
+    "the": 146,
+    "usnews": 163,
+    "arwu": 151,
+    "tuition": 26600,
+    "tuitionRange": [
+      22500,
+      42000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "商科",
+        "会计金融",
+        "体育科学",
+        "心理学",
+        "地理学"
+      ],
+      "en": [
+        "Business",
+        "Accounting and Finance",
+        "Sports Science",
+        "Psychology",
+        "Geography"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£22,500/年，理工科£26,600/年，医学£42,000/年",
+      "en": "Humanities £22,500/yr, Science/Engineering £26,600/yr, Medicine £42,000/yr"
+    },
+    "desc": {
+      "zh": "埃克塞特大学是英国上升最快的大学之一，商学院出色。",
+      "en": "Exeter is one of UKs fastest-rising universities with excellent business school."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 26600,
+        "住宿费": 6000,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 26600,
+        "Accommodation": 6000,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "埃克塞特是英格兰西南部安全宁静的城市。",
+      "en": "Exeter is a safe, quiet city in southwest England."
+    },
+    "climate": {
+      "zh": "英格兰西南气候温和，冬季4-9°C，夏季15-21°C。",
+      "en": "Mild southwest England climate. Winters 4-9C, summers 15-21C."
+    },
+    "livingCost": {
+      "zh": "约£950/月",
+      "en": "~£950/month"
+    },
+    "livingCostAnnual": 15500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约93%。学制3年。",
+      "en": "Completion rate ~93%. Degree: 3 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约92%。起薪中位数£24,000-£27,000。",
+      "en": "Employment rate ~92%. Median starting salary £24,000-£27,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "bath",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "巴斯大学",
+      "en": "University of Bath"
+    },
+    "city": {
+      "zh": "英格兰 巴斯",
+      "en": "Bath, England"
+    },
+    "qs": 148,
+    "the": 201,
+    "usnews": 265,
+    "arwu": 301,
+    "tuition": 25700,
+    "tuitionRange": [
+      22300,
+      31800
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "商科",
+        "建筑学",
+        "工程学",
+        "心理学",
+        "体育科学"
+      ],
+      "en": [
+        "Business",
+        "Architecture",
+        "Engineering",
+        "Psychology",
+        "Sports Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£22,300/年，理工科£25,700/年",
+      "en": "Humanities £22,300/yr, Science/Engineering £25,700/yr"
+    },
+    "desc": {
+      "zh": "巴斯大学以实习项目和就业率闻名，商学院获三重认证。",
+      "en": "Bath is known for placement programmes with triple-accredited business school."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 25700,
+        "住宿费": 6500,
+        "生活费": 6500
+      },
+      "en": {
+        "Tuition": 25700,
+        "Accommodation": 6500,
+        "Living": 6500
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "巴斯是英国最安全、最美丽的城市之一。",
+      "en": "Bath is one of the UKs safest and most beautiful cities."
+    },
+    "climate": {
+      "zh": "英格兰西南气候温和，冬季3-8°C，夏季14-21°C。",
+      "en": "Mild southwest England climate. Winters 3-8C, summers 14-21C."
+    },
+    "livingCost": {
+      "zh": "约£1,000/月",
+      "en": "~£1,000/month"
+    },
+    "livingCostAnnual": 16000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约95%。学制4年（含实习年）。",
+      "en": "Completion rate ~95%. Degree: 4 years with placement."
+    },
+    "employment": {
+      "zh": "毕业生就业率约95%，全英最高之一。",
+      "en": "Employment rate ~95%, among UKs highest."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "liverpool",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "利物浦大学",
+      "en": "University of Liverpool"
+    },
+    "city": {
+      "zh": "英格兰 利物浦",
+      "en": "Liverpool, England"
+    },
+    "qs": 176,
+    "the": 163,
+    "usnews": 155,
+    "arwu": 101,
+    "tuition": 25350,
+    "tuitionRange": [
+      20550,
+      46100
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "建筑学",
+        "医学",
+        "工程学",
+        "商科",
+        "兽医学"
+      ],
+      "en": [
+        "Architecture",
+        "Medicine",
+        "Engineering",
+        "Business",
+        "Veterinary Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£20,550/年，理工科£25,350/年，医学£46,100/年",
+      "en": "Humanities £20,550/yr, Science/Engineering £25,350/yr, Medicine £46,100/yr"
+    },
+    "desc": {
+      "zh": "利物浦大学是原红砖大学之一，建筑学和医学传统深厚。",
+      "en": "Liverpool is one of the original red brick universities with strong architecture and medicine."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 25350,
+        "住宿费": 5500,
+        "生活费": 6000
+      },
+      "en": {
+        "Tuition": 25350,
+        "Accommodation": 5500,
+        "Living": 6000
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "利物浦是友善的城市，校园区域治安良好。",
+      "en": "Liverpool is a friendly city; campus area is safe."
+    },
+    "climate": {
+      "zh": "英格兰西北气候，冬季2-7°C，夏季13-19°C。",
+      "en": "Northwest England climate. Winters 2-7C, summers 13-19C."
+    },
+    "livingCost": {
+      "zh": "约£850/月",
+      "en": "~£850/month"
+    },
+    "livingCostAnnual": 13500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约89%。学制3年，医学5年。",
+      "en": "Completion rate ~89%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约90%。起薪中位数£22,000-£26,000。",
+      "en": "Employment rate ~90%. Median starting salary £22,000-£26,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "cardiff",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "卡迪夫大学",
+      "en": "Cardiff University"
+    },
+    "city": {
+      "zh": "威尔士 卡迪夫",
+      "en": "Cardiff, Wales"
+    },
+    "qs": 154,
+    "the": 182,
+    "usnews": 159,
+    "arwu": 101,
+    "tuition": 25450,
+    "tuitionRange": [
+      20700,
+      46700
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "新闻学",
+        "建筑学",
+        "医学",
+        "工程学",
+        "心理学"
+      ],
+      "en": [
+        "Journalism",
+        "Architecture",
+        "Medicine",
+        "Engineering",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£20,700/年，理工科£25,450/年，医学£46,700/年",
+      "en": "Humanities £20,700/yr, Science/Engineering £25,450/yr, Medicine £46,700/yr"
+    },
+    "desc": {
+      "zh": "卡迪夫大学是威尔士唯一的罗素集团成员，新闻学全英顶尖。",
+      "en": "Cardiff is Wales only Russell Group member with UK-leading journalism."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 25450,
+        "住宿费": 5500,
+        "生活费": 6000
+      },
+      "en": {
+        "Tuition": 25450,
+        "Accommodation": 5500,
+        "Living": 6000
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "卡迪夫是威尔士首府，友善热情，治安良好。",
+      "en": "Cardiff is Welsh capital, friendly and safe."
+    },
+    "climate": {
+      "zh": "威尔士气候温和湿润，冬季3-8°C，夏季14-20°C。",
+      "en": "Welsh climate is mild and damp. Winters 3-8C, summers 14-20C."
+    },
+    "livingCost": {
+      "zh": "约£900/月",
+      "en": "~£900/month"
+    },
+    "livingCostAnnual": 14500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约90%。学制3年，医学5年。",
+      "en": "Completion rate ~90%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约91%。起薪中位数£23,000-£26,000。",
+      "en": "Employment rate ~91%. Median starting salary £23,000-£26,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS（威尔士）免费医疗。",
+      "en": "Pay IHS £776/yr for NHS Wales healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "newcastle",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "纽卡斯尔大学",
+      "en": "Newcastle University"
+    },
+    "city": {
+      "zh": "英格兰 纽卡斯尔",
+      "en": "Newcastle upon Tyne, England"
+    },
+    "qs": 110,
+    "the": 139,
+    "usnews": 134,
+    "arwu": 101,
+    "tuition": 26100,
+    "tuitionRange": [
+      21000,
+      50000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "医学",
+        "建筑学",
+        "工程学",
+        "商科",
+        "语言学"
+      ],
+      "en": [
+        "Medicine",
+        "Architecture",
+        "Engineering",
+        "Business",
+        "Linguistics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£21,000/年，理工科£26,100/年，医学£50,000/年",
+      "en": "Humanities £21,000/yr, Science/Engineering £26,100/yr, Medicine £50,000/yr"
+    },
+    "desc": {
+      "zh": "纽卡斯尔大学是红砖大学之一，医学和建筑学传统深厚。",
+      "en": "Newcastle is a red brick university with strong medicine and architecture."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 26100,
+        "住宿费": 5500,
+        "生活费": 6000
+      },
+      "en": {
+        "Tuition": 26100,
+        "Accommodation": 5500,
+        "Living": 6000
+      }
+    },
+    "requirements": {
+      "TOEFL": "87+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "纽卡斯尔是友善的城市，校园位于市中心，治安较好。",
+      "en": "Newcastle is a friendly city; campus in city centre with good safety."
+    },
+    "climate": {
+      "zh": "英格兰东北气候，冬季1-6°C，夏季12-19°C。",
+      "en": "Northeast England climate. Winters 1-6C, summers 12-19C."
+    },
+    "livingCost": {
+      "zh": "约£900/月",
+      "en": "~£900/month"
+    },
+    "livingCostAnnual": 14500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约91%。学制3年，医学5年。",
+      "en": "Completion rate ~91%. Degree: 3 years, Medicine 5 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约91%。起薪中位数£23,000-£27,000。",
+      "en": "Employment rate ~91%. Median starting salary £23,000-£27,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "reading",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "雷丁大学",
+      "en": "University of Reading"
+    },
+    "city": {
+      "zh": "英格兰 雷丁",
+      "en": "Reading, England"
+    },
+    "qs": 208,
+    "the": 169,
+    "usnews": 230,
+    "arwu": 201,
+    "tuition": 24500,
+    "tuitionRange": [
+      20000,
+      28700
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "农业学",
+        "房地产",
+        "气象学",
+        "商科",
+        "心理学"
+      ],
+      "en": [
+        "Agriculture",
+        "Real Estate",
+        "Meteorology",
+        "Business",
+        "Psychology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£20,000/年，理工科£24,500/年",
+      "en": "Humanities £20,000/yr, Science/Engineering £24,500/yr"
+    },
+    "desc": {
+      "zh": "雷丁大学在农业、房地产和气象学领域全球领先。亨利商学院获三重认证。",
+      "en": "Reading is globally leading in agriculture, real estate, meteorology. Henley Business School triple-accredited."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 24500,
+        "住宿费": 6000,
+        "生活费": 7000
+      },
+      "en": {
+        "Tuition": 24500,
+        "Accommodation": 6000,
+        "Living": 7000
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "雷丁是英格兰南部安全的中型城市。",
+      "en": "Reading is a safe mid-sized city in south England."
+    },
+    "climate": {
+      "zh": "英格兰南部气候，冬季3-8°C，夏季15-22°C。",
+      "en": "South England climate. Winters 3-8C, summers 15-22C."
+    },
+    "livingCost": {
+      "zh": "约£1,000/月",
+      "en": "~£1,000/month"
+    },
+    "livingCostAnnual": 16000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约89%。学制3年。",
+      "en": "Completion rate ~89%. Degree: 3 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约89%。起薪中位数£23,000-£27,000。",
+      "en": "Employment rate ~89%. Median starting salary £23,000-£27,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "sussex",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "萨塞克斯大学",
+      "en": "University of Sussex"
+    },
+    "city": {
+      "zh": "英格兰 布莱顿",
+      "en": "Brighton, England"
+    },
+    "qs": 218,
+    "the": 139,
+    "usnews": 151,
+    "arwu": 151,
+    "tuition": 24000,
+    "tuitionRange": [
+      19800,
+      27500
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "发展学",
+        "国际关系",
+        "心理学",
+        "媒体学",
+        "物理学"
+      ],
+      "en": [
+        "Development Studies",
+        "International Relations",
+        "Psychology",
+        "Media Studies",
+        "Physics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£19,800/年，理工科£24,000/年",
+      "en": "Humanities £19,800/yr, Science/Engineering £24,000/yr"
+    },
+    "desc": {
+      "zh": "萨塞克斯大学在发展学领域全球排名第一。位于布莱顿，英国最受欢迎的海滨城市。",
+      "en": "Sussex is globally #1 in Development Studies. Located in Brighton, UKs most popular seaside city."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 24000,
+        "住宿费": 6500,
+        "生活费": 7000
+      },
+      "en": {
+        "Tuition": 24000,
+        "Accommodation": 6500,
+        "Living": 7000
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "布莱顿是开放包容的城市，治安良好。",
+      "en": "Brighton is an open, inclusive city with good safety."
+    },
+    "climate": {
+      "zh": "英格兰南部沿海气候，冬季4-8°C，夏季16-22°C。",
+      "en": "South England coastal climate. Winters 4-8C, summers 16-22C."
+    },
+    "livingCost": {
+      "zh": "约£1,050/月",
+      "en": "~£1,050/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约88%。学制3年。",
+      "en": "Completion rate ~88%. Degree: 3 years."
+    },
+    "employment": {
+      "zh": "毕业生就业率约88%。起薪中位数£23,000-£26,000。",
+      "en": "Employment rate ~88%. Median starting salary £23,000-£26,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "surrey",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "萨里大学",
+      "en": "University of Surrey"
+    },
+    "city": {
+      "zh": "英格兰 吉尔福德",
+      "en": "Guildford, England"
+    },
+    "qs": 244,
+    "the": 201,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 23700,
+    "tuitionRange": [
+      19200,
+      27200
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "酒店管理",
+        "电子工程",
+        "商科",
+        "兽医学",
+        "护理学"
+      ],
+      "en": [
+        "Hospitality Management",
+        "Electronic Engineering",
+        "Business",
+        "Veterinary Science",
+        "Nursing"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£19,200/年，理工科£23,700/年，兽医£27,200/年",
+      "en": "Humanities £19,200/yr, Science/Engineering £23,700/yr, Veterinary £27,200/yr"
+    },
+    "desc": {
+      "zh": "萨里大学以就业率和实习项目闻名，酒店管理全球顶尖。",
+      "en": "Surrey is known for employment rates with globally top hospitality management."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 23700,
+        "住宿费": 6500,
+        "生活费": 7000
+      },
+      "en": {
+        "Tuition": 23700,
+        "Accommodation": 6500,
+        "Living": 7000
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "吉尔福德是英格兰东南部富裕安全的小城市。",
+      "en": "Guildford is an affluent, safe small city in southeast England."
+    },
+    "climate": {
+      "zh": "英格兰南部气候，冬季3-8°C，夏季15-22°C。",
+      "en": "South England climate. Winters 3-8C, summers 15-22C."
+    },
+    "livingCost": {
+      "zh": "约£1,050/月",
+      "en": "~£1,050/month"
+    },
+    "livingCostAnnual": 17000,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约92%。学制4年（含实习年）。",
+      "en": "Completion rate ~92%. Degree: 4 years with placement."
+    },
+    "employment": {
+      "zh": "毕业生就业率约96%，全英最高之一。",
+      "en": "Employment rate ~96%, among UKs highest."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  },
+  {
+    "id": "loughborough",
+    "country": "UK",
+    "flag": "🇬🇧",
+    "name": {
+      "zh": "拉夫堡大学",
+      "en": "Loughborough University"
+    },
+    "city": {
+      "zh": "英格兰 拉夫堡",
+      "en": "Loughborough, England"
+    },
+    "qs": 212,
+    "the": 201,
+    "usnews": 413,
+    "arwu": 501,
+    "tuition": 25700,
+    "tuitionRange": [
+      20750,
+      27250
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "体育科学",
+        "工程学",
+        "设计学",
+        "商科",
+        "传媒学"
+      ],
+      "en": [
+        "Sports Science",
+        "Engineering",
+        "Design",
+        "Business",
+        "Media Studies"
+      ]
+    },
+    "majorTuition": {
+      "zh": "人文社科£20,750/年，理工科£25,700/年",
+      "en": "Humanities £20,750/yr, Science/Engineering £25,700/yr"
+    },
+    "desc": {
+      "zh": "拉夫堡大学体育科学连续多年全球第一，设计和工程也极为出色。",
+      "en": "Loughborough sports science has been globally #1 for consecutive years; design and engineering excellent."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 25700,
+        "住宿费": 5500,
+        "生活费": 6000
+      },
+      "en": {
+        "Tuition": 25700,
+        "Accommodation": 5500,
+        "Living": 6000
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.5+",
+      "SAT": "N/A (A-Level/IB required)"
+    },
+    "deadline": {
+      "zh": "1月31日（UCAS）",
+      "en": "January 31 (UCAS)"
+    },
+    "safetyDetail": {
+      "zh": "拉夫堡是安全友善的小镇，校园广阔，犯罪率极低。",
+      "en": "Loughborough is a safe, friendly small town with large campus and very low crime."
+    },
+    "climate": {
+      "zh": "英格兰中部气候，冬季2-7°C，夏季13-21°C。",
+      "en": "English Midlands climate. Winters 2-7C, summers 13-21C."
+    },
+    "livingCost": {
+      "zh": "约£850/月",
+      "en": "~£850/month"
+    },
+    "livingCostAnnual": 13500,
+    "insurance": 776,
+    "flights": 1800,
+    "visa": {
+      "zh": "Student Visa - Graduate Visa (2年) - Skilled Worker Visa",
+      "en": "Student Visa - Graduate Visa (2 years) - Skilled Worker Visa"
+    },
+    "housing": {
+      "zh": "保证大一新生住宿。",
+      "en": "First-year accommodation guaranteed."
+    },
+    "graduationRate": {
+      "zh": "本科毕业率约93%。学制3-4年（含实习年）。",
+      "en": "Completion rate ~93%. Degree: 3-4 years (some with placement)."
+    },
+    "employment": {
+      "zh": "毕业生就业率约93%。起薪中位数£24,000-£27,000。",
+      "en": "Employment rate ~93%. Median starting salary £24,000-£27,000."
+    },
+    "healthcare": {
+      "zh": "缴纳IHS £776/年，享受NHS免费医疗。",
+      "en": "Pay IHS £776/yr for NHS healthcare."
+    },
+    "application": {
+      "zh": "UCAS申请，截止日期1月31日",
+      "en": "UCAS application, deadline January 31"
+    }
+  }
+]
