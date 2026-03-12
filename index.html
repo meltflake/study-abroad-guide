@@ -402,8 +402,9 @@ const SCHOOLS = [
     id:'harvard', country:'US', flag:'🇺🇸',
     name:{zh:'哈佛大学', en:'Harvard University'},
     city:{zh:'马萨诸塞州 剑桥市', en:'Cambridge, MA'},
-    qs:4, tuition:59076, safety:7,
+    qs:4, tuition:59076, tuitionRange:null, safety:7,
     majors:{zh:['经济学','计算机科学','政治学','生物学','心理学'], en:['Economics','Computer Science','Political Science','Biology','Psychology']},
+    majorTuition:{zh:'哈佛本科所有专业统一学费 $59,076/年，不分文理。',en:'Harvard charges a flat tuition of $59,076/yr for all undergraduate programs regardless of major.'},
     desc:{
       zh:'哈佛大学创建于1636年，是美国历史最悠久的高等学府，也是常春藤盟校之一。学校以卓越的学术水平、丰富的研究资源和广泛的全球校友网络著称，培养了众多国家元首、诺贝尔奖得主和商界领袖。',
       en:'Founded in 1636, Harvard is the oldest institution of higher education in the US and a member of the Ivy League. Renowned for academic excellence, vast research resources, and a powerful global alumni network, it has produced numerous heads of state, Nobel laureates, and business leaders.'
@@ -426,8 +427,9 @@ const SCHOOLS = [
     id:'mit', country:'US', flag:'🇺🇸',
     name:{zh:'麻省理工学院', en:'Massachusetts Institute of Technology (MIT)'},
     city:{zh:'马萨诸塞州 剑桥市', en:'Cambridge, MA'},
-    qs:1, tuition:61990, safety:7,
+    qs:1, tuition:61990, tuitionRange:null, safety:7,
     majors:{zh:['计算机科学','电子工程','机械工程','数学','物理学'], en:['Computer Science','Electrical Engineering','Mechanical Engineering','Mathematics','Physics']},
+    majorTuition:{zh:'MIT本科所有专业统一学费 $61,990/年，不分文理工。',en:'MIT charges a flat tuition of $61,990/yr for all undergraduate programs.'},
     desc:{
       zh:'麻省理工学院（MIT）成立于1861年，是全球顶尖的理工科研究型大学。MIT以创新文化闻名，其毕业生和教授创办的公司年产值超过众多国家GDP。学校在工程、计算机科学和自然科学领域长期位列世界第一。',
       en:'Founded in 1861, MIT is a world-leading research university in science and technology. Famous for its culture of innovation, companies founded by MIT alumni generate revenue exceeding many national GDPs. Consistently ranked #1 globally in engineering, computer science, and natural sciences.'
@@ -450,8 +452,9 @@ const SCHOOLS = [
     id:'ucla', country:'US', flag:'🇺🇸',
     name:{zh:'加州大学洛杉矶分校', en:'University of California, Los Angeles (UCLA)'},
     city:{zh:'加利福尼亚州 洛杉矶', en:'Los Angeles, CA'},
-    qs:29, tuition:46326, safety:6,
+    qs:29, tuition:46326, tuitionRange:[44830,48474], safety:6,
     majors:{zh:['影视传媒','心理学','经济学','计算机科学','生物学'], en:['Film & Media','Psychology','Economics','Computer Science','Biology']},
+    majorTuition:{zh:'UCLA国际生学费因学院不同有差异：\n• 文理学院 (Letters & Science)：$44,830/年\n• 工程学院 (Engineering)：$48,474/年\n• 影视戏剧学院 (TFT)：$46,326/年\n• 护理学院 (Nursing)：$48,474/年\n💡 差异不大，主要是工程/护理稍高',en:'UCLA international tuition varies by school:\n• Letters & Science: $44,830/yr\n• Engineering: $48,474/yr\n• Theater, Film & TV: $46,326/yr\n• Nursing: $48,474/yr\n💡 Differences are modest; engineering/nursing slightly higher'},
     desc:{
       zh:'UCLA成立于1919年，是加州大学系统中最大的分校，也是美国最受欢迎的公立大学之一。地处洛杉矶西区，毗邻好莱坞和硅滩，拥有得天独厚的就业资源和文化氛围。影视、传媒、心理学和工程专业享誉全球。',
       en:'Founded in 1919, UCLA is the largest campus in the UC system and one of the most popular public universities in the US. Located in West LA near Hollywood and Silicon Beach, it offers unmatched career resources. World-renowned for film, media, psychology, and engineering.'
@@ -474,8 +477,9 @@ const SCHOOLS = [
     id:'oxford', country:'UK', flag:'🇬🇧',
     name:{zh:'牛津大学', en:'University of Oxford'},
     city:{zh:'英格兰 牛津', en:'Oxford, England'},
-    qs:3, tuition:39740, safety:8,
+    qs:3, tuition:39740, tuitionRange:[33050,53350], safety:8,
     majors:{zh:['哲学政治经济学(PPE)','法学','医学','文学','数学'], en:['Philosophy, Politics & Economics (PPE)','Law','Medicine','Literature','Mathematics']},
+    majorTuition:{zh:'牛津大学国际生学费按专业差异非常大：\n• 人文社科类 (PPE/法学/文学)：£33,050/年 (~$41,300)\n• 理科/数学：£39,740/年 (~$49,700)\n• 实验科学 (生物/化学/物理)：£44,240/年 (~$55,300)\n• 医学临床阶段：£53,350/年 (~$66,700)\n⚠️ 注意：医学本科6年制，临床阶段学费更高',en:'Oxford international tuition varies significantly by program:\n• Humanities & Social Sciences (PPE/Law/Literature): £33,050/yr (~$41,300)\n• Mathematics: £39,740/yr (~$49,700)\n• Experimental Sciences (Biology/Chemistry/Physics): £44,240/yr (~$55,300)\n• Medicine (clinical): £53,350/yr (~$66,700)\n⚠️ Note: Medicine is a 6-year program; clinical years cost more'},
     desc:{
       zh:'牛津大学是英语世界中历史最悠久的大学，创立于1096年前后。采用独特的学院制和导师制教学，注重批判性思维和学术深度。培养了28位英国首相、72位诺贝尔奖得主以及众多世界领袖。',
       en:'Oxford is the oldest university in the English-speaking world, dating back to around 1096. Its unique collegiate system and tutorial-based teaching emphasize critical thinking and academic depth. Alumni include 28 UK prime ministers and 72 Nobel laureates.'
@@ -498,8 +502,9 @@ const SCHOOLS = [
     id:'ucl', country:'UK', flag:'🇬🇧',
     name:{zh:'伦敦大学学院', en:'University College London (UCL)'},
     city:{zh:'英格兰 伦敦', en:'London, England'},
-    qs:9, tuition:38000, safety:6,
+    qs:9, tuition:38000, tuitionRange:[28100,50600], safety:6,
     majors:{zh:['建筑学','教育学','医学','计算机科学','经济学'], en:['Architecture','Education','Medicine','Computer Science','Economics']},
+    majorTuition:{zh:'UCL国际生学费按专业差异很大：\n• 人文社科类 (教育/经济学)：£28,100/年 (~$35,100)\n• 理工科/建筑学：£38,000/年 (~$47,500)\n• 计算机科学：£38,000/年 (~$47,500)\n• 工程学：£40,000/年 (~$50,000)\n• 医学 (MBBS)：£50,600/年 (~$63,300)\n⚠️ 注意：医学MBBS为6年制，总费用远高于其他专业',en:'UCL international tuition varies significantly:\n• Humanities & Social Sciences (Education/Economics): £28,100/yr (~$35,100)\n• Science/Architecture: £38,000/yr (~$47,500)\n• Computer Science: £38,000/yr (~$47,500)\n• Engineering: £40,000/yr (~$50,000)\n• Medicine (MBBS): £50,600/yr (~$63,300)\n⚠️ Note: MBBS is a 6-year program; total cost is much higher'},
     desc:{
       zh:'UCL创建于1826年，是伦敦第一所大学，也是英国第一所招收女性和少数族裔的大学。位于伦敦市中心Bloomsbury区，拥有得天独厚的地理位置和丰富的文化资源。在建筑、教育、医学等领域实力突出。',
       en:'Founded in 1826, UCL was London\'s first university and the first in England to admit women and students of any religion. Located in central London\'s Bloomsbury, it offers exceptional location advantages and cultural resources. Particularly strong in architecture, education, and medicine.'
@@ -522,8 +527,9 @@ const SCHOOLS = [
     id:'uoft', country:'CA', flag:'🇨🇦',
     name:{zh:'多伦多大学', en:'University of Toronto'},
     city:{zh:'安大略省 多伦多', en:'Toronto, ON'},
-    qs:25, tuition:62250, safety:7,
+    qs:25, tuition:62250, tuitionRange:[42680,62250], safety:7,
     majors:{zh:['工程学','计算机科学','商学','生命科学','人文社科'], en:['Engineering','Computer Science','Commerce','Life Sciences','Humanities & Social Sciences']},
+    majorTuition:{zh:'多大国际生学费按专业差异巨大：\n• 人文社科 (Arts & Science文科方向)：C$42,680/年 (~$31,200)\n• 生命科学 (Arts & Science理科方向)：C$42,680/年 (~$31,200)\n• 商学 (Rotman Commerce)：C$57,020/年 (~$41,700)\n• 计算机科学：C$62,250/年 (~$45,500)\n• 工程学 (Engineering)：C$62,250/年 (~$45,500)\n💡 工程和CS学费几乎是文科的1.5倍！选专业前务必对比总费用',en:'U of T international tuition varies dramatically by program:\n• Humanities & Social Sciences: C$42,680/yr (~$31,200)\n• Life Sciences: C$42,680/yr (~$31,200)\n• Commerce (Rotman): C$57,020/yr (~$41,700)\n• Computer Science: C$62,250/yr (~$45,500)\n• Engineering: C$62,250/yr (~$45,500)\n💡 Engineering & CS tuition is ~1.5x humanities! Compare total costs before choosing'},
     desc:{
       zh:'多伦多大学成立于1827年，是加拿大排名第一的综合性研究型大学。位于多伦多市中心，拥有北美第三大图书馆系统。学校在人工智能研究领域全球领先（深度学习之父Geoffrey Hinton曾长期在此任教），工程和商科也极具竞争力。',
       en:'Founded in 1827, U of T is Canada\'s top-ranked comprehensive research university. Located in downtown Toronto, it has North America\'s third-largest library system. A global leader in AI research (Geoffrey Hinton, the "father of deep learning," taught here for decades), with highly competitive engineering and business programs.'
@@ -613,6 +619,7 @@ const I18N = {
   detail_employment:{zh:'就业与职业发展',en:'Employment & Career'},
   detail_healthcare:{zh:'医疗保障',en:'Healthcare & Insurance'},
   detail_application:{zh:'申请指南',en:'How to Apply'},
+  detail_major_tuition:{zh:'💰 各专业学费差异',en:'💰 Tuition by Major'},
   compare_visa:{zh:'签证路径',en:'Visa Pathway'},
   compare_housing_label:{zh:'住宿',en:'Housing'},
   compare_graduation:{zh:'毕业率',en:'Graduation Rate'},
@@ -701,7 +708,7 @@ function renderCards(){
       <div class="card-body">
         <div class="card-tags">
           <span class="tag tag-rank">${t('qs_rank')}${s.qs}</span>
-          <span class="tag tag-tuition">$${s.tuition.toLocaleString()}/yr</span>
+          <span class="tag tag-tuition">${s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()}/yr</span>
           <span class="tag tag-city">${s.city[lang]}</span>
         </div>
         <div class="card-info">
@@ -811,6 +818,10 @@ function openDetail(id){
       <div class="detail-section">
         <h3>${t('detail_tuition')}</h3>
         <div class="detail-grid">${breakdown}</div>
+        <div style="margin-top:1rem;padding:1rem;background:var(--gray-50);border-radius:8px;border-left:3px solid var(--gold)">
+          <strong style="color:var(--navy);font-size:.9rem">${t('detail_major_tuition')}</strong>
+          <p class="detail-desc" style="white-space:pre-line;margin-top:.5rem;font-size:.85rem">${s.majorTuition[lang]}</p>
+        </div>
       </div>
       <div class="detail-section">
         <h3>${t('detail_requirements')}</h3>
