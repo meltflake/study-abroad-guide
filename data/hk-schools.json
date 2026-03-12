@@ -1,0 +1,644 @@
+[
+  {
+    "id": "hku",
+    "country": "HK",
+    "flag": "🇭🇰",
+    "name": {
+      "zh": "香港大学",
+      "en": "University of Hong Kong (HKU)"
+    },
+    "city": {
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "qs": 17,
+    "the": 35,
+    "usnews": 53,
+    "arwu": 101,
+    "tuition": 23333,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "医学",
+        "法学",
+        "商学",
+        "建筑学",
+        "工程学"
+      ],
+      "en": [
+        "Medicine",
+        "Law",
+        "Business",
+        "Architecture",
+        "Engineering"
+      ]
+    },
+    "majorTuition": {
+      "zh": "香港大学本科学费约HK$182,000/年（约$23,333），各专业学费基本统一。",
+      "en": "University of Hong Kong (HKU) tuition ~HK$182,000/yr (~$23,333). Uniform across programs."
+    },
+    "desc": {
+      "zh": "香港大学是亚洲最具声望的大学之一，医学和法学全球领先。全英文教学，国际化程度极高。百年老校，校友网络强大。",
+      "en": "HKU is one of Asia's most prestigious universities with globally leading medicine and law. Fully English-taught, highly internationalized with a powerful alumni network."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(HKD)": 182000,
+        "住宿(HKD)": 18000,
+        "生活费(HKD)": 60000,
+        "书本费(HKD)": 5000
+      },
+      "en": {
+        "Tuition(HKD)": 182000,
+        "Housing(HKD)": 18000,
+        "Living(HKD)": 60000,
+        "Books(HKD)": 5000
+      }
+    },
+    "requirements": {
+      "TOEFL": "80-93+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：33-34\\n• Science 理学：33-35\\n• Engineering 工程：33-36\\n• Business & Economics 商学/经济：36-38\\n• Architecture 建筑：34\\n• Law 法学：40-42\\n• Medicine 医学：42-44\\n• Social Sciences 社科：33-35"
+    },
+    "deadline": {
+      "zh": "1月-4月（因校而异），部分有Early Round 11月",
+      "en": "Jan-Apr (varies), some have Early Round in Nov"
+    },
+    "safetyDetail": {
+      "zh": "香港整体治安良好，校园安全有保障。公共交通便利，夜间安全度高。",
+      "en": "Hong Kong has good overall safety. Campus security is reliable. Convenient public transport, safe at night."
+    },
+    "climate": {
+      "zh": "亚热带气候，夏季炎热潮湿，冬季温和",
+      "en": "Subtropical, hot humid summers, mild winters"
+    },
+    "livingCost": {
+      "zh": "约HK$8,000/月（约$1,025）",
+      "en": "~HK$8,000/month (~$1,025)"
+    },
+    "livingCostAnnual": 12307,
+    "insurance": 400,
+    "flights": 800,
+    "visa": {
+      "zh": "学生签证 → 毕业后IANG签证（1年，可续签）→ 在港居住满7年可申请永久居民。香港身份含金量高，免签170+国家。",
+      "en": "Student visa → IANG visa (1 year, renewable) → Permanent residency after 7 years in HK. HK passport offers visa-free access to 170+ countries."
+    },
+    "housing": {
+      "zh": "大部分学校大一保证校内宿舍。校内约HK$15,000-25,000/年。校外租房较贵（HK$5,000-8,000/月合租）。",
+      "en": "Most universities guarantee first-year housing. On-campus ~HK$15,000-25,000/yr. Off-campus expensive (~HK$5,000-8,000/month shared)."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀。香港大学本科通常4年制。",
+      "en": "Excellent graduation rates. HK undergraduate programs are typically 4 years."
+    },
+    "employment": {
+      "zh": "香港作为国际金融中心，金融、法律、商业就业机会极多。大湾区发展提供更多选择。",
+      "en": "As an international financial center, HK offers abundant jobs in finance, law, and business. Greater Bay Area development provides more options."
+    },
+    "healthcare": {
+      "zh": "✅ 学校提供医疗保险计划。校内有University Health Service。香港公立医院急诊HK$180。可购买额外商业保险约HK$1,500-3,000/年。",
+      "en": "✅ University health insurance available. On-campus Health Service. Public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    }
+  },
+  {
+    "id": "cuhk",
+    "country": "HK",
+    "flag": "🇭🇰",
+    "name": {
+      "zh": "香港中文大学",
+      "en": "Chinese University of Hong Kong (CUHK)"
+    },
+    "city": {
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "qs": 36,
+    "the": 53,
+    "usnews": 82,
+    "arwu": 101,
+    "tuition": 18589,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "商学",
+        "医学",
+        "传播学",
+        "翻译学",
+        "计算机科学"
+      ],
+      "en": [
+        "Business",
+        "Medicine",
+        "Communications",
+        "Translation",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "香港中文大学本科学费约HK$145,000/年（约$18,589），各专业学费基本统一。",
+      "en": "Chinese University of Hong Kong (CUHK) tuition ~HK$145,000/yr (~$18,589). Uniform across programs."
+    },
+    "desc": {
+      "zh": "港中大以双语教育闻名，商学院亚洲顶尖（AACSB认证）。校园依山傍水，是香港最大最美的大学校园。书院制度独特。",
+      "en": "CUHK is famous for bilingual education with a top Asian business school (AACSB). Largest and most beautiful campus in HK, built on hills. Unique college system."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(HKD)": 145000,
+        "住宿(HKD)": 18000,
+        "生活费(HKD)": 60000,
+        "书本费(HKD)": 5000
+      },
+      "en": {
+        "Tuition(HKD)": 145000,
+        "Housing(HKD)": 18000,
+        "Living(HKD)": 60000,
+        "Books(HKD)": 5000
+      }
+    },
+    "requirements": {
+      "TOEFL": "80-93+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：30-33\\n• Business Administration 工商管理：35-37\\n• Engineering 工程：33-35\\n• Science 理学：32-34\\n• Medicine 医学：40-42\\n• Computer Science 计算机：34-36\\n• Translation 翻译：33-35\\n• Social Science 社科：32-34"
+    },
+    "deadline": {
+      "zh": "1月-4月（因校而异），部分有Early Round 11月",
+      "en": "Jan-Apr (varies), some have Early Round in Nov"
+    },
+    "safetyDetail": {
+      "zh": "香港整体治安良好，校园安全有保障。公共交通便利，夜间安全度高。",
+      "en": "Hong Kong has good overall safety. Campus security is reliable. Convenient public transport, safe at night."
+    },
+    "climate": {
+      "zh": "亚热带气候，夏季炎热潮湿，冬季温和",
+      "en": "Subtropical, hot humid summers, mild winters"
+    },
+    "livingCost": {
+      "zh": "约HK$8,000/月（约$1,025）",
+      "en": "~HK$8,000/month (~$1,025)"
+    },
+    "livingCostAnnual": 12307,
+    "insurance": 400,
+    "flights": 800,
+    "visa": {
+      "zh": "学生签证 → 毕业后IANG签证（1年，可续签）→ 在港居住满7年可申请永久居民。香港身份含金量高，免签170+国家。",
+      "en": "Student visa → IANG visa (1 year, renewable) → Permanent residency after 7 years in HK. HK passport offers visa-free access to 170+ countries."
+    },
+    "housing": {
+      "zh": "大部分学校大一保证校内宿舍。校内约HK$15,000-25,000/年。校外租房较贵（HK$5,000-8,000/月合租）。",
+      "en": "Most universities guarantee first-year housing. On-campus ~HK$15,000-25,000/yr. Off-campus expensive (~HK$5,000-8,000/month shared)."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀。香港大学本科通常4年制。",
+      "en": "Excellent graduation rates. HK undergraduate programs are typically 4 years."
+    },
+    "employment": {
+      "zh": "香港作为国际金融中心，金融、法律、商业就业机会极多。大湾区发展提供更多选择。",
+      "en": "As an international financial center, HK offers abundant jobs in finance, law, and business. Greater Bay Area development provides more options."
+    },
+    "healthcare": {
+      "zh": "✅ 学校提供医疗保险计划。校内有University Health Service。香港公立医院急诊HK$180。可购买额外商业保险约HK$1,500-3,000/年。",
+      "en": "✅ University health insurance available. On-campus Health Service. Public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    }
+  },
+  {
+    "id": "hkust",
+    "country": "HK",
+    "flag": "🇭🇰",
+    "name": {
+      "zh": "香港科技大学",
+      "en": "HKUST"
+    },
+    "city": {
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "qs": 47,
+    "the": 64,
+    "usnews": 101,
+    "arwu": 201,
+    "tuition": 19871,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "商学",
+        "计算机科学",
+        "工程学",
+        "金融学",
+        "数据科学"
+      ],
+      "en": [
+        "Business",
+        "Computer Science",
+        "Engineering",
+        "Finance",
+        "Data Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "香港科技大学本科学费约HK$155,000/年（约$19,871），各专业学费基本统一。",
+      "en": "HKUST tuition ~HK$155,000/yr (~$19,871). Uniform across programs."
+    },
+    "desc": {
+      "zh": "港科大成立仅30余年即跻身世界顶尖，商学院全球Top 10。以创新和创业精神著称，被誉为亚洲MIT。",
+      "en": "HKUST reached world-class status in just 30+ years. Business school ranked global top 10. Known as the MIT of Asia for its innovation and entrepreneurship."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(HKD)": 155000,
+        "住宿(HKD)": 18000,
+        "生活费(HKD)": 60000,
+        "书本费(HKD)": 5000
+      },
+      "en": {
+        "Tuition(HKD)": 155000,
+        "Housing(HKD)": 18000,
+        "Living(HKD)": 60000,
+        "Books(HKD)": 5000
+      }
+    },
+    "requirements": {
+      "TOEFL": "80-93+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Science 理学：33-35\\n• Engineering 工程：33-36\\n• Business & Management 商学：36-38\\n• Computer Science 计算机：36-38\\n• Quantitative Finance 量化金融：38-40\\n• Interdisciplinary Programs 跨学科：34-36"
+    },
+    "deadline": {
+      "zh": "1月-4月（因校而异），部分有Early Round 11月",
+      "en": "Jan-Apr (varies), some have Early Round in Nov"
+    },
+    "safetyDetail": {
+      "zh": "香港整体治安良好，校园安全有保障。公共交通便利，夜间安全度高。",
+      "en": "Hong Kong has good overall safety. Campus security is reliable. Convenient public transport, safe at night."
+    },
+    "climate": {
+      "zh": "亚热带气候，夏季炎热潮湿，冬季温和",
+      "en": "Subtropical, hot humid summers, mild winters"
+    },
+    "livingCost": {
+      "zh": "约HK$8,000/月（约$1,025）",
+      "en": "~HK$8,000/month (~$1,025)"
+    },
+    "livingCostAnnual": 12307,
+    "insurance": 400,
+    "flights": 800,
+    "visa": {
+      "zh": "学生签证 → 毕业后IANG签证（1年，可续签）→ 在港居住满7年可申请永久居民。香港身份含金量高，免签170+国家。",
+      "en": "Student visa → IANG visa (1 year, renewable) → Permanent residency after 7 years in HK. HK passport offers visa-free access to 170+ countries."
+    },
+    "housing": {
+      "zh": "大部分学校大一保证校内宿舍。校内约HK$15,000-25,000/年。校外租房较贵（HK$5,000-8,000/月合租）。",
+      "en": "Most universities guarantee first-year housing. On-campus ~HK$15,000-25,000/yr. Off-campus expensive (~HK$5,000-8,000/month shared)."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀。香港大学本科通常4年制。",
+      "en": "Excellent graduation rates. HK undergraduate programs are typically 4 years."
+    },
+    "employment": {
+      "zh": "香港作为国际金融中心，金融、法律、商业就业机会极多。大湾区发展提供更多选择。",
+      "en": "As an international financial center, HK offers abundant jobs in finance, law, and business. Greater Bay Area development provides more options."
+    },
+    "healthcare": {
+      "zh": "✅ 学校提供医疗保险计划。校内有University Health Service。香港公立医院急诊HK$180。可购买额外商业保险约HK$1,500-3,000/年。",
+      "en": "✅ University health insurance available. On-campus Health Service. Public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    }
+  },
+  {
+    "id": "polyu",
+    "country": "HK",
+    "flag": "🇭🇰",
+    "name": {
+      "zh": "香港理工大学",
+      "en": "Hong Kong Polytechnic University (PolyU)"
+    },
+    "city": {
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "qs": 57,
+    "the": 87,
+    "usnews": 159,
+    "arwu": 201,
+    "tuition": 18589,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "酒店管理",
+        "设计学",
+        "工程学",
+        "建筑学",
+        "护理学"
+      ],
+      "en": [
+        "Hospitality Management",
+        "Design",
+        "Engineering",
+        "Architecture",
+        "Nursing"
+      ]
+    },
+    "majorTuition": {
+      "zh": "香港理工大学本科学费约HK$145,000/年（约$18,589），各专业学费基本统一。",
+      "en": "Hong Kong Polytechnic University (PolyU) tuition ~HK$145,000/yr (~$18,589). Uniform across programs."
+    },
+    "desc": {
+      "zh": "港理工的酒店管理全球第一，设计学院和工程学院实力强劲。注重实用性和行业联系。参与了中国航天项目。",
+      "en": "PolyU's hospitality management is ranked #1 globally. Strong design and engineering. Focuses on industry connections. Contributed to China's space missions."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(HKD)": 145000,
+        "住宿(HKD)": 18000,
+        "生活费(HKD)": 60000,
+        "书本费(HKD)": 5000
+      },
+      "en": {
+        "Tuition(HKD)": 145000,
+        "Housing(HKD)": 18000,
+        "Living(HKD)": 60000,
+        "Books(HKD)": 5000
+      }
+    },
+    "requirements": {
+      "TOEFL": "80-93+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Business 商学：28-32\\n• Computing 计算机：30-33\\n• Engineering 工程：28-32\\n• Design 设计：30-33\\n• Hotel Management 酒店管理：30-33\\n• Nursing 护理：28-30\\n• Construction 建筑：28-30"
+    },
+    "deadline": {
+      "zh": "1月-4月（因校而异），部分有Early Round 11月",
+      "en": "Jan-Apr (varies), some have Early Round in Nov"
+    },
+    "safetyDetail": {
+      "zh": "香港整体治安良好，校园安全有保障。公共交通便利，夜间安全度高。",
+      "en": "Hong Kong has good overall safety. Campus security is reliable. Convenient public transport, safe at night."
+    },
+    "climate": {
+      "zh": "亚热带气候，夏季炎热潮湿，冬季温和",
+      "en": "Subtropical, hot humid summers, mild winters"
+    },
+    "livingCost": {
+      "zh": "约HK$8,000/月（约$1,025）",
+      "en": "~HK$8,000/month (~$1,025)"
+    },
+    "livingCostAnnual": 12307,
+    "insurance": 400,
+    "flights": 800,
+    "visa": {
+      "zh": "学生签证 → 毕业后IANG签证（1年，可续签）→ 在港居住满7年可申请永久居民。香港身份含金量高，免签170+国家。",
+      "en": "Student visa → IANG visa (1 year, renewable) → Permanent residency after 7 years in HK. HK passport offers visa-free access to 170+ countries."
+    },
+    "housing": {
+      "zh": "大部分学校大一保证校内宿舍。校内约HK$15,000-25,000/年。校外租房较贵（HK$5,000-8,000/月合租）。",
+      "en": "Most universities guarantee first-year housing. On-campus ~HK$15,000-25,000/yr. Off-campus expensive (~HK$5,000-8,000/month shared)."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀。香港大学本科通常4年制。",
+      "en": "Excellent graduation rates. HK undergraduate programs are typically 4 years."
+    },
+    "employment": {
+      "zh": "香港作为国际金融中心，金融、法律、商业就业机会极多。大湾区发展提供更多选择。",
+      "en": "As an international financial center, HK offers abundant jobs in finance, law, and business. Greater Bay Area development provides more options."
+    },
+    "healthcare": {
+      "zh": "✅ 学校提供医疗保险计划。校内有University Health Service。香港公立医院急诊HK$180。可购买额外商业保险约HK$1,500-3,000/年。",
+      "en": "✅ University health insurance available. On-campus Health Service. Public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    }
+  },
+  {
+    "id": "cityu",
+    "country": "HK",
+    "flag": "🇭🇰",
+    "name": {
+      "zh": "香港城市大学",
+      "en": "City University of Hong Kong (CityU)"
+    },
+    "city": {
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "qs": 62,
+    "the": 82,
+    "usnews": 112,
+    "arwu": 201,
+    "tuition": 18589,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商学",
+        "工程学",
+        "传播学",
+        "法学",
+        "兽医学"
+      ],
+      "en": [
+        "Business",
+        "Engineering",
+        "Communications",
+        "Law",
+        "Veterinary Medicine"
+      ]
+    },
+    "majorTuition": {
+      "zh": "香港城市大学本科学费约HK$145,000/年（约$18,589），各专业学费基本统一。",
+      "en": "City University of Hong Kong (CityU) tuition ~HK$145,000/yr (~$18,589). Uniform across programs."
+    },
+    "desc": {
+      "zh": "城大近年排名上升迅速，商学院获AACSB和EQUIS双认证。拥有全港唯一的兽医学院。位于九龙塘，交通便利。",
+      "en": "CityU has risen rapidly in rankings. Business school holds AACSB and EQUIS. Home to HK's only veterinary school. Conveniently located in Kowloon Tong."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(HKD)": 145000,
+        "住宿(HKD)": 18000,
+        "生活费(HKD)": 60000,
+        "书本费(HKD)": 5000
+      },
+      "en": {
+        "Tuition(HKD)": 145000,
+        "Housing(HKD)": 18000,
+        "Living(HKD)": 60000,
+        "Books(HKD)": 5000
+      }
+    },
+    "requirements": {
+      "TOEFL": "80-93+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Business 商学：28-32\\n• Engineering 工程：28-31\\n• Computing 计算机：30-33\\n• Media 传媒：29-32\\n• Law 法学：34-36\\n• Veterinary Medicine 兽医：34-36\\n• Science 理学：28-30"
+    },
+    "deadline": {
+      "zh": "1月-4月（因校而异），部分有Early Round 11月",
+      "en": "Jan-Apr (varies), some have Early Round in Nov"
+    },
+    "safetyDetail": {
+      "zh": "香港整体治安良好，校园安全有保障。公共交通便利，夜间安全度高。",
+      "en": "Hong Kong has good overall safety. Campus security is reliable. Convenient public transport, safe at night."
+    },
+    "climate": {
+      "zh": "亚热带气候，夏季炎热潮湿，冬季温和",
+      "en": "Subtropical, hot humid summers, mild winters"
+    },
+    "livingCost": {
+      "zh": "约HK$8,000/月（约$1,025）",
+      "en": "~HK$8,000/month (~$1,025)"
+    },
+    "livingCostAnnual": 12307,
+    "insurance": 400,
+    "flights": 800,
+    "visa": {
+      "zh": "学生签证 → 毕业后IANG签证（1年，可续签）→ 在港居住满7年可申请永久居民。香港身份含金量高，免签170+国家。",
+      "en": "Student visa → IANG visa (1 year, renewable) → Permanent residency after 7 years in HK. HK passport offers visa-free access to 170+ countries."
+    },
+    "housing": {
+      "zh": "大部分学校大一保证校内宿舍。校内约HK$15,000-25,000/年。校外租房较贵（HK$5,000-8,000/月合租）。",
+      "en": "Most universities guarantee first-year housing. On-campus ~HK$15,000-25,000/yr. Off-campus expensive (~HK$5,000-8,000/month shared)."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀。香港大学本科通常4年制。",
+      "en": "Excellent graduation rates. HK undergraduate programs are typically 4 years."
+    },
+    "employment": {
+      "zh": "香港作为国际金融中心，金融、法律、商业就业机会极多。大湾区发展提供更多选择。",
+      "en": "As an international financial center, HK offers abundant jobs in finance, law, and business. Greater Bay Area development provides more options."
+    },
+    "healthcare": {
+      "zh": "✅ 学校提供医疗保险计划。校内有University Health Service。香港公立医院急诊HK$180。可购买额外商业保险约HK$1,500-3,000/年。",
+      "en": "✅ University health insurance available. On-campus Health Service. Public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    }
+  },
+  {
+    "id": "hkbu",
+    "country": "HK",
+    "flag": "🇭🇰",
+    "name": {
+      "zh": "香港浸会大学",
+      "en": "Hong Kong Baptist University (HKBU)"
+    },
+    "city": {
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "qs": 252,
+    "the": 301,
+    "usnews": 300,
+    "arwu": 501,
+    "tuition": 17948,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "传播学",
+        "新闻学",
+        "商学",
+        "中医学",
+        "视觉艺术"
+      ],
+      "en": [
+        "Communications",
+        "Journalism",
+        "Business",
+        "Chinese Medicine",
+        "Visual Arts"
+      ]
+    },
+    "majorTuition": {
+      "zh": "香港浸会大学本科学费约HK$140,000/年（约$17,948），各专业学费基本统一。",
+      "en": "Hong Kong Baptist University (HKBU) tuition ~HK$140,000/yr (~$17,948). Uniform across programs."
+    },
+    "desc": {
+      "zh": "浸大传理学院是亚洲最好的新闻传播学院之一。中医药学院是香港唯一获政府资助的中医学院。视觉艺术也很强。",
+      "en": "HKBU's School of Communication is one of Asia's best for journalism. Its Chinese Medicine school is HK's only government-funded one. Visual Arts is also strong."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(HKD)": 140000,
+        "住宿(HKD)": 18000,
+        "生活费(HKD)": 60000,
+        "书本费(HKD)": 5000
+      },
+      "en": {
+        "Tuition(HKD)": 140000,
+        "Housing(HKD)": 18000,
+        "Living(HKD)": 60000,
+        "Books(HKD)": 5000
+      }
+    },
+    "requirements": {
+      "TOEFL": "80-93+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Communication 传播：30-33\\n• Business 商学：28-30\\n• Chinese Medicine 中医：30-32\\n• Visual Arts 视觉艺术：28-30\\n• Science 理学：26-28\\n• Social Sciences 社科：27-29"
+    },
+    "deadline": {
+      "zh": "1月-4月（因校而异），部分有Early Round 11月",
+      "en": "Jan-Apr (varies), some have Early Round in Nov"
+    },
+    "safetyDetail": {
+      "zh": "香港整体治安良好，校园安全有保障。公共交通便利，夜间安全度高。",
+      "en": "Hong Kong has good overall safety. Campus security is reliable. Convenient public transport, safe at night."
+    },
+    "climate": {
+      "zh": "亚热带气候，夏季炎热潮湿，冬季温和",
+      "en": "Subtropical, hot humid summers, mild winters"
+    },
+    "livingCost": {
+      "zh": "约HK$8,000/月（约$1,025）",
+      "en": "~HK$8,000/month (~$1,025)"
+    },
+    "livingCostAnnual": 12307,
+    "insurance": 400,
+    "flights": 800,
+    "visa": {
+      "zh": "学生签证 → 毕业后IANG签证（1年，可续签）→ 在港居住满7年可申请永久居民。香港身份含金量高，免签170+国家。",
+      "en": "Student visa → IANG visa (1 year, renewable) → Permanent residency after 7 years in HK. HK passport offers visa-free access to 170+ countries."
+    },
+    "housing": {
+      "zh": "大部分学校大一保证校内宿舍。校内约HK$15,000-25,000/年。校外租房较贵（HK$5,000-8,000/月合租）。",
+      "en": "Most universities guarantee first-year housing. On-campus ~HK$15,000-25,000/yr. Off-campus expensive (~HK$5,000-8,000/month shared)."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀。香港大学本科通常4年制。",
+      "en": "Excellent graduation rates. HK undergraduate programs are typically 4 years."
+    },
+    "employment": {
+      "zh": "香港作为国际金融中心，金融、法律、商业就业机会极多。大湾区发展提供更多选择。",
+      "en": "As an international financial center, HK offers abundant jobs in finance, law, and business. Greater Bay Area development provides more options."
+    },
+    "healthcare": {
+      "zh": "✅ 学校提供医疗保险计划。校内有University Health Service。香港公立医院急诊HK$180。可购买额外商业保险约HK$1,500-3,000/年。",
+      "en": "✅ University health insurance available. On-campus Health Service. Public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：IB/A-Level/高考/SAT成绩、英语成绩、个人陈述、推荐信\\n💡 内地生通过高考统招或自主招生两种途径",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: IB/A-Level/Gaokao/SAT, English proficiency, personal statement, references\\n💡 Mainland students: Gaokao or independent admission"
+    }
+  }
+]

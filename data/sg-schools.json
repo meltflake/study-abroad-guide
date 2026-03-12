@@ -1,0 +1,442 @@
+[
+  {
+    "id": "nus",
+    "country": "SG",
+    "flag": "🇸🇬",
+    "name": {
+      "zh": "新加坡国立大学",
+      "en": "National University of Singapore (NUS)"
+    },
+    "city": {
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "qs": 8,
+    "the": 10,
+    "usnews": 26,
+    "arwu": 71,
+    "tuition": 38500,
+    "tuitionRange": [
+      32000,
+      58000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "商学",
+        "工程学",
+        "法学",
+        "医学"
+      ],
+      "en": [
+        "Computer Science",
+        "Business",
+        "Engineering",
+        "Law",
+        "Medicine"
+      ]
+    },
+    "majorTuition": {
+      "zh": "新加坡国立大学学费因专业差异较大：S$32,000-S$58,000/年（约$23,703-$42,962）。签Service Obligation可获学费补贴。",
+      "en": "National University of Singapore (NUS) tuition varies: S$32,000-S$58,000/yr (~$23,703-$42,962). Tuition grant available with Service Obligation."
+    },
+    "desc": {
+      "zh": "NUS是亚洲排名第一的大学，计算机科学和工程全球领先。校园面积150公顷，设施一流。与全球300+大学有交换项目。",
+      "en": "NUS is Asia's #1 university with globally leading CS and engineering. 150-hectare campus with world-class facilities. Exchange programs with 300+ universities globally."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(SGD)": 38500,
+        "住宿(SGD)": 8000,
+        "生活费(SGD)": 12000,
+        "书本费(SGD)": 800
+      },
+      "en": {
+        "Tuition(SGD)": 38500,
+        "Housing(SGD)": 8000,
+        "Living(SGD)": 12000,
+        "Books(SGD)": 800
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+",
+      "IELTS": "6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Arts & Social Sciences 文学/社科：36\\n• Business 商学（NUS Business School）：38-40\\n• Computing 计算机：40-42\\n• Engineering 工程：37-39\\n• Science 理学：36-38\\n• Medicine 医学：43-44\\n• Law 法学：42-44\\n• Design & Environment 设计/环境：34-36"
+    },
+    "deadline": {
+      "zh": "2月下旬截止（大部分专业）",
+      "en": "Late February deadline (most programs)"
+    },
+    "safetyDetail": {
+      "zh": "新加坡是全球最安全的国家之一，犯罪率极低。校园及周边环境非常安全。",
+      "en": "Singapore is one of the world's safest countries with extremely low crime rates. Campus and surroundings are very safe."
+    },
+    "climate": {
+      "zh": "热带气候，全年温暖（25-33°C），多雨",
+      "en": "Tropical climate, warm year-round (25-33°C), frequent rain"
+    },
+    "livingCost": {
+      "zh": "约S$1,500/月",
+      "en": "~S$1,500/month (~$1,100)"
+    },
+    "livingCostAnnual": 13300,
+    "insurance": 200,
+    "flights": 500,
+    "visa": {
+      "zh": "Student's Pass → 毕业后可申请Long Term Visit Pass（找工作）→ Employment Pass / S Pass工作签 → PR永久居民。新加坡对高学历人才移民政策友好。",
+      "en": "Student's Pass → Long Term Visit Pass (job search) → Employment Pass / S Pass → PR. Singapore has friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "校内宿舍竞争激烈，大一不一定保证。校内约S$3,000-5,000/学期。校外HDB合租约S$800-1,200/月。",
+      "en": "On-campus housing is competitive, not always guaranteed for freshmen. On-campus ~S$3,000-5,000/semester. Off-campus HDB sharing ~S$800-1,200/month."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀，学术支持完善。",
+      "en": "Excellent graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "新加坡就业市场活跃，金融、科技、生物医药行业需求旺盛。毕业生起薪亚洲领先。",
+      "en": "Active job market with strong demand in finance, tech, and biomedical. Graduate starting salaries are among Asia's highest."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险约S$100-200/年。新加坡医疗系统世界顶级。校内有University Health Centre。",
+      "en": "✅ Mandatory university insurance ~S$100-200/yr. Singapore's healthcare system is world-class. On-campus University Health Centre available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
+      "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    }
+  },
+  {
+    "id": "ntu",
+    "country": "SG",
+    "flag": "🇸🇬",
+    "name": {
+      "zh": "南洋理工大学",
+      "en": "Nanyang Technological University (NTU)"
+    },
+    "city": {
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "qs": 15,
+    "the": 18,
+    "usnews": 33,
+    "arwu": 73,
+    "tuition": 36500,
+    "tuitionRange": [
+      30000,
+      52000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "工程学",
+        "商学",
+        "传播学",
+        "计算机科学",
+        "材料科学"
+      ],
+      "en": [
+        "Engineering",
+        "Business",
+        "Communications",
+        "Computer Science",
+        "Materials Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "南洋理工大学学费因专业差异较大：S$30,000-S$52,000/年（约$22,222-$38,518）。签Service Obligation可获学费补贴。",
+      "en": "Nanyang Technological University (NTU) tuition varies: S$30,000-S$52,000/yr (~$22,222-$38,518). Tuition grant available with Service Obligation."
+    },
+    "desc": {
+      "zh": "NTU是全球顶尖的年轻大学，工程和材料科学全球领先。校园被评为全球最美校园之一。南洋商学院亚洲顶尖。",
+      "en": "NTU is a globally top young university with world-leading engineering and materials science. Voted one of the most beautiful campuses. Nanyang Business School is top in Asia."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(SGD)": 36500,
+        "住宿(SGD)": 8000,
+        "生活费(SGD)": 12000,
+        "书本费(SGD)": 800
+      },
+      "en": {
+        "Tuition(SGD)": 36500,
+        "Housing(SGD)": 8000,
+        "Living(SGD)": 12000,
+        "Books(SGD)": 800
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+",
+      "IELTS": "6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：36\\n• Business 商学：38-39\\n• Engineering 工程：37-39\\n• Computer Science 计算机：39-41\\n• Communications 传播：36-37\\n• Science 理学：36-37\\n• Medicine（LKCMedicine，与帝国理工合办）：43-44\\n• Art, Design & Media 艺术设计：34-36"
+    },
+    "deadline": {
+      "zh": "2月下旬截止（大部分专业）",
+      "en": "Late February deadline (most programs)"
+    },
+    "safetyDetail": {
+      "zh": "新加坡是全球最安全的国家之一，犯罪率极低。校园及周边环境非常安全。",
+      "en": "Singapore is one of the world's safest countries with extremely low crime rates. Campus and surroundings are very safe."
+    },
+    "climate": {
+      "zh": "热带气候，全年温暖（25-33°C），多雨",
+      "en": "Tropical climate, warm year-round (25-33°C), frequent rain"
+    },
+    "livingCost": {
+      "zh": "约S$1,500/月",
+      "en": "~S$1,500/month (~$1,100)"
+    },
+    "livingCostAnnual": 13300,
+    "insurance": 200,
+    "flights": 500,
+    "visa": {
+      "zh": "Student's Pass → 毕业后可申请Long Term Visit Pass（找工作）→ Employment Pass / S Pass工作签 → PR永久居民。新加坡对高学历人才移民政策友好。",
+      "en": "Student's Pass → Long Term Visit Pass (job search) → Employment Pass / S Pass → PR. Singapore has friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "校内宿舍竞争激烈，大一不一定保证。校内约S$3,000-5,000/学期。校外HDB合租约S$800-1,200/月。",
+      "en": "On-campus housing is competitive, not always guaranteed for freshmen. On-campus ~S$3,000-5,000/semester. Off-campus HDB sharing ~S$800-1,200/month."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀，学术支持完善。",
+      "en": "Excellent graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "新加坡就业市场活跃，金融、科技、生物医药行业需求旺盛。毕业生起薪亚洲领先。",
+      "en": "Active job market with strong demand in finance, tech, and biomedical. Graduate starting salaries are among Asia's highest."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险约S$100-200/年。新加坡医疗系统世界顶级。校内有University Health Centre。",
+      "en": "✅ Mandatory university insurance ~S$100-200/yr. Singapore's healthcare system is world-class. On-campus University Health Centre available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
+      "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    }
+  },
+  {
+    "id": "smu",
+    "country": "SG",
+    "flag": "🇸🇬",
+    "name": {
+      "zh": "新加坡管理大学",
+      "en": "Singapore Management University (SMU)"
+    },
+    "city": {
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "qs": 162,
+    "the": 301,
+    "usnews": 300,
+    "arwu": 501,
+    "tuition": 33500,
+    "tuitionRange": [
+      30000,
+      38000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "商学",
+        "会计",
+        "经济学",
+        "法学",
+        "信息系统"
+      ],
+      "en": [
+        "Business",
+        "Accountancy",
+        "Economics",
+        "Law",
+        "Information Systems"
+      ]
+    },
+    "majorTuition": {
+      "zh": "新加坡管理大学学费因专业差异较大：S$30,000-S$38,000/年（约$22,222-$28,148）。签Service Obligation可获学费补贴。",
+      "en": "Singapore Management University (SMU) tuition varies: S$30,000-S$38,000/yr (~$22,222-$28,148). Tuition grant available with Service Obligation."
+    },
+    "desc": {
+      "zh": "SMU位于市中心，以商科和社科闻名。采用小班互动教学（类似沃顿模式）。就业率和起薪在新加坡名列前茅。与华尔街企业联系紧密。",
+      "en": "SMU is in the city center, known for business and social sciences. Uses small-class interactive pedagogy (Wharton-style). Top employment rate and starting salary in SG."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(SGD)": 33500,
+        "住宿(SGD)": 8000,
+        "生活费(SGD)": 12000,
+        "书本费(SGD)": 800
+      },
+      "en": {
+        "Tuition(SGD)": 33500,
+        "Housing(SGD)": 8000,
+        "Living(SGD)": 12000,
+        "Books(SGD)": 800
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+",
+      "IELTS": "6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "各专业IB要求不同：\\n• Business Management 商学：34-36\\n• Accountancy 会计：34-36\\n• Economics 经济：34-36\\n• Law 法学：38-40\\n• Information Systems 信息系统：34-36\\n• Computing 计算机：36-38\\n• Social Sciences 社科：33-35"
+    },
+    "deadline": {
+      "zh": "2月下旬截止（大部分专业）",
+      "en": "Late February deadline (most programs)"
+    },
+    "safetyDetail": {
+      "zh": "新加坡是全球最安全的国家之一，犯罪率极低。校园及周边环境非常安全。",
+      "en": "Singapore is one of the world's safest countries with extremely low crime rates. Campus and surroundings are very safe."
+    },
+    "climate": {
+      "zh": "热带气候，全年温暖（25-33°C），多雨",
+      "en": "Tropical climate, warm year-round (25-33°C), frequent rain"
+    },
+    "livingCost": {
+      "zh": "约S$1,500/月",
+      "en": "~S$1,500/month (~$1,100)"
+    },
+    "livingCostAnnual": 13300,
+    "insurance": 200,
+    "flights": 500,
+    "visa": {
+      "zh": "Student's Pass → 毕业后可申请Long Term Visit Pass（找工作）→ Employment Pass / S Pass工作签 → PR永久居民。新加坡对高学历人才移民政策友好。",
+      "en": "Student's Pass → Long Term Visit Pass (job search) → Employment Pass / S Pass → PR. Singapore has friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "校内宿舍竞争激烈，大一不一定保证。校内约S$3,000-5,000/学期。校外HDB合租约S$800-1,200/月。",
+      "en": "On-campus housing is competitive, not always guaranteed for freshmen. On-campus ~S$3,000-5,000/semester. Off-campus HDB sharing ~S$800-1,200/month."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀，学术支持完善。",
+      "en": "Excellent graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "新加坡就业市场活跃，金融、科技、生物医药行业需求旺盛。毕业生起薪亚洲领先。",
+      "en": "Active job market with strong demand in finance, tech, and biomedical. Graduate starting salaries are among Asia's highest."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险约S$100-200/年。新加坡医疗系统世界顶级。校内有University Health Centre。",
+      "en": "✅ Mandatory university insurance ~S$100-200/yr. Singapore's healthcare system is world-class. On-campus University Health Centre available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
+      "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    }
+  },
+  {
+    "id": "sutd",
+    "country": "SG",
+    "flag": "🇸🇬",
+    "name": {
+      "zh": "新加坡科技设计大学",
+      "en": "Singapore University of Technology and Design (SUTD)"
+    },
+    "city": {
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "qs": 378,
+    "the": 400,
+    "usnews": 400,
+    "arwu": 501,
+    "tuition": 31700,
+    "tuitionRange": [
+      31700,
+      31700
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "建筑",
+        "工程",
+        "信息系统",
+        "人工智能",
+        "设计创新"
+      ],
+      "en": [
+        "Architecture",
+        "Engineering",
+        "Information Systems",
+        "AI",
+        "Design Innovation"
+      ]
+    },
+    "majorTuition": {
+      "zh": "新加坡科技设计大学学费因专业差异较大：S$31,700-S$31,700/年（约$23,481-$23,481）。签Service Obligation可获学费补贴。",
+      "en": "Singapore University of Technology and Design (SUTD) tuition varies: S$31,700-S$31,700/yr (~$23,481-$23,481). Tuition grant available with Service Obligation."
+    },
+    "desc": {
+      "zh": "SUTD与MIT合作创建，专注设计驱动的工程教育。课程打破传统学科界限，强调跨学科创新。小而精，就业率极高。",
+      "en": "SUTD was co-established with MIT, focused on design-driven engineering. Curriculum breaks traditional boundaries, emphasizing interdisciplinary innovation. Small but excellent employment."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(SGD)": 31700,
+        "住宿(SGD)": 8000,
+        "生活费(SGD)": 12000,
+        "书本费(SGD)": 800
+      },
+      "en": {
+        "Tuition(SGD)": 31700,
+        "Housing(SGD)": 8000,
+        "Living(SGD)": 12000,
+        "Books(SGD)": 800
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+",
+      "IELTS": "6.5+",
+      "SAT": "推荐提交/Recommended",
+      "IB": "一般要求IB 34+\\n• Engineering 工程/设计：IB 34-38\\n• Architecture 建筑：IB 34-36\\n• 重视数学和理科HL成绩"
+    },
+    "deadline": {
+      "zh": "2月下旬截止（大部分专业）",
+      "en": "Late February deadline (most programs)"
+    },
+    "safetyDetail": {
+      "zh": "新加坡是全球最安全的国家之一，犯罪率极低。校园及周边环境非常安全。",
+      "en": "Singapore is one of the world's safest countries with extremely low crime rates. Campus and surroundings are very safe."
+    },
+    "climate": {
+      "zh": "热带气候，全年温暖（25-33°C），多雨",
+      "en": "Tropical climate, warm year-round (25-33°C), frequent rain"
+    },
+    "livingCost": {
+      "zh": "约S$1,500/月",
+      "en": "~S$1,500/month (~$1,100)"
+    },
+    "livingCostAnnual": 13300,
+    "insurance": 200,
+    "flights": 500,
+    "visa": {
+      "zh": "Student's Pass → 毕业后可申请Long Term Visit Pass（找工作）→ Employment Pass / S Pass工作签 → PR永久居民。新加坡对高学历人才移民政策友好。",
+      "en": "Student's Pass → Long Term Visit Pass (job search) → Employment Pass / S Pass → PR. Singapore has friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "校内宿舍竞争激烈，大一不一定保证。校内约S$3,000-5,000/学期。校外HDB合租约S$800-1,200/月。",
+      "en": "On-campus housing is competitive, not always guaranteed for freshmen. On-campus ~S$3,000-5,000/semester. Off-campus HDB sharing ~S$800-1,200/month."
+    },
+    "graduationRate": {
+      "zh": "毕业率优秀，学术支持完善。",
+      "en": "Excellent graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "新加坡就业市场活跃，金融、科技、生物医药行业需求旺盛。毕业生起薪亚洲领先。",
+      "en": "Active job market with strong demand in finance, tech, and biomedical. Graduate starting salaries are among Asia's highest."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学校医疗保险约S$100-200/年。新加坡医疗系统世界顶级。校内有University Health Centre。",
+      "en": "✅ Mandatory university insurance ~S$100-200/yr. Singapore's healthcare system is world-class. On-campus University Health Centre available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：2月下旬（大部分专业）\\n💰 申请费：S$20-50\\n📝 所需材料：IB/A-Level/高考成绩、IELTS/TOEFL、个人陈述、推荐信\\n💡 可申请MOE Tuition Grant（需签毕业后在新工作3年的Service Obligation）",
+      "en": "📋 Platform: Apply directly\\n📅 Deadline: Late February (most programs)\\n💰 Fee: S$20-50\\n📝 Required: IB/A-Level/Gaokao, IELTS/TOEFL, personal statement, references\\n💡 MOE Tuition Grant available (3-year Service Obligation in SG after graduation)"
+    }
+  }
+]
