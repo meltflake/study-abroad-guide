@@ -98,6 +98,9 @@ img{max-width:100%}
 .tag-tuition{background:#fef3c7;color:#92400e}
 .tag-city{background:#f0fdf4;color:#166534}
 .tag-ib{background:#fdf2f8;color:#9d174d;font-weight:600}
+.rec-tag{background:#1e293b;color:#94a3b8;border:1px solid #475569;padding:.4rem .8rem;border-radius:20px;font-size:.82rem;cursor:pointer;transition:all .2s}
+.rec-tag:hover{border-color:#64748b;color:#e2e8f0}
+.rec-tag.active{background:var(--gold);color:var(--navy);border-color:var(--gold);font-weight:600}
 .card-info{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
 .card-info-item{display:flex;align-items:center;gap:.4rem;font-size:.85rem;color:var(--gray-600)}
 .card-info-item .icon{font-size:1rem}
@@ -311,6 +314,7 @@ img{max-width:100%}
   <div class="nav-brand">留学择校通 <span>StudyAbroad Guide</span></div>
   <div class="nav-links">
     <a href="#schools" data-i18n="nav_schools">院校浏览</a>
+    <a href="#recommend" data-i18n="nav_recommend">智能选校</a>
     <a href="#calculator" data-i18n="nav_calc">费用计算</a>
     <button class="lang-toggle" onclick="toggleLang()">EN / 中</button>
   </div>
@@ -386,6 +390,49 @@ img{max-width:100%}
 </section>
 
 <!-- Calculator Section -->
+<!-- Smart Recommendation Section -->
+<section class="section" id="recommend" style="background:linear-gradient(135deg,#1e293b 0%,#334155 100%);color:#fff">
+  <div class="container">
+    <h2 class="section-title" style="color:#fff" data-i18n="section_recommend">🎯 智能选校推荐</h2>
+    <p class="section-desc" style="color:#94a3b8" data-i18n="section_recommend_desc">输入你的条件，AI帮你匹配最适合的学校</p>
+    <div class="recommend-form" style="max-width:700px;margin:0 auto">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
+        <div class="rec-field">
+          <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_ib">📊 你的IB预估分 (24-45)</label>
+          <input type="range" id="recIB" min="24" max="45" value="36" oninput="document.getElementById('recIBVal').textContent=this.value;runRecommend()" style="width:100%;accent-color:var(--gold)">
+          <div style="text-align:center;font-size:1.5rem;font-weight:700;color:var(--gold)" id="recIBVal">36</div>
+        </div>
+        <div class="rec-field">
+          <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_budget">💰 年度预算 (USD)</label>
+          <select id="recBudget" onchange="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #475569;background:#1e293b;color:#fff;font-size:.9rem">
+            <option value="0" data-i18n="rec_budget_any">不限预算</option>
+            <option value="5000">≤ $5,000 (德国/瑞士)</option>
+            <option value="20000">≤ $20,000</option>
+            <option value="35000">≤ $35,000</option>
+            <option value="50000">≤ $50,000</option>
+            <option value="65000">≤ $65,000</option>
+          </select>
+        </div>
+      </div>
+      <div style="margin-top:1rem">
+        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_countries">🌍 意向国家/地区（可多选）</label>
+        <div id="recCountries" style="display:flex;flex-wrap:wrap;gap:.4rem">
+        </div>
+      </div>
+      <div style="margin-top:1rem">
+        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_major">🎓 感兴趣的专业方向</label>
+        <input type="text" id="recMajor" placeholder="如：计算机、商学、医学、工程..." oninput="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #475569;background:#1e293b;color:#fff;font-size:.9rem;box-sizing:border-box">
+      </div>
+      <div style="margin-top:1rem">
+        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_priority">⭐ 最看重什么？</label>
+        <div id="recPriority" style="display:flex;flex-wrap:wrap;gap:.4rem">
+        </div>
+      </div>
+    </div>
+    <div id="recResults" style="margin-top:2rem"></div>
+  </div>
+</section>
+
 <section class="section" id="calculator" style="background:var(--gray-100)">
   <div class="container">
     <h2 class="section-title" data-i18n="section_calc">留学费用计算器</h2>
@@ -15155,6 +15202,15 @@ const I18N = {
   sort_tuition_desc:{zh:'按学费 ↓',en:'Tuition ↓'},
   sort_ib_desc:{zh:'按IB要求 ↓',en:'IB Req ↓'},
   sort_ib_asc:{zh:'按IB要求 ↑',en:'IB Req ↑'},
+  nav_recommend:{zh:'智能选校',en:'Smart Match'},
+  section_recommend:{zh:'🎯 智能选校推荐',en:'🎯 Smart School Matcher'},
+  section_recommend_desc:{zh:'输入你的条件，AI帮你匹配最适合的学校',en:'Enter your profile and get personalized school recommendations'},
+  rec_ib:{zh:'📊 你的IB预估分 (24-45)',en:'📊 Your IB Score (24-45)'},
+  rec_budget:{zh:'💰 年度预算 (USD)',en:'💰 Annual Budget (USD)'},
+  rec_budget_any:{zh:'不限预算',en:'Any Budget'},
+  rec_countries:{zh:'🌍 意向国家/地区（可多选）',en:'🌍 Preferred Countries (multi-select)'},
+  rec_major:{zh:'🎓 感兴趣的专业方向',en:'🎓 Interested Major/Field'},
+  rec_priority:{zh:'⭐ 最看重什么？',en:'⭐ What matters most?'},
   section_calc:{zh:'留学费用计算器',en:'Study Abroad Cost Calculator'},
   section_calc_desc:{zh:'估算留学总花费，包含学费、生活费、保险及往返机票',en:'Estimate total costs including tuition, living expenses, insurance & flights'},
   calc_school:{zh:'选择学校',en:'Select School'},
@@ -15605,6 +15661,176 @@ function openDetail(id){
 function closeDetail(){
   document.getElementById('detailOverlay').classList.remove('show');
   document.body.style.overflow='';
+}
+
+// ===== SMART RECOMMENDATION =====
+(function initRecommend(){
+  // Build country toggles
+  const countries = {};
+  SCHOOLS.forEach(s => { if(!countries[s.country]) countries[s.country] = {flag:s.flag, count:0}; countries[s.country].count++; });
+  const countryOrder = ['US','UK','CA','AU','SG','HK','NZ','CH','IE'];
+  const countryNames = {US:{zh:'美国',en:'US'},UK:{zh:'英国',en:'UK'},CA:{zh:'加拿大',en:'CA'},AU:{zh:'澳大利亚',en:'AU'},SG:{zh:'新加坡',en:'SG'},HK:{zh:'香港',en:'HK'},NZ:{zh:'新西兰',en:'NZ'},CH:{zh:'瑞士',en:'CH'},IE:{zh:'爱尔兰',en:'IE'}};
+  const cDiv = document.getElementById('recCountries');
+  countryOrder.forEach(c => {
+    if(!countries[c]) return;
+    const btn = document.createElement('button');
+    btn.className = 'rec-tag active';
+    btn.dataset.country = c;
+    btn.innerHTML = `${countries[c].flag} ${countryNames[c][lang]}`;
+    btn.onclick = function(){ this.classList.toggle('active'); runRecommend(); };
+    cDiv.appendChild(btn);
+  });
+
+  // Build priority toggles
+  const priorities = [
+    {id:'rank', zh:'🏆 排名高', en:'🏆 High Ranking'},
+    {id:'cheap', zh:'💰 学费低', en:'💰 Low Tuition'},
+    {id:'safe', zh:'🛡️ 安全', en:'🛡️ Safety'},
+    {id:'immigrate', zh:'🌏 移民友好', en:'🌏 Immigration'},
+    {id:'employ', zh:'💼 就业强', en:'💼 Employment'},
+  ];
+  const pDiv = document.getElementById('recPriority');
+  priorities.forEach(p => {
+    const btn = document.createElement('button');
+    btn.className = 'rec-tag';
+    btn.dataset.priority = p.id;
+    btn.innerHTML = p[lang];
+    btn.onclick = function(){ this.classList.toggle('active'); runRecommend(); };
+    pDiv.appendChild(btn);
+  });
+
+  // Initial run
+  setTimeout(runRecommend, 100);
+})();
+
+function runRecommend(){
+  const ibScore = parseInt(document.getElementById('recIB').value);
+  const budget = parseInt(document.getElementById('recBudget').value);
+  const majorQ = document.getElementById('recMajor').value.trim().toLowerCase();
+  const selCountries = [...document.querySelectorAll('#recCountries .rec-tag.active')].map(b=>b.dataset.country);
+  const selPriorities = [...document.querySelectorAll('#recPriority .rec-tag.active')].map(b=>b.dataset.priority);
+
+  // Immigration-friendly countries
+  const immigrationFriendly = ['CA','AU','NZ','IE','HK','SG'];
+  // Employment-strong countries
+  const employStrong = ['US','UK','SG','HK','AU','CA'];
+
+  let scored = SCHOOLS.map(s => {
+    let score = 0;
+    let reasons = [];
+    const minIB = getIBMinScore(s);
+
+    // Country filter
+    if(selCountries.length && !selCountries.includes(s.country)) return null;
+
+    // IB match (core filter - must be achievable)
+    if(minIB !== null) {
+      if(ibScore >= minIB + 5) { score += 20; reasons.push(lang==='zh'?'✅ IB分数充裕':'✅ IB score comfortable'); }
+      else if(ibScore >= minIB + 2) { score += 15; reasons.push(lang==='zh'?'✅ IB分数匹配':'✅ IB score matches'); }
+      else if(ibScore >= minIB) { score += 8; reasons.push(lang==='zh'?'⚡ IB分数刚好达标（冲刺）':'⚡ IB score just meets (reach)'); }
+      else if(ibScore >= minIB - 2) { score += 3; reasons.push(lang==='zh'?'🎯 IB略低（可冲刺）':'🎯 IB slightly below (reach)'); }
+      else return null; // Too far below
+    }
+
+    // Budget match
+    if(budget > 0) {
+      if(s.tuition <= budget) { score += 10; reasons.push(lang==='zh'?'💰 预算内':'💰 Within budget'); }
+      else if(s.tuition <= budget * 1.2) { score += 3; reasons.push(lang==='zh'?'💰 略超预算':'💰 Slightly over budget'); }
+      else return null;
+    }
+
+    // Major match
+    if(majorQ) {
+      const allMajors = [...s.majors.zh, ...s.majors.en];
+      const matched = allMajors.filter(m => m.toLowerCase().includes(majorQ));
+      if(matched.length) { score += 15; reasons.push(`🎓 ${lang==='zh'?'专业匹配':'Major match'}: ${matched[0]}`); }
+    }
+
+    // Ranking bonus (use QS as primary)
+    if(s.qs <= 20) score += 15;
+    else if(s.qs <= 50) score += 12;
+    else if(s.qs <= 100) score += 8;
+    else if(s.qs <= 200) score += 4;
+
+    // Priority bonuses
+    if(selPriorities.includes('rank')) {
+      if(s.qs <= 30) { score += 10; reasons.push(lang==='zh'?'🏆 QS Top 30':'🏆 QS Top 30'); }
+      else if(s.qs <= 100) { score += 5; }
+    }
+    if(selPriorities.includes('cheap')) {
+      if(s.tuition <= 5000) { score += 15; reasons.push(lang==='zh'?'💰 学费极低':'💰 Very low tuition'); }
+      else if(s.tuition <= 20000) { score += 8; }
+    }
+    if(selPriorities.includes('safe') && s.safety >= 8) { score += 8; reasons.push(lang==='zh'?'🛡️ 高安全评分':'🛡️ High safety'); }
+    if(selPriorities.includes('immigrate') && immigrationFriendly.includes(s.country)) { score += 8; reasons.push(lang==='zh'?'🌏 移民友好国家':'🌏 Immigration-friendly'); }
+    if(selPriorities.includes('employ') && employStrong.includes(s.country)) { score += 5; }
+
+    return { school: s, score, reasons };
+  }).filter(Boolean);
+
+  // Sort by score desc
+  scored.sort((a,b) => b.score - a.score);
+
+  // Show top results
+  const results = scored.slice(0, 9);
+  const container = document.getElementById('recResults');
+
+  if(!results.length) {
+    container.innerHTML = `<div style="text-align:center;padding:2rem;color:#94a3b8">${lang==='zh'?'😔 没有找到匹配的学校，试试调整条件？':'😔 No matching schools found. Try adjusting your criteria?'}</div>`;
+    return;
+  }
+
+  // Categorize
+  const safe = results.filter(r => r.school.qs <= 50 || r.reasons.some(r=>r.includes('充裕')||r.includes('comfortable')));
+  const match = results.filter(r => !safe.includes(r));
+
+  let html = `<div style="text-align:center;margin-bottom:1.5rem">
+    <span style="font-size:1.1rem;color:var(--gold);font-weight:600">${lang==='zh'?`找到 ${scored.length} 所匹配学校，为你推荐 Top ${results.length}`:`Found ${scored.length} matches, showing Top ${results.length}`}</span>
+  </div>`;
+  html += `<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1rem">`;
+  results.forEach((r, i) => {
+    const s = r.school;
+    const ibMin = getIBMinScore(s);
+    const tierColor = i < 3 ? '#f59e0b' : (i < 6 ? '#3b82f6' : '#6b7280');
+    const tierLabel = i < 3 ? (lang==='zh'?'⭐ 强烈推荐':'⭐ Highly Recommended') : (i < 6 ? (lang==='zh'?'👍 推荐':'👍 Recommended') : (lang==='zh'?'✅ 适合':'✅ Suitable'));
+    html += `
+    <div style="background:#1e293b;border:1px solid #334155;border-radius:12px;overflow:hidden;cursor:pointer;transition:all .2s;border-top:3px solid ${tierColor}" onclick="openDetail('${s.id}')">
+      <div style="padding:1rem 1.2rem">
+        <div style="display:flex;justify-content:space-between;align-items:start;margin-bottom:.5rem">
+          <div>
+            <div style="font-size:.7rem;color:${tierColor};font-weight:600;margin-bottom:.3rem">${tierLabel}</div>
+            <div style="font-weight:700;font-size:1rem">${s.flag} ${s.name[lang]}</div>
+            <div style="font-size:.75rem;color:#94a3b8">${lang==='zh'?s.name.en:s.name.zh}</div>
+          </div>
+          <div style="text-align:right">
+            <div style="font-size:.7rem;color:#94a3b8">QS</div>
+            <div style="font-size:1.2rem;font-weight:700;color:var(--gold)">#${s.qs}</div>
+          </div>
+        </div>
+        <div style="display:flex;flex-wrap:wrap;gap:.3rem;margin:.6rem 0">
+          <span style="background:#0f172a;padding:.2rem .5rem;border-radius:4px;font-size:.72rem;color:#f472b6">IB ${ibMin||'?'}+</span>
+          <span style="background:#0f172a;padding:.2rem .5rem;border-radius:4px;font-size:.72rem;color:#fbbf24">$${s.tuition.toLocaleString()}/yr</span>
+          <span style="background:#0f172a;padding:.2rem .5rem;border-radius:4px;font-size:.72rem;color:#34d399">🛡️${s.safety}/10</span>
+        </div>
+        <div style="font-size:.75rem;color:#94a3b8;line-height:1.4">
+          ${r.reasons.slice(0,3).map(reason=>`<div>${reason}</div>`).join('')}
+        </div>
+      </div>
+    </div>`;
+  });
+  html += '</div>';
+
+  // Summary advice
+  html += `<div style="margin-top:1.5rem;padding:1.2rem;background:#0f172a;border-radius:12px;border:1px solid #334155">
+    <div style="font-weight:700;color:var(--gold);margin-bottom:.5rem">${lang==='zh'?'📋 选校建议':'📋 Advice'}</div>
+    <div style="font-size:.85rem;color:#94a3b8;line-height:1.6">
+      ${lang==='zh'
+        ? `以你IB ${ibScore}分的预估，建议申请策略：<br>• <strong style="color:#f59e0b">冲刺校 1-2所</strong>（IB要求接近或略高于你的分数）<br>• <strong style="color:#3b82f6">匹配校 3-4所</strong>（IB要求低于你2-5分）<br>• <strong style="color:#34d399">保底校 2-3所</strong>（IB要求明显低于你的分数）`
+        : `With your estimated IB ${ibScore}, suggested strategy:<br>• <strong style="color:#f59e0b">1-2 Reach schools</strong> (IB req near or above your score)<br>• <strong style="color:#3b82f6">3-4 Match schools</strong> (IB req 2-5 below yours)<br>• <strong style="color:#34d399">2-3 Safety schools</strong> (IB req well below yours)`}
+    </div>
+  </div>`;
+
+  container.innerHTML = html;
 }
 
 // ===== CALCULATOR =====
