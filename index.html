@@ -235,7 +235,8 @@ img{max-width:100%}
   .compare-panel{padding:1rem;border-radius:12px;max-height:95vh}
   .compare-panel h2{font-size:1.2rem;margin-bottom:1rem}
   .compare-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
-  .compare-table th,.compare-table td{padding:.45rem .6rem;font-size:.78rem;white-space:nowrap}
+  .compare-table th,.compare-table td{padding:.45rem .6rem;font-size:.78rem}
+  .compare-table th{white-space:nowrap}
   .compare-table th{width:100px;min-width:100px}
 
   /* Calculator */
@@ -413,7 +414,12 @@ const SCHOOLS = [
     safetyDetail:{zh:'校园安全评级良好，哈佛大学警察局（HUPD）提供24小时巡逻和护送服务。剑桥市总体治安稳定。', en:'Good campus safety. Harvard University Police Department (HUPD) offers 24/7 patrols and escort services. Cambridge is generally safe.'},
     climate:{zh:'四季分明，冬季寒冷（-5至5°C），夏季温暖（20-30°C）', en:'Four distinct seasons. Cold winters (-5 to 5°C), warm summers (20-30°C)'},
     livingCost:{zh:'约$2,200/月（含住宿）', en:'~$2,200/month (incl. housing)'},
-    livingCostAnnual:26400, insurance:4000, flights:2400
+    livingCostAnnual:26400, insurance:4000, flights:2400,
+    visa: {zh:'F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。学校国际学生办公室(OIS)提供全程签证指导。', en:'F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card. Office of International Students (OIS) provides full visa guidance.'},
+    housing: {zh:'大一强制住校，保证四年校内住宿。宿舍条件优秀，配有公共厨房和洗衣设施。校内住宿约$21,486/年。校外哈佛广场附近租房约$1,800-2,500/月。', en:'Freshmen must live on campus. Housing guaranteed for all 4 years. Excellent dorms with shared kitchens and laundry. On-campus ~$21,486/yr. Off-campus near Harvard Square ~$1,800-2,500/mo.'},
+    graduationRate: {zh:'4年毕业率：87% | 6年毕业率：97%。学术支持完善，转专业相对灵活，大二结束前可自由选择专业方向。', en:'4-year graduation rate: 87% | 6-year: 97%. Strong academic support. Flexible major declaration, students can choose until end of sophomore year.'},
+    employment: {zh:'毕业生平均起薪约$89,000/年。顶级投行、咨询、科技公司校招活跃。Career Center提供一对一辅导、模拟面试。知名雇主：谷歌、麦肯锡、高盛、摩根大通等。', en:'Average starting salary ~$89,000/yr. Top banks, consulting firms, and tech companies actively recruit. Career Center offers 1-on-1 coaching and mock interviews. Notable employers: Google, McKinsey, Goldman Sachs, JPMorgan, etc.'},
+    healthcare: {zh:'✅ 强制购买保险。Harvard University Student Health Insurance Plan (SHIP) 约$4,040/年。校内设有Harvard University Health Services (HUHS)，提供全科门诊、急诊、心理咨询、牙科等服务。持校园保险可免费或低价就诊。校外急症可前往附近的Mount Auburn Hospital和Cambridge Health Alliance。', en:'✅ Insurance mandatory. Harvard SHIP ~$4,040/yr. On-campus Harvard University Health Services (HUHS) offers primary care, urgent care, mental health, and dental. Free or low-cost with campus insurance. Nearby hospitals: Mount Auburn Hospital and Cambridge Health Alliance.'}
   },
   {
     id:'mit', country:'US', flag:'🇺🇸',
@@ -431,7 +437,12 @@ const SCHOOLS = [
     safetyDetail:{zh:'MIT校园安全良好，设有专职警卫和先进的安防系统。位于剑桥市中心，夜间有免费穿梭巴士。', en:'MIT has strong campus security with dedicated police and advanced security systems. Located in central Cambridge with free nighttime shuttle service.'},
     climate:{zh:'四季分明，冬季寒冷多雪（-5至3°C），夏季温暖湿润', en:'Four seasons. Cold, snowy winters (-5 to 3°C), warm humid summers'},
     livingCost:{zh:'约$2,300/月（含住宿）', en:'~$2,300/month (incl. housing)'},
-    livingCostAnnual:27600, insurance:4200, flights:2400
+    livingCostAnnual:27600, insurance:4200, flights:2400,
+    visa: {zh:'F-1学生签证 → OPT(STEM专业可延长至36个月) → H-1B。MIT毕业生H-1B申请成功率高。国际学生办公室(ISO)提供签证研讨会和一对一咨询。', en:'F-1 visa → OPT (36 months for STEM) → H-1B. MIT grads have high H-1B success rates. International Students Office (ISO) offers visa workshops and 1-on-1 advising.'},
+    housing: {zh:'大一强制住校，保证四年住宿。宿舍风格多样（传统/套间/公寓式），学生可选择。校内住宿约$20,550/年。校外Kendall Square附近租房约$2,000-2,800/月。', en:'Freshmen must live on campus. 4-year housing guaranteed. Diverse dorm styles (traditional/suite/apartment). On-campus ~$20,550/yr. Off-campus near Kendall Square ~$2,000-2,800/mo.'},
+    graduationRate: {zh:'4年毕业率：85% | 6年毕业率：96%。课业压力大但支持体系完善。大二结束前选专业，转专业需院系批准。', en:'4-year graduation rate: 85% | 6-year: 96%. Rigorous academics but strong support systems. Major declared by end of sophomore year, switching requires department approval.'},
+    employment: {zh:'毕业生平均起薪约$95,000/年（工程/CS方向更高）。硅谷和波士顿科技公司首选校招学校。Career Services提供终身职业支持。知名雇主：苹果、谷歌、微软、波士顿咨询等。', en:'Average starting salary ~$95,000/yr (higher for engineering/CS). Top pick for Silicon Valley and Boston tech recruiting. Career Services offers lifetime support. Notable employers: Apple, Google, Microsoft, BCG, etc.'},
+    healthcare: {zh:'✅ 强制购买保险。MIT Student Extended Insurance Plan 约$4,200/年。校内MIT Medical提供全科、急诊、心理健康、眼科等完善医疗服务，全年无休。持校园保险看诊免费。校外紧急情况可前往Massachusetts General Hospital（全美顶级医院）。', en:'✅ Insurance mandatory. MIT Student Extended Insurance Plan ~$4,200/yr. On-campus MIT Medical offers comprehensive care including primary, urgent, mental health, and eye care year-round. Free visits with campus insurance. Nearby: Massachusetts General Hospital (top-ranked US hospital).'}
   },
   {
     id:'ucla', country:'US', flag:'🇺🇸',
@@ -449,7 +460,12 @@ const SCHOOLS = [
     safetyDetail:{zh:'UCLA校园配有专属警察部门和蓝光报警电话系统。洛杉矶整体治安因区域而异，校园周边（Westwood）较为安全。', en:'UCLA has its own police department and blue-light emergency phone system. LA safety varies by area; the Westwood neighborhood around campus is relatively safe.'},
     climate:{zh:'地中海气候，全年温暖晴朗，冬季10-18°C，夏季20-32°C', en:'Mediterranean climate. Warm and sunny year-round. Winters 10-18°C, summers 20-32°C'},
     livingCost:{zh:'约$2,000/月（含住宿）', en:'~$2,000/month (incl. housing)'},
-    livingCostAnnual:24000, insurance:3500, flights:2600
+    livingCostAnnual:24000, insurance:3500, flights:2600,
+    visa: {zh:'F-1学生签证 → OPT(12-36个月) → H-1B。洛杉矶就业市场庞大，实习机会丰富。Dashew Center为国际学生提供签证和就业指导。', en:'F-1 visa → OPT (12-36 months) → H-1B. LA has a massive job market with abundant internship opportunities. Dashew Center provides visa and career guidance for international students.'},
+    housing: {zh:'大一强制住校，保证前三年。宿舍位于校园内，生活便利。校内住宿约$18,324/年。校外Westwood租房约$1,500-2,200/月。周边公寓选择丰富。', en:'Freshmen must live on campus. Housing guaranteed for first 3 years. Dorms are conveniently located. On-campus ~$18,324/yr. Off-campus in Westwood ~$1,500-2,200/mo. Plenty of nearby apartments.'},
+    graduationRate: {zh:'4年毕业率：74% | 6年毕业率：92%。公立大学班级较大，需要更强的自主学习能力。转专业竞争较激烈，热门专业有GPA门槛。', en:'4-year graduation rate: 74% | 6-year: 92%. As a public university, class sizes are larger, requiring more self-motivation. Switching to popular majors can be competitive with GPA requirements.'},
+    employment: {zh:'毕业生平均起薪约$65,000/年。好莱坞、硅滩科技公司、医疗健康行业就业强势。Career Center每年举办多场大型招聘会。知名雇主：迪士尼、Netflix、SpaceX等。', en:'Average starting salary ~$65,000/yr. Strong employment in Hollywood, Silicon Beach tech, and healthcare. Career Center hosts multiple large job fairs annually. Notable employers: Disney, Netflix, SpaceX, etc.'},
+    healthcare: {zh:'✅ 强制购买保险。UC SHIP (UC Student Health Insurance Plan) 约$3,500/年。校内Arthur Ashe Student Health & Wellness Center提供全科门诊、心理咨询、疫苗接种等。持UC SHIP看诊免费。校外急症可前往UCLA Ronald Reagan Medical Center（全美排名前列的教学医院，就在校园旁）。', en:'✅ Insurance mandatory. UC SHIP ~$3,500/yr. On-campus Arthur Ashe Student Health & Wellness Center offers primary care, mental health, immunizations, etc. Free visits with UC SHIP. Nearby: UCLA Ronald Reagan Medical Center (top-ranked teaching hospital, adjacent to campus).'}
   },
   {
     id:'oxford', country:'UK', flag:'🇬🇧',
@@ -467,7 +483,12 @@ const SCHOOLS = [
     safetyDetail:{zh:'牛津是一座历史悠久的大学城，治安状况优秀。学院内部安保严格，城市犯罪率远低于英国平均水平。', en:'Oxford is a historic university city with excellent safety. College security is strict, and crime rates are well below the UK average.'},
     climate:{zh:'温带海洋性气候，冬季阴冷（2-8°C），夏季凉爽（15-22°C），多雨', en:'Temperate maritime climate. Cool winters (2-8°C), mild summers (15-22°C), frequent rain'},
     livingCost:{zh:'约£1,400/月（约$1,750）', en:'~£1,400/month (~$1,750)'},
-    livingCostAnnual:21000, insurance:800, flights:1800
+    livingCostAnnual:21000, insurance:800, flights:1800,
+    visa: {zh:'Student Visa(原Tier 4) → 毕业后可申请Graduate Visa(2年工作签，本科/硕士) → Skilled Worker Visa。学校签证团队协助申请，流程清晰。', en:'Student Visa (formerly Tier 4) → Graduate Visa (2-year post-study work, for undergrad/masters) → Skilled Worker Visa. University visa team assists with applications.'},
+    housing: {zh:'大一保证学院住宿，之后各学院政策不同，部分学院保证全程。学院宿舍富有历史感。校内约£7,500-9,500/年。校外牛津租房约£800-1,200/月。', en:'First-year housing guaranteed by college. Subsequent years vary by college; some guarantee all years. College rooms are historic and charming. On-campus ~£7,500-9,500/yr. Off-campus ~£800-1,200/mo.'},
+    graduationRate: {zh:'毕业率：99%（英国本科3年制，淘汰率极低但课业强度大）。学院导师制确保每位学生得到密切关注。转专业困难，需慎重选择。', en:'Graduation rate: 99% (UK undergrad is 3 years, very low dropout but intense workload). College tutorial system ensures close attention to each student. Switching majors is difficult; choose carefully.'},
+    employment: {zh:'毕业生平均起薪约£33,000/年（约$41,000）。金融城、咨询、公务员系统招聘活跃。Career Service全球校友网络强大。知名雇主：汇丰、德勤、英国政府Fast Stream等。', en:'Average starting salary ~£33,000/yr (~$41,000). Active recruiting from the City, consulting, and civil service. Career Service has a powerful global alumni network. Notable employers: HSBC, Deloitte, UK Government Fast Stream, etc.'},
+    healthcare: {zh:'✅ 必须缴纳Immigration Health Surcharge (IHS) £776/年（随签证缴纳），即可享受NHS免费医疗。无需额外购买保险。每个学院有指定GP（全科医生），可免费看病、开处方。校内有University Health Service提供基础医疗。牛津有John Radcliffe Hospital（大型教学医院）。心理健康方面，学院有专职福利顾问，学校Counselling Service提供免费心理咨询。', en:'✅ Must pay Immigration Health Surcharge (IHS) £776/yr (with visa) for free NHS healthcare. No additional insurance needed. Each college has a designated GP for free consultations and prescriptions. University Health Service provides on-campus care. John Radcliffe Hospital nearby for emergencies. Mental health support via college welfare advisors and free University Counselling Service.'}
   },
   {
     id:'ucl', country:'UK', flag:'🇬🇧',
@@ -485,7 +506,12 @@ const SCHOOLS = [
     safetyDetail:{zh:'位于伦敦市中心，校园周边治安整体良好。UCL有专属安保团队，提供深夜安全热线和护送服务。伦敦部分区域需注意人身安全。', en:'Located in central London with generally good safety. UCL has a dedicated security team with a late-night safety hotline and escort service. Some London areas require extra caution.'},
     climate:{zh:'温带海洋性气候，冬季阴冷（3-8°C），夏季凉爽（14-23°C）', en:'Temperate maritime. Cold winters (3-8°C), cool summers (14-23°C)'},
     livingCost:{zh:'约£1,600/月（约$2,000）', en:'~£1,600/month (~$2,000)'},
-    livingCostAnnual:24000, insurance:800, flights:1800
+    livingCostAnnual:24000, insurance:800, flights:1800,
+    visa: {zh:'Student Visa → Graduate Visa(2年) → Skilled Worker Visa。UCL国际学生占比超40%，签证支持服务成熟。Student Immigration Advice Team提供免费咨询。', en:'Student Visa → Graduate Visa (2 years) → Skilled Worker Visa. Over 40% international students; mature visa support. Student Immigration Advice Team offers free consultations.'},
+    housing: {zh:'大一保证学校宿舍。伦敦宿舍紧张，建议尽早申请。校内宿舍约£8,000-12,000/年（位置不同价格差异大）。校外Bloomsbury/King\'s Cross附近约£900-1,400/月。', en:'First-year housing guaranteed. London accommodation is competitive; apply early. On-campus ~£8,000-12,000/yr (varies by location). Off-campus near Bloomsbury/King\'s Cross ~£900-1,400/mo.'},
+    graduationRate: {zh:'毕业率：95%。3年本科制，课程紧凑。学术支持包括个人导师和学习技能工作坊。转专业有一定灵活性，需在第一学年内申请。', en:'Graduation rate: 95%. 3-year undergrad, intensive curriculum. Academic support includes personal tutors and study skills workshops. Some flexibility to switch within the first year.'},
+    employment: {zh:'毕业生平均起薪约£30,000/年（约$37,500）。伦敦就业市场优势明显，实习机会丰富。UCL Careers每周发布数百个实习和全职岗位。知名雇主：普华永道、亚马逊、NHS等。', en:'Average starting salary ~£30,000/yr (~$37,500). London job market is a major advantage with abundant internships. UCL Careers posts hundreds of opportunities weekly. Notable employers: PwC, Amazon, NHS, etc.'},
+    healthcare: {zh:'✅ 必须缴纳IHS £776/年，享受NHS免费医疗。UCL校内设有Student Health Service，可注册为GP病人，享受免费看诊、处方和转介服务。伦敦医疗资源极其丰富，附近有University College Hospital (UCLH) ——英国顶级教学医院之一。UCL Student Psychological & Counselling Services提供免费心理健康支持。', en:'✅ Must pay IHS £776/yr for free NHS healthcare. UCL Student Health Service on campus allows GP registration for free consultations, prescriptions, and referrals. London has excellent medical resources; nearby University College Hospital (UCLH) is one of the UK\'s top teaching hospitals. UCL Student Psychological & Counselling Services offers free mental health support.'}
   },
   {
     id:'uoft', country:'CA', flag:'🇨🇦',
@@ -503,7 +529,12 @@ const SCHOOLS = [
     safetyDetail:{zh:'多伦多是全球最安全的大城市之一。校园有专职安保，设有蓝光紧急电话和夜间安全步行陪同服务。', en:'Toronto is one of the world\'s safest major cities. Campus has dedicated security, blue-light emergency phones, and a nighttime safe-walk program.'},
     climate:{zh:'大陆性气候，冬季严寒多雪（-10至-1°C），夏季温暖（20-27°C）', en:'Continental climate. Cold, snowy winters (-10 to -1°C), warm summers (20-27°C)'},
     livingCost:{zh:'约C$2,200/月（约$1,600）', en:'~C$2,200/month (~$1,600)'},
-    livingCostAnnual:19200, insurance:1200, flights:2200
+    livingCostAnnual:19200, insurance:1200, flights:2200,
+    visa: {zh:'Study Permit → 毕业后PGWP工签(最长3年) → 通过Express Entry申请永居(PR)。加拿大移民政策友好，留学生有额外加分。学校International Student Services提供全程支持。', en:'Study Permit → PGWP (up to 3 years post-graduation) → Permanent Residency via Express Entry. Canada has immigration-friendly policies with bonus points for international graduates. International Student Services provides full support.'},
+    housing: {zh:'大一保证校内宿舍（需提前申请）。St. George主校区宿舍历史悠久。校内约C$14,000-16,500/年。校外Annex/Kensington区约C$1,200-1,800/月。多伦多租房市场紧张，建议早找。', en:'First-year housing guaranteed (apply early). St. George campus dorms are historic. On-campus ~C$14,000-16,500/yr. Off-campus in Annex/Kensington ~C$1,200-1,800/mo. Toronto rental market is tight; start early.'},
+    graduationRate: {zh:'4年毕业率：73% | 6年毕业率：85%。课业压力较大，尤其工程和CS专业。学术支持中心提供免费辅导。转专业流程较灵活，但热门专业有成绩要求。', en:'4-year graduation rate: 73% | 6-year: 85%. Academically demanding, especially engineering and CS. Academic Success Centre offers free tutoring. Major switching is flexible but popular programs have GPA requirements.'},
+    employment: {zh:'毕业生平均起薪约C$60,000/年（约$44,000）。多伦多是加拿大经济中心，金融、科技、医疗行业就业强势。PEY Co-op项目提供12-16个月带薪实习。知名雇主：RBC、Shopify、多伦多大学医院网络等。', en:'Average starting salary ~C$60,000/yr (~$44,000). Toronto is Canada\'s economic hub, strong in finance, tech, and healthcare. PEY Co-op program offers 12-16 month paid internships. Notable employers: RBC, Shopify, University Health Network, etc.'},
+    healthcare: {zh:'✅ 强制购买UHIP保险（University Health Insurance Plan）约C$756/年。安大略省国际学生不享受OHIP省医保，UHIP覆盖医院、门诊、急诊、处方药和心理咨询。校内Health & Wellness Centre提供全科门诊、心理健康服务和营养咨询，持UHIP免费。校外急症可前往Toronto General Hospital或Mount Sinai Hospital。My SSP提供24/7多语言心理健康热线（含中文）。', en:'✅ Insurance mandatory. UHIP (University Health Insurance Plan) ~C$756/yr. International students in Ontario don\'t qualify for OHIP; UHIP covers hospital, clinic visits, ER, prescriptions, and mental health. On-campus Health & Wellness Centre offers primary care, mental health, and nutrition counseling, free with UHIP. Nearby: Toronto General Hospital, Mount Sinai Hospital. My SSP offers 24/7 multilingual mental health support (including Mandarin).'}
   }
 ];
 
@@ -570,6 +601,16 @@ const I18N = {
   country_US:{zh:'美国',en:'United States'},
   country_UK:{zh:'英国',en:'United Kingdom'},
   country_CA:{zh:'加拿大',en:'Canada'},
+  detail_visa:{zh:'签证与身份路径',en:'Visa & Immigration Pathway'},
+  detail_housing:{zh:'住宿信息',en:'Housing Information'},
+  detail_graduation:{zh:'毕业率与学业',en:'Graduation Rate & Academics'},
+  detail_employment:{zh:'就业与职业发展',en:'Employment & Career'},
+  detail_healthcare:{zh:'医疗保障',en:'Healthcare & Insurance'},
+  compare_visa:{zh:'签证路径',en:'Visa Pathway'},
+  compare_housing_label:{zh:'住宿',en:'Housing'},
+  compare_graduation:{zh:'毕业率',en:'Graduation Rate'},
+  compare_employment:{zh:'就业数据',en:'Employment'},
+  compare_healthcare:{zh:'医疗保障',en:'Healthcare'},
 };
 
 function t(key){ return (I18N[key] && I18N[key][lang]) || key; }
@@ -718,6 +759,11 @@ function openCompare(){
     ['compare_living', s=>s.livingCost[lang]],
     ['compare_requirements', s=>`TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}`],
     ['compare_deadline', s=>s.deadline[lang]],
+    ['compare_visa', s=>s.visa[lang]],
+    ['compare_housing_label', s=>s.housing[lang]],
+    ['compare_graduation', s=>s.graduationRate[lang]],
+    ['compare_employment', s=>s.employment[lang]],
+    ['compare_healthcare', s=>s.healthcare[lang]],
   ];
   const panel = document.getElementById('comparePanel');
   panel.innerHTML = `
@@ -777,6 +823,26 @@ function openDetail(id){
       <div class="detail-section">
         <h3>${t('detail_living')}</h3>
         <p class="detail-desc">${s.livingCost[lang]}</p>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_visa')}</h3>
+        <p class="detail-desc">${s.visa[lang]}</p>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_housing')}</h3>
+        <p class="detail-desc">${s.housing[lang]}</p>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_graduation')}</h3>
+        <p class="detail-desc">${s.graduationRate[lang]}</p>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_employment')}</h3>
+        <p class="detail-desc">${s.employment[lang]}</p>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_healthcare')}</h3>
+        <p class="detail-desc">${s.healthcare[lang]}</p>
       </div>
     </div>
   `;
