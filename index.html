@@ -64,7 +64,16 @@ img{max-width:100%}
 .search-box{position:relative;flex:1;max-width:350px}
 .search-box input{width:100%;padding:.7rem 1rem .7rem 2.5rem;border:2px solid var(--gray-200);border-radius:10px;font-size:.95rem;transition:var(--transition);background:var(--white)}
 .search-box input:focus{border-color:var(--gold);outline:none;box-shadow:0 0 0 3px rgba(212,168,75,.15)}
-.search-box::before{content:'🔍';position:absolute;left:.8rem;top:50%;transform:translateY(-50%);font-size:1rem}
+.search-box::before{content:'🔍';position:absolute;left:.8rem;top:50%;transform:translateY(-50%);font-size:1rem;z-index:1}
+.search-hints{position:absolute;top:100%;left:0;right:0;background:var(--white);border:1px solid var(--gray-200);border-radius:8px;box-shadow:var(--shadow-lg);z-index:100;max-height:300px;overflow-y:auto;margin-top:4px}
+.search-hint-item{padding:.6rem 1rem;cursor:pointer;font-size:.85rem;border-bottom:1px solid var(--gray-100);display:flex;align-items:center;gap:.5rem}
+.search-hint-item:hover{background:var(--gray-50)}
+.search-hint-item:last-child{border-bottom:none}
+.search-hint-type{font-size:.7rem;padding:.1rem .4rem;border-radius:4px;font-weight:600;flex-shrink:0}
+.search-hint-type.major{background:#dbeafe;color:#1d4ed8}
+.search-hint-type.school{background:#dcfce7;color:#166534}
+.search-hint-type.city{background:#fef3c7;color:#92400e}
+.search-match{font-weight:700;color:var(--navy)}
 .filter-group{display:flex;gap:.5rem;flex-wrap:wrap}
 .filter-btn{padding:.55rem 1.2rem;border:2px solid var(--gray-200);background:var(--white);border-radius:8px;font-size:.85rem;font-weight:500;transition:var(--transition);color:var(--gray-600)}
 .filter-btn:hover{border-color:var(--navy);color:var(--navy)}
@@ -329,7 +338,8 @@ img{max-width:100%}
     <!-- Controls -->
     <div class="controls">
       <div class="search-box">
-        <input type="text" id="searchInput" data-i18n-placeholder="search_placeholder" placeholder="搜索学校名称..." oninput="renderCards()">
+        <input type="text" id="searchInput" data-i18n-placeholder="search_placeholder" placeholder="搜索学校、专业、城市..." oninput="renderCards()" autocomplete="off">
+        <div id="searchHints" class="search-hints" style="display:none"></div>
       </div>
       <div class="filter-group" id="countryFilters">
         <button class="filter-btn active" data-country="all" onclick="setFilter(this)" data-i18n="filter_all">全部</button>
@@ -570,7 +580,7 @@ const I18N = {
   hero_scroll:{zh:'向下滚动探索',en:'Scroll down to explore'},
   section_schools:{zh:'院校一览',en:'School Directory'},
   section_schools_desc:{zh:'点击卡片查看详情，勾选后可对比不同学校（最多3所）',en:'Click cards for details. Select up to 3 schools to compare side by side.'},
-  search_placeholder:{zh:'搜索学校名称...',en:'Search school name...'},
+  search_placeholder:{zh:'搜索学校、专业、城市...',en:'Search schools, majors, cities...'},
   filter_all:{zh:'全部',en:'All'},
   filter_us:{zh:'美国',en:'USA'},
   filter_uk:{zh:'英国',en:'UK'},
@@ -701,9 +711,15 @@ function getFiltered(){
   let list = [...SCHOOLS];
   // country
   if(currentCountry!=='all') list = list.filter(s=>s.country===currentCountry);
-  // search
+  // search (school name, major, city, description)
   const q = document.getElementById('searchInput').value.trim().toLowerCase();
-  if(q) list = list.filter(s=> s.name.zh.toLowerCase().includes(q) || s.name.en.toLowerCase().includes(q));
+  if(q) list = list.filter(s=>{
+    if(s.name.zh.toLowerCase().includes(q) || s.name.en.toLowerCase().includes(q)) return true;
+    if(s.city.zh.toLowerCase().includes(q) || s.city.en.toLowerCase().includes(q)) return true;
+    if(s.majors.zh.some(m=>m.toLowerCase().includes(q)) || s.majors.en.some(m=>m.toLowerCase().includes(q))) return true;
+    if(s.desc.zh.toLowerCase().includes(q) || s.desc.en.toLowerCase().includes(q)) return true;
+    return false;
+  });
   // sort
   const sort = document.getElementById('sortSelect').value;
   if(sort==='rank') list.sort((a,b)=>getRankValue(a,currentRankSystem)-getRankValue(b,currentRankSystem));
@@ -723,15 +739,84 @@ function safetyLabel(score){
   return lang==='zh'?'需注意':'Caution';
 }
 
+function updateSearchHints(){
+  const hintsEl = document.getElementById('searchHints');
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  if(!q || q.length < 1){
+    hintsEl.style.display='none';
+    return;
+  }
+  const hints = [];
+  const seen = new Set();
+  SCHOOLS.forEach(s=>{
+    // Match majors
+    [...s.majors.zh, ...s.majors.en].forEach(m=>{
+      if(m.toLowerCase().includes(q) && !seen.has(m.toLowerCase())){
+        seen.add(m.toLowerCase());
+        hints.push({type:'major', label:m, typeLabel:lang==='zh'?'专业':'Major'});
+      }
+    });
+    // Match city
+    [s.city.zh, s.city.en].forEach(c=>{
+      if(c.toLowerCase().includes(q) && !seen.has(c.toLowerCase())){
+        seen.add(c.toLowerCase());
+        hints.push({type:'city', label:c, typeLabel:lang==='zh'?'城市':'City'});
+      }
+    });
+    // Match school name
+    [s.name.zh, s.name.en].forEach(n=>{
+      if(n.toLowerCase().includes(q) && !seen.has(n.toLowerCase())){
+        seen.add(n.toLowerCase());
+        hints.push({type:'school', label:n, typeLabel:lang==='zh'?'学校':'School'});
+      }
+    });
+  });
+  if(!hints.length){
+    hintsEl.style.display='none';
+    return;
+  }
+  hintsEl.style.display='block';
+  hintsEl.innerHTML = hints.slice(0,8).map(h=>{
+    const highlighted = h.label.replace(new RegExp(`(${q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`,'gi'), '<span class="search-match">$1</span>');
+    return `<div class="search-hint-item" onclick="applyHint('${h.label.replace(/'/g,"\\'")}')"><span class="search-hint-type ${h.type}">${h.typeLabel}</span>${highlighted}</div>`;
+  }).join('');
+}
+
+function applyHint(text){
+  document.getElementById('searchInput').value = text;
+  document.getElementById('searchHints').style.display='none';
+  renderCards();
+}
+
+// Close hints when clicking outside
+document.addEventListener('click', e=>{
+  if(!e.target.closest('.search-box')){
+    document.getElementById('searchHints').style.display='none';
+  }
+});
+
 function renderCards(){
+  updateSearchHints();
   const grid = document.getElementById('schoolsGrid');
   const list = getFiltered();
   if(!list.length){
     grid.innerHTML = `<div class="no-results" style="grid-column:1/-1"><div class="emoji">🔍</div><p>${t('no_results')}</p></div>`;
     return;
   }
+  const searchQ = document.getElementById('searchInput').value.trim().toLowerCase();
   grid.innerHTML = list.map(s=>{
     const sel = selectedIds.includes(s.id);
+    // Determine what matched the search
+    let matchInfo = '';
+    if(searchQ){
+      const matchedMajors = [...s.majors.zh,...s.majors.en].filter(m=>m.toLowerCase().includes(searchQ));
+      const matchedCity = [s.city.zh,s.city.en].some(c=>c.toLowerCase().includes(searchQ));
+      if(matchedMajors.length && !s.name.zh.toLowerCase().includes(searchQ) && !s.name.en.toLowerCase().includes(searchQ)){
+        matchInfo = `<div style="margin-top:.5rem;padding:.4rem .6rem;background:#dbeafe;border-radius:6px;font-size:.78rem;color:#1d4ed8">🎯 ${lang==='zh'?'匹配专业':'Matched major'}: <strong>${matchedMajors[0]}</strong></div>`;
+      } else if(matchedCity && !s.name.zh.toLowerCase().includes(searchQ) && !s.name.en.toLowerCase().includes(searchQ)){
+        matchInfo = `<div style="margin-top:.5rem;padding:.4rem .6rem;background:#fef3c7;border-radius:6px;font-size:.78rem;color:#92400e">📍 ${lang==='zh'?'匹配城市':'Matched city'}: <strong>${s.city[lang]}</strong></div>`;
+      }
+    }
     return `
     <div class="school-card ${sel?'selected':''}" onclick="openDetail('${s.id}')" data-id="${s.id}">
       <div class="card-header">
@@ -758,8 +843,12 @@ function renderCards(){
         </div>
         <div class="card-majors">
           <span>${t('top_majors')}</span>
-          <div class="major-list">${s.majors[lang].map(m=>`<span class="major">${m}</span>`).join('')}</div>
+          <div class="major-list">${s.majors[lang].map(m=>{
+            const isMatch = searchQ && m.toLowerCase().includes(searchQ);
+            return `<span class="major" ${isMatch?'style="background:#dbeafe;color:#1d4ed8;font-weight:600"':''}>${m}</span>`;
+          }).join('')}</div>
         </div>
+        ${matchInfo}
       </div>
       <div class="card-expand-hint">${t('click_detail')} →</div>
     </div>`;
