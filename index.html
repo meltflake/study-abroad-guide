@@ -337,11 +337,15 @@ img{max-width:100%}
         <button class="filter-btn" data-country="UK" onclick="setFilter(this)">🇬🇧 <span data-i18n="filter_uk">英国</span></button>
         <button class="filter-btn" data-country="CA" onclick="setFilter(this)">🇨🇦 <span data-i18n="filter_ca">加拿大</span></button>
       </div>
+      <div class="filter-group" id="rankFilters" style="display:flex;align-items:center;gap:.5rem;flex-wrap:wrap">
+        <span style="font-size:.8rem;color:var(--gray-500);font-weight:600" data-i18n="rank_label">排名体系：</span>
+        <button class="filter-btn active" data-rank="qs" onclick="setRankFilter(this)">QS</button>
+        <button class="filter-btn" data-rank="the" onclick="setRankFilter(this)">THE</button>
+        <button class="filter-btn" data-rank="usnews" onclick="setRankFilter(this)">US News</button>
+        <button class="filter-btn" data-rank="arwu" onclick="setRankFilter(this)">ARWU</button>
+      </div>
       <select class="sort-select" id="sortSelect" onchange="renderCards()">
-        <option value="rank" data-i18n="sort_rank">按 QS 排名</option>
-        <option value="rank_the" data-i18n="sort_rank_the">按 THE 排名</option>
-        <option value="rank_usnews" data-i18n="sort_rank_usnews">按 US News 排名</option>
-        <option value="rank_arwu" data-i18n="sort_rank_arwu">按 ARWU 排名</option>
+        <option value="rank" data-i18n="sort_rank">按排名 ↑</option>
         <option value="tuition_asc" data-i18n="sort_tuition_asc">按学费 ↑</option>
         <option value="tuition_desc" data-i18n="sort_tuition_desc">按学费 ↓</option>
       </select>
@@ -572,6 +576,7 @@ const I18N = {
   filter_uk:{zh:'英国',en:'UK'},
   filter_ca:{zh:'加拿大',en:'Canada'},
   sort_rank:{zh:'按 QS 排名',en:'By QS Ranking'},
+  rank_label:{zh:'排名体系：',en:'Ranking:'},
   sort_rank_the:{zh:'按 THE 排名',en:'THE Ranking'},
   sort_rank_usnews:{zh:'按 US News 排名',en:'US News Ranking'},
   sort_rank_arwu:{zh:'按 ARWU 排名',en:'ARWU Ranking'},
@@ -652,9 +657,6 @@ function toggleLang(){
   });
   // Update sort select options
   document.querySelector('[value="rank"]').textContent = t('sort_rank');
-  document.querySelector('[value="rank_the"]').textContent = t('sort_rank_the');
-  document.querySelector('[value="rank_usnews"]').textContent = t('sort_rank_usnews');
-  document.querySelector('[value="rank_arwu"]').textContent = t('sort_rank_arwu');
   document.querySelector('[value="tuition_asc"]').textContent = t('sort_tuition_asc');
   document.querySelector('[value="tuition_desc"]').textContent = t('sort_tuition_desc');
   renderCards();
@@ -666,11 +668,33 @@ function toggleLang(){
 let currentCountry = 'all';
 let selectedIds = [];
 
+let currentRankSystem = 'qs';
+
 function setFilter(btn){
-  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('#countryFilters .filter-btn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
   currentCountry = btn.dataset.country;
   renderCards();
+}
+
+function setRankFilter(btn){
+  document.querySelectorAll('#rankFilters .filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  currentRankSystem = btn.dataset.rank;
+  renderCards();
+}
+
+function getRankValue(s, sys){
+  if(sys==='qs') return s.qs;
+  if(sys==='the') return s.the;
+  if(sys==='usnews') return s.usnews;
+  if(sys==='arwu') return s.arwu;
+  return s.qs;
+}
+
+function getRankLabel(sys){
+  const labels = {qs:'QS', the:'THE', usnews:'US News', arwu:'ARWU'};
+  return labels[sys] || 'QS';
 }
 
 function getFiltered(){
@@ -682,10 +706,7 @@ function getFiltered(){
   if(q) list = list.filter(s=> s.name.zh.toLowerCase().includes(q) || s.name.en.toLowerCase().includes(q));
   // sort
   const sort = document.getElementById('sortSelect').value;
-  if(sort==='rank') list.sort((a,b)=>a.qs-b.qs);
-  else if(sort==='rank_the') list.sort((a,b)=>a.the-b.the);
-  else if(sort==='rank_usnews') list.sort((a,b)=>a.usnews-b.usnews);
-  else if(sort==='rank_arwu') list.sort((a,b)=>a.arwu-b.arwu);
+  if(sort==='rank') list.sort((a,b)=>getRankValue(a,currentRankSystem)-getRankValue(b,currentRankSystem));
   else if(sort==='tuition_asc') list.sort((a,b)=>a.tuition-b.tuition);
   else if(sort==='tuition_desc') list.sort((a,b)=>b.tuition-a.tuition);
   return list;
@@ -722,10 +743,8 @@ function renderCards(){
       </div>
       <div class="card-body">
         <div class="card-tags">
-          <span class="tag tag-rank">QS #${s.qs}</span>
-          <span class="tag tag-rank">THE #${s.the}</span>
-          <span class="tag tag-rank" style="background:#f0fdf4;color:#166534">USNews #${s.usnews}</span>
-          <span class="tag tag-rank" style="background:#fef3c7;color:#92400e">ARWU #${s.arwu}</span>
+          <span class="tag tag-rank" style="font-size:.95rem;font-weight:700;padding:.4rem .8rem">${getRankLabel(currentRankSystem)} #${getRankValue(s,currentRankSystem)}</span>
+          ${['qs','the','usnews','arwu'].filter(r=>r!==currentRankSystem).map(r=>`<span class="tag" style="background:var(--gray-100);color:var(--gray-500);font-size:.7rem">${getRankLabel(r)} #${getRankValue(s,r)}</span>`).join('')}
           <span class="tag tag-tuition">${s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()}/yr</span>
           <span class="tag tag-city">${s.city[lang]}</span>
         </div>
