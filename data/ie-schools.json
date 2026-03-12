@@ -1,0 +1,332 @@
+[
+  {
+    "id": "tcd",
+    "country": "IE",
+    "flag": "🇮🇪",
+    "name": {
+      "zh": "都柏林圣三一学院",
+      "en": "Trinity College Dublin"
+    },
+    "city": {
+      "zh": "都柏林",
+      "en": "Dublin"
+    },
+    "qs": 81,
+    "the": 134,
+    "usnews": 200,
+    "arwu": 301,
+    "tuition": 28000,
+    "tuitionRange": [
+      22000,
+      38000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "文学",
+        "计算机科学",
+        "法学",
+        "医学",
+        "商学"
+      ],
+      "en": [
+        "Arts & Humanities",
+        "Computer Science",
+        "Law",
+        "Medicine",
+        "Business"
+      ]
+    },
+    "majorTuition": {
+      "zh": "都柏林圣三一学院学费因专业而异。",
+      "en": "Trinity College Dublin tuition varies by program."
+    },
+    "desc": {
+      "zh": "圣三一学院成立于1592年，是爱尔兰最古老最负盛名的大学。位于都柏林市中心，Google、Meta、Apple等科技巨头欧洲总部就在附近。",
+      "en": "Trinity, founded in 1592, is Ireland's oldest and most prestigious university. Located in central Dublin, near European HQs of Google, Meta, Apple."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 28000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 28000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：34（HL 6,5,5）\\n• Computer Science 计算机：36（HL 6,6,5含数学6）\\n• Engineering 工程：36（HL 6,6,5含数学6）\\n• Business 商学：35（HL 6,5,5）\\n• Law 法学：37（HL 6,6,5）\\n• Medicine 医学：39+（HL 6,6,6含化学）"
+    },
+    "deadline": {
+      "zh": "2月1日（大部分专业）",
+      "en": "Feb 1 (most programs)"
+    },
+    "safetyDetail": {
+      "zh": "都柏林圣三一学院校园安全良好。",
+      "en": "Trinity College Dublin has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性，全年温和多雨",
+      "en": "Temperate maritime, mild and rainy year-round"
+    },
+    "livingCost": {
+      "zh": "约€1,500/月（都柏林较贵）",
+      "en": "~€1,500/month (Dublin is expensive)"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 500,
+    "flights": 1200,
+    "visa": {
+      "zh": "Stamp 2学生签证 → 毕业后Third Level Graduate Scheme (2年工签) → Critical Skills工签 → Stamp 4永居。爱尔兰是欧盟英语国家，科技行业繁荣。",
+      "en": "Stamp 2 student visa → Third Level Graduate Scheme (2-year work permit) → Critical Skills visa → Stamp 4 permanent residency. Ireland is an EU English-speaking country with booming tech."
+    },
+    "housing": {
+      "zh": "大一保证校内住宿。约€8,000-12,000/年。都柏林租房市场紧张。",
+      "en": "First-year housing guaranteed. ~€8,000-12,000/yr. Dublin rental market is very tight."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 非EU学生需购买私人医疗保险约€500/年。爱尔兰公立医院对签证持有者提供部分服务。",
+      "en": "✅ Non-EU students need private insurance ~€500/yr. Irish public hospitals provide some services to visa holders."
+    },
+    "application": {
+      "zh": "📋 通过CAO系统申请（类似UCAS）\\n📅 截止2月1日\\n💰 申请费：€45\\n📝 所需材料：IB/A-Level成绩、个人陈述、IELTS\\n✅ 英语授课，无需学其他语言",
+      "en": "📋 Via CAO system (similar to UCAS)\\n📅 Deadline: Feb 1\\n💰 Fee: €45\\n📝 Required: IB/A-Level scores, personal statement, IELTS\\n✅ Taught in English"
+    }
+  },
+  {
+    "id": "ucdie",
+    "country": "IE",
+    "flag": "🇮🇪",
+    "name": {
+      "zh": "都柏林大学",
+      "en": "University College Dublin (UCD)"
+    },
+    "city": {
+      "zh": "都柏林",
+      "en": "Dublin"
+    },
+    "qs": 126,
+    "the": 171,
+    "usnews": 200,
+    "arwu": 301,
+    "tuition": 26000,
+    "tuitionRange": [
+      20000,
+      35000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商学",
+        "计算机科学",
+        "农业科学",
+        "建筑学",
+        "法学"
+      ],
+      "en": [
+        "Commerce",
+        "Computer Science",
+        "Agricultural Sciences",
+        "Architecture",
+        "Law"
+      ]
+    },
+    "majorTuition": {
+      "zh": "都柏林大学学费因专业而异。",
+      "en": "University College Dublin (UCD) tuition varies by program."
+    },
+    "desc": {
+      "zh": "UCD是爱尔兰规模最大的大学，Smurfit商学院获AACSB/EQUIS/AMBA三皇冠认证。校园在都柏林南部，现代化设施完善。",
+      "en": "UCD is Ireland's largest university. Smurfit Business School holds triple crown (AACSB/EQUIS/AMBA). Modern campus in south Dublin."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 26000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 26000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：29\\n• Commerce 商学：34\\n• Computer Science 计算机：33\\n• Engineering 工程：33\\n• Architecture 建筑：35\\n• Law 法学：35\\n• Medicine 医学（研究生入学）：N/A\\n• Actuarial 精算：36"
+    },
+    "deadline": {
+      "zh": "2月1日（通过CAO）",
+      "en": "Feb 1 (via CAO)"
+    },
+    "safetyDetail": {
+      "zh": "都柏林大学校园安全良好。",
+      "en": "University College Dublin (UCD) has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性",
+      "en": "Temperate maritime"
+    },
+    "livingCost": {
+      "zh": "约€1,400/月",
+      "en": "~€1,400/month"
+    },
+    "livingCostAnnual": 16800,
+    "insurance": 500,
+    "flights": 1200,
+    "visa": {
+      "zh": "同TCD。爱尔兰毕业后2年工签。",
+      "en": "Same as TCD. 2-year post-study work permit."
+    },
+    "housing": {
+      "zh": "大一保证住宿。校内约€9,000-13,000/年。",
+      "en": "First-year guaranteed. On-campus ~€9,000-13,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 需购买私人医保约€500/年。",
+      "en": "✅ Private insurance ~€500/yr required."
+    },
+    "application": {
+      "zh": "📋 通过CAO系统\\n📅 截止2月1日\\n💰 €45\\n📝 IB成绩+IELTS\\n✅ 英语授课",
+      "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB scores + IELTS\\n✅ English-taught"
+    }
+  },
+  {
+    "id": "galway",
+    "country": "IE",
+    "flag": "🇮🇪",
+    "name": {
+      "zh": "高威大学",
+      "en": "University of Galway"
+    },
+    "city": {
+      "zh": "高威",
+      "en": "Galway"
+    },
+    "qs": 259,
+    "the": 301,
+    "usnews": 300,
+    "arwu": 401,
+    "tuition": 22000,
+    "tuitionRange": [
+      18000,
+      30000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "医学",
+        "海洋科学",
+        "文学",
+        "法学"
+      ],
+      "en": [
+        "Engineering",
+        "Medicine",
+        "Marine Science",
+        "Arts",
+        "Law"
+      ]
+    },
+    "majorTuition": {
+      "zh": "高威大学学费因专业而异。",
+      "en": "University of Galway tuition varies by program."
+    },
+    "desc": {
+      "zh": "高威大学位于爱尔兰西海岸，海洋科学全国领先。高威是联合国教科文组织电影之都，生活成本远低于都柏林，充满文化气息。",
+      "en": "University of Galway is on Ireland's west coast with nationally leading marine science. Galway is a UNESCO City of Film with much lower costs than Dublin."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 22000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 22000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "88+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Science 理学：28\\n• Engineering 工程：30\\n• Medicine 医学：35+\\n• Marine Science 海洋：28\\n• Law 法学：32"
+    },
+    "deadline": {
+      "zh": "2月1日（通过CAO）",
+      "en": "Feb 1 (via CAO)"
+    },
+    "safetyDetail": {
+      "zh": "高威大学校园安全良好。",
+      "en": "University of Galway has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性，多雨",
+      "en": "Maritime, rainy"
+    },
+    "livingCost": {
+      "zh": "约€1,000/月",
+      "en": "~€1,000/month"
+    },
+    "livingCostAnnual": 12000,
+    "insurance": 500,
+    "flights": 1200,
+    "visa": {
+      "zh": "同TCD。高威作为地区城市生活压力小。",
+      "en": "Same as TCD. Galway is more affordable as a regional city."
+    },
+    "housing": {
+      "zh": "校内住宿约€6,000-9,000/年。",
+      "en": "On-campus ~€6,000-9,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 需医保约€500/年。",
+      "en": "✅ Insurance ~€500/yr."
+    },
+    "application": {
+      "zh": "📋 通过CAO\\n📅 2月1日\\n💰 €45\\n📝 IB+IELTS",
+      "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB + IELTS"
+    }
+  }
+]

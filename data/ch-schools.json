@@ -1,0 +1,216 @@
+[
+  {
+    "id": "ethz",
+    "country": "CH",
+    "flag": "🇨🇭",
+    "name": {
+      "zh": "苏黎世联邦理工学院",
+      "en": "ETH Zurich"
+    },
+    "city": {
+      "zh": "苏黎世",
+      "en": "Zurich"
+    },
+    "qs": 7,
+    "the": 11,
+    "usnews": 30,
+    "arwu": 20,
+    "tuition": 1460,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "物理学",
+        "数学",
+        "建筑学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Physics",
+        "Mathematics",
+        "Architecture"
+      ]
+    },
+    "majorTuition": {
+      "zh": "苏黎世联邦理工学院学费因专业而异。",
+      "en": "ETH Zurich tuition varies by program."
+    },
+    "desc": {
+      "zh": "ETH Zurich是爱因斯坦的母校，全球顶尖理工大学。21位诺贝尔奖得主。学费仅CHF 730/学期（约$800），是全球性价比最高的顶尖大学。",
+      "en": "ETH is Einstein's alma mater and a world-leading tech university. 21 Nobel laureates. Tuition only CHF 730/semester (~$800) - the best value among top universities globally."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 1460,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 1200
+      },
+      "en": {
+        "Tuition": 1460,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A（本科德语授课为主）",
+      "IELTS": "N/A",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• 一般要求IB 38+\\n• Engineering 工程：IB 38+（HL数学+物理7,6）\\n• Computer Science 计算机：IB 38+（HL数学7）\\n• Architecture 建筑：IB 36+\\n• Mathematics 数学：IB 40+（HL数学7）\\n⚠️ 本科多数为德语授课"
+    },
+    "deadline": {
+      "zh": "4月30日（秋季入学）",
+      "en": "April 30 (autumn entry)"
+    },
+    "safetyDetail": {
+      "zh": "苏黎世联邦理工学院校园安全良好。",
+      "en": "ETH Zurich has good campus safety."
+    },
+    "climate": {
+      "zh": "温带大陆性，冬季寒冷多雪",
+      "en": "Temperate continental, cold snowy winters"
+    },
+    "livingCost": {
+      "zh": "约CHF 2,000/月（苏黎世生活成本极高）",
+      "en": "~CHF 2,000/month (Zurich is very expensive)"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 1200,
+    "flights": 1500,
+    "visa": {
+      "zh": "B Permit学生居留 → 毕业后6个月找工作 → 工作签 → C Permit永居（10年后）。瑞士薪资全球最高。",
+      "en": "B Permit → 6-month job search after graduation → Work permit → C Permit (after 10 years). Switzerland has the world's highest salaries."
+    },
+    "housing": {
+      "zh": "学校不提供住宿，需自行找房。苏黎世租房非常紧张，学生公寓约CHF 600-900/月。",
+      "en": "No university housing. Zurich housing is very tight. Student apartments ~CHF 600-900/month."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买瑞士医保（学生优惠约CHF 80-100/月）。瑞士医疗世界顶级。",
+      "en": "✅ Mandatory Swiss insurance (student rate ~CHF 80-100/month). Swiss healthcare is world-class."
+    },
+    "application": {
+      "zh": "📋 直接向ETH申请\\n📅 截止4月30日（秋季入学）\\n💰 申请费：CHF 150\\n📝 所需材料：IB成绩（需达标）或通过入学考试\\n⚠️ 本科主要德语授课！硕士多英语授课\\n💰 学费极低：仅CHF 730/学期！",
+      "en": "📋 Apply directly to ETH\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 Required: IB scores (must meet threshold) or entrance exam\\n⚠️ BSc mostly in German! MSc often in English\\n💰 Extremely low tuition: CHF 730/semester!"
+    }
+  },
+  {
+    "id": "epfl",
+    "country": "CH",
+    "flag": "🇨🇭",
+    "name": {
+      "zh": "洛桑联邦理工学院",
+      "en": "EPFL"
+    },
+    "city": {
+      "zh": "沃州 洛桑",
+      "en": "Lausanne, Vaud"
+    },
+    "qs": 12,
+    "the": 33,
+    "usnews": 47,
+    "arwu": 101,
+    "tuition": 1266,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "生命科学",
+        "物理学",
+        "数学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Life Sciences",
+        "Physics",
+        "Mathematics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "洛桑联邦理工学院学费因专业而异。",
+      "en": "EPFL tuition varies by program."
+    },
+    "desc": {
+      "zh": "EPFL是法语区的顶尖理工大学，与ETH齐名。以创新和创业闻名（瑞士硅谷），校园现代化。学费同样极低。",
+      "en": "EPFL is the top tech university in the French-speaking region, on par with ETH. Known for innovation and entrepreneurship (Swiss Silicon Valley). Similarly low tuition."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 1266,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 1200
+      },
+      "en": {
+        "Tuition": 1266,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A（本科法语授课为主）",
+      "IELTS": "N/A",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• 一般要求IB 38+\\n• 需通过第一年淘汰制考试（通过率约60%）\\n• HL数学+理科6+强烈建议\\n⚠️ 本科为法语授课，硕士英语授课"
+    },
+    "deadline": {
+      "zh": "4月30日（秋季入学）",
+      "en": "April 30 (autumn entry)"
+    },
+    "safetyDetail": {
+      "zh": "洛桑联邦理工学院校园安全良好。",
+      "en": "EPFL has good campus safety."
+    },
+    "climate": {
+      "zh": "温和湖滨气候",
+      "en": "Mild lakeside climate"
+    },
+    "livingCost": {
+      "zh": "约CHF 1,800/月",
+      "en": "~CHF 1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 1200,
+    "flights": 1500,
+    "visa": {
+      "zh": "同ETH。瑞士留学毕业后薪资全球最高。",
+      "en": "Same as ETH. Swiss graduate salaries are among world's highest."
+    },
+    "housing": {
+      "zh": "学校提供有限宿舍约CHF 500-700/月。洛桑生活成本略低于苏黎世。",
+      "en": "Limited university housing ~CHF 500-700/month. Lausanne slightly cheaper than Zurich."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制瑞士医保。",
+      "en": "✅ Mandatory Swiss insurance."
+    },
+    "application": {
+      "zh": "📋 直接向EPFL申请\\n📅 截止4月30日\\n💰 申请费：CHF 150\\n📝 IB成绩需达标 / 入学考试\\n⚠️ 本科法语授课！\\n💰 学费仅CHF 633/学期",
+      "en": "📋 Apply directly to EPFL\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 IB scores / entrance exam\\n⚠️ BSc in French!\\n💰 Tuition only CHF 633/semester"
+    }
+  }
+]

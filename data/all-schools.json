@@ -12724,5 +12724,1200 @@
       "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
       "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
     }
+  },
+  {
+    "id": "auckland",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "奥克兰大学",
+      "en": "University of Auckland"
+    },
+    "city": {
+      "zh": "奥克兰",
+      "en": "Auckland"
+    },
+    "qs": 65,
+    "the": 68,
+    "usnews": 100,
+    "arwu": 201,
+    "tuition": 38000,
+    "tuitionRange": [
+      33000,
+      45000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "医学",
+        "工程学",
+        "商学",
+        "法学",
+        "计算机科学"
+      ],
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Commerce",
+        "Law",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "奥克兰大学学费因专业而异。",
+      "en": "University of Auckland tuition varies by program."
+    },
+    "desc": {
+      "zh": "奥克兰大学是新西兰排名第一的大学，也是新西兰唯一一所进入QS前100的大学。位于新西兰最大城市奥克兰。",
+      "en": "Auckland is NZ's #1 university and the only NZ university in QS top 100. Located in Auckland, NZ's largest city."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 38000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 38000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Commerce 商学：27\\n• Science 理学：27\\n• Engineering 工程：33（HL数学+物理）\\n• Medicine 医学（预科）：32\\n• Law 法学：30\\n• Architecture 建筑：27"
+    },
+    "deadline": {
+      "zh": "Semester 1：12月1日截止 / Semester 2：5月1日截止",
+      "en": "Sem 1: Dec 1 deadline / Sem 2: May 1 deadline"
+    },
+    "safetyDetail": {
+      "zh": "奥克兰大学校园安全良好。",
+      "en": "University of Auckland has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性气候，四季温和",
+      "en": "Temperate maritime, mild four seasons"
+    },
+    "livingCost": {
+      "zh": "约NZ$2,000/月",
+      "en": "~NZ$2,000/month (~$1,200)"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → 毕业后Post-Study Work Visa (1-3年) → 技术移民申请PR。新西兰移民政策对留学生非常友好。",
+      "en": "Student Visa → Post-Study Work Visa (1-3 years) → Skilled Migrant PR. NZ has very friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一保证校内住宿（需提前申请）。校内约NZ$15,000-18,000/年。",
+      "en": "First-year housing guaranteed (apply early). On-campus ~NZ$15,000-18,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学生医疗保险。新西兰公共医疗系统优秀，学生可享受部分补贴医疗。",
+      "en": "✅ Mandatory student health insurance. NZ public health system is excellent with subsidized care for students."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：NZ$0（免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT",
+      "en": "📋 Platform: Apply directly\\n📅 Intakes: Feb (main) / Jul\\n💰 Fee: NZ$0 (free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT"
+    }
+  },
+  {
+    "id": "otago",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "奥塔哥大学",
+      "en": "University of Otago"
+    },
+    "city": {
+      "zh": "但尼丁",
+      "en": "Dunedin"
+    },
+    "qs": 206,
+    "the": 253,
+    "usnews": 250,
+    "arwu": 301,
+    "tuition": 32000,
+    "tuitionRange": [
+      28000,
+      38000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "医学",
+        "牙医学",
+        "药学",
+        "体育科学",
+        "健康科学"
+      ],
+      "en": [
+        "Medicine",
+        "Dentistry",
+        "Pharmacy",
+        "Sports Science",
+        "Health Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "奥塔哥大学学费因专业而异。",
+      "en": "University of Otago tuition varies by program."
+    },
+    "desc": {
+      "zh": "奥塔哥是新西兰最古老的大学（1869），医学院全国第一。但尼丁是典型的大学城，学生占总人口20%。",
+      "en": "Otago is NZ's oldest university (1869) with the country's #1 medical school. Dunedin is a quintessential university town, students make up 20% of the population."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 32000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 32000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Commerce 商学：26\\n• Science 理学：26\\n• Health Sciences 健康科学：26\\n• Dentistry 牙医（预科）：30\\n• Medicine 医学（预科）：30"
+    },
+    "deadline": {
+      "zh": "Semester 1：10月截止 / Semester 2：3月截止",
+      "en": "Sem 1: Oct deadline / Sem 2: Mar deadline"
+    },
+    "safetyDetail": {
+      "zh": "奥塔哥大学校园安全良好。",
+      "en": "University of Otago has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性，较凉爽",
+      "en": "Temperate maritime, cooler"
+    },
+    "livingCost": {
+      "zh": "约NZ$1,500/月",
+      "en": "~NZ$1,500/month (~$900)"
+    },
+    "livingCostAnnual": 10800,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → Post-Study Work Visa (1-3年) → 技术移民。但尼丁属于地区城市，移民有额外加分。",
+      "en": "Student Visa → Post-Study Work Visa (1-3 years) → Skilled Migrant. Dunedin as a regional city offers bonus immigration points."
+    },
+    "housing": {
+      "zh": "大一推荐住Residential College。约NZ$13,000-16,000/年。",
+      "en": "First-year residential colleges recommended. ~NZ$13,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制医疗保险。但尼丁医疗资源完善。",
+      "en": "✅ Mandatory insurance. Dunedin has good medical facilities."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请\\n📅 入学时间：2月（主）/ 7月\\n💰 申请费：NZ$0\\n📝 所需材料：成绩单、IELTS、个人陈述",
+      "en": "📋 Platform: Apply directly\\n📅 Intakes: Feb (main) / Jul\\n💰 Fee: NZ$0\\n📝 Required: Transcripts, IELTS, personal statement"
+    }
+  },
+  {
+    "id": "victoria",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "惠灵顿维多利亚大学",
+      "en": "Victoria University of Wellington"
+    },
+    "city": {
+      "zh": "惠灵顿",
+      "en": "Wellington"
+    },
+    "qs": 241,
+    "the": 350,
+    "usnews": 300,
+    "arwu": 401,
+    "tuition": 30000,
+    "tuitionRange": [
+      26000,
+      35000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "法学",
+        "政治学",
+        "设计",
+        "电影",
+        "地球科学"
+      ],
+      "en": [
+        "Law",
+        "Political Science",
+        "Design",
+        "Film",
+        "Earth Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "惠灵顿维多利亚大学学费因专业而异。",
+      "en": "Victoria University of Wellington tuition varies by program."
+    },
+    "desc": {
+      "zh": "维多利亚大学位于新西兰首都惠灵顿，法学院全国第一。毗邻国会和政府机构，政治学和公共政策优势明显。也是《指环王》维塔工作室所在地。",
+      "en": "Victoria is in NZ's capital Wellington with the country's #1 law school. Next to Parliament with strong political science. Home of Weta Workshop (Lord of the Rings)."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 30000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 30000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Commerce 商学：26\\n• Science 理学：26\\n• Law 法学：30\\n• Design 设计：26\\n• Engineering 工程：28"
+    },
+    "deadline": {
+      "zh": "Trimester 1：12月截止 / Trimester 2：5月截止",
+      "en": "Tri 1: Dec deadline / Tri 2: May deadline"
+    },
+    "safetyDetail": {
+      "zh": "惠灵顿维多利亚大学校园安全良好。",
+      "en": "Victoria University of Wellington has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性，多风",
+      "en": "Temperate maritime, windy"
+    },
+    "livingCost": {
+      "zh": "约NZ$1,800/月",
+      "en": "~NZ$1,800/month (~$1,080)"
+    },
+    "livingCostAnnual": 12960,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → Post-Study Work Visa → PR。首都城市就业机会多（政府+科技+创意产业）。",
+      "en": "Student Visa → Post-Study Work Visa → PR. Capital city offers many jobs (government + tech + creative)."
+    },
+    "housing": {
+      "zh": "大一保证住宿。约NZ$13,000-17,000/年。",
+      "en": "First-year housing guaranteed. ~NZ$13,000-17,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制医疗保险。惠灵顿医疗资源充足。",
+      "en": "✅ Mandatory insurance. Wellington has good healthcare."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 入学：3月/7月/11月（三学期制）\\n💰 免申请费\\n📝 成绩单+IELTS",
+      "en": "📋 Apply directly\\n📅 Intakes: Mar/Jul/Nov (trimester)\\n💰 No application fee\\n📝 Transcripts + IELTS"
+    }
+  },
+  {
+    "id": "tumunich",
+    "country": "DE",
+    "flag": "🇩🇪",
+    "name": {
+      "zh": "慕尼黑工业大学",
+      "en": "Technical University of Munich (TUM)"
+    },
+    "city": {
+      "zh": "巴伐利亚州 慕尼黑",
+      "en": "Munich, Bavaria"
+    },
+    "qs": 28,
+    "the": 30,
+    "usnews": 58,
+    "arwu": 52,
+    "tuition": 300,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "物理学",
+        "管理学",
+        "生命科学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Physics",
+        "Management",
+        "Life Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "慕尼黑工业大学学费因专业而异。",
+      "en": "Technical University of Munich (TUM) tuition varies by program."
+    },
+    "desc": {
+      "zh": "TUM是德国排名第一的理工大学，工程和计算机全球领先。学费几乎免费（仅收注册费约€150/学期）！宝马、西门子等总部在慕尼黑。",
+      "en": "TUM is Germany's #1 technical university with globally leading engineering and CS. Almost free tuition (only ~€150/semester registration)! BMW, Siemens HQs are in Munich."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 300,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 1320
+      },
+      "en": {
+        "Tuition": 300,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 1320
+      }
+    },
+    "requirements": {
+      "TOEFL": "88+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• 一般要求IB 34+（含HL科目要求）\\n• Engineering 工程：IB 36+（HL数学+物理6+）\\n• Computer Science 计算机：IB 36+（HL数学6+）\\n• Management 管理（英语授课）：IB 34+\\n⚠️ 部分专业要求德语B2-C1"
+    },
+    "deadline": {
+      "zh": "冬季学期（10月入学）：7月15日截止 / 夏季学期（4月）：1月15日",
+      "en": "Winter semester (Oct): Jul 15 / Summer (Apr): Jan 15"
+    },
+    "safetyDetail": {
+      "zh": "慕尼黑工业大学校园安全良好。",
+      "en": "Technical University of Munich (TUM) has good campus safety."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬冷夏暖",
+      "en": "Continental, cold winters warm summers"
+    },
+    "livingCost": {
+      "zh": "约€1,200/月（慕尼黑较贵）",
+      "en": "~€1,200/month (Munich is expensive)"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 1320,
+    "flights": 1500,
+    "visa": {
+      "zh": "学生签证 → 毕业后18个月Job Seeker Visa → 工作签 → EU Blue Card → 永居。德国对STEM毕业生政策友好。",
+      "en": "Student visa → 18-month Job Seeker Visa → Work visa → EU Blue Card → Permanent residency. Germany is STEM-graduate friendly."
+    },
+    "housing": {
+      "zh": "学生宿舍（Studentenwerk）约€300-400/月，极其抢手需提前申请。私人租房€500-900/月。",
+      "en": "Student dorms (Studentenwerk) ~€300-400/month, very competitive. Private rent €500-900/month."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制医疗保险（公保约€110/月或私保）。德国医疗体系世界领先。",
+      "en": "✅ Mandatory health insurance (~€110/month public or private). Germany has world-leading healthcare."
+    },
+    "application": {
+      "zh": "📋 申请平台：uni-assist 或直接申请\\n📅 冬季学期7月15日截止\\n💰 申请费：€75（uni-assist）\\n📝 所需材料：成绩单认证、语言证明（英语+部分需德语）、动机信\\n⚠️ 学费几乎免费，仅€150/学期注册费！",
+      "en": "📋 Platform: uni-assist or direct\\n📅 Winter semester: Jul 15\\n💰 Fee: €75 (uni-assist)\\n📝 Required: Certified transcripts, language proof, motivation letter\\n⚠️ Almost free tuition - only €150/semester registration!"
+    }
+  },
+  {
+    "id": "lmu",
+    "country": "DE",
+    "flag": "🇩🇪",
+    "name": {
+      "zh": "慕尼黑大学",
+      "en": "LMU Munich"
+    },
+    "city": {
+      "zh": "巴伐利亚州 慕尼黑",
+      "en": "Munich, Bavaria"
+    },
+    "qs": 59,
+    "the": 38,
+    "usnews": 46,
+    "arwu": 48,
+    "tuition": 300,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "医学",
+        "法学",
+        "物理学",
+        "哲学",
+        "经济学"
+      ],
+      "en": [
+        "Medicine",
+        "Law",
+        "Physics",
+        "Philosophy",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "慕尼黑大学学费因专业而异。",
+      "en": "LMU Munich tuition varies by program."
+    },
+    "desc": {
+      "zh": "LMU是德国最著名的综合性大学，人文和自然科学均顶尖。诺贝尔奖得主数量德国第一。学费免费！",
+      "en": "LMU is Germany's most prestigious comprehensive university, top in both humanities and sciences. Most Nobel laureates of any German university. Free tuition!"
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 300,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 1320
+      },
+      "en": {
+        "Tuition": 300,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 1320
+      }
+    },
+    "requirements": {
+      "TOEFL": "88+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• 人文/社会科学：IB 33+\\n• 自然科学：IB 34+\\n• Medicine 医学：IB 40+（竞争极其激烈）\\n• Law 法学：IB 34+\\n⚠️ 多数本科课程为德语授课"
+    },
+    "deadline": {
+      "zh": "冬季学期7月15日 / 夏季学期1月15日",
+      "en": "Winter: Jul 15 / Summer: Jan 15"
+    },
+    "safetyDetail": {
+      "zh": "慕尼黑大学校园安全良好。",
+      "en": "LMU Munich has good campus safety."
+    },
+    "climate": {
+      "zh": "大陆性气候",
+      "en": "Continental climate"
+    },
+    "livingCost": {
+      "zh": "约€1,200/月",
+      "en": "~€1,200/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 1320,
+    "flights": 1500,
+    "visa": {
+      "zh": "同TUM，毕业后18个月Job Seeker Visa。",
+      "en": "Same as TUM, 18-month Job Seeker Visa post-graduation."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍€300-400/月。",
+      "en": "Studentenwerk dorms €300-400/month."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制医保约€110/月。",
+      "en": "✅ Mandatory insurance ~€110/month."
+    },
+    "application": {
+      "zh": "📋 直接向LMU申请\\n📅 冬季学期7月15日\\n💰 免申请费\\n📝 成绩单+语言证明\\n⚠️ 学费免费！仅€150/学期注册费",
+      "en": "📋 Apply directly to LMU\\n📅 Winter: Jul 15\\n💰 No application fee\\n📝 Transcripts + language proof\\n⚠️ Free tuition! Only €150/semester"
+    }
+  },
+  {
+    "id": "heidelberg",
+    "country": "DE",
+    "flag": "🇩🇪",
+    "name": {
+      "zh": "海德堡大学",
+      "en": "Heidelberg University"
+    },
+    "city": {
+      "zh": "巴登-符腾堡州 海德堡",
+      "en": "Heidelberg, Baden-Württemberg"
+    },
+    "qs": 47,
+    "the": 47,
+    "usnews": 55,
+    "arwu": 63,
+    "tuition": 1500,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "医学",
+        "物理学",
+        "哲学",
+        "法学",
+        "分子生物学"
+      ],
+      "en": [
+        "Medicine",
+        "Physics",
+        "Philosophy",
+        "Law",
+        "Molecular Biology"
+      ]
+    },
+    "majorTuition": {
+      "zh": "海德堡大学学费因专业而异。",
+      "en": "Heidelberg University tuition varies by program."
+    },
+    "desc": {
+      "zh": "海德堡大学成立于1386年，是德国最古老的大学。以医学和自然科学研究闻名。海德堡老城被誉为德国最浪漫的城市。",
+      "en": "Heidelberg, founded in 1386, is Germany's oldest university. Renowned for medicine and natural sciences. The old town is considered Germany's most romantic city."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 1500,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 1320
+      },
+      "en": {
+        "Tuition": 1500,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 1320
+      }
+    },
+    "requirements": {
+      "TOEFL": "88+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• 自然科学：IB 34+\\n• Medicine 医学：IB 40+\\n• Physics 物理：IB 35+\\n• Philosophy 哲学：IB 33+\\n⚠️ 巴登-符腾堡州对非EU学生收€1,500/学期学费"
+    },
+    "deadline": {
+      "zh": "冬季学期7月15日 / 夏季学期1月15日",
+      "en": "Winter: Jul 15 / Summer: Jan 15"
+    },
+    "safetyDetail": {
+      "zh": "海德堡大学校园安全良好。",
+      "en": "Heidelberg University has good campus safety."
+    },
+    "climate": {
+      "zh": "温和大陆性",
+      "en": "Mild continental"
+    },
+    "livingCost": {
+      "zh": "约€900/月",
+      "en": "~€900/month"
+    },
+    "livingCostAnnual": 10800,
+    "insurance": 1320,
+    "flights": 1500,
+    "visa": {
+      "zh": "毕业后18个月Job Seeker Visa。",
+      "en": "18-month Job Seeker Visa post-graduation."
+    },
+    "housing": {
+      "zh": "学生宿舍€250-350/月。海德堡生活成本低于慕尼黑。",
+      "en": "Student dorms €250-350/month. Lower cost than Munich."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制医保。",
+      "en": "✅ Mandatory insurance."
+    },
+    "application": {
+      "zh": "📋 直接申请或通过uni-assist\\n📅 冬季学期7月15日\\n📝 成绩单+语言证明\\n⚠️ 巴登-符腾堡州收€1,500/学期（非EU学生）",
+      "en": "📋 Direct or via uni-assist\\n📅 Winter: Jul 15\\n📝 Transcripts + language proof\\n⚠️ Baden-Württemberg charges €1,500/semester (non-EU)"
+    }
+  },
+  {
+    "id": "ethz",
+    "country": "CH",
+    "flag": "🇨🇭",
+    "name": {
+      "zh": "苏黎世联邦理工学院",
+      "en": "ETH Zurich"
+    },
+    "city": {
+      "zh": "苏黎世",
+      "en": "Zurich"
+    },
+    "qs": 7,
+    "the": 11,
+    "usnews": 30,
+    "arwu": 20,
+    "tuition": 1460,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "物理学",
+        "数学",
+        "建筑学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Physics",
+        "Mathematics",
+        "Architecture"
+      ]
+    },
+    "majorTuition": {
+      "zh": "苏黎世联邦理工学院学费因专业而异。",
+      "en": "ETH Zurich tuition varies by program."
+    },
+    "desc": {
+      "zh": "ETH Zurich是爱因斯坦的母校，全球顶尖理工大学。21位诺贝尔奖得主。学费仅CHF 730/学期（约$800），是全球性价比最高的顶尖大学。",
+      "en": "ETH is Einstein's alma mater and a world-leading tech university. 21 Nobel laureates. Tuition only CHF 730/semester (~$800) - the best value among top universities globally."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 1460,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 1200
+      },
+      "en": {
+        "Tuition": 1460,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A（本科德语授课为主）",
+      "IELTS": "N/A",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• 一般要求IB 38+\\n• Engineering 工程：IB 38+（HL数学+物理7,6）\\n• Computer Science 计算机：IB 38+（HL数学7）\\n• Architecture 建筑：IB 36+\\n• Mathematics 数学：IB 40+（HL数学7）\\n⚠️ 本科多数为德语授课"
+    },
+    "deadline": {
+      "zh": "4月30日（秋季入学）",
+      "en": "April 30 (autumn entry)"
+    },
+    "safetyDetail": {
+      "zh": "苏黎世联邦理工学院校园安全良好。",
+      "en": "ETH Zurich has good campus safety."
+    },
+    "climate": {
+      "zh": "温带大陆性，冬季寒冷多雪",
+      "en": "Temperate continental, cold snowy winters"
+    },
+    "livingCost": {
+      "zh": "约CHF 2,000/月（苏黎世生活成本极高）",
+      "en": "~CHF 2,000/month (Zurich is very expensive)"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 1200,
+    "flights": 1500,
+    "visa": {
+      "zh": "B Permit学生居留 → 毕业后6个月找工作 → 工作签 → C Permit永居（10年后）。瑞士薪资全球最高。",
+      "en": "B Permit → 6-month job search after graduation → Work permit → C Permit (after 10 years). Switzerland has the world's highest salaries."
+    },
+    "housing": {
+      "zh": "学校不提供住宿，需自行找房。苏黎世租房非常紧张，学生公寓约CHF 600-900/月。",
+      "en": "No university housing. Zurich housing is very tight. Student apartments ~CHF 600-900/month."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买瑞士医保（学生优惠约CHF 80-100/月）。瑞士医疗世界顶级。",
+      "en": "✅ Mandatory Swiss insurance (student rate ~CHF 80-100/month). Swiss healthcare is world-class."
+    },
+    "application": {
+      "zh": "📋 直接向ETH申请\\n📅 截止4月30日（秋季入学）\\n💰 申请费：CHF 150\\n📝 所需材料：IB成绩（需达标）或通过入学考试\\n⚠️ 本科主要德语授课！硕士多英语授课\\n💰 学费极低：仅CHF 730/学期！",
+      "en": "📋 Apply directly to ETH\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 Required: IB scores (must meet threshold) or entrance exam\\n⚠️ BSc mostly in German! MSc often in English\\n💰 Extremely low tuition: CHF 730/semester!"
+    }
+  },
+  {
+    "id": "epfl",
+    "country": "CH",
+    "flag": "🇨🇭",
+    "name": {
+      "zh": "洛桑联邦理工学院",
+      "en": "EPFL"
+    },
+    "city": {
+      "zh": "沃州 洛桑",
+      "en": "Lausanne, Vaud"
+    },
+    "qs": 12,
+    "the": 33,
+    "usnews": 47,
+    "arwu": 101,
+    "tuition": 1266,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "生命科学",
+        "物理学",
+        "数学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Life Sciences",
+        "Physics",
+        "Mathematics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "洛桑联邦理工学院学费因专业而异。",
+      "en": "EPFL tuition varies by program."
+    },
+    "desc": {
+      "zh": "EPFL是法语区的顶尖理工大学，与ETH齐名。以创新和创业闻名（瑞士硅谷），校园现代化。学费同样极低。",
+      "en": "EPFL is the top tech university in the French-speaking region, on par with ETH. Known for innovation and entrepreneurship (Swiss Silicon Valley). Similarly low tuition."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 1266,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 1200
+      },
+      "en": {
+        "Tuition": 1266,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 1200
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A（本科法语授课为主）",
+      "IELTS": "N/A",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• 一般要求IB 38+\\n• 需通过第一年淘汰制考试（通过率约60%）\\n• HL数学+理科6+强烈建议\\n⚠️ 本科为法语授课，硕士英语授课"
+    },
+    "deadline": {
+      "zh": "4月30日（秋季入学）",
+      "en": "April 30 (autumn entry)"
+    },
+    "safetyDetail": {
+      "zh": "洛桑联邦理工学院校园安全良好。",
+      "en": "EPFL has good campus safety."
+    },
+    "climate": {
+      "zh": "温和湖滨气候",
+      "en": "Mild lakeside climate"
+    },
+    "livingCost": {
+      "zh": "约CHF 1,800/月",
+      "en": "~CHF 1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 1200,
+    "flights": 1500,
+    "visa": {
+      "zh": "同ETH。瑞士留学毕业后薪资全球最高。",
+      "en": "Same as ETH. Swiss graduate salaries are among world's highest."
+    },
+    "housing": {
+      "zh": "学校提供有限宿舍约CHF 500-700/月。洛桑生活成本略低于苏黎世。",
+      "en": "Limited university housing ~CHF 500-700/month. Lausanne slightly cheaper than Zurich."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制瑞士医保。",
+      "en": "✅ Mandatory Swiss insurance."
+    },
+    "application": {
+      "zh": "📋 直接向EPFL申请\\n📅 截止4月30日\\n💰 申请费：CHF 150\\n📝 IB成绩需达标 / 入学考试\\n⚠️ 本科法语授课！\\n💰 学费仅CHF 633/学期",
+      "en": "📋 Apply directly to EPFL\\n📅 Deadline: April 30\\n💰 Fee: CHF 150\\n📝 IB scores / entrance exam\\n⚠️ BSc in French!\\n💰 Tuition only CHF 633/semester"
+    }
+  },
+  {
+    "id": "tcd",
+    "country": "IE",
+    "flag": "🇮🇪",
+    "name": {
+      "zh": "都柏林圣三一学院",
+      "en": "Trinity College Dublin"
+    },
+    "city": {
+      "zh": "都柏林",
+      "en": "Dublin"
+    },
+    "qs": 81,
+    "the": 134,
+    "usnews": 200,
+    "arwu": 301,
+    "tuition": 28000,
+    "tuitionRange": [
+      22000,
+      38000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "文学",
+        "计算机科学",
+        "法学",
+        "医学",
+        "商学"
+      ],
+      "en": [
+        "Arts & Humanities",
+        "Computer Science",
+        "Law",
+        "Medicine",
+        "Business"
+      ]
+    },
+    "majorTuition": {
+      "zh": "都柏林圣三一学院学费因专业而异。",
+      "en": "Trinity College Dublin tuition varies by program."
+    },
+    "desc": {
+      "zh": "圣三一学院成立于1592年，是爱尔兰最古老最负盛名的大学。位于都柏林市中心，Google、Meta、Apple等科技巨头欧洲总部就在附近。",
+      "en": "Trinity, founded in 1592, is Ireland's oldest and most prestigious university. Located in central Dublin, near European HQs of Google, Meta, Apple."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 28000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 28000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：34（HL 6,5,5）\\n• Computer Science 计算机：36（HL 6,6,5含数学6）\\n• Engineering 工程：36（HL 6,6,5含数学6）\\n• Business 商学：35（HL 6,5,5）\\n• Law 法学：37（HL 6,6,5）\\n• Medicine 医学：39+（HL 6,6,6含化学）"
+    },
+    "deadline": {
+      "zh": "2月1日（大部分专业）",
+      "en": "Feb 1 (most programs)"
+    },
+    "safetyDetail": {
+      "zh": "都柏林圣三一学院校园安全良好。",
+      "en": "Trinity College Dublin has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性，全年温和多雨",
+      "en": "Temperate maritime, mild and rainy year-round"
+    },
+    "livingCost": {
+      "zh": "约€1,500/月（都柏林较贵）",
+      "en": "~€1,500/month (Dublin is expensive)"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 500,
+    "flights": 1200,
+    "visa": {
+      "zh": "Stamp 2学生签证 → 毕业后Third Level Graduate Scheme (2年工签) → Critical Skills工签 → Stamp 4永居。爱尔兰是欧盟英语国家，科技行业繁荣。",
+      "en": "Stamp 2 student visa → Third Level Graduate Scheme (2-year work permit) → Critical Skills visa → Stamp 4 permanent residency. Ireland is an EU English-speaking country with booming tech."
+    },
+    "housing": {
+      "zh": "大一保证校内住宿。约€8,000-12,000/年。都柏林租房市场紧张。",
+      "en": "First-year housing guaranteed. ~€8,000-12,000/yr. Dublin rental market is very tight."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 非EU学生需购买私人医疗保险约€500/年。爱尔兰公立医院对签证持有者提供部分服务。",
+      "en": "✅ Non-EU students need private insurance ~€500/yr. Irish public hospitals provide some services to visa holders."
+    },
+    "application": {
+      "zh": "📋 通过CAO系统申请（类似UCAS）\\n📅 截止2月1日\\n💰 申请费：€45\\n📝 所需材料：IB/A-Level成绩、个人陈述、IELTS\\n✅ 英语授课，无需学其他语言",
+      "en": "📋 Via CAO system (similar to UCAS)\\n📅 Deadline: Feb 1\\n💰 Fee: €45\\n📝 Required: IB/A-Level scores, personal statement, IELTS\\n✅ Taught in English"
+    }
+  },
+  {
+    "id": "ucdie",
+    "country": "IE",
+    "flag": "🇮🇪",
+    "name": {
+      "zh": "都柏林大学",
+      "en": "University College Dublin (UCD)"
+    },
+    "city": {
+      "zh": "都柏林",
+      "en": "Dublin"
+    },
+    "qs": 126,
+    "the": 171,
+    "usnews": 200,
+    "arwu": 301,
+    "tuition": 26000,
+    "tuitionRange": [
+      20000,
+      35000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "商学",
+        "计算机科学",
+        "农业科学",
+        "建筑学",
+        "法学"
+      ],
+      "en": [
+        "Commerce",
+        "Computer Science",
+        "Agricultural Sciences",
+        "Architecture",
+        "Law"
+      ]
+    },
+    "majorTuition": {
+      "zh": "都柏林大学学费因专业而异。",
+      "en": "University College Dublin (UCD) tuition varies by program."
+    },
+    "desc": {
+      "zh": "UCD是爱尔兰规模最大的大学，Smurfit商学院获AACSB/EQUIS/AMBA三皇冠认证。校园在都柏林南部，现代化设施完善。",
+      "en": "UCD is Ireland's largest university. Smurfit Business School holds triple crown (AACSB/EQUIS/AMBA). Modern campus in south Dublin."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 26000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 26000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "90+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：29\\n• Commerce 商学：34\\n• Computer Science 计算机：33\\n• Engineering 工程：33\\n• Architecture 建筑：35\\n• Law 法学：35\\n• Medicine 医学（研究生入学）：N/A\\n• Actuarial 精算：36"
+    },
+    "deadline": {
+      "zh": "2月1日（通过CAO）",
+      "en": "Feb 1 (via CAO)"
+    },
+    "safetyDetail": {
+      "zh": "都柏林大学校园安全良好。",
+      "en": "University College Dublin (UCD) has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性",
+      "en": "Temperate maritime"
+    },
+    "livingCost": {
+      "zh": "约€1,400/月",
+      "en": "~€1,400/month"
+    },
+    "livingCostAnnual": 16800,
+    "insurance": 500,
+    "flights": 1200,
+    "visa": {
+      "zh": "同TCD。爱尔兰毕业后2年工签。",
+      "en": "Same as TCD. 2-year post-study work permit."
+    },
+    "housing": {
+      "zh": "大一保证住宿。校内约€9,000-13,000/年。",
+      "en": "First-year guaranteed. On-campus ~€9,000-13,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 需购买私人医保约€500/年。",
+      "en": "✅ Private insurance ~€500/yr required."
+    },
+    "application": {
+      "zh": "📋 通过CAO系统\\n📅 截止2月1日\\n💰 €45\\n📝 IB成绩+IELTS\\n✅ 英语授课",
+      "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB scores + IELTS\\n✅ English-taught"
+    }
+  },
+  {
+    "id": "galway",
+    "country": "IE",
+    "flag": "🇮🇪",
+    "name": {
+      "zh": "高威大学",
+      "en": "University of Galway"
+    },
+    "city": {
+      "zh": "高威",
+      "en": "Galway"
+    },
+    "qs": 259,
+    "the": 301,
+    "usnews": 300,
+    "arwu": 401,
+    "tuition": 22000,
+    "tuitionRange": [
+      18000,
+      30000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "医学",
+        "海洋科学",
+        "文学",
+        "法学"
+      ],
+      "en": [
+        "Engineering",
+        "Medicine",
+        "Marine Science",
+        "Arts",
+        "Law"
+      ]
+    },
+    "majorTuition": {
+      "zh": "高威大学学费因专业而异。",
+      "en": "University of Galway tuition varies by program."
+    },
+    "desc": {
+      "zh": "高威大学位于爱尔兰西海岸，海洋科学全国领先。高威是联合国教科文组织电影之都，生活成本远低于都柏林，充满文化气息。",
+      "en": "University of Galway is on Ireland's west coast with nationally leading marine science. Galway is a UNESCO City of Film with much lower costs than Dublin."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 22000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 22000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "88+",
+      "IELTS": "6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Science 理学：28\\n• Engineering 工程：30\\n• Medicine 医学：35+\\n• Marine Science 海洋：28\\n• Law 法学：32"
+    },
+    "deadline": {
+      "zh": "2月1日（通过CAO）",
+      "en": "Feb 1 (via CAO)"
+    },
+    "safetyDetail": {
+      "zh": "高威大学校园安全良好。",
+      "en": "University of Galway has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性，多雨",
+      "en": "Maritime, rainy"
+    },
+    "livingCost": {
+      "zh": "约€1,000/月",
+      "en": "~€1,000/month"
+    },
+    "livingCostAnnual": 12000,
+    "insurance": 500,
+    "flights": 1200,
+    "visa": {
+      "zh": "同TCD。高威作为地区城市生活压力小。",
+      "en": "Same as TCD. Galway is more affordable as a regional city."
+    },
+    "housing": {
+      "zh": "校内住宿约€6,000-9,000/年。",
+      "en": "On-campus ~€6,000-9,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 需医保约€500/年。",
+      "en": "✅ Insurance ~€500/yr."
+    },
+    "application": {
+      "zh": "📋 通过CAO\\n📅 2月1日\\n💰 €45\\n📝 IB+IELTS",
+      "en": "📋 Via CAO\\n📅 Feb 1\\n💰 €45\\n📝 IB + IELTS"
+    }
   }
 ]

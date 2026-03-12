@@ -1,0 +1,332 @@
+[
+  {
+    "id": "auckland",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "奥克兰大学",
+      "en": "University of Auckland"
+    },
+    "city": {
+      "zh": "奥克兰",
+      "en": "Auckland"
+    },
+    "qs": 65,
+    "the": 68,
+    "usnews": 100,
+    "arwu": 201,
+    "tuition": 38000,
+    "tuitionRange": [
+      33000,
+      45000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "医学",
+        "工程学",
+        "商学",
+        "法学",
+        "计算机科学"
+      ],
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Commerce",
+        "Law",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "奥克兰大学学费因专业而异。",
+      "en": "University of Auckland tuition varies by program."
+    },
+    "desc": {
+      "zh": "奥克兰大学是新西兰排名第一的大学，也是新西兰唯一一所进入QS前100的大学。位于新西兰最大城市奥克兰。",
+      "en": "Auckland is NZ's #1 university and the only NZ university in QS top 100. Located in Auckland, NZ's largest city."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 38000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 38000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0-6.5+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Commerce 商学：27\\n• Science 理学：27\\n• Engineering 工程：33（HL数学+物理）\\n• Medicine 医学（预科）：32\\n• Law 法学：30\\n• Architecture 建筑：27"
+    },
+    "deadline": {
+      "zh": "Semester 1：12月1日截止 / Semester 2：5月1日截止",
+      "en": "Sem 1: Dec 1 deadline / Sem 2: May 1 deadline"
+    },
+    "safetyDetail": {
+      "zh": "奥克兰大学校园安全良好。",
+      "en": "University of Auckland has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性气候，四季温和",
+      "en": "Temperate maritime, mild four seasons"
+    },
+    "livingCost": {
+      "zh": "约NZ$2,000/月",
+      "en": "~NZ$2,000/month (~$1,200)"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → 毕业后Post-Study Work Visa (1-3年) → 技术移民申请PR。新西兰移民政策对留学生非常友好。",
+      "en": "Student Visa → Post-Study Work Visa (1-3 years) → Skilled Migrant PR. NZ has very friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一保证校内住宿（需提前申请）。校内约NZ$15,000-18,000/年。",
+      "en": "First-year housing guaranteed (apply early). On-campus ~NZ$15,000-18,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买学生医疗保险。新西兰公共医疗系统优秀，学生可享受部分补贴医疗。",
+      "en": "✅ Mandatory student health insurance. NZ public health system is excellent with subsidized care for students."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：NZ$0（免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT",
+      "en": "📋 Platform: Apply directly\\n📅 Intakes: Feb (main) / Jul\\n💰 Fee: NZ$0 (free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT"
+    }
+  },
+  {
+    "id": "otago",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "奥塔哥大学",
+      "en": "University of Otago"
+    },
+    "city": {
+      "zh": "但尼丁",
+      "en": "Dunedin"
+    },
+    "qs": 206,
+    "the": 253,
+    "usnews": 250,
+    "arwu": 301,
+    "tuition": 32000,
+    "tuitionRange": [
+      28000,
+      38000
+    ],
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "医学",
+        "牙医学",
+        "药学",
+        "体育科学",
+        "健康科学"
+      ],
+      "en": [
+        "Medicine",
+        "Dentistry",
+        "Pharmacy",
+        "Sports Science",
+        "Health Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "奥塔哥大学学费因专业而异。",
+      "en": "University of Otago tuition varies by program."
+    },
+    "desc": {
+      "zh": "奥塔哥是新西兰最古老的大学（1869），医学院全国第一。但尼丁是典型的大学城，学生占总人口20%。",
+      "en": "Otago is NZ's oldest university (1869) with the country's #1 medical school. Dunedin is a quintessential university town, students make up 20% of the population."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 32000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 32000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Commerce 商学：26\\n• Science 理学：26\\n• Health Sciences 健康科学：26\\n• Dentistry 牙医（预科）：30\\n• Medicine 医学（预科）：30"
+    },
+    "deadline": {
+      "zh": "Semester 1：10月截止 / Semester 2：3月截止",
+      "en": "Sem 1: Oct deadline / Sem 2: Mar deadline"
+    },
+    "safetyDetail": {
+      "zh": "奥塔哥大学校园安全良好。",
+      "en": "University of Otago has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性，较凉爽",
+      "en": "Temperate maritime, cooler"
+    },
+    "livingCost": {
+      "zh": "约NZ$1,500/月",
+      "en": "~NZ$1,500/month (~$900)"
+    },
+    "livingCostAnnual": 10800,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → Post-Study Work Visa (1-3年) → 技术移民。但尼丁属于地区城市，移民有额外加分。",
+      "en": "Student Visa → Post-Study Work Visa (1-3 years) → Skilled Migrant. Dunedin as a regional city offers bonus immigration points."
+    },
+    "housing": {
+      "zh": "大一推荐住Residential College。约NZ$13,000-16,000/年。",
+      "en": "First-year residential colleges recommended. ~NZ$13,000-16,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制医疗保险。但尼丁医疗资源完善。",
+      "en": "✅ Mandatory insurance. Dunedin has good medical facilities."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请\\n📅 入学时间：2月（主）/ 7月\\n💰 申请费：NZ$0\\n📝 所需材料：成绩单、IELTS、个人陈述",
+      "en": "📋 Platform: Apply directly\\n📅 Intakes: Feb (main) / Jul\\n💰 Fee: NZ$0\\n📝 Required: Transcripts, IELTS, personal statement"
+    }
+  },
+  {
+    "id": "victoria",
+    "country": "NZ",
+    "flag": "🇳🇿",
+    "name": {
+      "zh": "惠灵顿维多利亚大学",
+      "en": "Victoria University of Wellington"
+    },
+    "city": {
+      "zh": "惠灵顿",
+      "en": "Wellington"
+    },
+    "qs": 241,
+    "the": 350,
+    "usnews": 300,
+    "arwu": 401,
+    "tuition": 30000,
+    "tuitionRange": [
+      26000,
+      35000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "法学",
+        "政治学",
+        "设计",
+        "电影",
+        "地球科学"
+      ],
+      "en": [
+        "Law",
+        "Political Science",
+        "Design",
+        "Film",
+        "Earth Sciences"
+      ]
+    },
+    "majorTuition": {
+      "zh": "惠灵顿维多利亚大学学费因专业而异。",
+      "en": "Victoria University of Wellington tuition varies by program."
+    },
+    "desc": {
+      "zh": "维多利亚大学位于新西兰首都惠灵顿，法学院全国第一。毗邻国会和政府机构，政治学和公共政策优势明显。也是《指环王》维塔工作室所在地。",
+      "en": "Victoria is in NZ's capital Wellington with the country's #1 law school. Next to Parliament with strong political science. Home of Weta Workshop (Lord of the Rings)."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 30000,
+        "住宿": 8000,
+        "生活费": 10000,
+        "保险": 500
+      },
+      "en": {
+        "Tuition": 30000,
+        "Housing": 8000,
+        "Living": 10000,
+        "Insurance": 500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Commerce 商学：26\\n• Science 理学：26\\n• Law 法学：30\\n• Design 设计：26\\n• Engineering 工程：28"
+    },
+    "deadline": {
+      "zh": "Trimester 1：12月截止 / Trimester 2：5月截止",
+      "en": "Tri 1: Dec deadline / Tri 2: May deadline"
+    },
+    "safetyDetail": {
+      "zh": "惠灵顿维多利亚大学校园安全良好。",
+      "en": "Victoria University of Wellington has good campus safety."
+    },
+    "climate": {
+      "zh": "温带海洋性，多风",
+      "en": "Temperate maritime, windy"
+    },
+    "livingCost": {
+      "zh": "约NZ$1,800/月",
+      "en": "~NZ$1,800/month (~$1,080)"
+    },
+    "livingCostAnnual": 12960,
+    "insurance": 500,
+    "flights": 2000,
+    "visa": {
+      "zh": "Student Visa → Post-Study Work Visa → PR。首都城市就业机会多（政府+科技+创意产业）。",
+      "en": "Student Visa → Post-Study Work Visa → PR. Capital city offers many jobs (government + tech + creative)."
+    },
+    "housing": {
+      "zh": "大一保证住宿。约NZ$13,000-17,000/年。",
+      "en": "First-year housing guaranteed. ~NZ$13,000-17,000/yr."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好，学术支持完善。",
+      "en": "Good graduation rates with strong academic support."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供职业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 强制医疗保险。惠灵顿医疗资源充足。",
+      "en": "✅ Mandatory insurance. Wellington has good healthcare."
+    },
+    "application": {
+      "zh": "📋 直接向学校申请\\n📅 入学：3月/7月/11月（三学期制）\\n💰 免申请费\\n📝 成绩单+IELTS",
+      "en": "📋 Apply directly\\n📅 Intakes: Mar/Jul/Nov (trimester)\\n💰 No application fee\\n📝 Transcripts + IELTS"
+    }
+  }
+]
