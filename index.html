@@ -102,6 +102,7 @@ img{max-width:100%}
 .tag-tuition{background:#fef3c7;color:#92400e}
 .tag-city{background:#f0fdf4;color:#166534}
 .tag-ib{background:#fdf2f8;color:#9d174d;font-weight:600}
+#favFilterBtn.active{background:#fef2f2;color:#dc2626;border-color:#dc2626;font-weight:600}
 .rec-tag{background:#1e293b;color:#94a3b8;border:1px solid #475569;padding:.4rem .8rem;border-radius:20px;font-size:.82rem;cursor:pointer;transition:all .2s}
 .rec-tag:hover{border-color:#64748b;color:#e2e8f0}
 .rec-tag.active{background:var(--gold);color:var(--navy);border-color:var(--gold);font-weight:600}
@@ -351,6 +352,7 @@ img{max-width:100%}
         <div id="searchHints" class="search-hints" style="display:none"></div>
       </div>
       <div class="filter-group" id="countryFilters">
+        <button class="filter-btn" id="favFilterBtn" onclick="toggleFavFilter()" style="border-color:#ef4444">❤️ <span data-i18n="filter_fav">收藏</span> (0)</button>
         <button class="filter-btn active" data-country="all" onclick="setFilter(this)" data-i18n="filter_all">全部</button>
         <button class="filter-btn" data-country="US" onclick="setFilter(this)">🇺🇸 <span data-i18n="filter_us">美国</span></button>
         <button class="filter-btn" data-country="UK" onclick="setFilter(this)">🇬🇧 <span data-i18n="filter_uk">英国</span></button>
@@ -16796,12 +16798,37 @@ let selectedIds = [];
 
 let currentRankSystem = 'qs';
 let currentIBRange = 'all';
+let favorites = JSON.parse(localStorage.getItem('sa_favorites') || '[]');
+let showFavOnly = false;
 
 function setFilter(btn){
   document.querySelectorAll('#countryFilters .filter-btn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
   currentCountry = btn.dataset.country;
   renderCards();
+}
+
+function toggleFav(id, e){
+  e.stopPropagation();
+  if(favorites.includes(id)) favorites = favorites.filter(x=>x!==id);
+  else favorites.push(id);
+  localStorage.setItem('sa_favorites', JSON.stringify(favorites));
+  updateFavBtn();
+  renderCards();
+}
+
+function toggleFavFilter(){
+  showFavOnly = !showFavOnly;
+  updateFavBtn();
+  renderCards();
+}
+
+function updateFavBtn(){
+  const btn = document.getElementById('favFilterBtn');
+  if(btn){
+    btn.classList.toggle('active', showFavOnly);
+    btn.innerHTML = `❤️ <span data-i18n="filter_fav">${lang==='zh'?'收藏':'Favorites'}</span> (${favorites.length})`;
+  }
 }
 
 function setIBFilter(btn){
@@ -16855,6 +16882,8 @@ function getFiltered(){
     if(s.desc.zh.toLowerCase().includes(q) || s.desc.en.toLowerCase().includes(q)) return true;
     return false;
   });
+  // favorites filter
+  if(showFavOnly) list = list.filter(s => favorites.includes(s.id));
   // IB filter
   if(currentIBRange && currentIBRange !== 'all'){
     const parts = currentIBRange.split('-').map(Number);
@@ -16972,7 +17001,10 @@ function renderCards(){
           <div class="school-name">${s.name[lang]}</div>
           <div class="school-name-en">${lang==='zh'?s.name.en:s.name.zh}</div>
         </div>
-        <div class="flag">${s.flag}</div>
+        <div style="display:flex;align-items:center;gap:.5rem">
+          <button onclick="toggleFav('${s.id}',event)" style="background:none;border:none;font-size:1.3rem;cursor:pointer;padding:0;line-height:1;filter:drop-shadow(0 1px 2px rgba(0,0,0,.3))" title="${lang==='zh'?'收藏':'Favorite'}">${favorites.includes(s.id)?'❤️':'🤍'}</button>
+          <div class="flag">${s.flag}</div>
+        </div>
       </div>
       <div class="card-body">
         <div class="card-tags">
@@ -17086,7 +17118,10 @@ function openDetail(id){
   panel.innerHTML = `
     <div class="detail-close"><button onclick="closeDetail()">✕</button></div>
     <div class="detail-header">
-      <h2>${s.flag} ${s.name[lang]}</h2>
+      <div style="display:flex;justify-content:space-between;align-items:start">
+        <h2>${s.flag} ${s.name[lang]}</h2>
+        <button onclick="toggleFav('${s.id}',event);openDetail('${s.id}')" style="background:none;border:none;font-size:1.8rem;cursor:pointer;padding:0;line-height:1">${favorites.includes(s.id)?'❤️':'🤍'}</button>
+      </div>
       <div class="sub">${lang==='zh'?s.name.en:s.name.zh} · ${s.city[lang]}</div>
       <div class="sub" style="margin-top:.3rem">📊 QS #${s.qs} · THE #${s.the} · US News #${s.usnews} · ARWU #${s.arwu}</div>
     </div>
@@ -17376,6 +17411,7 @@ function calcCost(){
 
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded',()=>{
+  updateFavBtn();
   renderCards();
   populateCalcSelect();
   calcCost();
