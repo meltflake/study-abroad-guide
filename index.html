@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>留学择校通 | StudyAbroad Guide</title>
+<style>
+/* ===== Reset & Base ===== */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --navy:#1a365d;--navy-light:#2a4a7f;--navy-dark:#0f2440;
+  --gold:#d4a84b;--gold-light:#e8c876;--gold-dark:#b8912e;
+  --white:#ffffff;--gray-50:#f8fafc;--gray-100:#f1f5f9;--gray-200:#e2e8f0;
+  --gray-300:#cbd5e1;--gray-400:#94a3b8;--gray-500:#64748b;--gray-600:#475569;
+  --gray-700:#334155;--gray-800:#1e293b;
+  --green:#16a34a;--yellow:#eab308;--red:#dc2626;
+  --radius:12px;--shadow:0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -2px rgba(0,0,0,.1);
+  --shadow-lg:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);
+  --transition:all .3s ease;
+}
+html{scroll-behavior:smooth}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;color:var(--gray-800);background:var(--gray-50);line-height:1.6}
+a{text-decoration:none;color:inherit}
+button{cursor:pointer;font-family:inherit}
+img{max-width:100%}
+
+/* ===== Navigation ===== */
+.navbar{position:fixed;top:0;left:0;right:0;z-index:1000;background:var(--navy);backdrop-filter:blur(10px);padding:0 2rem;height:64px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 2px 10px rgba(0,0,0,.2)}
+.nav-brand{color:var(--gold);font-size:1.25rem;font-weight:700;letter-spacing:.5px}
+.nav-brand span{color:var(--white);font-weight:400;opacity:.8;font-size:.9rem;margin-left:.5rem}
+.nav-links{display:flex;align-items:center;gap:1.5rem}
+.nav-links a{color:var(--gray-200);font-size:.9rem;transition:var(--transition);padding:.4rem .8rem;border-radius:6px}
+.nav-links a:hover{color:var(--gold);background:rgba(255,255,255,.08)}
+.lang-toggle{background:var(--gold);color:var(--navy);border:none;padding:.45rem 1rem;border-radius:20px;font-size:.85rem;font-weight:600;transition:var(--transition)}
+.lang-toggle:hover{background:var(--gold-light);transform:scale(1.05)}
+
+/* ===== Hero ===== */
+.hero{background:linear-gradient(135deg,var(--navy-dark) 0%,var(--navy) 50%,var(--navy-light) 100%);padding:8rem 2rem 5rem;text-align:center;position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;top:-50%;left:-50%;width:200%;height:200%;background:radial-gradient(circle at 30% 50%,rgba(212,168,75,.08) 0%,transparent 50%);animation:heroGlow 8s ease-in-out infinite alternate}
+@keyframes heroGlow{0%{transform:translate(0,0)}100%{transform:translate(5%,3%)}}
+.hero-content{position:relative;z-index:1;max-width:800px;margin:0 auto}
+.hero h1{font-size:3rem;color:var(--white);margin-bottom:.5rem;font-weight:800}
+.hero h1 .gold{color:var(--gold)}
+.hero .subtitle{font-size:1.2rem;color:var(--gray-300);margin-bottom:2rem}
+.hero-stats{display:flex;justify-content:center;gap:3rem;margin-top:2.5rem}
+.hero-stat{text-align:center}
+.hero-stat .num{font-size:2rem;font-weight:700;color:var(--gold)}
+.hero-stat .label{font-size:.85rem;color:var(--gray-400);margin-top:.2rem}
+.scroll-hint{margin-top:2.5rem;color:var(--gray-400);font-size:.85rem;animation:bounce 2s infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
+
+/* ===== Section Common ===== */
+.section{padding:4rem 2rem}
+.section-title{text-align:center;font-size:1.8rem;color:var(--navy);margin-bottom:.5rem;font-weight:700}
+.section-desc{text-align:center;color:var(--gray-500);margin-bottom:2.5rem;font-size:1rem}
+.container{max-width:1200px;margin:0 auto}
+
+/* ===== Controls ===== */
+.controls{display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin-bottom:2rem;align-items:center}
+.search-box{position:relative;flex:1;max-width:350px}
+.search-box input{width:100%;padding:.7rem 1rem .7rem 2.5rem;border:2px solid var(--gray-200);border-radius:10px;font-size:.95rem;transition:var(--transition);background:var(--white)}
+.search-box input:focus{border-color:var(--gold);outline:none;box-shadow:0 0 0 3px rgba(212,168,75,.15)}
+.search-box::before{content:'🔍';position:absolute;left:.8rem;top:50%;transform:translateY(-50%);font-size:1rem}
+.filter-group{display:flex;gap:.5rem;flex-wrap:wrap}
+.filter-btn{padding:.55rem 1.2rem;border:2px solid var(--gray-200);background:var(--white);border-radius:8px;font-size:.85rem;font-weight:500;transition:var(--transition);color:var(--gray-600)}
+.filter-btn:hover{border-color:var(--navy);color:var(--navy)}
+.filter-btn.active{background:var(--navy);color:var(--white);border-color:var(--navy)}
+.sort-select{padding:.55rem 1rem;border:2px solid var(--gray-200);border-radius:8px;font-size:.85rem;background:var(--white);color:var(--gray-600);transition:var(--transition)}
+.sort-select:focus{border-color:var(--gold);outline:none}
+
+/* ===== School Cards Grid ===== */
+.schools-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));gap:1.5rem}
+.school-card{background:var(--white);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden;transition:var(--transition);cursor:pointer;border:2px solid transparent;position:relative}
+.school-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg);border-color:var(--gold)}
+.school-card.selected{border-color:var(--gold);box-shadow:0 0 0 3px rgba(212,168,75,.2)}
+.school-card.selected::after{content:'✓';position:absolute;top:.75rem;right:.75rem;background:var(--gold);color:var(--white);width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.85rem;font-weight:700}
+.card-header{background:linear-gradient(135deg,var(--navy),var(--navy-light));padding:1.2rem 1.5rem;display:flex;justify-content:space-between;align-items:flex-start}
+.card-header .school-name{color:var(--white);font-size:1.15rem;font-weight:700;line-height:1.3}
+.card-header .school-name-en{color:var(--gray-300);font-size:.8rem;font-weight:400;margin-top:2px}
+.card-header .flag{font-size:1.8rem;flex-shrink:0;margin-left:.5rem}
+.card-body{padding:1.2rem 1.5rem}
+.card-tags{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem}
+.tag{padding:.25rem .65rem;border-radius:6px;font-size:.75rem;font-weight:600}
+.tag-rank{background:#eff6ff;color:#1d4ed8}
+.tag-tuition{background:#fef3c7;color:#92400e}
+.tag-city{background:#f0fdf4;color:#166534}
+.card-info{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
+.card-info-item{display:flex;align-items:center;gap:.4rem;font-size:.85rem;color:var(--gray-600)}
+.card-info-item .icon{font-size:1rem}
+.safety-badge{display:inline-flex;align-items:center;gap:.3rem;padding:.2rem .6rem;border-radius:6px;font-size:.78rem;font-weight:600}
+.safety-high{background:#dcfce7;color:#166534}
+.safety-mid{background:#fef9c3;color:#854d0e}
+.safety-low{background:#fee2e2;color:#991b1b}
+.card-majors{margin-top:.8rem;padding-top:.8rem;border-top:1px solid var(--gray-100)}
+.card-majors span{font-size:.8rem;color:var(--gray-500);display:block;margin-bottom:.3rem;font-weight:600}
+.card-majors .major-list{display:flex;flex-wrap:wrap;gap:.3rem}
+.card-majors .major{background:var(--gray-100);color:var(--gray-600);padding:.15rem .5rem;border-radius:4px;font-size:.75rem}
+.card-expand-hint{text-align:center;padding:.6rem;color:var(--gray-400);font-size:.8rem;border-top:1px solid var(--gray-100)}
+
+/* ===== Expanded Detail ===== */
+.detail-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:2000;justify-content:center;align-items:flex-start;padding:2rem;overflow-y:auto;backdrop-filter:blur(3px)}
+.detail-overlay.show{display:flex}
+.detail-panel{background:var(--white);border-radius:16px;max-width:800px;width:100%;max-height:90vh;overflow-y:auto;position:relative;animation:slideUp .3s ease}
+@keyframes slideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.detail-close{position:sticky;top:0;text-align:right;padding:1rem 1.5rem .5rem;background:var(--white);z-index:1;border-radius:16px 16px 0 0}
+.detail-close button{background:var(--gray-100);border:none;width:36px;height:36px;border-radius:50%;font-size:1.2rem;transition:var(--transition)}
+.detail-close button:hover{background:var(--gray-200)}
+.detail-header{background:linear-gradient(135deg,var(--navy),var(--navy-light));padding:2rem 2.5rem;margin:0 1rem;border-radius:12px;color:var(--white)}
+.detail-header h2{font-size:1.6rem;margin-bottom:.3rem}
+.detail-header .sub{color:var(--gray-300);font-size:.95rem}
+.detail-content{padding:1.5rem 2rem 2rem}
+.detail-section{margin-bottom:1.5rem}
+.detail-section h3{font-size:1.05rem;color:var(--navy);margin-bottom:.8rem;padding-bottom:.4rem;border-bottom:2px solid var(--gold);display:inline-block}
+.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:.6rem .8rem}
+.detail-grid .item{display:flex;justify-content:space-between;padding:.5rem .8rem;background:var(--gray-50);border-radius:8px;font-size:.9rem}
+.detail-grid .item .label{color:var(--gray-500);font-weight:500}
+.detail-grid .item .value{color:var(--gray-800);font-weight:600}
+.detail-desc{color:var(--gray-600);font-size:.92rem;line-height:1.7}
+
+/* ===== Compare ===== */
+.compare-bar{position:fixed;bottom:0;left:0;right:0;background:var(--navy);color:var(--white);padding:1rem 2rem;display:flex;align-items:center;justify-content:space-between;z-index:1500;transform:translateY(100%);transition:var(--transition);box-shadow:0 -4px 20px rgba(0,0,0,.2)}
+.compare-bar.show{transform:translateY(0)}
+.compare-bar .selected-list{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap}
+.compare-chip{background:rgba(255,255,255,.15);padding:.3rem .8rem;border-radius:20px;font-size:.85rem;display:flex;align-items:center;gap:.4rem}
+.compare-chip button{background:none;border:none;color:var(--gray-300);font-size:1rem;padding:0;line-height:1}
+.compare-btn{background:var(--gold);color:var(--navy);border:none;padding:.6rem 1.5rem;border-radius:8px;font-weight:700;font-size:.9rem;transition:var(--transition)}
+.compare-btn:hover{background:var(--gold-light);transform:scale(1.03)}
+.compare-btn:disabled{opacity:.5;cursor:not-allowed;transform:none}
+
+/* ===== Compare Modal ===== */
+.compare-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:3000;justify-content:center;align-items:flex-start;padding:2rem;overflow-y:auto;backdrop-filter:blur(3px)}
+.compare-overlay.show{display:flex}
+.compare-panel{background:var(--white);border-radius:16px;max-width:1100px;width:100%;max-height:90vh;overflow-y:auto;animation:slideUp .3s ease;padding:2rem}
+.compare-panel h2{text-align:center;color:var(--navy);margin-bottom:1.5rem}
+.compare-table{width:100%;border-collapse:collapse}
+.compare-table th,.compare-table td{padding:.7rem 1rem;text-align:left;border-bottom:1px solid var(--gray-200);font-size:.88rem}
+.compare-table th{background:var(--gray-50);color:var(--gray-500);font-weight:600;position:sticky;top:0;width:160px}
+.compare-table td{color:var(--gray-700)}
+.compare-table thead th{background:var(--navy);color:var(--white);font-weight:700;font-size:.95rem}
+.compare-close{display:block;margin:1.5rem auto 0;background:var(--gray-200);border:none;padding:.6rem 2rem;border-radius:8px;font-size:.9rem;color:var(--gray-600);transition:var(--transition)}
+.compare-close:hover{background:var(--gray-300)}
+
+/* ===== Calculator ===== */
+.calc-section{background:var(--white);max-width:700px;margin:0 auto;border-radius:var(--radius);box-shadow:var(--shadow);padding:2rem 2.5rem}
+.calc-row{display:flex;gap:1rem;margin-bottom:1rem;flex-wrap:wrap}
+.calc-field{flex:1;min-width:200px}
+.calc-field label{display:block;font-size:.85rem;color:var(--gray-600);margin-bottom:.3rem;font-weight:500}
+.calc-field select,.calc-field input{width:100%;padding:.65rem 1rem;border:2px solid var(--gray-200);border-radius:8px;font-size:.9rem;transition:var(--transition)}
+.calc-field select:focus,.calc-field input:focus{border-color:var(--gold);outline:none}
+.calc-result{background:linear-gradient(135deg,var(--navy),var(--navy-light));border-radius:12px;padding:1.5rem 2rem;color:var(--white);margin-top:1.5rem;text-align:center}
+.calc-result .total{font-size:2rem;font-weight:700;color:var(--gold);margin:.5rem 0}
+.calc-result .breakdown{display:grid;grid-template-columns:1fr 1fr;gap:.5rem;margin-top:1rem;text-align:left}
+.calc-result .breakdown .item{display:flex;justify-content:space-between;font-size:.85rem;padding:.3rem .6rem;background:rgba(255,255,255,.08);border-radius:6px}
+.calc-result .breakdown .item .label{color:var(--gray-300)}
+.calc-result .breakdown .item .val{color:var(--gold-light);font-weight:600}
+
+/* ===== Footer ===== */
+.footer{background:var(--navy-dark);color:var(--gray-400);text-align:center;padding:2.5rem 2rem;font-size:.85rem}
+.footer .brand{color:var(--gold);font-weight:700;font-size:1.1rem;margin-bottom:.5rem}
+
+/* ===== Responsive ===== */
+@media(max-width:768px){
+  .hero h1{font-size:2rem}
+  .hero-stats{gap:1.5rem}
+  .schools-grid{grid-template-columns:1fr}
+  .controls{flex-direction:column;align-items:stretch}
+  .search-box{max-width:100%}
+  .filter-group{justify-content:center}
+  .detail-grid{grid-template-columns:1fr}
+  .compare-table{font-size:.8rem}
+  .compare-table th,.compare-table td{padding:.5rem}
+  .calc-row{flex-direction:column}
+  .navbar{padding:0 1rem}
+  .nav-links{gap:.8rem}
+  .nav-links a{display:none}
+  .calc-result .breakdown{grid-template-columns:1fr}
+}
+@media(max-width:480px){
+  .hero h1{font-size:1.6rem}
+  .hero .subtitle{font-size:1rem}
+  .section{padding:3rem 1rem}
+}
+
+/* ===== No Results ===== */
+.no-results{text-align:center;padding:3rem;color:var(--gray-400)}
+.no-results .emoji{font-size:3rem;margin-bottom:.5rem}
+</style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar">
+  <div class="nav-brand">留学择校通 <span>StudyAbroad Guide</span></div>
+  <div class="nav-links">
+    <a href="#schools" data-i18n="nav_schools">院校浏览</a>
+    <a href="#calculator" data-i18n="nav_calc">费用计算</a>
+    <button class="lang-toggle" onclick="toggleLang()">EN / 中</button>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-content">
+    <h1><span data-i18n="hero_title">留学择校通</span> <span class="gold">/ StudyAbroad Guide</span></h1>
+    <p class="subtitle" data-i18n="hero_subtitle">帮助家长做出明智的留学决策 — 择校、费用、安全，一站掌握</p>
+    <div class="hero-stats">
+      <div class="hero-stat"><div class="num">6</div><div class="label" data-i18n="hero_s1">精选院校</div></div>
+      <div class="hero-stat"><div class="num">3</div><div class="label" data-i18n="hero_s2">热门国家</div></div>
+      <div class="hero-stat"><div class="num">∞</div><div class="label" data-i18n="hero_s3">可能性</div></div>
+    </div>
+    <div class="scroll-hint">↓ <span data-i18n="hero_scroll">向下滚动探索</span></div>
+  </div>
+</section>
+
+<!-- Schools Section -->
+<section class="section" id="schools">
+  <div class="container">
+    <h2 class="section-title" data-i18n="section_schools">院校一览</h2>
+    <p class="section-desc" data-i18n="section_schools_desc">点击卡片查看详情，勾选后可对比不同学校（最多3所）</p>
+
+    <!-- Controls -->
+    <div class="controls">
+      <div class="search-box">
+        <input type="text" id="searchInput" data-i18n-placeholder="search_placeholder" placeholder="搜索学校名称..." oninput="renderCards()">
+      </div>
+      <div class="filter-group" id="countryFilters">
+        <button class="filter-btn active" data-country="all" onclick="setFilter(this)" data-i18n="filter_all">全部</button>
+        <button class="filter-btn" data-country="US" onclick="setFilter(this)">🇺🇸 <span data-i18n="filter_us">美国</span></button>
+        <button class="filter-btn" data-country="UK" onclick="setFilter(this)">🇬🇧 <span data-i18n="filter_uk">英国</span></button>
+        <button class="filter-btn" data-country="CA" onclick="setFilter(this)">🇨🇦 <span data-i18n="filter_ca">加拿大</span></button>
+      </div>
+      <select class="sort-select" id="sortSelect" onchange="renderCards()">
+        <option value="rank" data-i18n="sort_rank">按 QS 排名</option>
+        <option value="tuition_asc" data-i18n="sort_tuition_asc">按学费 ↑</option>
+        <option value="tuition_desc" data-i18n="sort_tuition_desc">按学费 ↓</option>
+      </select>
+    </div>
+
+    <!-- Grid -->
+    <div class="schools-grid" id="schoolsGrid"></div>
+  </div>
+</section>
+
+<!-- Calculator Section -->
+<section class="section" id="calculator" style="background:var(--gray-100)">
+  <div class="container">
+    <h2 class="section-title" data-i18n="section_calc">留学费用计算器</h2>
+    <p class="section-desc" data-i18n="section_calc_desc">估算留学总花费，包含学费、生活费、保险及往返机票</p>
+    <div class="calc-section">
+      <div class="calc-row">
+        <div class="calc-field">
+          <label data-i18n="calc_school">选择学校</label>
+          <select id="calcSchool" onchange="calcCost()"></select>
+        </div>
+        <div class="calc-field">
+          <label data-i18n="calc_years">就读年数</label>
+          <input type="number" id="calcYears" value="4" min="1" max="6" onchange="calcCost()" oninput="calcCost()">
+        </div>
+      </div>
+      <div id="calcResult"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="brand">留学择校通 StudyAbroad Guide</div>
+  <p data-i18n="footer">© 2025 留学择校通 — 本站为演示平台，数据仅供参考</p>
+</footer>
+
+<!-- Compare Bar -->
+<div class="compare-bar" id="compareBar">
+  <div>
+    <span data-i18n="compare_selected">已选择对比：</span>
+    <span class="selected-list" id="compareList"></span>
+  </div>
+  <button class="compare-btn" id="compareBtn" onclick="openCompare()" data-i18n="compare_btn">开始对比</button>
+</div>
+
+<!-- Detail Overlay -->
+<div class="detail-overlay" id="detailOverlay" onclick="if(event.target===this)closeDetail()">
+  <div class="detail-panel" id="detailPanel"></div>
+</div>
+
+<!-- Compare Overlay -->
+<div class="compare-overlay" id="compareOverlay" onclick="if(event.target===this)closeCompare()">
+  <div class="compare-panel" id="comparePanel"></div>
+</div>
+
+<script>
+// ===== DATA =====
+const SCHOOLS = [
+  {
+    id:'harvard', country:'US', flag:'🇺🇸',
+    name:{zh:'哈佛大学', en:'Harvard University'},
+    city:{zh:'马萨诸塞州 剑桥市', en:'Cambridge, MA'},
+    qs:4, tuition:59076, safety:7,
+    majors:{zh:['经济学','计算机科学','政治学','生物学','心理学'], en:['Economics','Computer Science','Political Science','Biology','Psychology']},
+    desc:{
+      zh:'哈佛大学创建于1636年，是美国历史最悠久的高等学府，也是常春藤盟校之一。学校以卓越的学术水平、丰富的研究资源和广泛的全球校友网络著称，培养了众多国家元首、诺贝尔奖得主和商界领袖。',
+      en:'Founded in 1636, Harvard is the oldest institution of higher education in the US and a member of the Ivy League. Renowned for academic excellence, vast research resources, and a powerful global alumni network, it has produced numerous heads of state, Nobel laureates, and business leaders.'
+    },
+    tuitionBreakdown:{zh:{学费:59076,食宿:21486,书本费:1000,个人花费:3100},en:{Tuition:59076,'Room & Board':21486,Books:1000,Personal:3100}},
+    requirements:{TOEFL:'100+',IELTS:'7.0+',SAT:'1500+/ACT 34+'},
+    deadline:{zh:'1月1日（常规申请）/ 11月1日（提前申请）', en:'Jan 1 (Regular) / Nov 1 (Early Action)'},
+    safetyDetail:{zh:'校园安全评级良好，哈佛大学警察局（HUPD）提供24小时巡逻和护送服务。剑桥市总体治安稳定。', en:'Good campus safety. Harvard University Police Department (HUPD) offers 24/7 patrols and escort services. Cambridge is generally safe.'},
+    climate:{zh:'四季分明，冬季寒冷（-5至5°C），夏季温暖（20-30°C）', en:'Four distinct seasons. Cold winters (-5 to 5°C), warm summers (20-30°C)'},
+    livingCost:{zh:'约$2,200/月（含住宿）', en:'~$2,200/month (incl. housing)'},
+    livingCostAnnual:26400, insurance:4000, flights:2400
+  },
+  {
+    id:'mit', country:'US', flag:'🇺🇸',
+    name:{zh:'麻省理工学院', en:'Massachusetts Institute of Technology (MIT)'},
+    city:{zh:'马萨诸塞州 剑桥市', en:'Cambridge, MA'},
+    qs:1, tuition:61990, safety:7,
+    majors:{zh:['计算机科学','电子工程','机械工程','数学','物理学'], en:['Computer Science','Electrical Engineering','Mechanical Engineering','Mathematics','Physics']},
+    desc:{
+      zh:'麻省理工学院（MIT）成立于1861年，是全球顶尖的理工科研究型大学。MIT以创新文化闻名，其毕业生和教授创办的公司年产值超过众多国家GDP。学校在工程、计算机科学和自然科学领域长期位列世界第一。',
+      en:'Founded in 1861, MIT is a world-leading research university in science and technology. Famous for its culture of innovation, companies founded by MIT alumni generate revenue exceeding many national GDPs. Consistently ranked #1 globally in engineering, computer science, and natural sciences.'
+    },
+    tuitionBreakdown:{zh:{学费:61990,食宿:20550,书本费:880,个人花费:2500},en:{Tuition:61990,'Room & Board':20550,Books:880,Personal:2500}},
+    requirements:{TOEFL:'100+',IELTS:'7.0+',SAT:'1520+/ACT 35+'},
+    deadline:{zh:'1月5日（常规申请）/ 11月1日（提前申请）', en:'Jan 5 (Regular) / Nov 1 (Early Action)'},
+    safetyDetail:{zh:'MIT校园安全良好，设有专职警卫和先进的安防系统。位于剑桥市中心，夜间有免费穿梭巴士。', en:'MIT has strong campus security with dedicated police and advanced security systems. Located in central Cambridge with free nighttime shuttle service.'},
+    climate:{zh:'四季分明，冬季寒冷多雪（-5至3°C），夏季温暖湿润', en:'Four seasons. Cold, snowy winters (-5 to 3°C), warm humid summers'},
+    livingCost:{zh:'约$2,300/月（含住宿）', en:'~$2,300/month (incl. housing)'},
+    livingCostAnnual:27600, insurance:4200, flights:2400
+  },
+  {
+    id:'ucla', country:'US', flag:'🇺🇸',
+    name:{zh:'加州大学洛杉矶分校', en:'University of California, Los Angeles (UCLA)'},
+    city:{zh:'加利福尼亚州 洛杉矶', en:'Los Angeles, CA'},
+    qs:29, tuition:46326, safety:6,
+    majors:{zh:['影视传媒','心理学','经济学','计算机科学','生物学'], en:['Film & Media','Psychology','Economics','Computer Science','Biology']},
+    desc:{
+      zh:'UCLA成立于1919年，是加州大学系统中最大的分校，也是美国最受欢迎的公立大学之一。地处洛杉矶西区，毗邻好莱坞和硅滩，拥有得天独厚的就业资源和文化氛围。影视、传媒、心理学和工程专业享誉全球。',
+      en:'Founded in 1919, UCLA is the largest campus in the UC system and one of the most popular public universities in the US. Located in West LA near Hollywood and Silicon Beach, it offers unmatched career resources. World-renowned for film, media, psychology, and engineering.'
+    },
+    tuitionBreakdown:{zh:{学费:46326,食宿:18324,书本费:1200,个人花费:2700},en:{Tuition:46326,'Room & Board':18324,Books:1200,Personal:2700}},
+    requirements:{TOEFL:'100+',IELTS:'7.0+',SAT:'1400+/ACT 32+'},
+    deadline:{zh:'11月30日', en:'November 30'},
+    safetyDetail:{zh:'UCLA校园配有专属警察部门和蓝光报警电话系统。洛杉矶整体治安因区域而异，校园周边（Westwood）较为安全。', en:'UCLA has its own police department and blue-light emergency phone system. LA safety varies by area; the Westwood neighborhood around campus is relatively safe.'},
+    climate:{zh:'地中海气候，全年温暖晴朗，冬季10-18°C，夏季20-32°C', en:'Mediterranean climate. Warm and sunny year-round. Winters 10-18°C, summers 20-32°C'},
+    livingCost:{zh:'约$2,000/月（含住宿）', en:'~$2,000/month (incl. housing)'},
+    livingCostAnnual:24000, insurance:3500, flights:2600
+  },
+  {
+    id:'oxford', country:'UK', flag:'🇬🇧',
+    name:{zh:'牛津大学', en:'University of Oxford'},
+    city:{zh:'英格兰 牛津', en:'Oxford, England'},
+    qs:3, tuition:39740, safety:8,
+    majors:{zh:['哲学政治经济学(PPE)','法学','医学','文学','数学'], en:['Philosophy, Politics & Economics (PPE)','Law','Medicine','Literature','Mathematics']},
+    desc:{
+      zh:'牛津大学是英语世界中历史最悠久的大学，创立于1096年前后。采用独特的学院制和导师制教学，注重批判性思维和学术深度。培养了28位英国首相、72位诺贝尔奖得主以及众多世界领袖。',
+      en:'Oxford is the oldest university in the English-speaking world, dating back to around 1096. Its unique collegiate system and tutorial-based teaching emphasize critical thinking and academic depth. Alumni include 28 UK prime ministers and 72 Nobel laureates.'
+    },
+    tuitionBreakdown:{zh:{学费:39740,学院费:4500,住宿费:9500,生活费:7600},en:{Tuition:39740,'College Fees':4500,Accommodation:9500,Living:7600}},
+    requirements:{TOEFL:'100+',IELTS:'7.0+ (单项7.0+)',SAT:'N/A（需A-Level/IB）'},
+    deadline:{zh:'10月15日（UCAS）', en:'October 15 (UCAS)'},
+    safetyDetail:{zh:'牛津是一座历史悠久的大学城，治安状况优秀。学院内部安保严格，城市犯罪率远低于英国平均水平。', en:'Oxford is a historic university city with excellent safety. College security is strict, and crime rates are well below the UK average.'},
+    climate:{zh:'温带海洋性气候，冬季阴冷（2-8°C），夏季凉爽（15-22°C），多雨', en:'Temperate maritime climate. Cool winters (2-8°C), mild summers (15-22°C), frequent rain'},
+    livingCost:{zh:'约£1,400/月（约$1,750）', en:'~£1,400/month (~$1,750)'},
+    livingCostAnnual:21000, insurance:800, flights:1800
+  },
+  {
+    id:'ucl', country:'UK', flag:'🇬🇧',
+    name:{zh:'伦敦大学学院', en:'University College London (UCL)'},
+    city:{zh:'英格兰 伦敦', en:'London, England'},
+    qs:9, tuition:38000, safety:6,
+    majors:{zh:['建筑学','教育学','医学','计算机科学','经济学'], en:['Architecture','Education','Medicine','Computer Science','Economics']},
+    desc:{
+      zh:'UCL创建于1826年，是伦敦第一所大学，也是英国第一所招收女性和少数族裔的大学。位于伦敦市中心Bloomsbury区，拥有得天独厚的地理位置和丰富的文化资源。在建筑、教育、医学等领域实力突出。',
+      en:'Founded in 1826, UCL was London\'s first university and the first in England to admit women and students of any religion. Located in central London\'s Bloomsbury, it offers exceptional location advantages and cultural resources. Particularly strong in architecture, education, and medicine.'
+    },
+    tuitionBreakdown:{zh:{学费:38000,住宿费:12000,生活费:9600,书本费:600},en:{Tuition:38000,Accommodation:12000,Living:9600,Books:600}},
+    requirements:{TOEFL:'92+',IELTS:'6.5+ (单项6.0+)',SAT:'N/A（需A-Level/IB）'},
+    deadline:{zh:'1月31日（UCAS常规）', en:'January 31 (UCAS Regular)'},
+    safetyDetail:{zh:'位于伦敦市中心，校园周边治安整体良好。UCL有专属安保团队，提供深夜安全热线和护送服务。伦敦部分区域需注意人身安全。', en:'Located in central London with generally good safety. UCL has a dedicated security team with a late-night safety hotline and escort service. Some London areas require extra caution.'},
+    climate:{zh:'温带海洋性气候，冬季阴冷（3-8°C），夏季凉爽（14-23°C）', en:'Temperate maritime. Cold winters (3-8°C), cool summers (14-23°C)'},
+    livingCost:{zh:'约£1,600/月（约$2,000）', en:'~£1,600/month (~$2,000)'},
+    livingCostAnnual:24000, insurance:800, flights:1800
+  },
+  {
+    id:'uoft', country:'CA', flag:'🇨🇦',
+    name:{zh:'多伦多大学', en:'University of Toronto'},
+    city:{zh:'安大略省 多伦多', en:'Toronto, ON'},
+    qs:25, tuition:62250, safety:7,
+    majors:{zh:['工程学','计算机科学','商学','生命科学','人文社科'], en:['Engineering','Computer Science','Commerce','Life Sciences','Humanities & Social Sciences']},
+    desc:{
+      zh:'多伦多大学成立于1827年，是加拿大排名第一的综合性研究型大学。位于多伦多市中心，拥有北美第三大图书馆系统。学校在人工智能研究领域全球领先（深度学习之父Geoffrey Hinton曾长期在此任教），工程和商科也极具竞争力。',
+      en:'Founded in 1827, U of T is Canada\'s top-ranked comprehensive research university. Located in downtown Toronto, it has North America\'s third-largest library system. A global leader in AI research (Geoffrey Hinton, the "father of deep learning," taught here for decades), with highly competitive engineering and business programs.'
+    },
+    tuitionBreakdown:{zh:{学费:62250,食宿:16500,书本费:1000,杂费:2000},en:{Tuition:62250,'Room & Board':16500,Books:1000,'Incidentals':2000}},
+    requirements:{TOEFL:'100+',IELTS:'6.5+ (单项6.0+)',SAT:'建议提交/Recommended'},
+    deadline:{zh:'1月15日', en:'January 15'},
+    safetyDetail:{zh:'多伦多是全球最安全的大城市之一。校园有专职安保，设有蓝光紧急电话和夜间安全步行陪同服务。', en:'Toronto is one of the world\'s safest major cities. Campus has dedicated security, blue-light emergency phones, and a nighttime safe-walk program.'},
+    climate:{zh:'大陆性气候，冬季严寒多雪（-10至-1°C），夏季温暖（20-27°C）', en:'Continental climate. Cold, snowy winters (-10 to -1°C), warm summers (20-27°C)'},
+    livingCost:{zh:'约C$2,200/月（约$1,600）', en:'~C$2,200/month (~$1,600)'},
+    livingCostAnnual:19200, insurance:1200, flights:2200
+  }
+];
+
+// ===== I18N =====
+let lang = 'zh';
+const I18N = {
+  nav_schools:{zh:'院校浏览',en:'Schools'},
+  nav_calc:{zh:'费用计算',en:'Cost Calculator'},
+  hero_title:{zh:'留学择校通',en:'StudyAbroad Guide'},
+  hero_subtitle:{zh:'帮助家长做出明智的留学决策 — 择校、费用、安全，一站掌握',en:'Empowering parents to make informed study-abroad decisions — schools, costs & safety, all in one place'},
+  hero_s1:{zh:'精选院校',en:'Top Schools'},
+  hero_s2:{zh:'热门国家',en:'Countries'},
+  hero_s3:{zh:'可能性',en:'Possibilities'},
+  hero_scroll:{zh:'向下滚动探索',en:'Scroll down to explore'},
+  section_schools:{zh:'院校一览',en:'School Directory'},
+  section_schools_desc:{zh:'点击卡片查看详情，勾选后可对比不同学校（最多3所）',en:'Click cards for details. Select up to 3 schools to compare side by side.'},
+  search_placeholder:{zh:'搜索学校名称...',en:'Search school name...'},
+  filter_all:{zh:'全部',en:'All'},
+  filter_us:{zh:'美国',en:'USA'},
+  filter_uk:{zh:'英国',en:'UK'},
+  filter_ca:{zh:'加拿大',en:'Canada'},
+  sort_rank:{zh:'按 QS 排名',en:'By QS Ranking'},
+  sort_tuition_asc:{zh:'按学费 ↑',en:'Tuition ↑'},
+  sort_tuition_desc:{zh:'按学费 ↓',en:'Tuition ↓'},
+  section_calc:{zh:'留学费用计算器',en:'Study Abroad Cost Calculator'},
+  section_calc_desc:{zh:'估算留学总花费，包含学费、生活费、保险及往返机票',en:'Estimate total costs including tuition, living expenses, insurance & flights'},
+  calc_school:{zh:'选择学校',en:'Select School'},
+  calc_years:{zh:'就读年数',en:'Years of Study'},
+  compare_selected:{zh:'已选择对比：',en:'Selected for comparison:'},
+  compare_btn:{zh:'开始对比',en:'Compare Now'},
+  footer:{zh:'© 2025 留学择校通 — 本站为演示平台，数据仅供参考',en:'© 2025 StudyAbroad Guide — Demo platform, data for reference only'},
+  click_detail:{zh:'点击查看详情',en:'Click for details'},
+  qs_rank:{zh:'QS #',en:'QS #'},
+  tuition_label:{zh:'学费/年',en:'Tuition/yr'},
+  safety_label:{zh:'安全评分',en:'Safety Score'},
+  top_majors:{zh:'热门专业',en:'Top Majors'},
+  detail_overview:{zh:'学校简介',en:'Overview'},
+  detail_tuition:{zh:'费用明细（USD/年）',en:'Cost Breakdown (USD/yr)'},
+  detail_requirements:{zh:'申请要求',en:'Admission Requirements'},
+  detail_deadline:{zh:'申请截止日',en:'Application Deadline'},
+  detail_safety:{zh:'安全详情',en:'Safety Details'},
+  detail_climate:{zh:'气候条件',en:'Climate'},
+  detail_living:{zh:'生活费参考',en:'Cost of Living'},
+  compare_title:{zh:'院校对比',en:'School Comparison'},
+  compare_name:{zh:'学校',en:'School'},
+  compare_country:{zh:'国家',en:'Country'},
+  compare_qs:{zh:'QS 排名',en:'QS Ranking'},
+  compare_tuition:{zh:'年学费 (USD)',en:'Annual Tuition (USD)'},
+  compare_safety_label:{zh:'安全评分',en:'Safety Score'},
+  compare_city:{zh:'城市',en:'City'},
+  compare_climate:{zh:'气候',en:'Climate'},
+  compare_living:{zh:'生活费',en:'Living Cost'},
+  compare_requirements:{zh:'语言要求',en:'Language Requirements'},
+  compare_deadline:{zh:'申请截止',en:'Deadline'},
+  compare_close:{zh:'关闭',en:'Close'},
+  calc_total_usd:{zh:'预估总费用（USD）',en:'Estimated Total (USD)'},
+  calc_total_cny:{zh:'预估总费用（CNY）',en:'Estimated Total (CNY)'},
+  calc_tuition_total:{zh:'学费总计',en:'Total Tuition'},
+  calc_living_total:{zh:'生活费总计',en:'Total Living'},
+  calc_insurance_total:{zh:'保险总计',en:'Total Insurance'},
+  calc_flights_total:{zh:'往返机票总计',en:'Total Flights'},
+  calc_note:{zh:'* 汇率按 1 USD ≈ 7.25 CNY 估算，实际费用请以学校官方为准',en:'* Exchange rate: 1 USD ≈ 7.25 CNY. Actual costs may vary.'},
+  no_results:{zh:'没有找到匹配的学校',en:'No matching schools found'},
+  country_US:{zh:'美国',en:'United States'},
+  country_UK:{zh:'英国',en:'United Kingdom'},
+  country_CA:{zh:'加拿大',en:'Canada'},
+};
+
+function t(key){ return (I18N[key] && I18N[key][lang]) || key; }
+
+function toggleLang(){
+  lang = lang==='zh'?'en':'zh';
+  // Update all data-i18n elements
+  document.querySelectorAll('[data-i18n]').forEach(el=>{
+    const key = el.getAttribute('data-i18n');
+    if(I18N[key]) el.textContent = I18N[key][lang];
+  });
+  document.querySelectorAll('[data-i18n-placeholder]').forEach(el=>{
+    const key = el.getAttribute('data-i18n-placeholder');
+    if(I18N[key]) el.placeholder = I18N[key][lang];
+  });
+  // Update sort select options
+  document.querySelector('[value="rank"]').textContent = t('sort_rank');
+  document.querySelector('[value="tuition_asc"]').textContent = t('sort_tuition_asc');
+  document.querySelector('[value="tuition_desc"]').textContent = t('sort_tuition_desc');
+  renderCards();
+  populateCalcSelect();
+  calcCost();
+}
+
+// ===== STATE =====
+let currentCountry = 'all';
+let selectedIds = [];
+
+function setFilter(btn){
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  currentCountry = btn.dataset.country;
+  renderCards();
+}
+
+function getFiltered(){
+  let list = [...SCHOOLS];
+  // country
+  if(currentCountry!=='all') list = list.filter(s=>s.country===currentCountry);
+  // search
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  if(q) list = list.filter(s=> s.name.zh.toLowerCase().includes(q) || s.name.en.toLowerCase().includes(q));
+  // sort
+  const sort = document.getElementById('sortSelect').value;
+  if(sort==='rank') list.sort((a,b)=>a.qs-b.qs);
+  else if(sort==='tuition_asc') list.sort((a,b)=>a.tuition-b.tuition);
+  else if(sort==='tuition_desc') list.sort((a,b)=>b.tuition-a.tuition);
+  return list;
+}
+
+function safetyClass(score){
+  if(score>=8) return 'safety-high';
+  if(score>=6) return 'safety-mid';
+  return 'safety-low';
+}
+function safetyLabel(score){
+  if(score>=8) return lang==='zh'?'安全':'Safe';
+  if(score>=6) return lang==='zh'?'良好':'Good';
+  return lang==='zh'?'需注意':'Caution';
+}
+
+function renderCards(){
+  const grid = document.getElementById('schoolsGrid');
+  const list = getFiltered();
+  if(!list.length){
+    grid.innerHTML = `<div class="no-results" style="grid-column:1/-1"><div class="emoji">🔍</div><p>${t('no_results')}</p></div>`;
+    return;
+  }
+  grid.innerHTML = list.map(s=>{
+    const sel = selectedIds.includes(s.id);
+    return `
+    <div class="school-card ${sel?'selected':''}" onclick="openDetail('${s.id}')" data-id="${s.id}">
+      <div class="card-header">
+        <div>
+          <div class="school-name">${s.name[lang]}</div>
+          <div class="school-name-en">${lang==='zh'?s.name.en:s.name.zh}</div>
+        </div>
+        <div class="flag">${s.flag}</div>
+      </div>
+      <div class="card-body">
+        <div class="card-tags">
+          <span class="tag tag-rank">${t('qs_rank')}${s.qs}</span>
+          <span class="tag tag-tuition">$${s.tuition.toLocaleString()}/yr</span>
+          <span class="tag tag-city">${s.city[lang]}</span>
+        </div>
+        <div class="card-info">
+          <div class="card-info-item"><span class="icon">🛡️</span> <span class="safety-badge ${safetyClass(s.safety)}">${s.safety}/10 ${safetyLabel(s.safety)}</span></div>
+          <div class="card-info-item" style="justify-content:flex-end">
+            <label style="cursor:pointer;font-size:.82rem;display:flex;align-items:center;gap:.3rem" onclick="event.stopPropagation()">
+              <input type="checkbox" ${sel?'checked':''} onchange="toggleCompare('${s.id}',this.checked)" style="accent-color:var(--gold)"> ${lang==='zh'?'对比':'Compare'}
+            </label>
+          </div>
+        </div>
+        <div class="card-majors">
+          <span>${t('top_majors')}</span>
+          <div class="major-list">${s.majors[lang].map(m=>`<span class="major">${m}</span>`).join('')}</div>
+        </div>
+      </div>
+      <div class="card-expand-hint">${t('click_detail')} →</div>
+    </div>`;
+  }).join('');
+}
+
+// ===== COMPARE =====
+function toggleCompare(id, checked){
+  if(checked){
+    if(selectedIds.length>=3){ 
+      event.target.checked=false; 
+      return; 
+    }
+    if(!selectedIds.includes(id)) selectedIds.push(id);
+  } else {
+    selectedIds = selectedIds.filter(x=>x!==id);
+  }
+  updateCompareBar();
+  renderCards();
+}
+
+function updateCompareBar(){
+  const bar = document.getElementById('compareBar');
+  const list = document.getElementById('compareList');
+  const btn = document.getElementById('compareBtn');
+  if(selectedIds.length){
+    bar.classList.add('show');
+    list.innerHTML = selectedIds.map(id=>{
+      const s = SCHOOLS.find(x=>x.id===id);
+      return `<span class="compare-chip">${s.flag} ${s.name[lang]} <button onclick="toggleCompare('${id}',false)">×</button></span>`;
+    }).join('');
+    btn.disabled = selectedIds.length<2;
+  } else {
+    bar.classList.remove('show');
+  }
+}
+
+function openCompare(){
+  if(selectedIds.length<2) return;
+  const schools = selectedIds.map(id=>SCHOOLS.find(s=>s.id===id));
+  const countryName = (c)=> t('country_'+c);
+  const rows = [
+    ['compare_country', s=>countryName(s.country)+' '+s.flag],
+    ['compare_qs', s=>'#'+s.qs],
+    ['compare_tuition', s=>'$'+s.tuition.toLocaleString()],
+    ['compare_safety_label', s=>`${s.safety}/10`],
+    ['compare_city', s=>s.city[lang]],
+    ['compare_climate', s=>s.climate[lang]],
+    ['compare_living', s=>s.livingCost[lang]],
+    ['compare_requirements', s=>`TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}`],
+    ['compare_deadline', s=>s.deadline[lang]],
+  ];
+  const panel = document.getElementById('comparePanel');
+  panel.innerHTML = `
+    <h2>${t('compare_title')}</h2>
+    <table class="compare-table">
+      <thead><tr><th></th>${schools.map(s=>`<th>${s.flag} ${s.name[lang]}</th>`).join('')}</tr></thead>
+      <tbody>${rows.map(([key,fn])=>`<tr><th>${t(key)}</th>${schools.map(s=>`<td>${fn(s)}</td>`).join('')}</tr>`).join('')}</tbody>
+    </table>
+    <button class="compare-close" onclick="closeCompare()">${t('compare_close')}</button>
+  `;
+  document.getElementById('compareOverlay').classList.add('show');
+  document.body.style.overflow='hidden';
+}
+function closeCompare(){
+  document.getElementById('compareOverlay').classList.remove('show');
+  document.body.style.overflow='';
+}
+
+// ===== DETAIL =====
+function openDetail(id){
+  const s = SCHOOLS.find(x=>x.id===id);
+  if(!s) return;
+  const panel = document.getElementById('detailPanel');
+  const breakdown = Object.entries(s.tuitionBreakdown[lang]).map(([k,v])=>`<div class="item"><span class="label">${k}</span><span class="value">$${v.toLocaleString()}</span></div>`).join('');
+  panel.innerHTML = `
+    <div class="detail-close"><button onclick="closeDetail()">✕</button></div>
+    <div class="detail-header">
+      <h2>${s.flag} ${s.name[lang]}</h2>
+      <div class="sub">${lang==='zh'?s.name.en:s.name.zh} · QS #${s.qs} · ${s.city[lang]}</div>
+    </div>
+    <div class="detail-content">
+      <div class="detail-section">
+        <h3>${t('detail_overview')}</h3>
+        <p class="detail-desc">${s.desc[lang]}</p>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_tuition')}</h3>
+        <div class="detail-grid">${breakdown}</div>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_requirements')}</h3>
+        <div class="detail-grid">
+          <div class="item"><span class="label">TOEFL</span><span class="value">${s.requirements.TOEFL}</span></div>
+          <div class="item"><span class="label">IELTS</span><span class="value">${s.requirements.IELTS}</span></div>
+          <div class="item"><span class="label">SAT/ACT</span><span class="value">${s.requirements.SAT}</span></div>
+          <div class="item"><span class="label">${t('detail_deadline')}</span><span class="value">${s.deadline[lang]}</span></div>
+        </div>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_safety')}</h3>
+        <p class="detail-desc"><span class="safety-badge ${safetyClass(s.safety)}" style="font-size:.9rem;margin-right:.5rem">${s.safety}/10</span>${s.safetyDetail[lang]}</p>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_climate')}</h3>
+        <p class="detail-desc">${s.climate[lang]}</p>
+      </div>
+      <div class="detail-section">
+        <h3>${t('detail_living')}</h3>
+        <p class="detail-desc">${s.livingCost[lang]}</p>
+      </div>
+    </div>
+  `;
+  document.getElementById('detailOverlay').classList.add('show');
+  document.body.style.overflow='hidden';
+}
+function closeDetail(){
+  document.getElementById('detailOverlay').classList.remove('show');
+  document.body.style.overflow='';
+}
+
+// ===== CALCULATOR =====
+const CNY_RATE = 7.25;
+function populateCalcSelect(){
+  const sel = document.getElementById('calcSchool');
+  sel.innerHTML = SCHOOLS.map(s=>`<option value="${s.id}">${s.flag} ${s.name[lang]}</option>`).join('');
+}
+function calcCost(){
+  const id = document.getElementById('calcSchool').value;
+  const years = parseInt(document.getElementById('calcYears').value)||4;
+  const s = SCHOOLS.find(x=>x.id===id);
+  if(!s) return;
+  const tuitionTotal = s.tuition * years;
+  const livingTotal = s.livingCostAnnual * years;
+  const insuranceTotal = s.insurance * years;
+  const flightsTotal = s.flights * years;
+  const total = tuitionTotal + livingTotal + insuranceTotal + flightsTotal;
+  const totalCNY = Math.round(total * CNY_RATE);
+  const div = document.getElementById('calcResult');
+  div.innerHTML = `
+    <div class="calc-result">
+      <div>${t('calc_total_usd')}</div>
+      <div class="total">$${total.toLocaleString()}</div>
+      <div style="font-size:1.1rem;color:var(--gold-light)">${t('calc_total_cny')}：¥${totalCNY.toLocaleString()}</div>
+      <div class="breakdown">
+        <div class="item"><span class="label">${t('calc_tuition_total')}</span><span class="val">$${tuitionTotal.toLocaleString()}</span></div>
+        <div class="item"><span class="label">${t('calc_living_total')}</span><span class="val">$${livingTotal.toLocaleString()}</span></div>
+        <div class="item"><span class="label">${t('calc_insurance_total')}</span><span class="val">$${insuranceTotal.toLocaleString()}</span></div>
+        <div class="item"><span class="label">${t('calc_flights_total')}</span><span class="val">$${flightsTotal.toLocaleString()}</span></div>
+      </div>
+      <p style="margin-top:1rem;font-size:.78rem;color:var(--gray-400)">${t('calc_note')}</p>
+    </div>
+  `;
+}
+
+// ===== INIT =====
+document.addEventListener('DOMContentLoaded',()=>{
+  renderCards();
+  populateCalcSelect();
+  calcCost();
+});
+
+// Keyboard: Escape closes overlays
+document.addEventListener('keydown',e=>{
+  if(e.key==='Escape'){
+    closeDetail();
+    closeCompare();
+  }
+});
+</script>
+</body>
+</html>
