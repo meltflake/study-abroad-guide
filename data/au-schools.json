@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "umelb",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "墨尔本大学",
+      "en": "University of Melbourne"
+    },
+    "city": {
+      "zh": "维多利亚州 墨尔本",
+      "en": "Melbourne, VIC"
+    },
+    "qs": 13,
+    "the": 14,
+    "usnews": 27,
+    "arwu": 35,
+    "tuition": 50000,
+    "tuitionRange": [
+      42000,
+      55000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "医学",
+        "法学",
+        "商学",
+        "工程学",
+        "文学"
+      ],
+      "en": [
+        "Medicine",
+        "Law",
+        "Commerce",
+        "Engineering",
+        "Arts"
+      ]
+    },
+    "majorTuition": {
+      "zh": "墨尔本大学国际生学费因专业差异较大：A$42,000-A$55,000/年（约$27,096-$35,483）。",
+      "en": "University of Melbourne international tuition varies: A$42,000-A$55,000/yr (~$27,096-$35,483)."
+    },
+    "desc": {
+      "zh": "墨尔本大学是澳洲排名第一的大学，采用独特的Melbourne Model（先读通识再选专业）。Group of Eight成员。",
+      "en": "UMelb is Australia's #1 university with the unique Melbourne Model (broad first, then specialize). Member of the Group of Eight."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 50000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 50000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：31\\n• Commerce 商学：36\\n• Science 理学：35\\n• Biomedicine 生物医学：38\\n• Design 设计：33\\n• Engineering 工程（预科）：38\\n• Music 音乐：31\\n• Agriculture 农业：31"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "墨尔本大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "University of Melbourne is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "usyd",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "悉尼大学",
+      "en": "University of Sydney"
+    },
+    "city": {
+      "zh": "新南威尔士州 悉尼",
+      "en": "Sydney, NSW"
+    },
+    "qs": 18,
+    "the": 60,
+    "usnews": 28,
+    "arwu": 60,
+    "tuition": 52000,
+    "tuitionRange": [
+      43000,
+      58000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "医学",
+        "法学",
+        "商学",
+        "建筑学",
+        "工程学"
+      ],
+      "en": [
+        "Medicine",
+        "Law",
+        "Commerce",
+        "Architecture",
+        "Engineering"
+      ]
+    },
+    "majorTuition": {
+      "zh": "悉尼大学国际生学费因专业差异较大：A$43,000-A$58,000/年（约$27,741-$37,419）。",
+      "en": "University of Sydney international tuition varies: A$43,000-A$58,000/yr (~$27,741-$37,419)."
+    },
+    "desc": {
+      "zh": "悉尼大学是澳洲历史最悠久的大学（1850年），校园建筑哥特式风格壮观。商学院和医学院全球领先。",
+      "en": "USyd is Australia's oldest university (1850) with stunning Gothic architecture. Business and medicine are globally leading."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 52000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 52000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：31\\n• Commerce 商学：36\\n• Science 理学：34\\n• Engineering 工程：36\\n• Architecture 建筑：33\\n• Law 法学（本硕连读）：42\\n• Medicine（本硕连读）：43\\n• Nursing 护理：31"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "悉尼大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "University of Sydney is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "unsw",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "新南威尔士大学",
+      "en": "UNSW Sydney"
+    },
+    "city": {
+      "zh": "新南威尔士州 悉尼",
+      "en": "Sydney, NSW"
+    },
+    "qs": 19,
+    "the": 96,
+    "usnews": 37,
+    "arwu": 65,
+    "tuition": 50000,
+    "tuitionRange": [
+      42000,
+      56000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工程学",
+        "商学",
+        "计算机科学",
+        "法学",
+        "设计"
+      ],
+      "en": [
+        "Engineering",
+        "Commerce",
+        "Computer Science",
+        "Law",
+        "Design"
+      ]
+    },
+    "majorTuition": {
+      "zh": "新南威尔士大学国际生学费因专业差异较大：A$42,000-A$56,000/年（约$27,096-$36,129）。",
+      "en": "UNSW Sydney international tuition varies: A$42,000-A$56,000/yr (~$27,096-$36,129)."
+    },
+    "desc": {
+      "zh": "UNSW以工程和商科见长，与工业界联系紧密。位于悉尼东区，靠近硅谷式科技园区。澳洲最大的Co-op项目。",
+      "en": "UNSW excels in engineering and commerce with strong industry ties. Located in Sydney's east, near tech hubs. Australia's largest co-op program."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 50000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 50000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：29\\n• Commerce 商学：34\\n• Computer Science 计算机：33\\n• Engineering 工程：35\\n• Law 法学（双学位）：38\\n• Medicine（本硕连读）：42\\n• Science 理学：31\\n• Design 设计：30"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "新南威尔士大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "UNSW Sydney is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "anu",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "澳大利亚国立大学",
+      "en": "Australian National University"
+    },
+    "city": {
+      "zh": "首都领地 堪培拉",
+      "en": "Canberra, ACT"
+    },
+    "qs": 30,
+    "the": 67,
+    "usnews": 62,
+    "arwu": 83,
+    "tuition": 48000,
+    "tuitionRange": [
+      40000,
+      52000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "政治学",
+        "国际关系",
+        "天文学",
+        "法学",
+        "经济学"
+      ],
+      "en": [
+        "Political Science",
+        "International Relations",
+        "Astronomy",
+        "Law",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "澳大利亚国立大学国际生学费因专业差异较大：A$40,000-A$52,000/年（约$25,806-$33,548）。",
+      "en": "Australian National University international tuition varies: A$40,000-A$52,000/yr (~$25,806-$33,548)."
+    },
+    "desc": {
+      "zh": "ANU位于澳洲首都堪培拉，政治学和国际关系全球顶尖。与联邦政府机构联系紧密，实习资源丰富。",
+      "en": "ANU is in Australia's capital. Globally top-ranked in political science and international relations. Strong ties to federal government for internships."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 48000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 48000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：29\\n• Commerce 商学：33\\n• Science 理学：31\\n• Engineering 工程：33\\n• International Relations 国际关系：33\\n• Law 法学（荣誉）：37\\n• PPE 哲学政治经济：35\\n• Actuarial 精算：37"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "澳大利亚国立大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "Australian National University is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "uq",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "昆士兰大学",
+      "en": "University of Queensland"
+    },
+    "city": {
+      "zh": "昆士兰州 布里斯班",
+      "en": "Brisbane, QLD"
+    },
+    "qs": 40,
+    "the": 63,
+    "usnews": 36,
+    "arwu": 51,
+    "tuition": 46000,
+    "tuitionRange": [
+      38000,
+      54000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "生物科学",
+        "旅游管理",
+        "工程学",
+        "商学",
+        "环境科学"
+      ],
+      "en": [
+        "Biological Sciences",
+        "Tourism Management",
+        "Engineering",
+        "Commerce",
+        "Environmental Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "昆士兰大学国际生学费因专业差异较大：A$38,000-A$54,000/年（约$24,516-$34,838）。",
+      "en": "University of Queensland international tuition varies: A$38,000-A$54,000/yr (~$24,516-$34,838)."
+    },
+    "desc": {
+      "zh": "昆士兰大学以生物科学和旅游管理闻名，拥有澳洲最大最美的校园之一。布里斯班气候宜人，生活成本较低。",
+      "en": "UQ is renowned for biological sciences and tourism management, with one of Australia's largest and most beautiful campuses. Brisbane has great weather and lower costs."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 46000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 46000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：29\\n• Commerce 商学：33\\n• Science 理学：31\\n• Engineering 工程：33\\n• Biomedical Science 生物医学：35\\n• Law（双学位）：38\\n• Veterinary Science 兽医：38\\n• Tourism 旅游：29"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "昆士兰大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "University of Queensland is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "monash",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "莫纳什大学",
+      "en": "Monash University"
+    },
+    "city": {
+      "zh": "维多利亚州 墨尔本",
+      "en": "Melbourne, VIC"
+    },
+    "qs": 37,
+    "the": 54,
+    "usnews": 48,
+    "arwu": 77,
+    "tuition": 48000,
+    "tuitionRange": [
+      38000,
+      55000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "药学",
+        "教育学",
+        "工程学",
+        "商学",
+        "法学"
+      ],
+      "en": [
+        "Pharmacy",
+        "Education",
+        "Engineering",
+        "Business",
+        "Law"
+      ]
+    },
+    "majorTuition": {
+      "zh": "莫纳什大学国际生学费因专业差异较大：A$38,000-A$55,000/年（约$24,516-$35,483）。",
+      "en": "Monash University international tuition varies: A$38,000-A$55,000/yr (~$24,516-$35,483)."
+    },
+    "desc": {
+      "zh": "莫纳什是澳洲规模最大的大学，药学全球第一。在马来西亚和南非设有海外校区。",
+      "en": "Monash is Australia's largest university with #1-ranked pharmacy globally. Has overseas campuses in Malaysia and South Africa."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 48000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 48000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：30\\n• Commerce 商学：33\\n• Science 理学：31\\n• Engineering 工程：34\\n• Pharmacy 药学：36\\n• Law（双学位）：38\\n• Education 教育：30\\n• IT 信息技术：31"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "莫纳什大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "Monash University is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "uwa",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "西澳大学",
+      "en": "University of Western Australia"
+    },
+    "city": {
+      "zh": "西澳州 珀斯",
+      "en": "Perth, WA"
+    },
+    "qs": 77,
+    "the": 82,
+    "usnews": 79,
+    "arwu": 101,
+    "tuition": 42000,
+    "tuitionRange": [
+      36000,
+      50000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "海洋科学",
+        "采矿工程",
+        "农业",
+        "医学",
+        "商学"
+      ],
+      "en": [
+        "Marine Science",
+        "Mining Engineering",
+        "Agriculture",
+        "Medicine",
+        "Commerce"
+      ]
+    },
+    "majorTuition": {
+      "zh": "西澳大学国际生学费因专业差异较大：A$36,000-A$50,000/年（约$23,225-$32,258）。",
+      "en": "University of Western Australia international tuition varies: A$36,000-A$50,000/yr (~$23,225-$32,258)."
+    },
+    "desc": {
+      "zh": "西澳大学以采矿工程和海洋科学闻名。珀斯是澳洲最阳光的城市，与亚洲时区接近。学费在Go8中最低。",
+      "en": "UWA is known for mining engineering and marine science. Perth is Australia's sunniest city, close to Asian time zones. Lowest Go8 fees."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 42000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 42000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：28\\n• Commerce 商学：30\\n• Science 理学：29\\n• Engineering 工程：31\\n• Biomedical Science：32\\n• Law（研究生入学）：N/A\\n• Music 音乐：28"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "西澳大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "University of Western Australia is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "adelaide",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "阿德莱德大学",
+      "en": "University of Adelaide"
+    },
+    "city": {
+      "zh": "南澳州 阿德莱德",
+      "en": "Adelaide, SA"
+    },
+    "qs": 82,
+    "the": 111,
+    "usnews": 73,
+    "arwu": 151,
+    "tuition": 44000,
+    "tuitionRange": [
+      36000,
+      52000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "酿酒学",
+        "医学",
+        "工程学",
+        "音乐",
+        "计算机科学"
+      ],
+      "en": [
+        "Oenology/Winemaking",
+        "Medicine",
+        "Engineering",
+        "Music",
+        "Computer Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "阿德莱德大学国际生学费因专业差异较大：A$36,000-A$52,000/年（约$23,225-$33,548）。",
+      "en": "University of Adelaide international tuition varies: A$36,000-A$52,000/yr (~$23,225-$33,548)."
+    },
+    "desc": {
+      "zh": "阿德莱德大学以酿酒学全球第一闻名，医学和工程也很强。阿德莱德生活成本是Go8城市中最低的，且有移民加分。",
+      "en": "Adelaide is #1 globally in oenology/winemaking, with strong medicine and engineering. Adelaide has the lowest living costs among Go8 cities, plus immigration bonus points."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 44000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 44000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：28\\n• Commerce 商学：30\\n• Science 理学：29\\n• Engineering 工程：31\\n• Medicine（本硕连读）：40\\n• Music 音乐：28\\n• Computer Science 计算机：30\\n• Winemaking 酿酒：29"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "阿德莱德大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "University of Adelaide is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "uts",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "悉尼科技大学",
+      "en": "University of Technology Sydney"
+    },
+    "city": {
+      "zh": "新南威尔士州 悉尼",
+      "en": "Sydney, NSW"
+    },
+    "qs": 88,
+    "the": 133,
+    "usnews": 112,
+    "arwu": 201,
+    "tuition": 42000,
+    "tuitionRange": [
+      35000,
+      48000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "设计",
+        "IT",
+        "工程学",
+        "商学",
+        "传播学"
+      ],
+      "en": [
+        "Design",
+        "IT",
+        "Engineering",
+        "Business",
+        "Communications"
+      ]
+    },
+    "majorTuition": {
+      "zh": "悉尼科技大学国际生学费因专业差异较大：A$35,000-A$48,000/年（约$22,580-$30,967）。",
+      "en": "University of Technology Sydney international tuition varies: A$35,000-A$48,000/yr (~$22,580-$30,967)."
+    },
+    "desc": {
+      "zh": "UTS以实践型教育闻名，设计和IT专业全澳领先。校园位于悉尼市中心，现代化建筑标志性强。",
+      "en": "UTS is known for practice-oriented education with nationally leading design and IT. Iconic modern campus in central Sydney."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 42000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 42000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Business 商学：29\\n• IT 信息技术：28\\n• Engineering 工程：30\\n• Design 设计：28\\n• Communications 传播：28\\n• Science 理学：28\\n• Law（双学位）：34\\n• Nursing 护理：28"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "悉尼科技大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "University of Technology Sydney is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  },
+  {
+    "id": "macquarie",
+    "country": "AU",
+    "flag": "🇦🇺",
+    "name": {
+      "zh": "麦考瑞大学",
+      "en": "Macquarie University"
+    },
+    "city": {
+      "zh": "新南威尔士州 悉尼",
+      "en": "Sydney, NSW"
+    },
+    "qs": 130,
+    "the": 195,
+    "usnews": 170,
+    "arwu": 201,
+    "tuition": 40000,
+    "tuitionRange": [
+      34000,
+      44000
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "语言学",
+        "会计",
+        "精算",
+        "心理学",
+        "商学"
+      ],
+      "en": [
+        "Linguistics",
+        "Accounting",
+        "Actuarial Studies",
+        "Psychology",
+        "Commerce"
+      ]
+    },
+    "majorTuition": {
+      "zh": "麦考瑞大学国际生学费因专业差异较大：A$34,000-A$44,000/年（约$21,935-$28,387）。",
+      "en": "Macquarie University international tuition varies: A$34,000-A$44,000/yr (~$21,935-$28,387)."
+    },
+    "desc": {
+      "zh": "麦考瑞大学以语言学和商科（CPA认证）闻名。位于悉尼北区科技走廊，毗邻大量企业。",
+      "en": "Macquarie is renowned for linguistics and commerce (CPA-accredited). Located in Sydney's north tech corridor, adjacent to many corporations."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(AUD)": 40000,
+        "住宿(AUD)": 15000,
+        "生活费(AUD)": 22000,
+        "书本费(AUD)": 1000
+      },
+      "en": {
+        "Tuition(AUD)": 40000,
+        "Housing(AUD)": 15000,
+        "Living(AUD)": 22000,
+        "Books(AUD)": 1000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79-100+",
+      "IELTS": "6.5-7.0+",
+      "SAT": "不要求/Not Required",
+      "IB": "各专业IB要求不同：\\n• Arts 文学：26\\n• Commerce 商学：28\\n• Actuarial 精算：32\\n• Science 理学：27\\n• Engineering 工程：29\\n• Psychology 心理学：28\\n• Linguistics 语言学：27\\n• Law（双学位）：33"
+    },
+    "deadline": {
+      "zh": "主要入学季：2月（第一学期）/ 7月（第二学期）\\n申请截止：入学前2-6个月",
+      "en": "Main intakes: Feb (Sem 1) / Jul (Sem 2)\\nDeadlines: 2-6 months before intake"
+    },
+    "safetyDetail": {
+      "zh": "麦考瑞大学所在城市治安良好，澳大利亚整体安全指数高。校园设有24小时安保。",
+      "en": "Macquarie University is in a safe city. Australia has high overall safety. Campus has 24/7 security."
+    },
+    "climate": {
+      "zh": "南半球气候，与北半球季节相反",
+      "en": "Southern hemisphere climate, opposite seasons to the north"
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month (~$1,300)"
+    },
+    "livingCostAnnual": 15483,
+    "insurance": 451,
+    "flights": 1500,
+    "visa": {
+      "zh": "Student Visa (Subclass 500) → 毕业后Temporary Graduate Visa (Subclass 485，2-4年) → 可通过技术移民或雇主担保申请PR。澳洲对留学生移民政策相对友好。",
+      "en": "Student Visa (Subclass 500) → Temporary Graduate Visa (Subclass 485, 2-4 years post-study) → PR via skilled migration or employer sponsorship. Australia has relatively friendly immigration policies for graduates."
+    },
+    "housing": {
+      "zh": "大一不强制住校。校内宿舍（College）约A$12,000-20,000/年。校外合租更常见，约A$200-350/周。",
+      "en": "No mandatory on-campus housing. University colleges ~A$12,000-20,000/yr. Off-campus shared housing more common, ~A$200-350/week."
+    },
+    "graduationRate": {
+      "zh": "澳洲本科通常3年制（荣誉学位4年）。毕业率良好。",
+      "en": "Australian undergrad is typically 3 years (Honours 4 years). Good graduation rates."
+    },
+    "employment": {
+      "zh": "毕业生可获2-4年工作签证。澳洲就业市场稳定，矿业、金融、科技行业需求旺盛。",
+      "en": "Graduates receive 2-4 year work visas. Stable job market with strong demand in mining, finance, and tech."
+    },
+    "healthcare": {
+      "zh": "✅ 强制购买OSHC（海外学生健康保险）约A$500-700/年。覆盖医院、门诊和部分药物费用。校内通常有Health Service。",
+      "en": "✅ Mandatory OSHC (Overseas Student Health Cover) ~A$500-700/yr. Covers hospital, GP visits, and some medications. On-campus Health Service usually available."
+    },
+    "application": {
+      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 入学时间：2月（主）/ 7月（次）\\n💰 申请费：A$0-150（多数免费）\\n📝 所需材料：成绩单、IELTS/TOEFL、个人陈述\\n✅ 不要求SAT/ACT，IB可直接申请",
+      "en": "📋 Platform: Apply directly to each university\\n📅 Intakes: Feb (main) / Jul (mid-year)\\n💰 Fee: A$0-150 (many free)\\n📝 Required: Transcripts, IELTS/TOEFL, personal statement\\n✅ No SAT/ACT needed, IB accepted directly"
+    }
+  }
+]
