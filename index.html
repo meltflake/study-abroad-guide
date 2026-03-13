@@ -41989,6 +41989,18 @@ function closeDetail(){
     };
     cDiv.appendChild(btn);
   });
+  // Add select all / deselect all toggle button
+  const toggleAllBtn = document.createElement('button');
+  toggleAllBtn.className = 'rec-tag';
+  toggleAllBtn.style.cssText = 'border-style:dashed;font-size:.75rem';
+  toggleAllBtn.innerHTML = lang==='zh'?'全选/取消':'All/None';
+  toggleAllBtn.onclick = function(){
+    const allBtns = document.querySelectorAll('#recCountries .rec-tag:not(:last-child)');
+    const allActive = [...allBtns].every(b => b.classList.contains('active'));
+    allBtns.forEach(b => { if(allActive) b.classList.remove('active'); else b.classList.add('active'); });
+    runRecommend();
+  };
+  cDiv.appendChild(toggleAllBtn);
 
   // Build priority toggles
   const priorities = [
