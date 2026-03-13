@@ -479,7 +479,7 @@ img{max-width:100%}
         <button class="filter-btn" data-country="RU" onclick="setFilter(this)">🇷🇺 <span data-i18n="filter_ru">俄罗斯</span> <span class="country-count" data-cc="RU"></span></button>
         <button class="filter-btn" data-country="SE" onclick="setFilter(this)">🇸🇪 <span data-i18n="filter_se">瑞典</span> <span class="country-count" data-cc="SE"></span></button>
         <button class="filter-btn" data-country="SG" onclick="setFilter(this)">🇸🇬 <span data-i18n="filter_sg">新加坡</span> <span class="country-count" data-cc="SG"></span></button>
-        <button class="filter-btn" data-country="TW" onclick="setFilter(this)">🇹🇼 <span data-i18n="filter_tw">台湾</span> <span class="country-count" data-cc="TW"></span></button>
+        <button class="filter-btn" data-country="TW" onclick="setFilter(this)"><span data-i18n="filter_tw">台湾</span> <span class="country-count" data-cc="TW"></span></button>
         <button class="filter-btn" data-country="UK" onclick="setFilter(this)">🇬🇧 <span data-i18n="filter_uk">英国</span> <span class="country-count" data-cc="UK"></span></button>
         <button class="filter-btn" data-country="US" onclick="setFilter(this)">🇺🇸 <span data-i18n="filter_us">美国</span> <span class="country-count" data-cc="US"></span></button>
 
@@ -1267,7 +1267,7 @@ function updateRecLabels(){
   document.querySelectorAll('#recCountries .rec-tag').forEach(btn => {
     const c = btn.dataset.country;
     if(c && _recCountryNames[c] && _recCountries[c]) {
-      btn.innerHTML = `${_recCountries[c].flag} ${(_recCountryNames[c][lang]||_recCountryNames[c].en)}`;
+      btn.innerHTML = `${_recCountries[c].flag?_recCountries[c].flag+' ':''}${(_recCountryNames[c][lang]||_recCountryNames[c].en)}`;
     }
   });
   // Update priority button labels
@@ -1290,7 +1290,7 @@ function updateRecLabels(){
     var btn = document.createElement('button');
     btn.className = 'rec-tag';
     btn.dataset.country = c;
-    btn.innerHTML = `${_recCountries[c].flag} ${(_recCountryNames[c][lang]||_recCountryNames[c].en)}`;
+    btn.innerHTML = `${_recCountries[c].flag?_recCountries[c].flag+' ':''}${(_recCountryNames[c][lang]||_recCountryNames[c].en)}`;
     btn.onclick = function(){
       this.classList.toggle('active');
       runRecommend();
