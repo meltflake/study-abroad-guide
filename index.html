@@ -81,6 +81,8 @@ img{max-width:100%}
 .search-match{font-weight:700;color:var(--navy)}
 .filter-group{display:flex;gap:.5rem;flex-wrap:wrap}
 .filter-btn{padding:.55rem 1.2rem;border:2px solid var(--gray-200);background:var(--white);border-radius:8px;font-size:.85rem;font-weight:500;transition:var(--transition);color:var(--gray-600)}
+.country-count{font-size:.7rem;background:rgba(0,0,0,.1);padding:.1rem .4rem;border-radius:8px;font-weight:700;margin-left:.1rem}
+.filter-btn.active .country-count{background:rgba(255,255,255,.2)}
 .filter-btn:hover{border-color:var(--navy);color:var(--navy)}
 .filter-btn.active{background:var(--navy);color:var(--white);border-color:var(--navy)}
 .sort-select{padding:.55rem 1rem;border:2px solid var(--gray-200);border-radius:8px;font-size:.85rem;background:var(--white);color:var(--gray-600);transition:var(--transition)}
@@ -381,15 +383,15 @@ img{max-width:100%}
       <div class="filter-group" id="countryFilters">
         <button class="filter-btn" id="favFilterBtn" onclick="toggleFavFilter()" style="border-color:#ef4444">❤️ <span data-i18n="filter_fav">收藏</span> (0)</button>
         <button class="filter-btn active" data-country="all" onclick="setFilter(this)" data-i18n="filter_all">全部</button>
-        <button class="filter-btn" data-country="US" onclick="setFilter(this)">🇺🇸 <span data-i18n="filter_us">美国</span></button>
-        <button class="filter-btn" data-country="UK" onclick="setFilter(this)">🇬🇧 <span data-i18n="filter_uk">英国</span></button>
-        <button class="filter-btn" data-country="CA" onclick="setFilter(this)">🇨🇦 <span data-i18n="filter_ca">加拿大</span></button>
-        <button class="filter-btn" data-country="AU" onclick="setFilter(this)">🇦🇺 <span data-i18n="filter_au">澳大利亚</span></button>
-        <button class="filter-btn" data-country="NZ" onclick="setFilter(this)">🇳🇿 <span data-i18n="filter_nz">新西兰</span></button>
-        <button class="filter-btn" data-country="IE" onclick="setFilter(this)">🇮🇪 <span data-i18n="filter_ie">爱尔兰</span></button>
-        <button class="filter-btn" data-country="SG" onclick="setFilter(this)">🇸🇬 <span data-i18n="filter_sg">新加坡</span></button>
-        <button class="filter-btn" data-country="HK" onclick="setFilter(this)">🇭🇰 <span data-i18n="filter_hk">香港</span></button>
-        <button class="filter-btn" data-country="CH" onclick="setFilter(this)">🇨🇭 <span data-i18n="filter_ch">瑞士</span></button>
+        <button class="filter-btn" data-country="US" onclick="setFilter(this)">🇺🇸 <span data-i18n="filter_us">美国</span> <span class="country-count" data-cc="US"></span></button>
+        <button class="filter-btn" data-country="UK" onclick="setFilter(this)">🇬🇧 <span data-i18n="filter_uk">英国</span> <span class="country-count" data-cc="UK"></span></button>
+        <button class="filter-btn" data-country="CA" onclick="setFilter(this)">🇨🇦 <span data-i18n="filter_ca">加拿大</span> <span class="country-count" data-cc="CA"></span></button>
+        <button class="filter-btn" data-country="AU" onclick="setFilter(this)">🇦🇺 <span data-i18n="filter_au">澳大利亚</span> <span class="country-count" data-cc="AU"></span></button>
+        <button class="filter-btn" data-country="NZ" onclick="setFilter(this)">🇳🇿 <span data-i18n="filter_nz">新西兰</span> <span class="country-count" data-cc="NZ"></span></button>
+        <button class="filter-btn" data-country="IE" onclick="setFilter(this)">🇮🇪 <span data-i18n="filter_ie">爱尔兰</span> <span class="country-count" data-cc="IE"></span></button>
+        <button class="filter-btn" data-country="SG" onclick="setFilter(this)">🇸🇬 <span data-i18n="filter_sg">新加坡</span> <span class="country-count" data-cc="SG"></span></button>
+        <button class="filter-btn" data-country="HK" onclick="setFilter(this)">🇭🇰 <span data-i18n="filter_hk">香港</span> <span class="country-count" data-cc="HK"></span></button>
+        <button class="filter-btn" data-country="CH" onclick="setFilter(this)">🇨🇭 <span data-i18n="filter_ch">瑞士</span> <span class="country-count" data-cc="CH"></span></button>
 
       </div>
       <div class="filter-group" id="rankFilters" style="display:flex;align-items:center;gap:.5rem;flex-wrap:wrap">
@@ -22978,6 +22980,22 @@ function initScholarships(){
 
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded',()=>{
+  // Set country counts
+  var counts = {};
+  SCHOOLS.forEach(s=>{ counts[s.country] = (counts[s.country]||0)+1; });
+  document.querySelectorAll('.country-count').forEach(el=>{
+    const cc = el.dataset.cc;
+    if(cc && counts[cc]) el.textContent = counts[cc];
+  });
+  // Set "all" count
+  var allBtn = document.querySelector('[data-country="all"]');
+  if(allBtn) allBtn.textContent = allBtn.textContent.replace(/\d+/,'') + '';
+  // Actually append total to the all button
+  var totalSpan = document.createElement('span');
+  totalSpan.className = 'country-count';
+  totalSpan.textContent = SCHOOLS.length;
+  if(allBtn) allBtn.appendChild(totalSpan);
+
   updateFavBtn();
   renderCards();
   populateCalcSelect();
