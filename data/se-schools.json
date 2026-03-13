@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "斯德哥尔摩冬季漫长寒冷（-3至1°C），夏季温和（18-23°C）。冬季日照极短，夏季白昼极长。",
+      "en": "Stockholm has long cold winters (-3 to 1°C), mild summers (18-23°C). Very short winter daylight, very long summer days."
+    },
+    "housing": {
+      "zh": "KTH协助安排学生宿舍约SEK 4000-7000/月（约$380-670）。斯德哥尔摩住房紧张。",
+      "en": "KTH helps arrange student housing SEK 4000-7000/month (~$380-670). Stockholm housing is tight."
+    },
+    "employment": {
+      "zh": "瑞典顶尖理工大学。爱立信、Spotify、沃尔沃等大量招聘。毕业可获6个月求职签证。",
+      "en": "Sweden's top tech university. Ericsson, Spotify, Volvo actively recruit. 6-month post-study job-seeking visa."
+    },
+    "healthcare": {
+      "zh": "瑞典公立医疗，持居留许可可享受。学生看诊约SEK 100-300/次。",
+      "en": "Swedish public healthcare available with residence permit. Student visits ~SEK 100-300/visit."
+    },
+    "application": {
+      "zh": "通过universityadmissions.se申请。需高中成绩、英语证明（TOEFL/IELTS）。",
+      "en": "Apply via universityadmissions.se. Transcripts, English proficiency (TOEFL/IELTS) required."
+    },
+    "safetyDetail": {
+      "zh": "斯德哥尔摩整体安全，但某些郊区夜间需注意。校园安全。",
+      "en": "Stockholm generally safe, though some suburban areas need caution at night. Campus is secure."
+    },
+    "deadline": {
+      "zh": "非EU学生：1月15日（秋季入学）",
+      "en": "Non-EU students: January 15 (autumn intake)"
     }
   },
   {
@@ -211,6 +239,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "隆德位于瑞典南部，气候比斯德哥尔摩温和。夏季16-22°C，冬季-1至4°C。",
+      "en": "Lund is in southern Sweden with milder climate than Stockholm. Summers 16-22°C, winters -1 to 4°C."
+    },
+    "housing": {
+      "zh": "AF Bostäder和LU Accommodation提供学生宿舍约SEK 3500-6000/月。住房充足。",
+      "en": "AF Bostäder and LU Accommodation offer student housing SEK 3500-6000/month. Housing availability adequate."
+    },
+    "employment": {
+      "zh": "隆德创新园区（Ideon）是北欧最大科技园之一。索尼移动、爱立信等在此有办公室。",
+      "en": "Lund's Ideon Science Park is one of the largest in the Nordics. Sony Mobile, Ericsson have offices here."
+    },
+    "healthcare": {
+      "zh": "瑞典公立医疗。隆德大学医院是瑞典顶级教学医院。",
+      "en": "Swedish public healthcare. Lund University Hospital is a top Swedish teaching hospital."
+    },
+    "application": {
+      "zh": "通过universityadmissions.se申请。需高中成绩、英语证明。",
+      "en": "Apply via universityadmissions.se. Transcripts, English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "隆德是安静安全的大学城，犯罪率极低。适合学习生活。",
+      "en": "Lund is a quiet, safe university town with very low crime. Ideal for studying."
+    },
+    "deadline": {
+      "zh": "非EU学生：1月15日",
+      "en": "Non-EU students: January 15"
     }
   },
   {

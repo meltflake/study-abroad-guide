@@ -104,6 +104,34 @@
     "desc": {
       "en": "South Korea's #1 university. Highly competitive admission. English-taught courses available.",
       "zh": "韩国第一名校，录取竞争极其激烈，提供英语授课课程。"
+    },
+    "climate": {
+      "zh": "首尔四季分明。夏季炎热潮湿（25-33°C），冬季寒冷干燥（-6至3°C）。春秋短暂但宜人。",
+      "en": "Seoul has four distinct seasons. Summers hot and humid (25-33°C), winters cold and dry (-6 to 3°C). Short but pleasant spring/autumn."
+    },
+    "housing": {
+      "zh": "校内宿舍约₩40-60万/月（约$300-450），优先国际生。冠岳山校区宿舍环境优美。",
+      "en": "On-campus dorms ₩400,000-600,000/month (~$300-450), priority for international students. Gwanak campus dorms in scenic area."
+    },
+    "employment": {
+      "zh": "韩国顶尖学府，毕业生就业率极高。三星、LG、现代等大企业大量招聘。D-10求职签证可延长至2年。",
+      "en": "Korea's top university with very high employment rate. Samsung, LG, Hyundai actively recruit. D-10 job-seeking visa extendable to 2 years."
+    },
+    "healthcare": {
+      "zh": "韩国国民健康保险，留学生强制参保。月缴约₩7万（约$50），覆盖大部分医疗费用。",
+      "en": "Korea's National Health Insurance mandatory for international students. ~₩70,000/month (~$50), covers most medical costs."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩单、TOPIK或英语成绩、推荐信、个人陈述。部分专业需面试。",
+      "en": "Apply via university website. Transcripts, TOPIK or English scores, recommendations, personal statement required. Some programs require interview."
+    },
+    "safetyDetail": {
+      "zh": "首尔治安良好，公共交通安全便捷。校园有24小时安保和紧急报警系统。",
+      "en": "Seoul has good public safety with safe, convenient public transit. Campus has 24h security and emergency alert system."
+    },
+    "deadline": {
+      "zh": "春季入学：9-10月；秋季入学：3-5月",
+      "en": "Spring admission: Sep-Oct; Fall admission: Mar-May"
     }
   },
   {
@@ -211,6 +239,34 @@
     "desc": {
       "en": "Korea's MIT. Full scholarship for international students. All courses in English at undergrad.",
       "zh": "韩国的MIT，国际生全额奖学金，本科全英文授课。"
+    },
+    "climate": {
+      "zh": "大田市四季分明。夏季炎热（25-33°C），冬季寒冷（-5至3°C）。比首尔稍温和。",
+      "en": "Daejeon has four seasons. Hot summers (25-33°C), cold winters (-5 to 3°C). Slightly milder than Seoul."
+    },
+    "housing": {
+      "zh": "校内宿舍充足，约₩20-35万/月（约$150-260）。国际生优先分配。校园生活便利。",
+      "en": "Ample on-campus housing ₩200,000-350,000/month (~$150-260). Priority for international students. Convenient campus life."
+    },
+    "employment": {
+      "zh": "韩国顶尖理工大学。三星、SK、LG等大量招聘。全额奖学金+生活费资助常见。",
+      "en": "Korea's top tech university. Samsung, SK, LG actively recruit. Full scholarships + living stipends common."
+    },
+    "healthcare": {
+      "zh": "韩国国民健康保险强制参保，约₩7万/月。校内有保健中心。",
+      "en": "Korea's NHI mandatory, ~₩70,000/month. Campus health center available."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩、SAT/IB/AP、英语证明、推荐信。无需韩语。",
+      "en": "Apply via website. Transcripts, SAT/IB/AP, English proficiency, recommendations required. Korean not required."
+    },
+    "safetyDetail": {
+      "zh": "大田是安全的科技城市。KAIST校园封闭管理，安保严格。",
+      "en": "Daejeon is a safe tech city. KAIST campus is gated with strict security."
+    },
+    "deadline": {
+      "zh": "春季入学：9月；秋季入学：3月",
+      "en": "Spring admission: September; Fall admission: March"
     }
   },
   {
@@ -318,6 +374,34 @@
     "desc": {
       "en": "One of Korea's top 3 (SKY). Underwood International College offers full English programs.",
       "zh": "韩国SKY三校之一，Underwood国际学院提供全英文项目。"
+    },
+    "climate": {
+      "zh": "首尔四季分明，同SNU。夏热冬冷，春秋短暂宜人。",
+      "en": "Seoul four seasons, same as SNU. Hot summers, cold winters, pleasant spring/autumn."
+    },
+    "housing": {
+      "zh": "校内国际宿舍约₩40-60万/月。新村校区位于首尔市中心，交通便利。",
+      "en": "International dorms ₩400,000-600,000/month. Sinchon campus in central Seoul with convenient transport."
+    },
+    "employment": {
+      "zh": "韩国SKY名校之一，毕业生广受韩企和外企认可。延世大学商学院尤为知名。",
+      "en": "One of Korea's prestigious SKY universities. Graduates highly regarded by Korean and foreign companies. Business school especially renowned."
+    },
+    "healthcare": {
+      "zh": "韩国国民健康保险强制参保。延世大学附属医院是顶级教学医院。",
+      "en": "Korea's NHI mandatory. Yonsei's affiliated Severance Hospital is a top teaching hospital."
+    },
+    "application": {
+      "zh": "通过学校官网申请UIC（英语授课）。需高中成绩、SAT/IB、英语证明、推荐信。",
+      "en": "Apply for UIC (English-taught) via website. Transcripts, SAT/IB, English proficiency, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "新村/弘大区域是首尔最活跃的学生区，治安良好。校园有24小时安保。",
+      "en": "Sinchon/Hongdae area is Seoul's most vibrant student district with good safety. 24h campus security."
+    },
+    "deadline": {
+      "zh": "UIC：3月（秋季入学）/ 9月（春季入学）",
+      "en": "UIC: March (fall entry) / September (spring entry)"
     }
   },
   {
@@ -425,6 +509,34 @@
     "desc": {
       "en": "One of Korea's top 3 (SKY). Strong in business, law, and engineering.",
       "zh": "韩国SKY三校之一，商科、法学和工程实力强。"
+    },
+    "climate": {
+      "zh": "首尔四季分明，同SNU/延世。",
+      "en": "Seoul four seasons, same as SNU/Yonsei."
+    },
+    "housing": {
+      "zh": "安岩校区宿舍约₩40-55万/月。首尔市中心位置交通便利。",
+      "en": "Anam campus dorms ₩400,000-550,000/month. Central Seoul location with convenient transport."
+    },
+    "employment": {
+      "zh": "韩国SKY名校之一。法学、商学、新闻尤为突出。毕业生广受认可。",
+      "en": "One of Korea's SKY universities. Law, business, journalism especially strong. Graduates highly regarded."
+    },
+    "healthcare": {
+      "zh": "韩国NHI强制参保。高丽大学附属安山医院等提供优质医疗。",
+      "en": "Korea's NHI mandatory. Korea University Ansan Hospital provides quality healthcare."
+    },
+    "application": {
+      "zh": "通过学校官网申请国际学生项目。需成绩单、SAT/IB、英语/韩语证明。",
+      "en": "Apply for international programs via website. Transcripts, SAT/IB, English/Korean proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "安岩/城北区域安全，学生聚集区生活方便。校园24小时安保。",
+      "en": "Anam/Seongbuk area is safe with convenient student amenities. 24h campus security."
+    },
+    "deadline": {
+      "zh": "3月（秋季入学）/ 9月（春季入学）",
+      "en": "March (fall entry) / September (spring entry)"
     }
   },
   {
@@ -532,6 +644,34 @@
     "desc": {
       "en": "South Korea's Caltech. Tiny, elite science university. Full scholarship for international students.",
       "zh": "韩国的加州理工，精英科技大学，国际生全额奖学金。"
+    },
+    "climate": {
+      "zh": "浦项市海洋性气候。夏季温暖（23-30°C），冬季较冷（-2至5°C）。比首尔温和。",
+      "en": "Pohang has a maritime climate. Warm summers (23-30°C), cool winters (-2 to 5°C). Milder than Seoul."
+    },
+    "housing": {
+      "zh": "校内宿舍充足且必住，约₩15-25万/月（约$110-190）。校园生活完善。",
+      "en": "Ample mandatory on-campus housing ₩150,000-250,000/month (~$110-190). Complete campus living facilities."
+    },
+    "employment": {
+      "zh": "韩国顶尖理工大学。POSCO钢铁集团创办，毕业生在科技和工程领域极受认可。全额奖学金常见。",
+      "en": "Korea's top tech university founded by POSCO. Graduates highly valued in tech/engineering. Full scholarships common."
+    },
+    "healthcare": {
+      "zh": "韩国NHI强制参保。校内有保健中心和心理咨询服务。",
+      "en": "Korea's NHI mandatory. Campus health center and counseling services available."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩、SAT/IB/AP、英语证明、推荐信。全英文授课。",
+      "en": "Apply via website. Transcripts, SAT/IB/AP, English proficiency, recommendations required. All English-taught."
+    },
+    "safetyDetail": {
+      "zh": "浦项是安全的中型城市。POSTECH校园封闭管理，环境优美安全。",
+      "en": "Pohang is a safe mid-sized city. POSTECH campus is gated with beautiful, secure environment."
+    },
+    "deadline": {
+      "zh": "11月（春季入学）/ 5月（秋季入学）",
+      "en": "November (spring entry) / May (fall entry)"
     }
   },
   {

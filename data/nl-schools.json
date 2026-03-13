@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "阿姆斯特丹海洋性气候。夏季温和（17-22°C），冬季湿冷（2-6°C）。全年多风多雨。",
+      "en": "Amsterdam has a maritime climate. Summers mild (17-22°C), winters damp and cold (2-6°C). Windy and rainy year-round."
+    },
+    "housing": {
+      "zh": "学校协助安排宿舍约€500-800/月。阿姆斯特丹住房极度紧张，务必尽早申请。",
+      "en": "University helps arrange housing ~€500-800/month. Amsterdam housing is extremely tight—apply as early as possible."
+    },
+    "employment": {
+      "zh": "阿姆斯特丹是欧洲商业中心之一。Booking.com、ING等总部在此。毕业可获1年求职签证。",
+      "en": "Amsterdam is a European business hub. Booking.com, ING headquartered here. 1-year post-study job-seeking visa available."
+    },
+    "healthcare": {
+      "zh": "荷兰强制医疗保险，学生约€120/月。覆盖GP和专科医疗。",
+      "en": "Netherlands mandates health insurance, students ~€120/month. Covers GP and specialist care."
+    },
+    "application": {
+      "zh": "通过Studielink+学校官网申请。需高中成绩、英语证明、动机信。",
+      "en": "Apply via Studielink + university website. Transcripts, English proficiency, motivation letter required."
+    },
+    "safetyDetail": {
+      "zh": "阿姆斯特丹市中心有些区域夜间需注意。校园安全良好，有紧急报警系统。",
+      "en": "Some central Amsterdam areas need caution at night. Campus security good with emergency alert system."
+    },
+    "deadline": {
+      "zh": "非EU学生：4月1日（部分专业1月15日）",
+      "en": "Non-EU students: April 1 (some programs January 15)"
     }
   },
   {
@@ -211,6 +239,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "代尔夫特海洋性气候。夏季凉爽（17-22°C），冬季湿冷（2-6°C）。全年多风多雨，需防水外套。",
+      "en": "Delft has a maritime climate. Summers cool (17-22°C), winters damp and cold (2-6°C). Windy and rainy year-round—waterproof jacket essential."
+    },
+    "housing": {
+      "zh": "DUWO学生宿舍约€400-600/月。代尔夫特住房紧张，建议录取后立即申请。",
+      "en": "DUWO student housing ~€400-600/month. Housing is tight in Delft—apply immediately after admission."
+    },
+    "employment": {
+      "zh": "荷兰顶尖理工大学，ASML、飞利浦、壳牌等知名企业大量招聘。毕业可获1年求职签证。",
+      "en": "Netherlands' top tech university. ASML, Philips, Shell actively recruit graduates. 1-year post-study job-seeking visa (zoekjaar)."
+    },
+    "healthcare": {
+      "zh": "荷兰强制医疗保险，学生约€120/月。全面覆盖GP和专科医疗。",
+      "en": "Netherlands mandates health insurance, students ~€120/month. Comprehensive GP and specialist coverage."
+    },
+    "application": {
+      "zh": "通过Studielink+学校官网申请。需高中成绩单、英语证明（TOEFL/IELTS）、数学成绩。",
+      "en": "Apply via Studielink + university website. Transcripts, English proficiency (TOEFL/IELTS), math grades required."
+    },
+    "safetyDetail": {
+      "zh": "代尔夫特是安全的大学城，骑行为主要交通方式。荷兰整体犯罪率低。",
+      "en": "Delft is a safe university town where cycling is the main transport. Netherlands has low overall crime rate."
+    },
+    "deadline": {
+      "zh": "非EU学生：4月1日（部分专业1月15日）",
+      "en": "Non-EU students: April 1 (some programs January 15)"
     }
   },
   {

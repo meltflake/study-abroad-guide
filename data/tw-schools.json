@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "台北亚热带气候。夏季炎热潮湿（28-35°C），冬季温和偶冷（12-18°C）。5-6月梅雨季，夏秋有台风。",
+      "en": "Taipei subtropical climate. Summers hot and humid (28-35°C), winters mild (12-18°C). Plum rain May-Jun, typhoons in summer-autumn."
+    },
+    "housing": {
+      "zh": "校内宿舍约NT$5000-8000/月（约$160-260）。校外公馆/大安区租房NT$8000-15000/月。",
+      "en": "On-campus dorms ~NT$5000-8000/month (~$160-260). Off-campus in Gongguan/Da'an NT$8000-15000/month."
+    },
+    "employment": {
+      "zh": "台湾顶尖学府。台积电、联发科等半导体巨头及科技业大量招聘NTU毕业生。",
+      "en": "Taiwan's top university. TSMC, MediaTek and other semiconductor/tech giants actively recruit NTU graduates."
+    },
+    "healthcare": {
+      "zh": "台湾全民健保，留学生入学6个月后可加入。月缴约NT$826。未加入前需自费或买商业保险。",
+      "en": "Taiwan's NHI available after 6 months of enrollment. ~NT$826/month. Before that, self-pay or private insurance needed."
+    },
+    "application": {
+      "zh": "通过学校官网申请国际学位学程。需高中成绩、英语/中文证明、推荐信、自传。",
+      "en": "Apply for international degree programs via website. Transcripts, English/Chinese proficiency, recommendations, autobiography required."
+    },
+    "safetyDetail": {
+      "zh": "台北是全球最安全的城市之一。夜间出行安全，便利店密布。校园开放但有保安巡逻。",
+      "en": "Taipei is one of the world's safest cities. Safe at night with ubiquitous convenience stores. Open campus with security patrols."
+    },
+    "deadline": {
+      "zh": "国际生：通常12月-3月",
+      "en": "International students: usually December-March"
     }
   }
 ]

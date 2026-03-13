@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "巴黎气候温和，夏季温暖（20-25°C），冬季阴冷（2-7°C）。春秋最宜人，偶有雨天。",
+      "en": "Paris has a mild climate. Summers warm (20-25°C), winters cool and grey (2-7°C). Spring/autumn most pleasant, occasional rain."
+    },
+    "housing": {
+      "zh": "校内宿舍有限，多数学生在巴黎市内租房。月租€600-1200，CROUS可申请补贴(CAF)。",
+      "en": "Limited on-campus housing; most students rent in Paris. €600-1200/month, CROUS subsidies (CAF) available."
+    },
+    "employment": {
+      "zh": "毕业生就业率优秀，法国科研机构、奢侈品行业、金融领域广泛认可。留法毕业生可获2年求职签证。",
+      "en": "Excellent graduate employment. Recognized in French research institutions, luxury goods, finance. 2-year post-study job-seeking visa available."
+    },
+    "healthcare": {
+      "zh": "法国全民医保体系，学生每年缴纳约€100即可享受公立医疗。大学有校医服务。",
+      "en": "France's universal healthcare. Students pay ~€100/year for public health coverage. Campus medical services available."
+    },
+    "application": {
+      "zh": "通过Parcoursup平台（法国本科）或学校官网申请。需提交成绩单、动机信、推荐信。部分专业需面试。",
+      "en": "Apply via Parcoursup (French undergrad) or school website. Transcripts, motivation letter, recommendations required. Some programs require interview."
+    },
+    "safetyDetail": {
+      "zh": "巴黎整体安全，但需注意扒手（地铁、旅游区）。校区安保良好，24小时监控。",
+      "en": "Paris generally safe but beware of pickpockets in metro/tourist areas. Campus security good with 24h monitoring."
+    },
+    "deadline": {
+      "zh": "Parcoursup: 1月-3月注册；国际生：通常12月-3月",
+      "en": "Parcoursup: Jan-Mar registration; International: usually Dec-Mar"
     }
   },
   {
@@ -211,6 +239,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "巴黎近郊，气候与巴黎相同。夏季温暖，冬季阴冷，四季分明。",
+      "en": "Located near Paris with identical climate. Warm summers, cool grey winters, four distinct seasons."
+    },
+    "housing": {
+      "zh": "萨克雷校区提供校内宿舍，约€400-600/月。校园生活设施完善。",
+      "en": "Saclay campus offers on-campus housing ~€400-600/month. Complete campus living facilities."
+    },
+    "employment": {
+      "zh": "法国顶尖工程名校，毕业生薪资全法最高之一。航空、科技、金融领域广泛认可。",
+      "en": "France's top engineering school with some of the highest graduate salaries in France. Widely recognized in aerospace, tech, finance."
+    },
+    "healthcare": {
+      "zh": "法国全民医保，学生缴纳约€100/年。校内有健康中心。",
+      "en": "France's universal healthcare. Students pay ~€100/year. Campus health center available."
+    },
+    "application": {
+      "zh": "国际生通过学校官网申请Bachelor Program。需数学/科学成绩、英语/法语证明、面试。",
+      "en": "International students apply for Bachelor Program via website. Math/science grades, English/French proficiency, interview required."
+    },
+    "safetyDetail": {
+      "zh": "萨克雷校区位于巴黎南郊，环境安全宁静。校园封闭管理，安保严格。",
+      "en": "Saclay campus in southern Paris suburbs—safe and quiet environment. Gated campus with strict security."
+    },
+    "deadline": {
+      "zh": "Bachelor项目：通常1月-4月",
+      "en": "Bachelor program: usually January-April"
     }
   },
   {
@@ -318,6 +374,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "巴黎气候，同PSL。温和四季，偶有雨天。",
+      "en": "Paris climate, same as PSL. Mild four seasons with occasional rain."
+    },
+    "housing": {
+      "zh": "巴黎市内租房为主，€600-1200/月。可申请CROUS宿舍和CAF住房补贴。",
+      "en": "Mostly renting in Paris, €600-1200/month. CROUS dorms and CAF housing subsidies available."
+    },
+    "employment": {
+      "zh": "法国最古老大学之一，人文、科学领域享有盛誉。毕业可获2年求职签证。",
+      "en": "One of France's oldest universities, renowned in humanities and sciences. 2-year post-study job-seeking visa available."
+    },
+    "healthcare": {
+      "zh": "法国全民医保，学生约€100/年。",
+      "en": "France's universal healthcare, students ~€100/year."
+    },
+    "application": {
+      "zh": "通过Parcoursup（法国本科）或学校官网申请。需成绩单、法语/英语证明、动机信。",
+      "en": "Apply via Parcoursup or university website. Transcripts, French/English proficiency, motivation letter required."
+    },
+    "safetyDetail": {
+      "zh": "巴黎拉丁区（大学所在地）是历史文化区，整体安全。注意扒手。",
+      "en": "Latin Quarter (university location) is a historic cultural area, generally safe. Watch for pickpockets."
+    },
+    "deadline": {
+      "zh": "Parcoursup: 1-3月；国际生：12-3月",
+      "en": "Parcoursup: Jan-Mar; International: Dec-Mar"
     }
   }
 ]

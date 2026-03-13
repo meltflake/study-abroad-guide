@@ -104,6 +104,34 @@
     "desc": {
       "en": "Germany's top technical university. Nearly free tuition (~€300/year admin fee). World-class engineering and CS.",
       "zh": "德国顶尖理工大学，学费几乎免费（约€300/年管理费），工程和CS世界一流。"
+    },
+    "climate": {
+      "zh": "慕尼黑大陆性气候。夏季温暖（18-25°C），冬季寒冷有雪（-3至3°C）。阿尔卑斯山南风偶带暖流。",
+      "en": "Munich has a continental climate. Summers warm (18-25°C), winters cold with snow (-3 to 3°C). Occasional warm Alpine south winds (Föhn)."
+    },
+    "housing": {
+      "zh": "Studentenwerk提供宿舍约€300-500/月，名额紧张。校外合租€500-800/月。建议提前6个月申请。",
+      "en": "Studentenwerk dorms €300-500/month, limited spots. Off-campus shared flats €500-800/month. Apply 6 months in advance."
+    },
+    "employment": {
+      "zh": "慕尼黑是德国经济引擎，BMW、西门子、安联等总部所在地。工科毕业生极受欢迎。18个月求职签证。",
+      "en": "Munich is Germany's economic powerhouse—home to BMW, Siemens, Allianz. Engineering graduates in high demand. 18-month job-seeking visa."
+    },
+    "healthcare": {
+      "zh": "德国强制医疗保险。公立保险约€110/月（学生费率），覆盖全面。大学有Studentenwerk健康咨询。",
+      "en": "Germany mandates health insurance. Public insurance ~€110/month (student rate), comprehensive coverage. University health counseling available."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。需高中成绩单、德语/英语证明、APS审核（部分国家）。",
+      "en": "Apply via uni-assist or university website. Transcripts, German/English proficiency, APS certification (some countries) required."
+    },
+    "safetyDetail": {
+      "zh": "慕尼黑是德国最安全的大城市之一，犯罪率低。校园和公共区域安保良好。",
+      "en": "Munich is one of Germany's safest major cities with low crime rate. Good security on campus and in public areas."
+    },
+    "deadline": {
+      "zh": "冬季学期（10月开学）：7月15日；夏季学期（4月开学）：1月15日",
+      "en": "Winter semester (Oct start): Jul 15; Summer semester (Apr start): Jan 15"
     }
   },
   {
@@ -211,6 +239,34 @@
     "desc": {
       "en": "One of Europe's leading research universities. Strong across all disciplines. Nearly free tuition.",
       "zh": "欧洲顶尖研究型大学，各学科实力均衡，学费几乎免费。"
+    },
+    "climate": {
+      "zh": "慕尼黑大陆性气候，同TUM。夏季温暖，冬季寒冷有雪。",
+      "en": "Munich continental climate, same as TUM. Warm summers, cold snowy winters."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€300-500/月。慕尼黑租房市场竞争激烈，建议提前申请。",
+      "en": "Studentenwerk dorms €300-500/month. Munich rental market very competitive—apply early."
+    },
+    "employment": {
+      "zh": "综合性研究型大学，人文、法律、医学领域尤为突出。慕尼黑就业市场优越。",
+      "en": "Comprehensive research university, especially strong in humanities, law, medicine. Munich's job market is excellent."
+    },
+    "healthcare": {
+      "zh": "德国强制医疗保险，学生费率约€110/月。",
+      "en": "Germany mandates health insurance at student rate ~€110/month."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。需高中成绩、德语/英语证明。",
+      "en": "Apply via uni-assist or university website. Transcripts, German/English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "慕尼黑治安良好，犯罪率低。校园分布在市区多个地点，均安全。",
+      "en": "Munich has good public safety with low crime. Campus spread across multiple safe city locations."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   },
   {
@@ -318,6 +374,34 @@
     "desc": {
       "en": "Germany's oldest university (1386). Nobel Prize tradition in physics and medicine.",
       "zh": "德国最古老的大学（1386年），物理学和医学诺贝尔奖传统。"
+    },
+    "climate": {
+      "zh": "海德堡位于莱茵河谷，德国最温暖地区之一。夏季温暖（20-27°C），冬季温和（0-5°C）。",
+      "en": "Heidelberg is in the Rhine Valley, one of Germany's warmest regions. Summers warm (20-27°C), winters mild (0-5°C)."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€250-400/月。老城区租房较贵，新城区合租约€400-600/月。",
+      "en": "Studentenwerk dorms €250-400/month. Old town rentals pricier; new town shared flats €400-600/month."
+    },
+    "employment": {
+      "zh": "研究型大学，毕业生在学术、医药、科技领域有优势。海德堡SAP等科技公司就在附近。",
+      "en": "Research university with strong graduate outcomes in academia, pharma, tech. SAP and other tech firms nearby."
+    },
+    "healthcare": {
+      "zh": "德国强制医疗保险，学生费率约€110/月。海德堡大学医院是顶尖教学医院。",
+      "en": "Germany mandates health insurance at student rate ~€110/month. Heidelberg University Hospital is a top teaching hospital."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。需高中成绩单、德语/英语证明。",
+      "en": "Apply via uni-assist or university website. Transcripts, German/English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "海德堡是安静的大学城，犯罪率极低。适合学习和生活。",
+      "en": "Heidelberg is a quiet university town with very low crime rate. Ideal for studying and living."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   },
   {

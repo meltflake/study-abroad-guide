@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "哥本哈根海洋性气候。夏季凉爽宜人（17-22°C），冬季寒冷多风（0-4°C），冬季日照短。",
+      "en": "Copenhagen has a maritime climate. Summers cool and pleasant (17-22°C), winters cold and windy (0-4°C) with short daylight."
+    },
+    "housing": {
+      "zh": "校内宿舍约DKK 3500-6000/月（约$500-850）。学生可申请KKIK或私人宿舍。住房紧张，尽早申请。",
+      "en": "On-campus housing DKK 3500-6000/month (~$500-850). Apply via KKIK or private housing. Housing is tight—apply early."
+    },
+    "employment": {
+      "zh": "北欧就业市场稳定。生物科技、清洁能源、IT领域强势。毕业可获6个月求职签证。",
+      "en": "Stable Nordic job market. Strong in biotech, clean energy, IT. 6-month post-study job-seeking visa available."
+    },
+    "healthcare": {
+      "zh": "丹麦全民免费医疗。注册CPR号即可享受公立医疗服务。校内有学生健康中心。",
+      "en": "Denmark offers free universal healthcare. Register for CPR number to access public healthcare. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩单、英语能力证明（TOEFL/IELTS）、动机信。部分专业有额外要求。",
+      "en": "Apply via university website. Transcripts, English proficiency (TOEFL/IELTS), motivation letter required. Some programs have additional requirements."
+    },
+    "safetyDetail": {
+      "zh": "哥本哈根非常安全，连续多年被评为全球最宜居城市之一。骑行文化发达，治安良好。",
+      "en": "Copenhagen is very safe, consistently ranked among world's most livable cities. Strong cycling culture, good public safety."
+    },
+    "deadline": {
+      "zh": "国际生：3月15日",
+      "en": "International students: March 15"
     }
   },
   {

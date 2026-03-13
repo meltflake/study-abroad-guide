@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "鲁汶海洋性气候。夏季温和（17-23°C），冬季湿冷（1-5°C）。全年降雨均匀。",
+      "en": "Leuven has a maritime climate. Mild summers (17-23°C), damp cold winters (1-5°C). Even rainfall year-round."
+    },
+    "housing": {
+      "zh": "大学提供学生宿舍约€350-550/月。鲁汶是大学城，住房选择丰富。",
+      "en": "University offers student housing ~€350-550/month. Leuven is a university town with ample housing options."
+    },
+    "employment": {
+      "zh": "比利时顶尖大学，欧盟机构（布鲁塞尔近在咫尺）和跨国企业大量招聘。",
+      "en": "Belgium's top university. EU institutions (Brussels nearby) and multinationals actively recruit."
+    },
+    "healthcare": {
+      "zh": "比利时强制医疗保险。学生通过mutualité参保，费用低廉。大学医院UZ Leuven是顶级医院。",
+      "en": "Belgium mandates health insurance. Students join mutualité at low cost. UZ Leuven hospital is top-tier."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩、英语证明（部分专业需荷兰语/法语）。",
+      "en": "Apply via university website. Transcripts, English proficiency required (some programs need Dutch/French)."
+    },
+    "safetyDetail": {
+      "zh": "鲁汶是安全的大学城，5万学生占城市人口一半。自行车为主要交通。",
+      "en": "Leuven is a safe university town—50,000 students make up half the population. Cycling is main transport."
+    },
+    "deadline": {
+      "zh": "国际生：3月1日（部分专业更早）",
+      "en": "International students: March 1 (some programs earlier)"
     }
   }
 ]

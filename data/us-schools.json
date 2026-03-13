@@ -8281,6 +8281,34 @@
     "desc": {
       "en": "UW Seattle is a top public research university with world-class CS and medical programs.",
       "zh": "华盛顿大学西雅图分校是顶尖公立研究型大学，CS和医学项目世界一流。"
+    },
+    "climate": {
+      "zh": "西雅图海洋性气候。夏季凉爽晴朗（18-25°C），冬季温和多雨（4-9°C）。10-3月多阴雨。",
+      "en": "Seattle has a maritime climate. Summers cool and sunny (18-25°C), winters mild and rainy (4-9°C). Overcast Oct-Mar."
+    },
+    "housing": {
+      "zh": "校内宿舍约$900-1400/月。U District校外租房$1000-1800/月。大一建议住校。",
+      "en": "On-campus housing ~$900-1400/month. U District off-campus $1000-1800/month. Freshmen encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "毗邻亚马逊、微软、波音总部。计算机和工程毕业生极受欢迎。就业率高。",
+      "en": "Adjacent to Amazon, Microsoft, Boeing headquarters. CS and engineering graduates in very high demand. High employment rate."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内有综合医疗中心UW Medicine。",
+      "en": "University offers student health insurance plan. Comprehensive UW Medicine health center on campus."
+    },
+    "application": {
+      "zh": "通过Coalition App或学校官网申请。需成绩单、SAT/ACT（可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Coalition App or university website. Transcripts, SAT/ACT (optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "西雅图大学区整体安全。校园有Husky NightWalk护送服务和紧急报警柱。",
+      "en": "Seattle's University District generally safe. Campus has Husky NightWalk escort service and emergency call stations."
+    },
+    "deadline": {
+      "zh": "11月15日（EA）; 常规截止较早",
+      "en": "November 15 (EA); Regular deadline is early"
     }
   },
   {

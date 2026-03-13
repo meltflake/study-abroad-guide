@@ -104,6 +104,34 @@
     "desc": {
       "en": "Japan's most prestigious university. PEAK program offers English-taught undergraduate degrees.",
       "zh": "日本最顶尖的大学，PEAK项目提供全英文本科学位。"
+    },
+    "climate": {
+      "zh": "东京四季分明。夏季炎热潮湿（30-35°C），冬季寒冷干燥（2-8°C）。6-7月梅雨季。",
+      "en": "Tokyo has four distinct seasons. Summers hot and humid (30-35°C), winters cold and dry (2-8°C). Rainy season Jun-Jul."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥3-5万/月（约$200-350），名额有限需提前申请。校外租房￥5-10万/月。",
+      "en": "On-campus dorms ¥30,000-50,000/month (~$200-350), limited spots—apply early. Off-campus ¥50,000-100,000/month."
+    },
+    "employment": {
+      "zh": "日本顶尖学府，毕业生就业率极高。大量毕业生进入日企、外资、科研机构。可获特定活动签证找工作。",
+      "en": "Japan's top university with very high employment rate. Graduates enter major Japanese firms, foreign companies, research institutions. Job-hunting visa available."
+    },
+    "healthcare": {
+      "zh": "日本国民健康保险，学生月缴约￥1500（约$10）。自付30%，校内有保健中心。",
+      "en": "Japan's National Health Insurance, students pay ~¥1500/month (~$10). 30% co-pay. Campus health center available."
+    },
+    "application": {
+      "zh": "PEAK项目（英语授课）：通过学校官网申请。需SAT/ACT或IB成绩、TOEFL/IELTS、推荐信、个人陈述。",
+      "en": "PEAK program (English-taught): apply via school website. SAT/ACT or IB scores, TOEFL/IELTS, recommendations, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "东京是全球最安全的大城市之一。犯罪率极低，夜间出行也很安全。校园安保严格。",
+      "en": "Tokyo is one of the world's safest major cities. Extremely low crime rate, safe even at night. Strict campus security."
+    },
+    "deadline": {
+      "zh": "PEAK项目：11月（第一轮）/ 2月（第二轮）",
+      "en": "PEAK program: November (Round 1) / February (Round 2)"
     }
   },
   {
@@ -211,6 +239,34 @@
     "desc": {
       "en": "Japan's second university. Known for academic freedom and Nobel Prize winners. iUP English program.",
       "zh": "日本第二名校，以学术自由和诺贝尔奖得主闻名，iUP英文项目。"
+    },
+    "climate": {
+      "zh": "京都盆地气候，夏季酷热潮湿（33-38°C），冬季寒冷（1-8°C）。春季樱花、秋季红叶闻名。",
+      "en": "Kyoto has a basin climate—very hot and humid summers (33-38°C), cold winters (1-8°C). Famous for cherry blossoms in spring and autumn foliage."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥2.5-4.5万/月（约$170-300），名额有限。校外租房￥4-7万/月。",
+      "en": "On-campus dorms ¥25,000-45,000/month (~$170-300), limited spots. Off-campus ¥40,000-70,000/month."
+    },
+    "employment": {
+      "zh": "日本顶尖研究型大学，学术界和企业界广泛认可。任天堂、京瓷等企业在京都。iUP项目英语授课。",
+      "en": "Japan's top research university recognized in academia and industry. Nintendo, Kyocera based in Kyoto. iUP program taught in English."
+    },
+    "healthcare": {
+      "zh": "日本国民健康保险，学生月缴约￥1500。自付30%。校内保健中心提供基础医疗。",
+      "en": "Japan's National Health Insurance, students ~¥1500/month. 30% co-pay. Campus health center provides basic care."
+    },
+    "application": {
+      "zh": "iUP项目（英语授课）：通过学校官网申请。需学业成绩、英语证明、推荐信、面试。",
+      "en": "iUP program (English-taught): apply via website. Academic records, English proficiency, recommendations, interview required."
+    },
+    "safetyDetail": {
+      "zh": "京都是日本最安全的城市之一，犯罪率极低。古都氛围，生活节奏舒适。",
+      "en": "Kyoto is one of Japan's safest cities with very low crime. Ancient capital atmosphere with comfortable pace of life."
+    },
+    "deadline": {
+      "zh": "iUP项目：11月（第一轮）/ 2月（第二轮）",
+      "en": "iUP program: November (Round 1) / February (Round 2)"
     }
   },
   {
@@ -318,6 +374,34 @@
     "desc": {
       "en": "A leading research university in Japan's second city. Strong in engineering and medicine.",
       "zh": "日本第二大城市的顶尖研究型大学，工程和医学实力强。"
+    },
+    "climate": {
+      "zh": "大阪气候与京都类似，夏季炎热潮湿，冬季较温和。美食之都，生活成本低于东京。",
+      "en": "Osaka climate similar to Kyoto—hot humid summers, milder winters. Food capital of Japan, lower cost of living than Tokyo."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥2-4万/月。大阪租房比东京便宜30-40%。",
+      "en": "On-campus dorms ~¥20,000-40,000/month. Osaka rents 30-40% cheaper than Tokyo."
+    },
+    "employment": {
+      "zh": "关西地区顶尖学府。松下、夏普等企业在大阪。医学、工学毕业生尤受欢迎。",
+      "en": "Kansai region's top university. Panasonic, Sharp based in Osaka. Medical and engineering graduates especially valued."
+    },
+    "healthcare": {
+      "zh": "日本NHI，学生约￥1500/月。大阪大学医学部附属医院提供优质医疗。",
+      "en": "Japan's NHI, students ~¥1500/month. Osaka University Hospital provides quality care."
+    },
+    "application": {
+      "zh": "通过学校官网申请英语授课项目。需学业成绩、英语证明、推荐信。",
+      "en": "Apply for English-taught programs via website. Academic records, English proficiency, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "大阪整体安全友好。难波等繁华区注意扒手。校园安保良好。",
+      "en": "Osaka is generally safe and friendly. Watch for pickpockets in busy areas like Namba. Good campus security."
+    },
+    "deadline": {
+      "zh": "英语项目：通常11月-2月",
+      "en": "English programs: usually November-February"
     }
   },
   {

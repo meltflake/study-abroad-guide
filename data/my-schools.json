@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "吉隆坡热带气候，全年高温（27-33°C），午后常有暴雨。湿度高，需适应。",
+      "en": "Kuala Lumpur tropical climate, hot year-round (27-33°C) with frequent afternoon downpours. High humidity."
+    },
+    "housing": {
+      "zh": "校内宿舍约RM 500-1000/月（约$110-220）。校外合租更便宜。",
+      "en": "On-campus dorms ~RM 500-1000/month (~$110-220). Off-campus sharing cheaper."
+    },
+    "employment": {
+      "zh": "马来西亚顶尖大学，东南亚广泛认可。毕业生在石油、金融、科技行业就业良好。",
+      "en": "Malaysia's top university, widely recognized in Southeast Asia. Good graduate employment in oil & gas, finance, tech."
+    },
+    "healthcare": {
+      "zh": "马来西亚公立医疗费用低廉，学生可享受大学医疗中心服务。建议购买补充保险。",
+      "en": "Malaysia's public healthcare is affordable. Students can use university medical center. Supplementary insurance recommended."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩单、英语证明（IELTS/TOEFL/MUET）。",
+      "en": "Apply via university website. Transcripts, English proficiency (IELTS/TOEFL/MUET) required."
+    },
+    "safetyDetail": {
+      "zh": "吉隆坡整体安全，但需注意扒手和飞车抢劫。校园安保良好。",
+      "en": "KL generally safe but beware of pickpockets and snatch theft. Good campus security."
+    },
+    "deadline": {
+      "zh": "国际生：3月（9月入学）/ 8月（2月入学）",
+      "en": "International: March (Sep intake) / August (Feb intake)"
     }
   },
   {
