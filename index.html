@@ -21865,6 +21865,18 @@ const I18N = {
   compare_employment:{zh:'就业数据',en:'Employment',ja:'就職データ',ko:'취업 데이터',fr:'Emploi',es:'Empleo',th:'การจ้างงาน',vi:'Việc làm',hi:'रोज़गार'},
   compare_healthcare:{zh:'医疗保障',en:'Healthcare',ja:'医療保障',ko:'의료 보장',fr:'Santé',es:'Salud',th:'ประกันสุขภาพ',vi:'Y tế',hi:'स्वास्थ्य'},
   compare_application:{zh:'申请指南',en:'How to Apply',ja:'出願ガイド',ko:'지원 안내',fr:'Candidature',es:'Solicitud',th:'คู่มือสมัคร',vi:'Hướng dẫn',hi:'आवेदन गाइड'},
+  fav_label:{zh:'收藏',en:'Favorites',ja:'お気に入り',ko:'즐겨찾기',fr:'Favoris',es:'Favoritos',th:'รายการโปรด',vi:'Yêu thích',hi:'पसंदीदा'},
+  safety_safe:{zh:'安全',en:'Safe',ja:'安全',ko:'안전',fr:'Sûr',es:'Seguro',th:'ปลอดภัย',vi:'An toàn',hi:'सुरक्षित'},
+  safety_good:{zh:'良好',en:'Good',ja:'良好',ko:'양호',fr:'Bon',es:'Bueno',th:'ดี',vi:'Tốt',hi:'अच्छा'},
+  safety_caution:{zh:'需注意',en:'Caution',ja:'注意',ko:'주의',fr:'Attention',es:'Precaución',th:'ควรระวัง',vi:'Cẩn thận',hi:'सावधानी'},
+  type_major:{zh:'专业',en:'Major',ja:'専攻',ko:'전공',fr:'Filière',es:'Carrera',th:'สาขา',vi:'Ngành',hi:'विषय'},
+  type_city:{zh:'城市',en:'City',ja:'都市',ko:'도시',fr:'Ville',es:'Ciudad',th:'เมือง',vi:'Thành phố',hi:'शहर'},
+  type_school:{zh:'学校',en:'School',ja:'学校',ko:'학교',fr:'École',es:'Escuela',th:'มหาวิทยาลัย',vi:'Trường',hi:'स्कूल'},
+  matched_major:{zh:'匹配专业',en:'Matched major',ja:'マッチした専攻',ko:'매칭 전공',fr:'Filière correspondante',es:'Carrera coincidente',th:'สาขาที่ตรงกัน',vi:'Ngành phù hợp',hi:'मिलान विषय'},
+  compare_label:{zh:'对比',en:'Compare',ja:'比較',ko:'비교',fr:'Comparer',es:'Comparar',th:'เปรียบเทียบ',vi:'So sánh',hi:'तुलना'},
+  accept_overall:{zh:'整体',en:'Overall',ja:'全体',ko:'전체',fr:'Global',es:'General',th:'ทั้งหมด',vi:'Tổng',hi:'कुल'},
+  accept_intl:{zh:'国际生',en:'Intl',ja:'留学生',ko:'유학생',fr:'Intl',es:'Intl',th:'นักศึกษาต่างชาติ',vi:'Quốc tế',hi:'अंतर्राष्ट्रीय'},
+  accept_rate:{zh:'录取率',en:'Acceptance Rate',ja:'合格率',ko:'합격률',fr:'Taux admission',es:'Tasa admisión',th:'อัตราตอบรับ',vi:'Tỷ lệ trúng tuyển',hi:'स्वीकृति दर'},
 };
 
 function t(key){ return (I18N[key] && (I18N[key][lang] || I18N[key].en)) || key; }
@@ -21925,7 +21937,7 @@ function updateFavBtn(){
   const btn = document.getElementById('favFilterBtn');
   if(btn){
     btn.classList.toggle('active', showFavOnly);
-    btn.innerHTML = `❤️ <span data-i18n="filter_fav">${lang==='zh'?'收藏':'Favorites'}</span> (${favorites.length})`;
+    btn.innerHTML = `❤️ <span data-i18n="filter_fav">${t('fav_label')}</span> (${favorites.length})`;
   }
 }
 
@@ -22009,9 +22021,9 @@ function safetyClass(score){
   return 'safety-low';
 }
 function safetyLabel(score){
-  if(score>=8) return lang==='zh'?'安全':'Safe';
-  if(score>=6) return lang==='zh'?'良好':'Good';
-  return lang==='zh'?'需注意':'Caution';
+  if(score>=8) return t('safety_safe');
+  if(score>=6) return t('safety_good');
+  return t('safety_caution');
 }
 
 function updateSearchHints(){
@@ -22028,21 +22040,21 @@ function updateSearchHints(){
     [...s.majors.zh, ...s.majors.en].forEach(m=>{
       if(m.toLowerCase().includes(q) && !seen.has(m.toLowerCase())){
         seen.add(m.toLowerCase());
-        hints.push({type:'major', label:m, typeLabel:lang==='zh'?'专业':'Major'});
+        hints.push({type:'major', label:m, typeLabel:t('type_major')});
       }
     });
     // Match city
     [s.city.zh, s.city.en].forEach(c=>{
       if(c.toLowerCase().includes(q) && !seen.has(c.toLowerCase())){
         seen.add(c.toLowerCase());
-        hints.push({type:'city', label:c, typeLabel:lang==='zh'?'城市':'City'});
+        hints.push({type:'city', label:c, typeLabel:t('type_city')});
       }
     });
     // Match school name
     [s.name.zh, s.name.en].forEach(n=>{
       if(n.toLowerCase().includes(q) && !seen.has(n.toLowerCase())){
         seen.add(n.toLowerCase());
-        hints.push({type:'school', label:n, typeLabel:lang==='zh'?'学校':'School'});
+        hints.push({type:'school', label:n, typeLabel:t('type_school')});
       }
     });
   });
@@ -22087,7 +22099,7 @@ function renderCards(){
       const matchedMajors = [...s.majors.zh,...s.majors.en].filter(m=>m.toLowerCase().includes(searchQ));
       const matchedCity = [s.city.zh,s.city.en].some(c=>c.toLowerCase().includes(searchQ));
       if(matchedMajors.length && !s.name.zh.toLowerCase().includes(searchQ) && !s.name.en.toLowerCase().includes(searchQ)){
-        matchInfo = `<div style="margin-top:.5rem;padding:.4rem .6rem;background:#dbeafe;border-radius:6px;font-size:.78rem;color:#1d4ed8">🎯 ${lang==='zh'?'匹配专业':'Matched major'}: <strong>${matchedMajors[0]}</strong></div>`;
+        matchInfo = `<div style="margin-top:.5rem;padding:.4rem .6rem;background:#dbeafe;border-radius:6px;font-size:.78rem;color:#1d4ed8">🎯 ${t('matched_major')}: <strong>${matchedMajors[0]}</strong></div>`;
       } else if(matchedCity && !s.name.zh.toLowerCase().includes(searchQ) && !s.name.en.toLowerCase().includes(searchQ)){
         matchInfo = `<div style="margin-top:.5rem;padding:.4rem .6rem;background:#fef3c7;border-radius:6px;font-size:.78rem;color:#92400e">📍 ${lang==='zh'?'匹配城市':'Matched city'}: <strong>${(s.city[lang]||s.city.en)}</strong></div>`;
       }
@@ -22114,7 +22126,7 @@ function renderCards(){
           <div class="card-info-item"><span class="icon">🛡️</span> <span class="safety-badge ${safetyClass(s.safety)}">${s.safety}/10 ${safetyLabel(s.safety)}</span></div>
           <div class="card-info-item" style="justify-content:flex-end">
             <label style="cursor:pointer;font-size:.82rem;display:flex;align-items:center;gap:.3rem" onclick="event.stopPropagation()">
-              <input type="checkbox" ${sel?'checked':''} onchange="toggleCompare('${s.id}',this.checked)" style="accent-color:var(--gold)"> ${lang==='zh'?'对比':'Compare'}
+              <input type="checkbox" ${sel?'checked':''} onchange="toggleCompare('${s.id}',this.checked)" style="accent-color:var(--gold)"> ${t('compare_label')}
             </label>
           </div>
         </div>
@@ -22180,7 +22192,7 @@ function openCompare(){
     ['compare_living', s=>s.livingCost[lang]],
     ['compare_requirements', s=>`TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}`],
     ['compare_ib', s=>s.requirements.IB || 'N/A'],
-    ['compare_accept', s=>s.acceptanceRate ? `${s.acceptanceRate.overall} (${lang==='zh'?'国际生':'Intl'}: ${s.acceptanceRate.intl})` : 'N/A'],
+    ['compare_accept', s=>s.acceptanceRate ? `${s.acceptanceRate.overall} (${t('accept_intl')}: ${s.acceptanceRate.intl})` : 'N/A'],
     ['compare_deadline', s=>(s.deadline[lang]||s.deadline.en)],
 
     ['compare_housing_label', s=>(s.housing[lang]||s.housing.en)],
@@ -22243,7 +22255,7 @@ function openDetail(id){
           <div class="item"><span class="label">SAT/ACT</span><span class="value">${s.requirements.SAT}</span></div>
           <div class="item"><span class="label">IB</span><span class="value">${s.requirements.IB || 'N/A'}</span></div>
           <div class="item"><span class="label">${t('detail_deadline')}</span><span class="value">${(s.deadline[lang]||s.deadline.en)}</span></div>
-          ${s.acceptanceRate ? `<div class="item"><span class="label">${lang==='zh'?'录取率':'Acceptance Rate'}</span><span class="value">${lang==='zh'?'整体':'Overall'}: ${s.acceptanceRate.overall} · ${lang==='zh'?'国际生':'Intl'}: ${s.acceptanceRate.intl}</span></div>` : ''}
+          ${s.acceptanceRate ? `<div class="item"><span class="label">${t('accept_rate')}</span><span class="value">${t('accept_overall')}: ${s.acceptanceRate.overall} · ${t('accept_intl')}: ${s.acceptanceRate.intl}</span></div>` : ''}
         </div>
       </div>
       <div class="detail-section">
