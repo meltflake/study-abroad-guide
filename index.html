@@ -22132,7 +22132,7 @@ function renderCards(){
         </div>
         <div class="card-majors">
           <span>${t('top_majors')}</span>
-          <div class="major-list">${s.majors[lang].map(m=>{
+          <div class="major-list">${(s.majors[lang]||s.majors.en).map(m=>{
             const isMatch = searchQ && m.toLowerCase().includes(searchQ);
             return `<span class="major" ${isMatch?'style="background:#dbeafe;color:#1d4ed8;font-weight:600"':''}>${m}</span>`;
           }).join('')}</div>
@@ -22189,14 +22189,14 @@ function openCompare(){
     ['compare_safety_label', s=>`${s.safety}/10`],
     ['compare_city', s=>(s.city[lang]||s.city.en)],
     ['compare_climate', s=>(s.climate[lang]||s.climate.en)],
-    ['compare_living', s=>s.livingCost[lang]],
+    ['compare_living', s=>(s.livingCost[lang]||s.livingCost.en)],
     ['compare_requirements', s=>`TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}`],
     ['compare_ib', s=>s.requirements.IB || 'N/A'],
     ['compare_accept', s=>s.acceptanceRate ? `${s.acceptanceRate.overall} (${t('accept_intl')}: ${s.acceptanceRate.intl})` : 'N/A'],
     ['compare_deadline', s=>(s.deadline[lang]||s.deadline.en)],
 
     ['compare_housing_label', s=>(s.housing[lang]||s.housing.en)],
-    ['compare_graduation', s=>s.graduationRate[lang]],
+    ['compare_graduation', s=>(s.graduationRate[lang]||s.graduationRate.en)],
     ['compare_employment', s=>(s.employment[lang]||s.employment.en)],
     ['compare_healthcare', s=>(s.healthcare[lang]||s.healthcare.en)],
     ['compare_application', s=>(s.application[lang]||s.application.en)],
@@ -22223,7 +22223,7 @@ function openDetail(id){
   const s = SCHOOLS.find(x=>x.id===id);
   if(!s) return;
   const panel = document.getElementById('detailPanel');
-  const breakdown = Object.entries(s.tuitionBreakdown[lang]).map(([k,v])=>`<div class="item"><span class="label">${k}</span><span class="value">$${v.toLocaleString()}</span></div>`).join('');
+  const breakdown = Object.entries((s.tuitionBreakdown[lang]||s.tuitionBreakdown.en)).map(([k,v])=>`<div class="item"><span class="label">${k}</span><span class="value">$${v.toLocaleString()}</span></div>`).join('');
   panel.innerHTML = `
     <div class="detail-close"><button onclick="closeDetail()">✕</button></div>
     <div class="detail-header">
@@ -22237,14 +22237,14 @@ function openDetail(id){
     <div class="detail-content">
       <div class="detail-section">
         <h3>${t('detail_overview')}</h3>
-        <p class="detail-desc">${s.desc[lang]}</p>
+        <p class="detail-desc">${(s.desc[lang]||s.desc.en)}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_tuition')}</h3>
         <div class="detail-grid">${breakdown}</div>
         <div style="margin-top:1rem;padding:1rem;background:var(--gray-50);border-radius:8px;border-left:3px solid var(--gold)">
           <strong style="color:var(--navy);font-size:.9rem">${t('detail_major_tuition')}</strong>
-          <p class="detail-desc" style="white-space:pre-line;margin-top:.5rem;font-size:.85rem">${s.majorTuition[lang]}</p>
+          <p class="detail-desc" style="white-space:pre-line;margin-top:.5rem;font-size:.85rem">${(s.majorTuition[lang]||s.majorTuition.en)}</p>
         </div>
       </div>
       <div class="detail-section">
@@ -22268,7 +22268,7 @@ function openDetail(id){
       </div>
       <div class="detail-section">
         <h3>${t('detail_living')}</h3>
-        <p class="detail-desc">${s.livingCost[lang]}</p>
+        <p class="detail-desc">${(s.livingCost[lang]||s.livingCost.en)}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_housing')}</h3>
@@ -22276,7 +22276,7 @@ function openDetail(id){
       </div>
       <div class="detail-section">
         <h3>${t('detail_graduation')}</h3>
-        <p class="detail-desc">${s.graduationRate[lang]}</p>
+        <p class="detail-desc">${(s.graduationRate[lang]||s.graduationRate.en)}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_employment')}</h3>
@@ -22313,7 +22313,7 @@ function closeDetail(){
     const btn = document.createElement('button');
     btn.className = 'rec-tag active';
     btn.dataset.country = c;
-    btn.innerHTML = `${countries[c].flag} ${countryNames[c][lang]}`;
+    btn.innerHTML = `${countries[c].flag} ${(countryNames[c][lang]||countryNames[c].en)}`;
     btn.onclick = function(){
       const allBtns = document.querySelectorAll('#recCountries .rec-tag');
       const allActive = [...allBtns].every(b => b.classList.contains('active'));
@@ -22346,7 +22346,7 @@ function closeDetail(){
     const btn = document.createElement('button');
     btn.className = 'rec-tag';
     btn.dataset.priority = p.id;
-    btn.innerHTML = p[lang];
+    btn.innerHTML = (p[lang]||p.en);
     btn.onclick = function(){ this.classList.toggle('active'); runRecommend(); };
     pDiv.appendChild(btn);
   });
