@@ -141,7 +141,10 @@
     "acceptanceRate": {
       "overall": "70.0%",
       "intl": "~65%"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 47,
+    "graduationRateNum": 85
   },
   {
     "id": "usyd",
@@ -285,7 +288,10 @@
     "acceptanceRate": {
       "overall": "68.0%",
       "intl": "~60%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 35,
+    "graduationRateNum": 86
   },
   {
     "id": "unsw",
@@ -429,7 +435,10 @@
     "acceptanceRate": {
       "overall": "65.0%",
       "intl": "~60%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 40,
+    "graduationRateNum": 84
   },
   {
     "id": "anu",
@@ -573,7 +582,10 @@
     "acceptanceRate": {
       "overall": "55.0%",
       "intl": "~50%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 38,
+    "graduationRateNum": 85
   },
   {
     "id": "uq",
@@ -717,7 +729,10 @@
     "acceptanceRate": {
       "overall": "66.0%",
       "intl": "~60%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 30,
+    "graduationRateNum": 82
   },
   {
     "id": "monash",
@@ -861,7 +876,10 @@
     "acceptanceRate": {
       "overall": "65.0%",
       "intl": "~60%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 40,
+    "graduationRateNum": 82
   },
   {
     "id": "uwa",
@@ -1005,7 +1023,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 28,
+    "graduationRateNum": 82
   },
   {
     "id": "adelaide",
@@ -1149,7 +1170,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "uts",
@@ -1293,7 +1317,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 32,
+    "graduationRateNum": 78
   },
   {
     "id": "macquarie",
@@ -1437,7 +1464,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 78
   },
   {
     "id": "rmit",
@@ -1579,7 +1609,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 35,
+    "graduationRateNum": 72
   },
   {
     "id": "qut",
@@ -1721,7 +1754,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 18,
+    "graduationRateNum": 76
   },
   {
     "id": "wollongong",
@@ -1863,7 +1899,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 32,
+    "graduationRateNum": 76
   },
   {
     "id": "curtin",
@@ -2005,7 +2044,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 30,
+    "graduationRateNum": 74
   },
   {
     "id": "deakin",
@@ -2147,7 +2189,10 @@
     "acceptanceRate": {
       "overall": "~60-75%",
       "intl": "~55-70%"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 22,
+    "graduationRateNum": 75
   },
   {
     "id": "latrobe",
@@ -2282,7 +2327,10 @@
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
     },
-    "flag": "🇦🇺"
+    "flag": "🇦🇺",
+    "studentFacultyRatio": 20,
+    "internationalRate": 28,
+    "graduationRateNum": 72
   },
   {
     "id": "griffith",
@@ -2417,7 +2465,10 @@
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
     },
-    "flag": "🇦🇺"
+    "flag": "🇦🇺",
+    "studentFacultyRatio": 22,
+    "internationalRate": 25,
+    "graduationRateNum": 73
   },
   {
     "id": "flinders",
@@ -2552,7 +2603,10 @@
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
     },
-    "flag": "🇦🇺"
+    "flag": "🇦🇺",
+    "studentFacultyRatio": 18,
+    "internationalRate": 25,
+    "graduationRateNum": 74
   },
   {
     "id": "utas",
@@ -2687,7 +2741,10 @@
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
     },
-    "flag": "🇦🇺"
+    "flag": "🇦🇺",
+    "studentFacultyRatio": 20,
+    "internationalRate": 22,
+    "graduationRateNum": 70
   },
   {
     "id": "unewcastle",
@@ -2822,7 +2879,10 @@
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
     },
-    "flag": "🇦🇺"
+    "flag": "🇦🇺",
+    "studentFacultyRatio": 18,
+    "internationalRate": 20,
+    "graduationRateNum": 76
   },
   {
     "id": "swinburne",
@@ -2957,7 +3017,10 @@
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
     },
-    "flag": "🇦🇺"
+    "flag": "🇦🇺",
+    "studentFacultyRatio": 20,
+    "internationalRate": 28,
+    "graduationRateNum": 72
   },
   {
     "id": "jcu",
@@ -3092,7 +3155,10 @@
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
     },
-    "flag": "🇦🇺"
+    "flag": "🇦🇺",
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 72
   },
   {
     "id": "usouthau",
@@ -3227,7 +3293,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "murdoch",
@@ -3362,7 +3431,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 25,
+    "graduationRateNum": 70
   },
   {
     "id": "cqu",
@@ -3497,7 +3569,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 25,
+    "internationalRate": 18,
+    "graduationRateNum": 65
   },
   {
     "id": "uca",
@@ -3632,7 +3707,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "wsu",
@@ -3767,7 +3845,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "cdu",
@@ -3902,7 +3983,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "usc_au",
@@ -4037,7 +4121,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "acu",
@@ -4172,7 +4259,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "bond",
@@ -4307,7 +4397,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 40,
+    "graduationRateNum": 82
   },
   {
     "id": "vu",
@@ -4442,7 +4535,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "une",
@@ -4577,7 +4673,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "ecu",
@@ -4712,7 +4811,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 15,
+    "graduationRateNum": 70
   },
   {
     "id": "fsu",
@@ -4847,7 +4949,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "usq",
@@ -4982,7 +5087,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "csu",
@@ -5117,7 +5225,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "uts2",
@@ -5252,7 +5363,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "anu_crawford",
@@ -5387,7 +5501,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "scuau",
@@ -5522,7 +5639,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "adelaide2",
@@ -5657,7 +5777,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "usunshine",
@@ -5792,7 +5915,10 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 30,
+    "graduationRateNum": 75
   },
   {
     "id": "nida",
@@ -5913,7 +6039,10 @@
     "graduationRate": {
       "zh": "毕业率约90%。",
       "en": "Graduation rate ~90%."
-    }
+    },
+    "studentFacultyRatio": 8,
+    "internationalRate": 15,
+    "graduationRateNum": 90
   },
   {
     "id": "vca",
@@ -6045,6 +6174,9 @@
     "graduationRate": {
       "zh": "毕业率约85%。",
       "en": "Graduation rate ~85%."
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 20,
+    "graduationRateNum": 85
   }
 ]

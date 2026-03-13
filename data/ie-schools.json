@@ -141,7 +141,10 @@
     "acceptanceRate": {
       "overall": "35.0%",
       "intl": "~30%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 30,
+    "graduationRateNum": 88
   },
   {
     "id": "ucdie",
@@ -285,7 +288,10 @@
     "acceptanceRate": {
       "overall": "~45-65%",
       "intl": "~40-60%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 28,
+    "graduationRateNum": 85
   },
   {
     "id": "galway",
@@ -429,7 +435,10 @@
     "acceptanceRate": {
       "overall": "~45-65%",
       "intl": "~40-60%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 22,
+    "graduationRateNum": 82
   },
   {
     "deadline": {
@@ -569,7 +578,10 @@
     "acceptanceRate": {
       "overall": "~45-65%",
       "intl": "~40-60%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 22,
+    "graduationRateNum": 82
   },
   {
     "deadline": {
@@ -709,6 +721,9 @@
     "acceptanceRate": {
       "overall": "~45-65%",
       "intl": "~40-60%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 22,
+    "graduationRateNum": 82
   }
 ]

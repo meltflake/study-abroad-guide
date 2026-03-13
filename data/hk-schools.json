@@ -138,7 +138,10 @@
     "acceptanceRate": {
       "overall": "9.0%",
       "intl": "~8%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 50,
+    "graduationRateNum": 90
   },
   {
     "id": "cuhk",
@@ -279,7 +282,10 @@
     "acceptanceRate": {
       "overall": "15.0%",
       "intl": "~12%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 35,
+    "graduationRateNum": 88
   },
   {
     "id": "hkust",
@@ -420,7 +426,10 @@
     "acceptanceRate": {
       "overall": "13.0%",
       "intl": "~10%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 40,
+    "graduationRateNum": 90
   },
   {
     "id": "polyu",
@@ -561,7 +570,10 @@
     "acceptanceRate": {
       "overall": "25.0%",
       "intl": "~20%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 30,
+    "graduationRateNum": 82
   },
   {
     "id": "cityu",
@@ -702,7 +714,10 @@
     "acceptanceRate": {
       "overall": "28.0%",
       "intl": "~25%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 45,
+    "graduationRateNum": 85
   },
   {
     "id": "hkbu",
@@ -843,6 +858,9 @@
     "acceptanceRate": {
       "overall": "~20-35%",
       "intl": "~15-30%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 28,
+    "graduationRateNum": 80
   }
 ]

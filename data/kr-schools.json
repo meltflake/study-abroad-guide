@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "春季入学：9-10月；秋季入学：3-5月",
       "en": "Spring admission: Sep-Oct; Fall admission: Mar-May"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 12,
+    "graduationRateNum": 90
   },
   {
     "id": "kaist",
@@ -267,7 +270,10 @@
     "deadline": {
       "zh": "春季入学：9月；秋季入学：3月",
       "en": "Spring admission: September; Fall admission: March"
-    }
+    },
+    "studentFacultyRatio": 8,
+    "internationalRate": 12,
+    "graduationRateNum": 92
   },
   {
     "id": "yonsei",
@@ -402,7 +408,10 @@
     "deadline": {
       "zh": "UIC：3月（秋季入学）/ 9月（春季入学）",
       "en": "UIC: March (fall entry) / September (spring entry)"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 14,
+    "graduationRateNum": 88
   },
   {
     "id": "korea",
@@ -537,7 +546,10 @@
     "deadline": {
       "zh": "3月（秋季入学）/ 9月（春季入学）",
       "en": "March (fall entry) / September (spring entry)"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 12,
+    "graduationRateNum": 86
   },
   {
     "id": "postech",
@@ -672,7 +684,10 @@
     "deadline": {
       "zh": "11月（春季入学）/ 5月（秋季入学）",
       "en": "November (spring entry) / May (fall entry)"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 10,
+    "graduationRateNum": 92
   },
   {
     "id": "skku",
@@ -807,7 +822,10 @@
     "deadline": {
       "zh": "3月（秋季入学）/ 9月（春季入学）",
       "en": "March (fall entry) / September (spring entry)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 16,
+    "graduationRateNum": 84
   },
   {
     "id": "hanyang",
@@ -942,7 +960,10 @@
     "deadline": {
       "zh": "3月（秋季）/ 9月（春季）",
       "en": "March (fall) / September (spring)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 14,
+    "graduationRateNum": 82
   },
   {
     "id": "sogang",
@@ -1077,6 +1098,9 @@
     "deadline": {
       "zh": "3月（秋季）/ 9月（春季）",
       "en": "March (fall) / September (spring)"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 12,
+    "graduationRateNum": 84
   }
 ]

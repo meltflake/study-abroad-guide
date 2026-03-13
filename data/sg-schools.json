@@ -141,7 +141,10 @@
     "acceptanceRate": {
       "overall": "6.0%",
       "intl": "~3-5%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 35,
+    "graduationRateNum": 92
   },
   {
     "id": "ntu",
@@ -285,7 +288,10 @@
     "acceptanceRate": {
       "overall": "8.0%",
       "intl": "~5-8%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 30,
+    "graduationRateNum": 88
   },
   {
     "id": "smu_sg",
@@ -429,7 +435,10 @@
     "acceptanceRate": {
       "overall": "25.0%",
       "intl": "~20%"
-    }
+    },
+    "studentFacultyRatio": 15,
+    "internationalRate": 35,
+    "graduationRateNum": 88
   },
   {
     "id": "sutd",
@@ -573,7 +582,10 @@
     "acceptanceRate": {
       "overall": "~15-30%",
       "intl": "~10-20%"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 30,
+    "graduationRateNum": 90
   },
   {
     "deadline": {
@@ -713,7 +725,10 @@
     "acceptanceRate": {
       "overall": "~15-30%",
       "intl": "~10-20%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 10,
+    "graduationRateNum": 85
   },
   {
     "deadline": {
@@ -853,6 +868,9 @@
     "acceptanceRate": {
       "overall": "~15-30%",
       "intl": "~10-20%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 30,
+    "graduationRateNum": 88
   }
 ]

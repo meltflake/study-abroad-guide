@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "Parcoursup: 1月-3月注册；国际生：通常12月-3月",
       "en": "Parcoursup: Jan-Mar registration; International: usually Dec-Mar"
-    }
+    },
+    "studentFacultyRatio": 8,
+    "internationalRate": 35,
+    "graduationRateNum": 85
   },
   {
     "id": "polytechnique",
@@ -267,7 +270,10 @@
     "deadline": {
       "zh": "Bachelor项目：通常1月-4月",
       "en": "Bachelor program: usually January-April"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 25,
+    "graduationRateNum": 78
   },
   {
     "id": "sorbonne",
@@ -402,6 +408,9 @@
     "deadline": {
       "zh": "Parcoursup: 1-3月；国际生：12-3月",
       "en": "Parcoursup: Jan-Mar; International: Dec-Mar"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 22,
+    "graduationRateNum": 78
   }
 ]

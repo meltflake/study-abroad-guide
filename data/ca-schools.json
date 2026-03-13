@@ -141,7 +141,10 @@
     "acceptanceRate": {
       "overall": "43.0%",
       "intl": "~35%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "ubc",
@@ -285,7 +288,10 @@
     "acceptanceRate": {
       "overall": "46.0%",
       "intl": "~35%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 28,
+    "graduationRateNum": 86
   },
   {
     "id": "mcgill",
@@ -429,7 +435,10 @@
     "acceptanceRate": {
       "overall": "41.0%",
       "intl": "~30%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 30,
+    "graduationRateNum": 85
   },
   {
     "id": "mcmaster",
@@ -573,7 +582,10 @@
     "acceptanceRate": {
       "overall": "58.0%",
       "intl": "~50%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 18,
+    "graduationRateNum": 84
   },
   {
     "id": "umontreal",
@@ -717,7 +729,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "ualberta",
@@ -861,7 +876,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 22,
+    "graduationRateNum": 80
   },
   {
     "id": "uottawa",
@@ -1005,7 +1023,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 20,
+    "graduationRateNum": 82
   },
   {
     "id": "ucalgary",
@@ -1149,7 +1170,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 20,
+    "graduationRateNum": 78
   },
   {
     "id": "uwaterloo",
@@ -1293,7 +1317,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 28,
+    "graduationRateNum": 84
   },
   {
     "id": "western",
@@ -1437,7 +1464,10 @@
     "acceptanceRate": {
       "overall": "56.0%",
       "intl": "~50%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 18,
+    "graduationRateNum": 87
   },
   {
     "id": "queens",
@@ -1581,7 +1611,10 @@
     "acceptanceRate": {
       "overall": "42.0%",
       "intl": "~35%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 14,
+    "graduationRateNum": 90
   },
   {
     "id": "dalhousie",
@@ -1725,7 +1758,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 18,
+    "graduationRateNum": 78
   },
   {
     "id": "sfu",
@@ -1869,7 +1905,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 25,
+    "graduationRateNum": 78
   },
   {
     "id": "uvic",
@@ -2013,7 +2052,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 20,
+    "graduationRateNum": 80
   },
   {
     "id": "laval",
@@ -2157,7 +2199,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "umanitoba",
@@ -2301,7 +2346,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 76
   },
   {
     "id": "usask",
@@ -2445,7 +2493,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 16,
+    "graduationRateNum": 75
   },
   {
     "id": "concordia",
@@ -2589,7 +2640,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 20,
+    "graduationRateNum": 72
   },
   {
     "id": "tmu",
@@ -2733,7 +2787,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "carleton",
@@ -2877,7 +2934,10 @@
     "acceptanceRate": {
       "overall": "~50-65%",
       "intl": "~40-55%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 78
   },
   {
     "id": "yorku",
@@ -3012,7 +3072,10 @@
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
     },
-    "flag": "🇨🇦"
+    "flag": "🇨🇦",
+    "studentFacultyRatio": 22,
+    "internationalRate": 22,
+    "graduationRateNum": 72
   },
   {
     "id": "guelph",
@@ -3147,7 +3210,10 @@
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
     },
-    "flag": "🇨🇦"
+    "flag": "🇨🇦",
+    "studentFacultyRatio": 20,
+    "internationalRate": 12,
+    "graduationRateNum": 82
   },
   {
     "id": "uwinnipeg",
@@ -3282,7 +3348,10 @@
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
     },
-    "flag": "🇨🇦"
+    "flag": "🇨🇦",
+    "studentFacultyRatio": 22,
+    "internationalRate": 14,
+    "graduationRateNum": 70
   },
   {
     "id": "unb",
@@ -3417,7 +3486,10 @@
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
     },
-    "flag": "🇨🇦"
+    "flag": "🇨🇦",
+    "studentFacultyRatio": 16,
+    "internationalRate": 18,
+    "graduationRateNum": 76
   },
   {
     "id": "uregina",
@@ -3552,7 +3624,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 15,
+    "graduationRateNum": 72
   },
   {
     "id": "mta",
@@ -3687,7 +3762,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 12,
+    "graduationRateNum": 78
   },
   {
     "id": "uwaterloo2",
@@ -3822,7 +3900,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "brocku",
@@ -3957,7 +4038,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "trent",
@@ -4092,7 +4176,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 10,
+    "graduationRateNum": 78
   },
   {
     "id": "uleth",
@@ -4227,7 +4314,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "lakehead",
@@ -4362,7 +4452,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 10,
+    "graduationRateNum": 68
   },
   {
     "id": "upei",
@@ -4497,7 +4590,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 18,
+    "graduationRateNum": 74
   },
   {
     "id": "acadia",
@@ -4632,7 +4728,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 14,
+    "graduationRateNum": 76
   },
   {
     "id": "ufredericton",
@@ -4767,7 +4866,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "okanagan",
@@ -4902,7 +5004,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "mun",
@@ -5037,7 +5142,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 16,
+    "graduationRateNum": 72
   },
   {
     "id": "ryerson",
@@ -5172,7 +5280,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 20,
+    "graduationRateNum": 74
   },
   {
     "id": "uwindsor",
@@ -5307,7 +5418,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "macewan",
@@ -5442,7 +5556,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "kwantlen",
@@ -5577,7 +5694,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "ubishops",
@@ -5712,7 +5832,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "ufrasv",
@@ -5847,7 +5970,10 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 75
   },
   {
     "id": "nipissing",
@@ -5982,6 +6108,9 @@
     "deadline": {
       "zh": "通常1月-3月（因校而异）",
       "en": "Usually January-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 8,
+    "graduationRateNum": 74
   }
 ]

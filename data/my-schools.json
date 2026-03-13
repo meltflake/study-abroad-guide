@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "国际生：3月（9月入学）/ 8月（2月入学）",
       "en": "International: March (Sep intake) / August (Feb intake)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 20,
+    "graduationRateNum": 80
   },
   {
     "id": "utm",
@@ -267,6 +270,9 @@
     "deadline": {
       "zh": "3月（9月入学）/ 8月（2月入学）",
       "en": "March (Sep intake) / August (Feb intake)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 18,
+    "graduationRateNum": 78
   }
 ]

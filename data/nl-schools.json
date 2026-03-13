@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "非EU学生：4月1日（部分专业1月15日）",
       "en": "Non-EU students: April 1 (some programs January 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   },
   {
     "id": "tudelft",
@@ -267,7 +270,10 @@
     "deadline": {
       "zh": "非EU学生：4月1日（部分专业1月15日）",
       "en": "Non-EU students: April 1 (some programs January 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   },
   {
     "id": "utrecht",
@@ -402,7 +408,10 @@
     "deadline": {
       "zh": "非EU学生：4月1日",
       "en": "Non-EU students: April 1"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   },
   {
     "id": "leiden",
@@ -537,7 +546,10 @@
     "deadline": {
       "zh": "非EU学生：4月1日",
       "en": "Non-EU students: April 1"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 20,
+    "graduationRateNum": 80
   },
   {
     "id": "wageningen",
@@ -672,7 +684,10 @@
     "deadline": {
       "zh": "非EU学生：4月1日",
       "en": "Non-EU students: April 1"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   },
   {
     "id": "groningen",
@@ -807,7 +822,10 @@
     "deadline": {
       "zh": "非EU学生：4月1日",
       "en": "Non-EU students: April 1"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   },
   {
     "id": "eindhoven",
@@ -942,6 +960,9 @@
     "deadline": {
       "zh": "非EU学生：4月1日",
       "en": "Non-EU students: April 1"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 25,
+    "graduationRateNum": 78
   }
 ]

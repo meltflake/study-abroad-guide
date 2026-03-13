@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "冬季学期（10月开学）：7月15日；夏季学期（4月开学）：1月15日",
       "en": "Winter semester (Oct start): Jul 15; Summer semester (Apr start): Jan 15"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 22,
+    "graduationRateNum": 75
   },
   {
     "id": "lmu",
@@ -267,7 +270,10 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 20,
+    "graduationRateNum": 75
   },
   {
     "id": "heidelberg",
@@ -402,7 +408,10 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 20,
+    "graduationRateNum": 82
   },
   {
     "id": "huberlin",
@@ -537,7 +546,10 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 22,
+    "graduationRateNum": 75
   },
   {
     "id": "fuberlin",
@@ -672,7 +684,10 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 22,
+    "graduationRateNum": 75
   },
   {
     "id": "rwth",
@@ -807,7 +822,10 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 28,
+    "graduationRateNum": 78
   },
   {
     "id": "tuberlin",
@@ -942,7 +960,10 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 22,
+    "graduationRateNum": 75
   },
   {
     "id": "freiburg",
@@ -1077,7 +1098,10 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 22,
+    "graduationRateNum": 75
   },
   {
     "id": "goettingen",
@@ -1212,7 +1236,10 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 18,
+    "graduationRateNum": 78
   },
   {
     "id": "tubingen",
@@ -1347,6 +1374,9 @@
     "deadline": {
       "zh": "冬季学期：7月15日；夏季学期：1月15日",
       "en": "Winter semester: Jul 15; Summer semester: Jan 15"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 22,
+    "graduationRateNum": 75
   }
 ]

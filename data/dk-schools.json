@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "国际生：3月15日",
       "en": "International students: March 15"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 22,
+    "graduationRateNum": 82
   },
   {
     "id": "dtu",
@@ -267,6 +270,9 @@
     "deadline": {
       "zh": "非EU学生：3月15日",
       "en": "Non-EU students: March 15"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   }
 ]

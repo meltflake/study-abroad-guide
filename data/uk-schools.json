@@ -141,7 +141,10 @@
     "acceptanceRate": {
       "overall": "14.5%",
       "intl": "~9%"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 46,
+    "graduationRateNum": 97
   },
   {
     "id": "cambridge",
@@ -285,7 +288,10 @@
     "acceptanceRate": {
       "overall": "15.5%",
       "intl": "~10%"
-    }
+    },
+    "studentFacultyRatio": 11,
+    "internationalRate": 39,
+    "graduationRateNum": 97
   },
   {
     "id": "imperial",
@@ -427,7 +433,10 @@
     "acceptanceRate": {
       "overall": "14.3%",
       "intl": "~14%"
-    }
+    },
+    "studentFacultyRatio": 11,
+    "internationalRate": 60,
+    "graduationRateNum": 93
   },
   {
     "id": "ucl",
@@ -569,7 +578,10 @@
     "acceptanceRate": {
       "overall": "22.0%",
       "intl": "~25%"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 52,
+    "graduationRateNum": 90
   },
   {
     "id": "lse",
@@ -711,7 +723,10 @@
     "acceptanceRate": {
       "overall": "11.0%",
       "intl": "~12%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 70,
+    "graduationRateNum": 90
   },
   {
     "id": "edinburgh",
@@ -853,7 +868,10 @@
     "acceptanceRate": {
       "overall": "33.0%",
       "intl": "~30%"
-    }
+    },
+    "studentFacultyRatio": 13,
+    "internationalRate": 47,
+    "graduationRateNum": 87
   },
   {
     "id": "manchester",
@@ -995,7 +1013,10 @@
     "acceptanceRate": {
       "overall": "55.0%",
       "intl": "~50%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 42,
+    "graduationRateNum": 86
   },
   {
     "id": "kcl",
@@ -1137,7 +1158,10 @@
     "acceptanceRate": {
       "overall": "28.0%",
       "intl": "~30%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 49,
+    "graduationRateNum": 86
   },
   {
     "id": "bristol",
@@ -1279,7 +1303,10 @@
     "acceptanceRate": {
       "overall": "38.0%",
       "intl": "~35%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 32,
+    "graduationRateNum": 89
   },
   {
     "id": "warwick",
@@ -1421,7 +1448,10 @@
     "acceptanceRate": {
       "overall": "35.0%",
       "intl": "~30%"
-    }
+    },
+    "studentFacultyRatio": 13,
+    "internationalRate": 40,
+    "graduationRateNum": 89
   },
   {
     "id": "glasgow",
@@ -1563,7 +1593,10 @@
     "acceptanceRate": {
       "overall": "50.0%",
       "intl": "~45%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 85
   },
   {
     "id": "southampton",
@@ -1705,7 +1738,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 32,
+    "graduationRateNum": 85
   },
   {
     "id": "leeds",
@@ -1847,7 +1883,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 15,
+    "internationalRate": 30,
+    "graduationRateNum": 86
   },
   {
     "id": "birmingham",
@@ -1989,7 +2028,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 15,
+    "internationalRate": 30,
+    "graduationRateNum": 87
   },
   {
     "id": "sheffield",
@@ -2131,7 +2173,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 34,
+    "graduationRateNum": 85
   },
   {
     "id": "st-andrews",
@@ -2273,7 +2318,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "durham",
@@ -2417,7 +2465,10 @@
     "acceptanceRate": {
       "overall": "30.0%",
       "intl": "~28%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 30,
+    "graduationRateNum": 92
   },
   {
     "id": "nottingham",
@@ -2559,7 +2610,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 28,
+    "graduationRateNum": 87
   },
   {
     "id": "queen-mary",
@@ -2701,7 +2755,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "lancaster",
@@ -2843,7 +2900,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 30,
+    "graduationRateNum": 86
   },
   {
     "id": "york",
@@ -2985,7 +3045,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 28,
+    "graduationRateNum": 87
   },
   {
     "id": "exeter",
@@ -3127,7 +3190,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 30,
+    "graduationRateNum": 90
   },
   {
     "id": "bath",
@@ -3269,7 +3335,10 @@
     "acceptanceRate": {
       "overall": "25.0%",
       "intl": "~22%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 33,
+    "graduationRateNum": 91
   },
   {
     "id": "liverpool",
@@ -3411,7 +3480,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 30,
+    "graduationRateNum": 85
   },
   {
     "id": "cardiff",
@@ -3553,7 +3625,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 27,
+    "graduationRateNum": 85
   },
   {
     "id": "newcastle",
@@ -3695,7 +3770,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 30,
+    "graduationRateNum": 86
   },
   {
     "id": "reading",
@@ -3837,7 +3915,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 15,
+    "internationalRate": 28,
+    "graduationRateNum": 83
   },
   {
     "id": "sussex",
@@ -3979,7 +4060,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 32,
+    "graduationRateNum": 82
   },
   {
     "id": "surrey",
@@ -4121,7 +4205,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 15,
+    "internationalRate": 25,
+    "graduationRateNum": 85
   },
   {
     "id": "loughborough",
@@ -4263,7 +4350,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-55%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "aberdeen",
@@ -4398,7 +4488,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 14,
+    "internationalRate": 35,
+    "graduationRateNum": 82
   },
   {
     "id": "qub",
@@ -4533,7 +4626,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 15,
+    "internationalRate": 22,
+    "graduationRateNum": 85
   },
   {
     "id": "dundee",
@@ -4668,7 +4764,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 13,
+    "internationalRate": 25,
+    "graduationRateNum": 83
   },
   {
     "id": "royalholloway",
@@ -4803,7 +4902,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 14,
+    "internationalRate": 38,
+    "graduationRateNum": 85
   },
   {
     "id": "uea",
@@ -4938,7 +5040,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 14,
+    "internationalRate": 28,
+    "graduationRateNum": 84
   },
   {
     "id": "heriotwatt",
@@ -5073,7 +5178,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 78
   },
   {
     "id": "strathclyde",
@@ -5208,7 +5316,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 16,
+    "internationalRate": 22,
+    "graduationRateNum": 82
   },
   {
     "id": "swansea",
@@ -5343,7 +5454,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 16,
+    "internationalRate": 22,
+    "graduationRateNum": 80
   },
   {
     "id": "brunel",
@@ -5478,7 +5592,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 16,
+    "internationalRate": 30,
+    "graduationRateNum": 78
   },
   {
     "id": "kent",
@@ -5613,7 +5730,10 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     },
-    "flag": "🇬🇧"
+    "flag": "🇬🇧",
+    "studentFacultyRatio": 16,
+    "internationalRate": 28,
+    "graduationRateNum": 80
   },
   {
     "id": "leicester",
@@ -5748,7 +5868,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 28,
+    "graduationRateNum": 83
   },
   {
     "id": "aston",
@@ -5883,7 +6006,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 32,
+    "graduationRateNum": 80
   },
   {
     "id": "essex",
@@ -6018,7 +6144,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 40,
+    "graduationRateNum": 78
   },
   {
     "id": "city",
@@ -6153,7 +6282,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 48,
+    "graduationRateNum": 78
   },
   {
     "id": "stirling",
@@ -6288,7 +6420,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "ulster",
@@ -6423,7 +6558,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 15,
+    "graduationRateNum": 78
   },
   {
     "id": "coventry",
@@ -6558,7 +6696,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 35,
+    "graduationRateNum": 76
   },
   {
     "id": "portsmouth",
@@ -6693,7 +6834,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "uwest",
@@ -6828,7 +6972,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "lincoln",
@@ -6963,7 +7110,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "plymouth",
@@ -7098,7 +7248,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 15,
+    "graduationRateNum": 75
   },
   {
     "id": "napier",
@@ -7233,7 +7386,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "northumbria",
@@ -7368,7 +7524,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "greenwich",
@@ -7503,7 +7662,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 35,
+    "graduationRateNum": 70
   },
   {
     "id": "oxford_brookes",
@@ -7638,7 +7800,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "keele",
@@ -7773,7 +7938,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 15,
+    "graduationRateNum": 82
   },
   {
     "id": "bangor",
@@ -7908,7 +8076,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "bournemouth",
@@ -8043,7 +8214,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "derby",
@@ -8178,7 +8352,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 70
   },
   {
     "id": "hull",
@@ -8313,7 +8490,10 @@
     "deadline": {
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 35,
+    "graduationRateNum": 80
   },
   {
     "id": "ual",
@@ -8457,7 +8637,10 @@
     "graduationRate": {
       "zh": "毕业率约80%。",
       "en": "Graduation rate ~80%."
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 55,
+    "graduationRateNum": 80
   },
   {
     "id": "goldsmiths",
@@ -8594,7 +8777,10 @@
     "graduationRate": {
       "zh": "毕业率约75%。",
       "en": "Graduation rate ~75%."
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 40,
+    "graduationRateNum": 78
   },
   {
     "id": "gsa",
@@ -8731,6 +8917,9 @@
     "graduationRate": {
       "zh": "毕业率约80%。",
       "en": "Graduation rate ~80%."
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 30,
+    "graduationRateNum": 82
   }
 ]

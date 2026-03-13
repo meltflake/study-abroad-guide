@@ -141,7 +141,10 @@
     "acceptanceRate": {
       "overall": "65.0%",
       "intl": "~60%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 32,
+    "graduationRateNum": 82
   },
   {
     "id": "otago",
@@ -285,7 +288,10 @@
     "acceptanceRate": {
       "overall": "~65-80%",
       "intl": "~60-75%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 22,
+    "graduationRateNum": 80
   },
   {
     "id": "victoria",
@@ -429,7 +435,10 @@
     "acceptanceRate": {
       "overall": "~65-80%",
       "intl": "~60-75%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 22,
+    "graduationRateNum": 78
   },
   {
     "deadline": {
@@ -569,7 +578,10 @@
     "acceptanceRate": {
       "overall": "~65-80%",
       "intl": "~60-75%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 20,
+    "graduationRateNum": 78
   },
   {
     "deadline": {
@@ -709,7 +721,10 @@
     "acceptanceRate": {
       "overall": "~65-80%",
       "intl": "~60-75%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 20,
+    "graduationRateNum": 75
   },
   {
     "deadline": {
@@ -849,6 +864,9 @@
     "acceptanceRate": {
       "overall": "~65-80%",
       "intl": "~60-75%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 72
   }
 ]

@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "DASA：通常4月-6月",
       "en": "DASA: usually April-June"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 5,
+    "graduationRateNum": 88
   },
   {
     "id": "iitd",
@@ -267,7 +270,10 @@
     "deadline": {
       "zh": "DASA：通常4月-6月",
       "en": "DASA: usually April-June"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 5,
+    "graduationRateNum": 87
   },
   {
     "id": "iisc",
@@ -402,6 +408,9 @@
     "deadline": {
       "zh": "本科：通常4月-5月",
       "en": "Undergrad: usually April-May"
-    }
+    },
+    "studentFacultyRatio": 8,
+    "internationalRate": 5,
+    "graduationRateNum": 90
   }
 ]

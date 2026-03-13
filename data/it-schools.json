@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "国际生：通常2月-4月（第一轮）",
       "en": "International: usually February-April (first round)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 25,
+    "graduationRateNum": 75
   },
   {
     "id": "sapienza",
@@ -267,7 +270,10 @@
     "deadline": {
       "zh": "国际生：通常4月-7月",
       "en": "International: usually April-July"
-    }
+    },
+    "studentFacultyRatio": 22,
+    "internationalRate": 15,
+    "graduationRateNum": 68
   },
   {
     "id": "unibo",
@@ -402,6 +408,9 @@
     "deadline": {
       "zh": "国际生：通常3月-5月",
       "en": "International: usually March-May"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 72
   }
 ]

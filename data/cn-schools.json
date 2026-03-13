@@ -103,7 +103,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 12,
+    "graduationRateNum": 97
   },
   {
     "id": "pku",
@@ -209,7 +212,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 15,
+    "graduationRateNum": 96
   },
   {
     "id": "fudan",
@@ -315,7 +321,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 15,
+    "graduationRateNum": 95
   },
   {
     "id": "sjtu",
@@ -421,7 +430,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 14,
+    "graduationRateNum": 95
   },
   {
     "id": "zju",
@@ -527,7 +539,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 14,
+    "graduationRateNum": 95
   },
   {
     "id": "ustc",
@@ -633,7 +648,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 8,
+    "internationalRate": 8,
+    "graduationRateNum": 93
   },
   {
     "id": "nju",
@@ -739,7 +757,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 12,
+    "graduationRateNum": 94
   },
   {
     "id": "whu",
@@ -845,7 +866,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 92
   },
   {
     "id": "hust",
@@ -951,7 +975,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 92
   },
   {
     "id": "sysu",
@@ -1057,7 +1084,10 @@
     "application": {
       "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
       "en": "📋 Platform: Gaokao (mainland) / University international portal\\n📅 Deadline: After Gaokao / International: Jan-May\\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\\n📝 Required: Gaokao scores / International curriculum + language scores"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 12,
+    "graduationRateNum": 92
   },
   {
     "id": "hit",
@@ -1192,7 +1222,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 92
   },
   {
     "id": "xjtu",
@@ -1327,7 +1360,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 8,
+    "graduationRateNum": 91
   },
   {
     "id": "tongji",
@@ -1462,7 +1498,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 90
   },
   {
     "id": "bhu",
@@ -1597,7 +1636,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 90
   },
   {
     "id": "nankai",
@@ -1732,7 +1774,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 90
   },
   {
     "id": "seu",
@@ -1867,7 +1912,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 90
   },
   {
     "id": "tju",
@@ -2002,7 +2050,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 90
   },
   {
     "id": "scu_cn",
@@ -2137,7 +2188,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 90
   },
   {
     "id": "ruc",
@@ -2272,7 +2326,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 90
   },
   {
     "id": "buaa",
@@ -2407,7 +2464,10 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 8,
+    "graduationRateNum": 92
   },
   {
     "id": "bit",
@@ -2542,6 +2602,9 @@
     "deadline": {
       "zh": "通常12月-3月（因校而异）",
       "en": "Usually December-March (varies by school)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 8,
+    "graduationRateNum": 91
   }
 ]

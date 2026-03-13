@@ -132,6 +132,9 @@
     "deadline": {
       "zh": "2月-3月（第一学期）/ 7月-8月（第二学期）",
       "en": "February-March (1st semester) / July-August (2nd semester)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 8,
+    "graduationRateNum": 45
   }
 ]

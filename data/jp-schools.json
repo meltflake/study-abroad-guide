@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "PEAK项目：11月（第一轮）/ 2月（第二轮）",
       "en": "PEAK program: November (Round 1) / February (Round 2)"
-    }
+    },
+    "studentFacultyRatio": 8,
+    "internationalRate": 15,
+    "graduationRateNum": 95
   },
   {
     "id": "kyoto",
@@ -267,7 +270,10 @@
     "deadline": {
       "zh": "iUP项目：11月（第一轮）/ 2月（第二轮）",
       "en": "iUP program: November (Round 1) / February (Round 2)"
-    }
+    },
+    "studentFacultyRatio": 8,
+    "internationalRate": 12,
+    "graduationRateNum": 93
   },
   {
     "id": "osaka",
@@ -402,7 +408,10 @@
     "deadline": {
       "zh": "英语项目：通常11月-2月",
       "en": "English programs: usually November-February"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 12,
+    "graduationRateNum": 92
   },
   {
     "id": "tohoku",
@@ -537,7 +546,10 @@
     "deadline": {
       "zh": "FGL项目：通常11月-2月",
       "en": "FGL program: usually November-February"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 12,
+    "graduationRateNum": 90
   },
   {
     "id": "titech",
@@ -672,7 +684,10 @@
     "deadline": {
       "zh": "GSEP项目：11月-1月",
       "en": "GSEP program: November-January"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 12,
+    "graduationRateNum": 88
   },
   {
     "id": "nagoya",
@@ -807,7 +822,10 @@
     "deadline": {
       "zh": "G30项目：12月-2月",
       "en": "G30 program: December-February"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 10,
+    "graduationRateNum": 90
   },
   {
     "id": "waseda",
@@ -942,7 +960,10 @@
     "deadline": {
       "zh": "SILS项目：9月（春季入学）/ 4月（秋季入学）",
       "en": "SILS: September (spring entry) / April (fall entry)"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 18,
+    "graduationRateNum": 85
   },
   {
     "id": "keio",
@@ -1077,7 +1098,10 @@
     "deadline": {
       "zh": "PEARL项目：通常11月-1月",
       "en": "PEARL program: usually November-January"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 14,
+    "graduationRateNum": 87
   },
   {
     "id": "kyushu",
@@ -1212,7 +1236,10 @@
     "deadline": {
       "zh": "英语项目：通常11月-2月",
       "en": "English programs: usually November-February"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 10,
+    "graduationRateNum": 88
   },
   {
     "id": "hokkaido",
@@ -1347,6 +1374,9 @@
     "deadline": {
       "zh": "英语项目：通常10月-1月",
       "en": "English programs: usually October-January"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 10,
+    "graduationRateNum": 88
   }
 ]

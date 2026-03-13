@@ -138,7 +138,10 @@
     "acceptanceRate": {
       "overall": "3.2%",
       "intl": "~3%"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 25,
+    "graduationRateNum": 98
   },
   {
     "id": "mit",
@@ -279,7 +282,10 @@
     "acceptanceRate": {
       "overall": "3.5%",
       "intl": "~3%"
-    }
+    },
+    "studentFacultyRatio": 3,
+    "internationalRate": 33,
+    "graduationRateNum": 96
   },
   {
     "id": "stanford",
@@ -420,7 +426,10 @@
     "acceptanceRate": {
       "overall": "3.7%",
       "intl": "~3.5%"
-    }
+    },
+    "studentFacultyRatio": 5,
+    "internationalRate": 24,
+    "graduationRateNum": 96
   },
   {
     "id": "princeton",
@@ -561,7 +570,10 @@
     "acceptanceRate": {
       "overall": "3.5%",
       "intl": "~3%"
-    }
+    },
+    "studentFacultyRatio": 5,
+    "internationalRate": 24,
+    "graduationRateNum": 98
   },
   {
     "id": "yale",
@@ -702,7 +714,10 @@
     "acceptanceRate": {
       "overall": "4.3%",
       "intl": "~4%"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 22,
+    "graduationRateNum": 97
   },
   {
     "id": "caltech",
@@ -835,7 +850,10 @@
     "acceptanceRate": {
       "overall": "3.0%",
       "intl": "~5%"
-    }
+    },
+    "studentFacultyRatio": 3,
+    "internationalRate": 33,
+    "graduationRateNum": 94
   },
   {
     "id": "uchicago",
@@ -976,7 +994,10 @@
     "acceptanceRate": {
       "overall": "5.2%",
       "intl": "~5%"
-    }
+    },
+    "studentFacultyRatio": 5,
+    "internationalRate": 28,
+    "graduationRateNum": 95
   },
   {
     "id": "columbia",
@@ -1117,7 +1138,10 @@
     "acceptanceRate": {
       "overall": "3.9%",
       "intl": "~4%"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 33,
+    "graduationRateNum": 96
   },
   {
     "id": "upenn",
@@ -1258,7 +1282,10 @@
     "acceptanceRate": {
       "overall": "5.4%",
       "intl": "~5%"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 22,
+    "graduationRateNum": 96
   },
   {
     "id": "duke",
@@ -1399,7 +1426,10 @@
     "acceptanceRate": {
       "overall": "5.0%",
       "intl": "~5%"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 20,
+    "graduationRateNum": 96
   },
   {
     "id": "northwestern",
@@ -1540,7 +1570,10 @@
     "acceptanceRate": {
       "overall": "7.0%",
       "intl": "~7%"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 20,
+    "graduationRateNum": 95
   },
   {
     "id": "jhu",
@@ -1681,7 +1714,10 @@
     "acceptanceRate": {
       "overall": "6.5%",
       "intl": "~6%"
-    }
+    },
+    "studentFacultyRatio": 7,
+    "internationalRate": 27,
+    "graduationRateNum": 94
   },
   {
     "id": "dartmouth",
@@ -1822,7 +1858,10 @@
     "acceptanceRate": {
       "overall": "6.2%",
       "intl": "~6%"
-    }
+    },
+    "studentFacultyRatio": 7,
+    "internationalRate": 15,
+    "graduationRateNum": 96
   },
   {
     "id": "brown",
@@ -1963,7 +2002,10 @@
     "acceptanceRate": {
       "overall": "5.0%",
       "intl": "~5%"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 16,
+    "graduationRateNum": 96
   },
   {
     "id": "cornell",
@@ -2104,7 +2146,10 @@
     "acceptanceRate": {
       "overall": "7.3%",
       "intl": "~8%"
-    }
+    },
+    "studentFacultyRatio": 9,
+    "internationalRate": 25,
+    "graduationRateNum": 95
   },
   {
     "id": "rice",
@@ -2245,7 +2290,10 @@
     "acceptanceRate": {
       "overall": "7.7%",
       "intl": "~7%"
-    }
+    },
+    "studentFacultyRatio": 6,
+    "internationalRate": 18,
+    "graduationRateNum": 93
   },
   {
     "id": "vanderbilt",
@@ -2386,7 +2434,10 @@
     "acceptanceRate": {
       "overall": "5.6%",
       "intl": "~6%"
-    }
+    },
+    "studentFacultyRatio": 7,
+    "internationalRate": 14,
+    "graduationRateNum": 93
   },
   {
     "id": "notre-dame",
@@ -2527,7 +2578,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 7,
+    "graduationRateNum": 96
   },
   {
     "id": "georgetown",
@@ -2668,7 +2722,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 11,
+    "internationalRate": 17,
+    "graduationRateNum": 95
   },
   {
     "id": "ucla",
@@ -2812,7 +2869,10 @@
     "acceptanceRate": {
       "overall": "8.6%",
       "intl": "~7%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 16,
+    "graduationRateNum": 92
   },
   {
     "id": "uc-berkeley",
@@ -2956,7 +3016,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 17,
+    "graduationRateNum": 93
   },
   {
     "id": "ucsd",
@@ -3100,7 +3163,10 @@
     "acceptanceRate": {
       "overall": "24.7%",
       "intl": "~18%"
-    }
+    },
+    "studentFacultyRatio": 19,
+    "internationalRate": 22,
+    "graduationRateNum": 88
   },
   {
     "id": "ucsb",
@@ -3244,7 +3310,10 @@
     "acceptanceRate": {
       "overall": "25.9%",
       "intl": "~20%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 15,
+    "graduationRateNum": 84
   },
   {
     "id": "ucd",
@@ -3388,7 +3457,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 16,
+    "graduationRateNum": 86
   },
   {
     "id": "uci",
@@ -3532,7 +3604,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 19,
+    "graduationRateNum": 87
   },
   {
     "id": "umich",
@@ -3676,7 +3751,10 @@
     "acceptanceRate": {
       "overall": "17.7%",
       "intl": "~15%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 17,
+    "graduationRateNum": 93
   },
   {
     "id": "uva",
@@ -3820,7 +3898,10 @@
     "acceptanceRate": {
       "overall": "16.3%",
       "intl": "~14%"
-    }
+    },
+    "studentFacultyRatio": 15,
+    "internationalRate": 11,
+    "graduationRateNum": 95
   },
   {
     "id": "cmu",
@@ -3961,7 +4042,10 @@
     "acceptanceRate": {
       "overall": "11.2%",
       "intl": "~10%"
-    }
+    },
+    "studentFacultyRatio": 5,
+    "internationalRate": 42,
+    "graduationRateNum": 93
   },
   {
     "id": "nyu",
@@ -4102,7 +4186,10 @@
     "acceptanceRate": {
       "overall": "12.2%",
       "intl": "~15%"
-    }
+    },
+    "studentFacultyRatio": 9,
+    "internationalRate": 30,
+    "graduationRateNum": 87
   },
   {
     "id": "georgia-tech",
@@ -4246,7 +4333,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 19,
+    "graduationRateNum": 90
   },
   {
     "id": "uiuc",
@@ -4390,7 +4480,10 @@
     "acceptanceRate": {
       "overall": "43.7%",
       "intl": "~35%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 23,
+    "graduationRateNum": 87
   },
   {
     "id": "ut-austin",
@@ -4534,7 +4627,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 12,
+    "graduationRateNum": 84
   },
   {
     "id": "uw-madison",
@@ -4678,7 +4774,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 17,
+    "internationalRate": 14,
+    "graduationRateNum": 88
   },
   {
     "id": "purdue",
@@ -4822,7 +4921,10 @@
     "acceptanceRate": {
       "overall": "53.0%",
       "intl": "~45%"
-    }
+    },
+    "studentFacultyRatio": 13,
+    "internationalRate": 23,
+    "graduationRateNum": 82
   },
   {
     "id": "ohio-state",
@@ -4966,7 +5068,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 19,
+    "internationalRate": 14,
+    "graduationRateNum": 84
   },
   {
     "id": "penn-state",
@@ -5110,7 +5215,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 15,
+    "graduationRateNum": 86
   },
   {
     "id": "uf",
@@ -5254,7 +5362,10 @@
     "acceptanceRate": {
       "overall": "23.1%",
       "intl": "~20%"
-    }
+    },
+    "studentFacultyRatio": 17,
+    "internationalRate": 8,
+    "graduationRateNum": 90
   },
   {
     "id": "unc",
@@ -5398,7 +5509,10 @@
     "acceptanceRate": {
       "overall": "16.8%",
       "intl": "~12%"
-    }
+    },
+    "studentFacultyRatio": 13,
+    "internationalRate": 9,
+    "graduationRateNum": 91
   },
   {
     "id": "bu",
@@ -5539,7 +5653,10 @@
     "acceptanceRate": {
       "overall": "14.4%",
       "intl": "~18%"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 27,
+    "graduationRateNum": 89
   },
   {
     "id": "northeastern",
@@ -5680,7 +5797,10 @@
     "acceptanceRate": {
       "overall": "6.7%",
       "intl": "~10%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 23,
+    "graduationRateNum": 90
   },
   {
     "id": "usc",
@@ -5821,7 +5941,10 @@
     "acceptanceRate": {
       "overall": "9.9%",
       "intl": "~12%"
-    }
+    },
+    "studentFacultyRatio": 9,
+    "internationalRate": 24,
+    "graduationRateNum": 92
   },
   {
     "id": "emory",
@@ -5962,7 +6085,10 @@
     "acceptanceRate": {
       "overall": "11.4%",
       "intl": "~12%"
-    }
+    },
+    "studentFacultyRatio": 9,
+    "internationalRate": 20,
+    "graduationRateNum": 91
   },
   {
     "id": "tufts",
@@ -6103,7 +6229,10 @@
     "acceptanceRate": {
       "overall": "9.5%",
       "intl": "~10%"
-    }
+    },
+    "studentFacultyRatio": 9,
+    "internationalRate": 18,
+    "graduationRateNum": 93
   },
   {
     "id": "wake-forest",
@@ -6244,7 +6373,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 11,
+    "internationalRate": 10,
+    "graduationRateNum": 91
   },
   {
     "id": "william-mary",
@@ -6388,7 +6520,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 9,
+    "graduationRateNum": 91
   },
   {
     "id": "brandeis",
@@ -6529,7 +6664,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 22,
+    "graduationRateNum": 90
   },
   {
     "id": "case-western",
@@ -6670,7 +6808,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 11,
+    "internationalRate": 23,
+    "graduationRateNum": 85
   },
   {
     "id": "tulane",
@@ -6811,7 +6952,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 8,
+    "internationalRate": 12,
+    "graduationRateNum": 84
   },
   {
     "id": "indiana",
@@ -6955,7 +7099,10 @@
     "acceptanceRate": {
       "overall": "~40-60%",
       "intl": "~35-50%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 16,
+    "graduationRateNum": 79
   },
   {
     "id": "berkeley",
@@ -7099,7 +7246,10 @@
     "acceptanceRate": {
       "overall": "11.6%",
       "intl": "~8.5%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 17,
+    "graduationRateNum": 93
   },
   {
     "id": "utaustin",
@@ -7243,7 +7393,10 @@
     "acceptanceRate": {
       "overall": "29.0%",
       "intl": "~20%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 12,
+    "graduationRateNum": 84
   },
   {
     "id": "uwmadison",
@@ -7387,7 +7540,10 @@
     "acceptanceRate": {
       "overall": "49.2%",
       "intl": "~40%"
-    }
+    },
+    "studentFacultyRatio": 17,
+    "internationalRate": 14,
+    "graduationRateNum": 88
   },
   {
     "id": "osu",
@@ -7531,7 +7687,10 @@
     "acceptanceRate": {
       "overall": "53.0%",
       "intl": "~45%"
-    }
+    },
+    "studentFacultyRatio": 19,
+    "internationalRate": 14,
+    "graduationRateNum": 84
   },
   {
     "id": "pennstate",
@@ -7675,7 +7834,10 @@
     "acceptanceRate": {
       "overall": "55.0%",
       "intl": "~50%"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 15,
+    "graduationRateNum": 86
   },
   {
     "id": "ucdavis",
@@ -7819,7 +7981,10 @@
     "acceptanceRate": {
       "overall": "36.5%",
       "intl": "~30%"
-    }
+    },
+    "studentFacultyRatio": 20,
+    "internationalRate": 16,
+    "graduationRateNum": 86
   },
   {
     "id": "ucirvine",
@@ -7963,7 +8128,10 @@
     "acceptanceRate": {
       "overall": "20.9%",
       "intl": "~15%"
-    }
+    },
+    "studentFacultyRatio": 18,
+    "internationalRate": 19,
+    "graduationRateNum": 87
   },
   {
     "id": "wustl",
@@ -8098,7 +8266,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 7,
+    "internationalRate": 20,
+    "graduationRateNum": 95
   },
   {
     "id": "urochester",
@@ -8233,7 +8404,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 10,
+    "internationalRate": 28,
+    "graduationRateNum": 88
   },
   {
     "id": "uwash",
@@ -8368,7 +8542,10 @@
       "zh": "11月15日（EA）; 常规截止较早",
       "en": "November 15 (EA); Regular deadline is early"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 20,
+    "internationalRate": 18,
+    "graduationRateNum": 84
   },
   {
     "id": "umiami",
@@ -8503,7 +8680,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 12,
+    "internationalRate": 19,
+    "graduationRateNum": 83
   },
   {
     "id": "umin",
@@ -8638,7 +8818,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 17,
+    "internationalRate": 13,
+    "graduationRateNum": 82
   },
   {
     "id": "umaryland",
@@ -8773,7 +8956,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 18,
+    "internationalRate": 15,
+    "graduationRateNum": 87
   },
   {
     "id": "msu",
@@ -8908,7 +9094,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 16,
+    "internationalRate": 15,
+    "graduationRateNum": 80
   },
   {
     "id": "ucolo",
@@ -9043,7 +9232,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 18,
+    "internationalRate": 10,
+    "graduationRateNum": 72
   },
   {
     "id": "scu",
@@ -9178,7 +9370,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 11,
+    "internationalRate": 9,
+    "graduationRateNum": 91
   },
   {
     "id": "arizona",
@@ -9313,7 +9508,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 16,
+    "internationalRate": 12,
+    "graduationRateNum": 65
   },
   {
     "id": "asu",
@@ -9448,7 +9646,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 22,
+    "internationalRate": 12,
+    "graduationRateNum": 69
   },
   {
     "id": "stonybrook",
@@ -9583,7 +9784,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 19,
+    "internationalRate": 24,
+    "graduationRateNum": 76
   },
   {
     "id": "rutgers",
@@ -9718,7 +9922,10 @@
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     },
-    "flag": "🇺🇸"
+    "flag": "🇺🇸",
+    "studentFacultyRatio": 16,
+    "internationalRate": 18,
+    "graduationRateNum": 81
   },
   {
     "id": "lehigh",
@@ -9853,7 +10060,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 14,
+    "graduationRateNum": 89
   },
   {
     "id": "rpi",
@@ -9988,7 +10198,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 13,
+    "internationalRate": 22,
+    "graduationRateNum": 86
   },
   {
     "id": "uconn",
@@ -10123,7 +10336,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 11,
+    "graduationRateNum": 84
   },
   {
     "id": "clemson",
@@ -10258,7 +10474,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 16,
+    "internationalRate": 5,
+    "graduationRateNum": 84
   },
   {
     "id": "stevens",
@@ -10393,7 +10612,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 20,
+    "graduationRateNum": 83
   },
   {
     "id": "villanova",
@@ -10528,7 +10750,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 11,
+    "internationalRate": 5,
+    "graduationRateNum": 91
   },
   {
     "id": "drexel",
@@ -10663,7 +10888,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 11,
+    "internationalRate": 16,
+    "graduationRateNum": 74
   },
   {
     "id": "smu",
@@ -10798,7 +11026,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 11,
+    "internationalRate": 15,
+    "graduationRateNum": 82
   },
   {
     "id": "fordham",
@@ -10933,7 +11164,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 11,
+    "graduationRateNum": 82
   },
   {
     "id": "temple",
@@ -11068,7 +11302,10 @@
     "deadline": {
       "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
       "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 10,
+    "graduationRateNum": 73
   },
   {
     "id": "tamu",
@@ -11203,7 +11440,10 @@
     "deadline": {
       "zh": "12月1日（优先）/ 常规滚动录取",
       "en": "December 1 (priority) / Rolling admission"
-    }
+    },
+    "studentFacultyRatio": 19,
+    "internationalRate": 10,
+    "graduationRateNum": 82
   },
   {
     "id": "upitt",
@@ -11338,7 +11578,10 @@
     "deadline": {
       "zh": "滚动录取（建议1月前提交）",
       "en": "Rolling admission (recommended before January)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 13,
+    "graduationRateNum": 83
   },
   {
     "id": "risd",
@@ -11479,7 +11722,10 @@
     "graduationRate": {
       "zh": "四年毕业率约88%。",
       "en": "4-year graduation rate ~88%."
-    }
+    },
+    "studentFacultyRatio": 9,
+    "internationalRate": 33,
+    "graduationRateNum": 89
   },
   {
     "id": "parsons",
@@ -11616,7 +11862,10 @@
     "graduationRate": {
       "zh": "四年毕业率约70%。",
       "en": "4-year graduation rate ~70%."
-    }
+    },
+    "studentFacultyRatio": 9,
+    "internationalRate": 47,
+    "graduationRateNum": 78
   },
   {
     "id": "saic",
@@ -11757,7 +12006,10 @@
     "graduationRate": {
       "zh": "四年毕业率约65%。",
       "en": "4-year graduation rate ~65%."
-    }
+    },
+    "studentFacultyRatio": 9,
+    "internationalRate": 35,
+    "graduationRateNum": 72
   },
   {
     "id": "pratt",
@@ -11894,7 +12146,10 @@
     "graduationRate": {
       "zh": "四年毕业率约65%。",
       "en": "4-year graduation rate ~65%."
-    }
+    },
+    "studentFacultyRatio": 10,
+    "internationalRate": 30,
+    "graduationRateNum": 69
   },
   {
     "id": "calarts",
@@ -12031,7 +12286,10 @@
     "graduationRate": {
       "zh": "四年毕业率约70%。",
       "en": "4-year graduation rate ~70%."
-    }
+    },
+    "studentFacultyRatio": 7,
+    "internationalRate": 28,
+    "graduationRateNum": 76
   },
   {
     "id": "scad",
@@ -12168,6 +12426,9 @@
     "graduationRate": {
       "zh": "四年毕业率约65%。",
       "en": "4-year graduation rate ~65%."
-    }
+    },
+    "studentFacultyRatio": 17,
+    "internationalRate": 25,
+    "graduationRateNum": 68
   }
 ]

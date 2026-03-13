@@ -132,7 +132,10 @@
     "deadline": {
       "zh": "非EU学生：1月15日（秋季入学）",
       "en": "Non-EU students: January 15 (autumn intake)"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 30,
+    "graduationRateNum": 80
   },
   {
     "id": "lund",
@@ -267,7 +270,10 @@
     "deadline": {
       "zh": "非EU学生：1月15日",
       "en": "Non-EU students: January 15"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 28,
+    "graduationRateNum": 82
   },
   {
     "id": "uppsala",
@@ -402,6 +408,9 @@
     "deadline": {
       "zh": "非EU学生：1月15日",
       "en": "Non-EU students: January 15"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   }
 ]

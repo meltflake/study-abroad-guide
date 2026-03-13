@@ -138,7 +138,10 @@
     "acceptanceRate": {
       "overall": "27.0%",
       "intl": "~25%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   },
   {
     "id": "epfl",
@@ -279,7 +282,10 @@
     "acceptanceRate": {
       "overall": "25.0%",
       "intl": "~25%"
-    }
+    },
+    "studentFacultyRatio": 12,
+    "internationalRate": 60,
+    "graduationRateNum": 85
   },
   {
     "deadline": {
@@ -418,7 +424,10 @@
     "acceptanceRate": {
       "overall": "~25-40%",
       "intl": "~25-35%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   },
   {
     "deadline": {
@@ -557,6 +566,9 @@
     "acceptanceRate": {
       "overall": "~25-40%",
       "intl": "~25-35%"
-    }
+    },
+    "studentFacultyRatio": 14,
+    "internationalRate": 25,
+    "graduationRateNum": 80
   }
 ]
