@@ -407,7 +407,7 @@ img{max-width:100%}
       </div>
       <div style="margin-top:1rem">
         <label style="color:#475569;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_major">🎓 感兴趣的专业方向</label>
-        <input type="text" id="recMajor" placeholder="如：计算机、商学、医学、工程..." oninput="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #e2e8f0;background:#fff;color:#1e293b;font-size:.9rem;box-sizing:border-box">
+        <input type="text" id="recMajor" data-i18n-placeholder="rec_major_ph" placeholder="如：计算机、商学、医学、工程..." oninput="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #e2e8f0;background:#fff;color:#1e293b;font-size:.9rem;box-sizing:border-box">
       </div>
       <div style="margin-top:1rem">
         <label style="color:#475569;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_priority">⭐ 最看重什么？</label>
@@ -41400,6 +41400,7 @@ const I18N = {
   rec_countries:{zh:'🌍 意向国家/地区（可多选）',en:'🌍 Preferred Countries (multi-select)'},
   rec_toggle_all:{zh:'取消全选',en:'Deselect All'},
   rec_major:{zh:'🎓 感兴趣的专业方向',en:'🎓 Interested Major/Field'},
+  rec_major_ph:{zh:'如：计算机、商学、医学、工程...',en:'e.g. Computer Science, Business, Medicine, Engineering...'},
   rec_priority:{zh:'⭐ 最看重什么？',en:'⭐ What matters most?'},
   section_calc:{zh:'留学费用计算器',en:'Study Abroad Cost Calculator'},
   section_calc_desc:{zh:'估算留学总花费，包含学费、生活费、保险及往返机票',en:'Estimate total costs including tuition, living expenses, insurance & flights'},
@@ -41559,6 +41560,7 @@ function switchLang(newLang){
   if(typeof initTimeline==='function') initTimeline();
   if(typeof initChecklist==='function') initChecklist();
   if(typeof initScholarships==='function') initScholarships();
+  if(typeof updateRecLabels==='function') { updateRecLabels(); runRecommend(); }
 }
 
 // ===== STATE =====
@@ -41962,29 +41964,52 @@ function closeDetail(){
 }
 
 // ===== SMART RECOMMENDATION =====
+var _recCountryNames = {AR:{zh:'阿根廷',en:'Argentina'},AU:{zh:'澳大利亚',en:'Australia'},BE:{zh:'比利时',en:'Belgium'},BR:{zh:'巴西',en:'Brazil'},CA:{zh:'加拿大',en:'Canada'},CH:{zh:'瑞士',en:'Switzerland'},CN:{zh:'中国',en:'China'},DE:{zh:'德国',en:'Germany'},DK:{zh:'丹麦',en:'Denmark'},FI:{zh:'芬兰',en:'Finland'},FR:{zh:'法国',en:'France'},HK:{zh:'香港',en:'Hong Kong'},IE:{zh:'爱尔兰',en:'Ireland'},IN:{zh:'印度',en:'India'},IT:{zh:'意大利',en:'Italy'},JP:{zh:'日本',en:'Japan'},KR:{zh:'韩国',en:'S. Korea'},MY:{zh:'马来西亚',en:'Malaysia'},NL:{zh:'荷兰',en:'Netherlands'},NZ:{zh:'新西兰',en:'New Zealand'},RU:{zh:'俄罗斯',en:'Russia'},SE:{zh:'瑞典',en:'Sweden'},SG:{zh:'新加坡',en:'Singapore'},TW:{zh:'台湾',en:'Taiwan'},UK:{zh:'英国',en:'UK'},US:{zh:'美国',en:'US'}};
+var _recPriorities = [
+  {id:'rank', zh:'🏆 排名高', en:'🏆 High Ranking'},
+  {id:'cheap', zh:'💰 学费低', en:'💰 Low Tuition'},
+  {id:'safe', zh:'🛡️ 安全', en:'🛡️ Safety'},
+  {id:'employ', zh:'💼 就业强', en:'💼 Employment'}
+];
+var _recCountries = {};
+
+function updateRecLabels(){
+  // Update country button labels
+  document.querySelectorAll('#recCountries .rec-tag').forEach(btn => {
+    const c = btn.dataset.country;
+    if(c && _recCountryNames[c] && _recCountries[c]) {
+      btn.innerHTML = `${_recCountries[c].flag} ${(_recCountryNames[c][lang]||_recCountryNames[c].en)}`;
+    }
+  });
+  // Update priority button labels
+  document.querySelectorAll('#recPriority .rec-tag').forEach(btn => {
+    const p = _recPriorities.find(x => x.id === btn.dataset.priority);
+    if(p) btn.innerHTML = (p[lang]||p.en);
+  });
+  // Update major placeholder
+  var majorInput = document.getElementById('recMajor');
+  if(majorInput) majorInput.placeholder = lang==='zh' ? '如：计算机、商学、医学、工程...' : 'e.g. Computer Science, Business, Medicine, Engineering...';
+}
+
 (function initRecommend(){
   // Build country toggles
-  const countries = {};
-  SCHOOLS.forEach(s => { if(!countries[s.country]) countries[s.country] = {flag:s.flag, count:0}; countries[s.country].count++; });
-  const countryOrder = ['AR','AU','BE','BR','CA','CH','CN','DE','DK','FI','FR','HK','IE','IN','IT','JP','KR','MY','NL','NZ','RU','SE','SG','TW','UK','US'];
-  const countryNames = {AR:{zh:'阿根廷',en:'AR'},AU:{zh:'澳大利亚',en:'AU'},BE:{zh:'比利时',en:'BE'},BR:{zh:'巴西',en:'BR'},CA:{zh:'加拿大',en:'CA'},CH:{zh:'瑞士',en:'CH'},CN:{zh:'中国',en:'CN'},DE:{zh:'德国',en:'DE'},DK:{zh:'丹麦',en:'DK'},FI:{zh:'芬兰',en:'FI'},FR:{zh:'法国',en:'FR'},HK:{zh:'香港',en:'HK'},IE:{zh:'爱尔兰',en:'IE'},IN:{zh:'印度',en:'IN'},IT:{zh:'意大利',en:'IT'},JP:{zh:'日本',en:'JP'},KR:{zh:'韩国',en:'KR'},MY:{zh:'马来西亚',en:'MY'},NL:{zh:'荷兰',en:'NL'},NZ:{zh:'新西兰',en:'NZ'},RU:{zh:'俄罗斯',en:'RU'},SE:{zh:'瑞典',en:'SE'},SG:{zh:'新加坡',en:'SG'},TW:{zh:'台湾',en:'TW'},UK:{zh:'英国',en:'UK'},US:{zh:'美国',en:'US'}};
-  const cDiv = document.getElementById('recCountries');
+  SCHOOLS.forEach(s => { if(!_recCountries[s.country]) _recCountries[s.country] = {flag:s.flag, count:0}; _recCountries[s.country].count++; });
+  var countryOrder = ['AR','AU','BE','BR','CA','CH','CN','DE','DK','FI','FR','HK','IE','IN','IT','JP','KR','MY','NL','NZ','RU','SE','SG','TW','UK','US'];
+  var cDiv = document.getElementById('recCountries');
   countryOrder.forEach(c => {
-    if(!countries[c]) return;
-    const btn = document.createElement('button');
+    if(!_recCountries[c]) return;
+    var btn = document.createElement('button');
     btn.className = 'rec-tag';
     btn.dataset.country = c;
-    btn.innerHTML = `${countries[c].flag} ${(countryNames[c][lang]||countryNames[c].en)}`;
+    btn.innerHTML = `${_recCountries[c].flag} ${(_recCountryNames[c][lang]||_recCountryNames[c].en)}`;
     btn.onclick = function(){
-      const allBtns = document.querySelectorAll('#recCountries .rec-tag');
-      const allActive = [...allBtns].every(b => b.classList.contains('active'));
-      const onlyThisActive = [...allBtns].filter(b => b.classList.contains('active')).length === 1 && this.classList.contains('active');
+      var allBtns = document.querySelectorAll('#recCountries .rec-tag');
+      var allActive = [...allBtns].every(b => b.classList.contains('active'));
+      var onlyThisActive = [...allBtns].filter(b => b.classList.contains('active')).length === 1 && this.classList.contains('active');
       if(allActive) {
-        // All selected → click means "only this one"
         allBtns.forEach(b => b.classList.remove('active'));
         this.classList.add('active');
       } else if(onlyThisActive) {
-        // Only this one selected → click means "select all"
         allBtns.forEach(b => b.classList.add('active'));
       } else {
         this.classList.toggle('active');
@@ -41995,22 +42020,15 @@ function closeDetail(){
   });
   // Wire up toggle all button
   document.getElementById('recToggleAll').onclick = function(){
-    const allBtns = document.querySelectorAll('#recCountries .rec-tag');
+    var allBtns = document.querySelectorAll('#recCountries .rec-tag');
     allBtns.forEach(b => b.classList.remove('active'));
     runRecommend();
   };
 
   // Build priority toggles
-  const priorities = [
-    {id:'rank', zh:'🏆 排名高', en:'🏆 High Ranking'},
-    {id:'cheap', zh:'💰 学费低', en:'💰 Low Tuition'},
-    {id:'safe', zh:'🛡️ 安全', en:'🛡️ Safety'},
-
-    {id:'employ', zh:'💼 就业强', en:'💼 Employment'},
-  ];
-  const pDiv = document.getElementById('recPriority');
-  priorities.forEach(p => {
-    const btn = document.createElement('button');
+  var pDiv = document.getElementById('recPriority');
+  _recPriorities.forEach(p => {
+    var btn = document.createElement('button');
     btn.className = 'rec-tag';
     btn.dataset.priority = p.id;
     btn.innerHTML = (p[lang]||p.en);
