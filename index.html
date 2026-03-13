@@ -1292,17 +1292,7 @@ function updateRecLabels(){
     btn.dataset.country = c;
     btn.innerHTML = `${_recCountries[c].flag} ${(_recCountryNames[c][lang]||_recCountryNames[c].en)}`;
     btn.onclick = function(){
-      var allBtns = document.querySelectorAll('#recCountries .rec-tag');
-      var allActive = [...allBtns].every(b => b.classList.contains('active'));
-      var onlyThisActive = [...allBtns].filter(b => b.classList.contains('active')).length === 1 && this.classList.contains('active');
-      if(allActive) {
-        allBtns.forEach(b => b.classList.remove('active'));
-        this.classList.add('active');
-      } else if(onlyThisActive) {
-        allBtns.forEach(b => b.classList.add('active'));
-      } else {
-        this.classList.toggle('active');
-      }
+      this.classList.toggle('active');
       runRecommend();
     };
     cDiv.appendChild(btn);
