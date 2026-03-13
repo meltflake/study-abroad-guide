@@ -463,13 +463,13 @@ img{max-width:100%}
         <div class="calc-field">
           <label data-i18n="calc_years">📅 就读年数</label>
           <select id="calcYears" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem">
-            <option value="3">3年（英国/澳洲本科）</option>
-            <option value="4" selected>4年（美国/加拿大/香港本科）</option>
-            <option value="5">5年（含预科/荣誉年）</option>
+            <option value="3" data-i18n="calc_years_3">3年（英国/澳洲本科）</option>
+            <option value="4" selected data-i18n="calc_years_4">4年（美国/加拿大/香港本科）</option>
+            <option value="5" data-i18n="calc_years_5">5年（含预科/荣誉年）</option>
           </select>
         </div>
         <div class="calc-field">
-          <label>💱 显示货币</label>
+          <label data-i18n="calc_currency">💱 显示货币</label>
           <select id="calcCurrency" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem">
             <option value="USD">USD 美元</option>
             <option value="CNY">CNY 人民币</option>
@@ -481,15 +481,15 @@ img{max-width:100%}
           </select>
         </div>
         <div class="calc-field">
-          <label>🎓 奖学金/年 (USD)</label>
+          <label data-i18n="calc_scholarship">🎓 奖学金/年 (USD)</label>
           <input type="number" id="calcScholarship" value="0" min="0" max="100000" onchange="calcCost()" oninput="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem;box-sizing:border-box" placeholder="0">
         </div>
       </div>
       <!-- Compare school 2 -->
       <div style="margin-top:1rem;padding-top:1rem;border-top:1px dashed var(--gray-300)">
-        <label style="font-size:.85rem;color:var(--gray-500)">⚖️ 对比第二所学校（可选）</label>
+        <label style="font-size:.85rem;color:var(--gray-500)" data-i18n="calc_compare">⚖️ 对比第二所学校（可选）</label>
         <select id="calcSchool2" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem;margin-top:.3rem">
-          <option value="">— 不对比 —</option>
+          <option value="" data-i18n="calc_no_compare">— 不对比 —</option>
         </select>
       </div>
       <div id="calcResult" style="margin-top:1.5rem"></div>
@@ -44795,6 +44795,25 @@ const I18N = {
   accept_overall:{zh:'整体',en:'Overall',ja:'全体',ko:'전체',fr:'Global',es:'General',th:'ทั้งหมด',vi:'Tổng',hi:'कुल'},
   accept_intl:{zh:'国际生',en:'Intl',ja:'留学生',ko:'유학생',fr:'Intl',es:'Intl',th:'นักศึกษาต่างชาติ',vi:'Quốc tế',hi:'अंतर्राष्ट्रीय'},
   accept_rate:{zh:'录取率',en:'Acceptance Rate',ja:'合格率',ko:'합격률',fr:'Taux admission',es:'Tasa admisión',th:'อัตราตอบรับ',vi:'Tỷ lệ trúng tuyển',hi:'स्वीकृति दर'},
+  calc_currency:{zh:'💱 显示货币',en:'💱 Currency',ja:'💱 通貨',ko:'💱 통화',fr:'💱 Devise',es:'💱 Moneda',th:'💱 สกุลเงิน',vi:'💱 Tiền tệ',hi:'💱 मुद्रा'},
+  calc_scholarship:{zh:'🎓 奖学金/年 (USD)',en:'🎓 Scholarship/yr (USD)',ja:'🎓 奨学金/年 (USD)',ko:'🎓 장학금/년 (USD)',fr:'🎓 Bourse/an (USD)',es:'🎓 Beca/año (USD)',th:'🎓 ทุน/ปี (USD)',vi:'🎓 Học bổng/năm (USD)',hi:'🎓 छात्रवृत्ति/वर्ष (USD)'},
+  calc_compare:{zh:'⚖️ 对比第二所学校（可选）',en:'⚖️ Compare with another school (optional)',ja:'⚖️ 比較する学校（任意）',ko:'⚖️ 비교할 학교 (선택)',fr:'⚖️ Comparer avec une autre école (optionnel)',es:'⚖️ Comparar con otra escuela (opcional)',th:'⚖️ เปรียบเทียบกับมหาวิทยาลัยอื่น',vi:'⚖️ So sánh với trường khác',hi:'⚖️ दूसरे स्कूल से तुलना'},
+  calc_no_compare:{zh:'不对比',en:'No comparison',ja:'比較なし',ko:'비교 없음',fr:'Pas de comparaison',es:'Sin comparación',th:'ไม่เปรียบเทียบ',vi:'Không so sánh',hi:'तुलना नहीं'},
+  calc_years_3:{zh:'3年（英国/澳洲本科）',en:'3 years (UK/AU undergrad)',ja:'3年（英・豪）',ko:'3년 (영국/호주)',fr:'3 ans (UK/AU)',es:'3 años (UK/AU)',th:'3 ปี (อังกฤษ/ออสเตรเลีย)',vi:'3 năm (Anh/Úc)',hi:'3 वर्ष (UK/AU)'},
+  calc_years_4:{zh:'4年（美国/加拿大/香港本科）',en:'4 years (US/CA/HK undergrad)',ja:'4年（米・加・港）',ko:'4년 (미국/캐나다/홍콩)',fr:'4 ans (US/CA/HK)',es:'4 años (US/CA/HK)',th:'4 ปี (สหรัฐฯ/แคนาดา/ฮ่องกง)',vi:'4 năm (Mỹ/Canada/HK)',hi:'4 वर्ष (US/CA/HK)'},
+  calc_years_5:{zh:'5年（含预科/荣誉年）',en:'5 years (incl. foundation/honours)',ja:'5年（予備課程含む）',ko:'5년 (예비과정 포함)',fr:'5 ans (avec prépa/honours)',es:'5 años (incl. preparatoria)',th:'5 ปี (รวมปีเตรียม)',vi:'5 năm (gồm dự bị)',hi:'5 वर्ष (फाउंडेशन सहित)'},
+  calc_per_year:{zh:'每年',en:'Per year',ja:'年間',ko:'연간',fr:'Par an',es:'Por año',th:'ต่อปี',vi:'Mỗi năm',hi:'प्रति वर्ष'},
+  calc_per_month:{zh:'每月',en:'Monthly',ja:'月間',ko:'월간',fr:'Par mois',es:'Por mes',th:'ต่อเดือน',vi:'Hàng tháng',hi:'प्रति माह'},
+  calc_tuition:{zh:'📚 学费',en:'📚 Tuition',ja:'📚 学費',ko:'📚 학비',fr:'📚 Frais',es:'📚 Matrícula',th:'📚 ค่าเทอม',vi:'📚 Học phí',hi:'📚 शुल्क'},
+  calc_living:{zh:'🏠 生活费',en:'🏠 Living',ja:'🏠 生活費',ko:'🏠 생활비',fr:'🏠 Vie',es:'🏠 Vida',th:'🏠 ค่าครองชีพ',vi:'🏠 Sinh hoạt',hi:'🏠 रहन-सहन'},
+  calc_insurance:{zh:'🏥 保险',en:'🏥 Insurance',ja:'🏥 保険',ko:'🏥 보험',fr:'🏥 Assurance',es:'🏥 Seguro',th:'🏥 ประกัน',vi:'🏥 Bảo hiểm',hi:'🏥 बीमा'},
+  calc_flights:{zh:'✈️ 往返机票',en:'✈️ Flights',ja:'✈️ 航空券',ko:'✈️ 항공권',fr:'✈️ Vols',es:'✈️ Vuelos',th:'✈️ ตั๋วเครื่องบิน',vi:'✈️ Vé máy bay',hi:'✈️ उड़ानें'},
+  calc_school_a:{zh:'学校 A',en:'School A',ja:'学校A',ko:'학교 A',fr:'École A',es:'Escuela A',th:'มหาวิทยาลัย A',vi:'Trường A',hi:'स्कूल A'},
+  calc_school_b:{zh:'学校 B',en:'School B',ja:'学校B',ko:'학교 B',fr:'École B',es:'Escuela B',th:'มหาวิทยาลัย B',vi:'Trường B',hi:'स्कूल B'},
+  calc_more_expensive:{zh:'贵',en:'more',ja:'高い',ko:'더 비쌈',fr:'de plus',es:'más',th:'แพงกว่า',vi:'nhiều hơn',hi:'अधिक'},
+  calc_cheaper:{zh:'便宜',en:'less',ja:'安い',ko:'더 저렴',fr:'de moins',es:'menos',th:'ถูกกว่า',vi:'ít hơn',hi:'कम'},
+  calc_same:{zh:'两所学校费用相同',en:'Both schools cost the same',ja:'両校同額',ko:'두 학교 비용 동일',fr:'Même coût',es:'Mismo costo',th:'ค่าใช้จ่ายเท่ากัน',vi:'Chi phí bằng nhau',hi:'समान लागत'},
+  calc_disclaimer:{zh:'⚠️ 以上为估算数据，实际费用以学校官方公布为准。汇率可能波动。',en:'⚠️ Estimates only. Actual costs per official sources. Exchange rates may vary.',ja:'⚠️ 概算です。実際の費用は各大学公式サイトをご確認ください。',ko:'⚠️ 추정치입니다. 실제 비용은 각 대학 공식 정보를 확인하세요.',fr:'⚠️ Estimations uniquement. Consultez les sources officielles.',es:'⚠️ Solo estimaciones. Consulte fuentes oficiales.',th:'⚠️ ข้อมูลเป็นค่าประมาณ กรุณาตรวจสอบกับมหาวิทยาลัยโดยตรง',vi:'⚠️ Chỉ là ước tính. Vui lòng kiểm tra nguồn chính thức.',hi:'⚠️ केवल अनुमान। आधिकारिक स्रोतों से सत्यापित करें।'},
 };
 
 function t(key){ return (I18N[key] && (I18N[key][lang] || I18N[key].en)) || key; }
@@ -45411,7 +45430,7 @@ function populateCalcSelect(){
   const sorted = [...SCHOOLS].sort((a,b) => (a.name[lang]||a.name.en).localeCompare(b.name[lang]||b.name.en));
   const opts = sorted.map(s=>`<option value="${s.id}">${s.flag} ${(s.name[lang]||s.name.en)} — $${s.tuition.toLocaleString()}/yr</option>`).join('');
   document.getElementById('calcSchool').innerHTML = opts;
-  document.getElementById('calcSchool2').innerHTML = '<option value="">— ' + (lang==='zh'?'不对比':'No comparison') + ' —</option>' + opts;
+  document.getElementById('calcSchool2').innerHTML = '<option value="">— ' + t('calc_no_compare') + ' —</option>' + opts;
 }
 
 function calcSchoolCost(s, years, scholarship) {
@@ -45437,28 +45456,28 @@ function renderCostCard(s, costs, cur, label) {
     ${label ? `<div style="font-size:.75rem;color:var(--gray-400);margin-bottom:.3rem">${label}</div>` : ''}
     <div style="font-size:.85rem;font-weight:600;color:var(--navy);margin-bottom:.5rem">${s.flag} ${(s.name[lang]||s.name.en)}</div>
     <div style="font-size:2rem;font-weight:800;color:var(--navy)">${fmtMoney(total, cur)}</div>
-    <div style="font-size:.85rem;color:var(--gray-500);margin-top:.2rem">${lang==='zh'?'每年':'Per year'}: ${fmtMoney(perYear, cur)} · ${lang==='zh'?'每月':'Monthly'}: ${fmtMoney(perMonth, cur)}</div>
+    <div style="font-size:.85rem;color:var(--gray-500);margin-top:.2rem">${t('calc_per_year')}: ${fmtMoney(perYear, cur)} · ${t('calc_per_month')}: ${fmtMoney(perMonth, cur)}</div>
     <div style="margin-top:1rem;display:grid;gap:.5rem">
       <div style="display:flex;justify-content:space-between;align-items:center">
-        <span style="font-size:.82rem;color:var(--gray-500)">📚 ${lang==='zh'?'学费':'Tuition'}</span>
+        <span style="font-size:.82rem;color:var(--gray-500)">${t('calc_tuition')}</span>
         <span style="font-weight:600">${fmtMoney(tuitionTotal, cur)}</span>
       </div>
       <div style="background:var(--gray-100);border-radius:4px;height:8px;overflow:hidden">
         <div style="background:#3b82f6;height:100%;width:${Math.round(tuitionTotal/total*100)}%;border-radius:4px"></div>
       </div>
       <div style="display:flex;justify-content:space-between;align-items:center">
-        <span style="font-size:.82rem;color:var(--gray-500)">🏠 ${lang==='zh'?'生活费':'Living'}</span>
+        <span style="font-size:.82rem;color:var(--gray-500)">${t('calc_living')}</span>
         <span style="font-weight:600">${fmtMoney(livingTotal, cur)}</span>
       </div>
       <div style="background:var(--gray-100);border-radius:4px;height:8px;overflow:hidden">
         <div style="background:#10b981;height:100%;width:${Math.round(livingTotal/total*100)}%;border-radius:4px"></div>
       </div>
       <div style="display:flex;justify-content:space-between;align-items:center">
-        <span style="font-size:.82rem;color:var(--gray-500)">🏥 ${lang==='zh'?'保险':'Insurance'}</span>
+        <span style="font-size:.82rem;color:var(--gray-500)">${t('calc_insurance')}</span>
         <span style="font-weight:600">${fmtMoney(insuranceTotal, cur)}</span>
       </div>
       <div style="display:flex;justify-content:space-between;align-items:center">
-        <span style="font-size:.82rem;color:var(--gray-500)">✈️ ${lang==='zh'?'往返机票':'Flights'}</span>
+        <span style="font-size:.82rem;color:var(--gray-500)">${t('calc_flights')}</span>
         <span style="font-weight:600">${fmtMoney(flightsTotal, cur)}</span>
       </div>
     </div>
@@ -45483,17 +45502,17 @@ function calcCost(){
     const s2 = SCHOOLS.find(x=>x.id===id2);
     if(s2) {
       const costs2 = calcSchoolCost(s2, years, scholarship);
-      html += renderCostCard(s, costs, cur, lang==='zh'?'学校 A':'School A');
-      html += renderCostCard(s2, costs2, cur, lang==='zh'?'学校 B':'School B');
+      html += renderCostCard(s, costs, cur, t('calc_school_a'));
+      html += renderCostCard(s2, costs2, cur, t('calc_school_b'));
       
       const diff = costs.total - costs2.total;
       const diffAbs = Math.abs(diff);
       html += `</div><div style="margin-top:1rem;padding:1rem;background:${diff>0?'#fef2f2':'#f0fdf4'};border-radius:10px;text-align:center">
         <span style="font-size:.9rem">${diff > 0 
-          ? (lang==='zh'?`${(s.name[lang]||s.name.en)} 比 ${(s2.name[lang]||s2.name.en)} 贵 <strong>${fmtMoney(diffAbs,cur)}</strong>`:`${(s.name[lang]||s.name.en)} costs <strong>${fmtMoney(diffAbs,cur)}</strong> more than ${(s2.name[lang]||s2.name.en)}`)
+          ? (`${(s.name[lang]||s.name.en)} > ${(s2.name[lang]||s2.name.en)}: +<strong>${fmtMoney(diffAbs,cur)}</strong>`)
           : diff < 0 
-            ? (lang==='zh'?`${(s.name[lang]||s.name.en)} 比 ${(s2.name[lang]||s2.name.en)} 便宜 <strong>${fmtMoney(diffAbs,cur)}</strong>`:`${(s.name[lang]||s.name.en)} costs <strong>${fmtMoney(diffAbs,cur)}</strong> less than ${(s2.name[lang]||s2.name.en)}`)
-            : (lang==='zh'?'两所学校费用相同':'Both schools cost the same')
+            ? (`${(s.name[lang]||s.name.en)} < ${(s2.name[lang]||s2.name.en)}: -<strong>${fmtMoney(diffAbs,cur)}</strong>`)
+            : (t('calc_same'))
         }</span>
       </div>`;
     } else {
