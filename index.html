@@ -41992,8 +41992,8 @@ function closeDetail(){
   // Wire up toggle all button
   document.getElementById('recToggleAll').onclick = function(){
     const allBtns = document.querySelectorAll('#recCountries .rec-tag');
-    const allActive = [...allBtns].every(b => b.classList.contains('active'));
-    allBtns.forEach(b => { if(allActive) b.classList.remove('active'); else b.classList.add('active'); });
+    const anyActive = [...allBtns].some(b => b.classList.contains('active'));
+    allBtns.forEach(b => { if(anyActive) b.classList.remove('active'); else b.classList.add('active'); });
     runRecommend();
   };
 
