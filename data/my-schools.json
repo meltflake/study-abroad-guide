@@ -239,6 +239,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "柔佛热带气候，全年高温多雨（27-33°C）。",
+      "en": "Johor tropical climate, hot and rainy year-round (27-33°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约RM 300-600/月。校园面积大，设施完善。",
+      "en": "On-campus dorms ~RM 300-600/month. Large campus with complete facilities."
+    },
+    "employment": {
+      "zh": "马来西亚理工类顶尖大学。工程和IT毕业生在东南亚就业良好。靠近新加坡。",
+      "en": "Malaysia's top tech university. Engineering and IT graduates well-employed in Southeast Asia. Close to Singapore."
+    },
+    "healthcare": {
+      "zh": "马来西亚公立医疗费用低。校内有健康中心。",
+      "en": "Malaysia's public healthcare affordable. Campus health center available."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩、英语证明。",
+      "en": "Apply via university website. Transcripts, English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "柔佛校园区域安全。靠近新加坡边境。",
+      "en": "Johor campus area is safe. Close to Singapore border."
+    },
+    "deadline": {
+      "zh": "3月（9月入学）/ 8月（2月入学）",
+      "en": "March (Sep intake) / August (Feb intake)"
     }
   }
 ]

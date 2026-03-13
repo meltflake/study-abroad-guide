@@ -509,6 +509,34 @@
     "desc": {
       "en": "First Japanese university to admit women and international students. Excellent materials science.",
       "zh": "日本第一所录取女性和留学生的大学，材料科学卓越。"
+    },
+    "climate": {
+      "zh": "仙台气候四季分明。夏季温暖（22-28°C），冬季寒冷有雪（-1至5°C）。",
+      "en": "Sendai has four distinct seasons. Warm summers (22-28°C), cold snowy winters (-1 to 5°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥1.5-3万/月。仙台生活成本比东京低30-40%。",
+      "en": "On-campus dorms ~¥15,000-30,000/month. Sendai cost of living 30-40% lower than Tokyo."
+    },
+    "employment": {
+      "zh": "日本旧帝大之一，材料科学和工学世界领先。东北地区大企业和研究所多。",
+      "en": "One of Japan's former Imperial universities, world-leading in materials science and engineering. Many companies and labs in Tohoku region."
+    },
+    "healthcare": {
+      "zh": "日本NHI，学生约￥1500/月。东北大学医院是区域顶级医院。",
+      "en": "Japan's NHI, students ~¥1500/month. Tohoku University Hospital is a top regional hospital."
+    },
+    "application": {
+      "zh": "FGL项目（英语授课）：通过学校官网申请。",
+      "en": "FGL program (English-taught): apply via website."
+    },
+    "safetyDetail": {
+      "zh": "仙台是安全的城市，号称'杜之都'。犯罪率低。",
+      "en": "Sendai is a safe city known as 'City of Trees'. Low crime rate."
+    },
+    "deadline": {
+      "zh": "FGL项目：通常11月-2月",
+      "en": "FGL program: usually November-February"
     }
   },
   {
@@ -616,6 +644,34 @@
     "desc": {
       "en": "Japan's top science and technology university. Merged with Tokyo Medical & Dental in 2024.",
       "zh": "日本顶尖理工大学，2024年与东京医科齿科大学合并。"
+    },
+    "climate": {
+      "zh": "东京气候，同东京大学。",
+      "en": "Tokyo climate, same as University of Tokyo."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥3-5万/月。大岡山校区位于东京南部住宅区。",
+      "en": "On-campus dorms ~¥30,000-50,000/month. Ookayama campus in southern Tokyo residential area."
+    },
+    "employment": {
+      "zh": "日本顶尖理工大学。索尼、丰田、日立等大量招聘。就业率极高。",
+      "en": "Japan's top tech university. Sony, Toyota, Hitachi actively recruit. Very high employment rate."
+    },
+    "healthcare": {
+      "zh": "日本NHI，学生约￥1500/月。校内保健中心。",
+      "en": "Japan's NHI, students ~¥1500/month. Campus health center."
+    },
+    "application": {
+      "zh": "GSEP项目（英语授课）：通过学校官网申请。需数学/理科成绩、英语证明。",
+      "en": "GSEP program (English-taught): apply via website. Math/science grades, English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "大岡山是安静安全的住宅区。东京整体安全。",
+      "en": "Ookayama is a quiet, safe residential area. Tokyo overall very safe."
+    },
+    "deadline": {
+      "zh": "GSEP项目：11月-1月",
+      "en": "GSEP program: November-January"
     }
   },
   {
@@ -723,6 +779,34 @@
     "desc": {
       "en": "6 Nobel laureates in physics and chemistry. G-30 English program available.",
       "zh": "6位诺贝尔物理/化学奖得主，提供G-30英语项目。"
+    },
+    "climate": {
+      "zh": "名古屋夏季炎热潮湿（28-35°C），冬季较温和（1-8°C）。",
+      "en": "Nagoya has hot humid summers (28-35°C), relatively mild winters (1-8°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥1.5-3万/月。名古屋生活成本低于东京。",
+      "en": "On-campus dorms ~¥15,000-30,000/month. Nagoya cost of living lower than Tokyo."
+    },
+    "employment": {
+      "zh": "丰田汽车总部所在地。汽车和制造业就业强势。G30项目英语授课。",
+      "en": "Home to Toyota Motor Corporation HQ. Strong automotive and manufacturing employment. G30 program English-taught."
+    },
+    "healthcare": {
+      "zh": "日本NHI。名古屋大学医院提供优质医疗。",
+      "en": "Japan's NHI. Nagoya University Hospital provides quality care."
+    },
+    "application": {
+      "zh": "G30项目：通过学校官网申请。需学业成绩、英语证明。",
+      "en": "G30 program: apply via website. Academic records, English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "名古屋是安全的大城市，犯罪率低于东京和大阪。",
+      "en": "Nagoya is a safe large city with lower crime rate than Tokyo and Osaka."
+    },
+    "deadline": {
+      "zh": "G30项目：12月-2月",
+      "en": "G30 program: December-February"
     }
   },
   {
@@ -830,6 +914,34 @@
     "desc": {
       "en": "Japan's top private university. Many English-taught programs. 7 Japanese PMs are alumni.",
       "zh": "日本顶尖私立大学，多个英文授课项目，7位日本首相的母校。"
+    },
+    "climate": {
+      "zh": "东京气候，同东京大学。",
+      "en": "Tokyo climate, same as University of Tokyo."
+    },
+    "housing": {
+      "zh": "WISH国际宿舍等约￥5-8万/月。新宿区位置便利但租金较高。",
+      "en": "WISH international dorms ~¥50,000-80,000/month. Shinjuku location convenient but higher rent."
+    },
+    "employment": {
+      "zh": "日本顶级私立大学。政界、商界、新闻界校友网络极强。SILS项目英语授课。",
+      "en": "Japan's top private university. Extremely strong alumni network in politics, business, journalism. SILS program English-taught."
+    },
+    "healthcare": {
+      "zh": "日本NHI。早稻田有校内诊所和心理咨询。",
+      "en": "Japan's NHI. Waseda has campus clinic and counseling services."
+    },
+    "application": {
+      "zh": "SILS/英语项目：通过学校官网申请。需SAT/IB、英语证明、推荐信。",
+      "en": "SILS/English programs: apply via website. SAT/IB, English proficiency, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "早稻田校区位于新宿区，周边安全。东京整体犯罪率极低。",
+      "en": "Waseda campus in Shinjuku ward, safe surroundings. Tokyo overall has very low crime rate."
+    },
+    "deadline": {
+      "zh": "SILS项目：9月（春季入学）/ 4月（秋季入学）",
+      "en": "SILS: September (spring entry) / April (fall entry)"
     }
   },
   {
@@ -937,6 +1049,34 @@
     "desc": {
       "en": "Japan's oldest private university (1858). PEARL English program. Strong business alumni network.",
       "zh": "日本最古老的私立大学（1858年），PEARL英文项目，商界校友网络强大。"
+    },
+    "climate": {
+      "zh": "东京气候，同东京大学。横滨校区更近海、气候稍温和。",
+      "en": "Tokyo climate, same as UTokyo. Yokohama campus is coastal and slightly milder."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥4-7万/月。三田校区在东京市中心，日吉/SFC在横滨。",
+      "en": "On-campus dorms ~¥40,000-70,000/month. Mita campus in central Tokyo, Hiyoshi/SFC in Yokohama."
+    },
+    "employment": {
+      "zh": "日本顶级私立大学，商界校友网络极强。三菱、三井等财阀企业大量招聘庆应毕业生。PEARL项目英语授课。",
+      "en": "Japan's top private university with extremely strong business alumni. Mitsubishi, Mitsui actively recruit Keio graduates. PEARL program English-taught."
+    },
+    "healthcare": {
+      "zh": "日本NHI。庆应义塾大学医院是日本顶级医院。",
+      "en": "Japan's NHI. Keio University Hospital is one of Japan's top hospitals."
+    },
+    "application": {
+      "zh": "PEARL项目：通过学校官网申请。需SAT/IB、英语证明、推荐信、面试。",
+      "en": "PEARL program: apply via website. SAT/IB, English proficiency, recommendations, interview required."
+    },
+    "safetyDetail": {
+      "zh": "三田和日吉校区都位于安全的城市区域。",
+      "en": "Both Mita and Hiyoshi campuses in safe urban areas."
+    },
+    "deadline": {
+      "zh": "PEARL项目：通常11月-1月",
+      "en": "PEARL program: usually November-January"
     }
   },
   {
@@ -1044,6 +1184,34 @@
     "desc": {
       "en": "A leading university in southern Japan. English-taught programs through JTW and IUPE.",
       "zh": "日本南部顶尖大学，通过JTW和IUPE提供英语授课项目。"
+    },
+    "climate": {
+      "zh": "福冈亚热带气候。夏季炎热（27-33°C），冬季温和（3-10°C）。日本最宜居城市之一。",
+      "en": "Fukuoka subtropical climate. Hot summers (27-33°C), mild winters (3-10°C). One of Japan's most livable cities."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥1.5-3万/月。福冈生活成本全日本最低之一。",
+      "en": "On-campus dorms ~¥15,000-30,000/month. Fukuoka has one of the lowest costs of living in Japan."
+    },
+    "employment": {
+      "zh": "九州地区顶尖学府。福冈是亚洲门户城市，IT和创业活跃。",
+      "en": "Kyushu region's top university. Fukuoka is Asia's gateway city with active IT and startup scene."
+    },
+    "healthcare": {
+      "zh": "日本NHI。九州大学医院是区域顶级医院。",
+      "en": "Japan's NHI. Kyushu University Hospital is a top regional hospital."
+    },
+    "application": {
+      "zh": "英语项目通过学校官网申请。",
+      "en": "English programs: apply via website."
+    },
+    "safetyDetail": {
+      "zh": "福冈是安全友好的城市，多次被评为日本最宜居城市。",
+      "en": "Fukuoka is safe and friendly, repeatedly ranked as Japan's most livable city."
+    },
+    "deadline": {
+      "zh": "英语项目：通常11月-2月",
+      "en": "English programs: usually November-February"
     }
   },
   {
@@ -1151,6 +1319,34 @@
     "desc": {
       "en": "Beautiful campus in Sapporo. Strong in agriculture, veterinary science, and environmental studies.",
       "zh": "札幌美丽校园，农学、兽医和环境研究实力强。"
+    },
+    "climate": {
+      "zh": "札幌冬季漫长多雪（-4至1°C），夏季凉爽宜人（18-26°C）。滑雪胜地。",
+      "en": "Sapporo has long snowy winters (-4 to 1°C), cool pleasant summers (18-26°C). Skiing paradise."
+    },
+    "housing": {
+      "zh": "校内宿舍约￥1-2.5万/月。札幌生活成本非常低。",
+      "en": "On-campus dorms ~¥10,000-25,000/month. Sapporo has very low cost of living."
+    },
+    "employment": {
+      "zh": "北海道地区唯一的旧帝大。农学、环境科学领先。札幌是北海道经济中心。",
+      "en": "Hokkaido's only former Imperial university. Leading in agriculture and environmental science. Sapporo is Hokkaido's economic center."
+    },
+    "healthcare": {
+      "zh": "日本NHI。北海道大学医院是北海道最大医院。",
+      "en": "Japan's NHI. Hokkaido University Hospital is Hokkaido's largest hospital."
+    },
+    "application": {
+      "zh": "Modern Japanese Studies Program等英语项目通过官网申请。",
+      "en": "Modern Japanese Studies Program and other English programs: apply via website."
+    },
+    "safetyDetail": {
+      "zh": "札幌是安全的城市。冬季路面结冰需注意防滑。",
+      "en": "Sapporo is a safe city. Watch for icy roads in winter."
+    },
+    "deadline": {
+      "zh": "英语项目：通常10月-1月",
+      "en": "English programs: usually October-January"
     }
   }
 ]

@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "布宜诺斯艾利斯亚热带气候。夏季（12-2月）炎热（25-35°C），冬季（6-8月）温和（8-16°C）。",
+      "en": "Buenos Aires subtropical climate. Hot summers (Dec-Feb, 25-35°C), mild winters (Jun-Aug, 8-16°C)."
+    },
+    "housing": {
+      "zh": "无集中校园，学生在市内租房。月租约$300-600。生活成本相对低廉。",
+      "en": "No centralized campus; students rent in the city. ~$300-600/month. Relatively low cost of living."
+    },
+    "employment": {
+      "zh": "阿根廷和拉美地区最受认可的大学。法律、医学、社科毕业生在拉美就业广泛。",
+      "en": "Most recognized university in Argentina and Latin America. Law, medicine, social science graduates employed widely across Latin America."
+    },
+    "healthcare": {
+      "zh": "阿根廷公立医疗免费（包括外国人）。大学附属医院提供服务。建议额外购买私人保险。",
+      "en": "Argentina's public healthcare is free (including foreigners). University hospitals available. Private insurance recommended."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩认证。主要西班牙语授课。",
+      "en": "Apply via university website. High school credential verification needed. Primarily Spanish-taught."
+    },
+    "safetyDetail": {
+      "zh": "布宜诺斯艾利斯大城市需注意扒手和抢劫。选择安全社区居住。",
+      "en": "Buenos Aires is a big city—beware of pickpockets and mugging. Choose safe neighborhoods."
+    },
+    "deadline": {
+      "zh": "2月-3月（第一学期）/ 7月-8月（第二学期）",
+      "en": "February-March (1st semester) / July-August (2nd semester)"
     }
   }
 ]

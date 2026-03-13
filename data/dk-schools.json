@@ -239,6 +239,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "哥本哈根北郊Lyngby，气候同哥本哈根大学。",
+      "en": "Lyngby north of Copenhagen, climate same as University of Copenhagen."
+    },
+    "housing": {
+      "zh": "DTU提供学生宿舍约DKK 3500-5500/月。校园环境优美。",
+      "en": "DTU offers student housing ~DKK 3500-5500/month. Beautiful campus environment."
+    },
+    "employment": {
+      "zh": "丹麦顶尖理工大学。维斯塔斯（风电）、诺和诺德（制药）等企业紧密合作。",
+      "en": "Denmark's top tech university. Close partnerships with Vestas (wind energy), Novo Nordisk (pharma)."
+    },
+    "healthcare": {
+      "zh": "丹麦全民免费医疗。注册CPR号即可享受。",
+      "en": "Denmark's free universal healthcare. Register for CPR number to access."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩、数学/物理基础、英语证明。",
+      "en": "Apply via website. Transcripts, math/physics background, English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "Lyngby是安全的郊区城镇。校园安全良好。",
+      "en": "Lyngby is a safe suburban town. Good campus security."
+    },
+    "deadline": {
+      "zh": "非EU学生：3月15日",
+      "en": "Non-EU students: March 15"
     }
   }
 ]

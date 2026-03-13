@@ -10546,6 +10546,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "德州College Station炎热。夏季酷热潮湿（30-38°C），冬季温和（5-15°C）。",
+      "en": "College Station, Texas is hot. Summers very hot and humid (30-38°C), mild winters (5-15°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$700-1100/月。周边公寓$500-900/月，比大城市便宜很多。",
+      "en": "On-campus housing ~$700-1100/month. Nearby apartments $500-900/month, much cheaper than big cities."
+    },
+    "employment": {
+      "zh": "德州最大公立大学。石油、农业、工程行业就业强。Aggie Network校友网络强大。",
+      "en": "Texas' largest public university. Strong in oil & gas, agriculture, engineering employment. Powerful Aggie Network alumni connections."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险。校内有A.P. Beutel Health Center。",
+      "en": "University offers student health insurance. A.P. Beutel Health Center on campus."
+    },
+    "application": {
+      "zh": "通过ApplyTexas或Coalition App申请。需成绩单、SAT/ACT、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via ApplyTexas or Coalition App. Transcripts, SAT/ACT, TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "College Station是安全的大学城。校园有完善的安保系统和紧急报警柱。",
+      "en": "College Station is a safe college town. Campus has comprehensive security system and emergency call stations."
+    },
+    "deadline": {
+      "zh": "12月1日（优先）/ 常规滚动录取",
+      "en": "December 1 (priority) / Rolling admission"
     }
   },
   {
@@ -10653,6 +10681,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "匹兹堡四季分明。夏季温暖（22-28°C），冬季寒冷有雪（-4至3°C）。",
+      "en": "Pittsburgh has four seasons. Warm summers (22-28°C), cold snowy winters (-4 to 3°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1200/月。Oakland校区周边租房$600-1000/月。",
+      "en": "On-campus housing ~$800-1200/month. Oakland campus area rentals $600-1000/month."
+    },
+    "employment": {
+      "zh": "匹兹堡从钢铁城转型为科技和医疗中心。CMU在旁边，科技就业生态优越。",
+      "en": "Pittsburgh transformed from steel city to tech and healthcare hub. CMU next door creates excellent tech employment ecosystem."
+    },
+    "healthcare": {
+      "zh": "UPMC是美国最大学术医疗系统之一。学生有充足医疗资源。",
+      "en": "UPMC is one of America's largest academic medical systems. Students have ample healthcare resources."
+    },
+    "application": {
+      "zh": "通过Common App申请。需成绩单、SAT/ACT（可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App. Transcripts, SAT/ACT (optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "Oakland大学区整体安全。校园有蓝光报警系统和护送服务。",
+      "en": "Oakland university area generally safe. Campus has blue light alert system and escort service."
+    },
+    "deadline": {
+      "zh": "滚动录取（建议1月前提交）",
+      "en": "Rolling admission (recommended before January)"
     }
   }
 ]

@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "圣保罗亚热带高原气候。全年温和（15-28°C），无极端冷热。雨季10月-3月。",
+      "en": "São Paulo subtropical highland climate. Mild year-round (15-28°C), no extreme temperatures. Rainy season Oct-Mar."
+    },
+    "housing": {
+      "zh": "CRUSP校内宿舍免费但名额少。校外租房约R$1500-3000/月（约$300-600）。",
+      "en": "CRUSP on-campus dorms free but limited. Off-campus ~R$1500-3000/month (~$300-600)."
+    },
+    "employment": {
+      "zh": "巴西和拉美排名第一大学。圣保罗是南美经济中心，跨国企业总部密集。",
+      "en": "Brazil and Latin America's #1 university. São Paulo is South America's economic center with dense multinational HQs."
+    },
+    "healthcare": {
+      "zh": "巴西SUS公立医疗免费。USP附属医院（HC-FMUSP）是拉美最大教学医院。",
+      "en": "Brazil's SUS public healthcare is free. USP's affiliated hospital (HC-FMUSP) is Latin America's largest teaching hospital."
+    },
+    "application": {
+      "zh": "通过FUVEST入学考试或国际生渠道申请。主要葡萄牙语授课。",
+      "en": "Apply via FUVEST entrance exam or international student channel. Primarily Portuguese-taught."
+    },
+    "safetyDetail": {
+      "zh": "圣保罗大城市安全需注意。USP校园有安保巡逻。避免夜间独行偏僻区域。",
+      "en": "São Paulo requires safety awareness. USP campus has security patrols. Avoid walking alone in isolated areas at night."
+    },
+    "deadline": {
+      "zh": "国际生：通常6月-9月",
+      "en": "International students: usually June-September"
     }
   }
 ]

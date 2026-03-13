@@ -509,6 +509,34 @@
     "desc": {
       "en": "Founded by Wilhelm von Humboldt. 29 Nobel laureates including Einstein. In central Berlin.",
       "zh": "洪堡创立，29位诺贝尔奖得主包括爱因斯坦，位于柏林市中心。"
+    },
+    "climate": {
+      "zh": "柏林气候，同自由大学。",
+      "en": "Berlin climate, same as Free University."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€280-450/月。柏林米特区（大学所在地）文化丰富。",
+      "en": "Studentenwerk dorms €280-450/month. Berlin-Mitte (university location) is culturally rich."
+    },
+    "employment": {
+      "zh": "德国最古老大学之一。人文社科学术界影响力大。柏林就业市场多元。",
+      "en": "One of Germany's oldest universities. Strong academic influence in humanities/social sciences. Berlin's job market is diverse."
+    },
+    "healthcare": {
+      "zh": "德国强制医保，学生约€110/月。Charité医院关联密切。",
+      "en": "Germany mandates insurance, students ~€110/month. Close ties to Charité Hospital."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。",
+      "en": "Apply via uni-assist or university website."
+    },
+    "safetyDetail": {
+      "zh": "柏林市中心整体安全。校园位于历史文化核心区。",
+      "en": "Central Berlin generally safe. Campus in historic cultural core area."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   },
   {
@@ -616,6 +644,34 @@
     "desc": {
       "en": "A leading German university in Berlin, strong in humanities and social sciences.",
       "zh": "柏林顶尖大学，人文和社会科学实力强。"
+    },
+    "climate": {
+      "zh": "柏林大陆性气候。夏季温暖（18-25°C），冬季寒冷（-2至3°C）。四季分明。",
+      "en": "Berlin continental climate. Warm summers (18-25°C), cold winters (-2 to 3°C). Four distinct seasons."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€280-450/月。柏林租房相对慕尼黑便宜，合租€400-600/月。",
+      "en": "Studentenwerk dorms €280-450/month. Berlin rents cheaper than Munich, shared flats €400-600/month."
+    },
+    "employment": {
+      "zh": "柏林是欧洲创业之都，科技初创企业密集。学术和研究岗位丰富。18个月求职签证。",
+      "en": "Berlin is Europe's startup capital with dense tech startup scene. Academic/research positions plentiful. 18-month job-seeking visa."
+    },
+    "healthcare": {
+      "zh": "德国强制医保，学生约€110/月。柏林Charité医院是欧洲最大教学医院。",
+      "en": "Germany mandates insurance, students ~€110/month. Berlin's Charité is Europe's largest teaching hospital."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。需成绩单、德语/英语证明。",
+      "en": "Apply via uni-assist or university website. Transcripts, German/English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "柏林整体安全，部分区域夜间需注意。校园安保良好。",
+      "en": "Berlin generally safe, some areas need caution at night. Good campus security."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   },
   {
@@ -723,6 +779,34 @@
     "desc": {
       "en": "Germany's largest technical university. Top employer reputation in engineering across Europe.",
       "zh": "德国最大的理工大学，工程专业在欧洲雇主声誉极高。"
+    },
+    "climate": {
+      "zh": "亚琛位于德国西部近荷兰/比利时边境。气候温和，冬季湿冷（1-5°C），夏季凉爽（16-23°C）。",
+      "en": "Aachen is in western Germany near Dutch/Belgian border. Mild climate, damp cold winters (1-5°C), cool summers (16-23°C)."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€250-400/月。亚琛生活成本低于大城市。",
+      "en": "Studentenwerk dorms €250-400/month. Aachen cost of living lower than major cities."
+    },
+    "employment": {
+      "zh": "德国顶尖理工大学。汽车工业（大众/宝马/奥迪）、科技行业大量招聘。",
+      "en": "Germany's top tech university. Automotive (VW/BMW/Audi) and tech industries actively recruit."
+    },
+    "healthcare": {
+      "zh": "德国强制医保。亚琛大学医院是区域顶级医院。",
+      "en": "Germany mandates insurance. Aachen University Hospital is a top regional hospital."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。理工专业需数学/物理基础。",
+      "en": "Apply via uni-assist or university website. STEM programs require math/physics background."
+    },
+    "safetyDetail": {
+      "zh": "亚琛是安全的大学城，犯罪率低。学生占人口比例高。",
+      "en": "Aachen is a safe university town with low crime rate. High student population ratio."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   },
   {
@@ -830,6 +914,34 @@
     "desc": {
       "en": "Berlin's technical university. Strong in engineering, CS, and architecture. Start-up hub.",
       "zh": "柏林工业大学，工程、CS和建筑学实力强，创业氛围浓厚。"
+    },
+    "climate": {
+      "zh": "柏林气候，同自由大学/洪堡大学。",
+      "en": "Berlin climate, same as FU/HU Berlin."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€280-450/月。校区位于柏林中心区。",
+      "en": "Studentenwerk dorms €280-450/month. Campus in central Berlin."
+    },
+    "employment": {
+      "zh": "柏林顶尖理工大学。西门子、德铁等工程企业大量招聘。",
+      "en": "Berlin's top tech university. Siemens, Deutsche Bahn actively recruit engineering graduates."
+    },
+    "healthcare": {
+      "zh": "德国强制医保，学生约€110/月。",
+      "en": "Germany mandates insurance, students ~€110/month."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。",
+      "en": "Apply via uni-assist or university website."
+    },
+    "safetyDetail": {
+      "zh": "柏林中心区安全，校园有安保服务。",
+      "en": "Central Berlin is safe with campus security services."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   },
   {
@@ -937,6 +1049,34 @@
     "desc": {
       "en": "A traditional German research university in beautiful Freiburg. Strong in medicine and natural sciences.",
       "zh": "位于美丽的弗莱堡，传统研究型大学，医学和自然科学实力强。"
+    },
+    "climate": {
+      "zh": "弗莱堡位于黑森林边缘，德国最温暖最阳光的城市之一。夏季20-27°C，冬季1-6°C。",
+      "en": "Freiburg is at the Black Forest edge, one of Germany's warmest and sunniest cities. Summers 20-27°C, winters 1-6°C."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€250-380/月。弗莱堡虽小但住房需求大。",
+      "en": "Studentenwerk dorms €250-380/month. Freiburg is small but housing demand is high."
+    },
+    "employment": {
+      "zh": "环境科学和可再生能源领域领先。弗莱堡是德国绿色之都。",
+      "en": "Leading in environmental science and renewable energy. Freiburg is Germany's green capital."
+    },
+    "healthcare": {
+      "zh": "德国强制医保。弗莱堡大学医院是区域顶级医院。",
+      "en": "Germany mandates insurance. Freiburg University Hospital is a top regional hospital."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。",
+      "en": "Apply via uni-assist or university website."
+    },
+    "safetyDetail": {
+      "zh": "弗莱堡是非常安全的小城，适合学习和户外活动。",
+      "en": "Freiburg is a very safe small city ideal for studying and outdoor activities."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   },
   {
@@ -1044,6 +1184,34 @@
     "desc": {
       "en": "Historic mathematics powerhouse (Gauss, Riemann, Hilbert). 45 Nobel Prize connections.",
       "zh": "数学圣地（高斯、黎曼、希尔伯特），与45位诺贝尔奖获得者有关。"
+    },
+    "climate": {
+      "zh": "哥廷根位于德国中部。夏季温和（16-23°C），冬季寒冷（-1至4°C）。",
+      "en": "Göttingen in central Germany. Mild summers (16-23°C), cold winters (-1 to 4°C)."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€230-350/月。大学城生活成本低。",
+      "en": "Studentenwerk dorms €230-350/month. University town with low cost of living."
+    },
+    "employment": {
+      "zh": "研究传统深厚（数十位诺贝尔奖得主）。学术和科研就业强势。",
+      "en": "Deep research tradition (dozens of Nobel laureates). Strong in academic and research employment."
+    },
+    "healthcare": {
+      "zh": "德国强制医保。哥廷根大学医学中心提供优质医疗。",
+      "en": "Germany mandates insurance. Göttingen University Medical Center provides quality care."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。",
+      "en": "Apply via uni-assist or university website."
+    },
+    "safetyDetail": {
+      "zh": "哥廷根是安全宁静的大学城。学生占人口约20%。",
+      "en": "Göttingen is a safe, quiet university town. Students make up ~20% of population."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   },
   {
@@ -1151,6 +1319,34 @@
     "desc": {
       "en": "Leading in AI/machine learning research (Cyber Valley). Historic university town.",
       "zh": "AI/机器学习研究领先（Cyber Valley），历史悠久的大学城。"
+    },
+    "climate": {
+      "zh": "蒂宾根位于德国西南，气候温和。夏季18-25°C，冬季0-5°C。",
+      "en": "Tübingen in southwest Germany with mild climate. Summers 18-25°C, winters 0-5°C."
+    },
+    "housing": {
+      "zh": "Studentenwerk宿舍约€240-370/月。中世纪老城氛围独特。",
+      "en": "Studentenwerk dorms €240-370/month. Unique medieval old town atmosphere."
+    },
+    "employment": {
+      "zh": "AI和机器学习研究前沿（Cyber Valley）。学术和科技就业强。",
+      "en": "AI and machine learning research frontier (Cyber Valley). Strong academic and tech employment."
+    },
+    "healthcare": {
+      "zh": "德国强制医保。蒂宾根大学医院是知名教学医院。",
+      "en": "Germany mandates insurance. Tübingen University Hospital is a renowned teaching hospital."
+    },
+    "application": {
+      "zh": "通过uni-assist或学校官网申请。",
+      "en": "Apply via uni-assist or university website."
+    },
+    "safetyDetail": {
+      "zh": "蒂宾根是安全的大学城，约三分之一居民是学生。",
+      "en": "Tübingen is a safe university town—about one-third of residents are students."
+    },
+    "deadline": {
+      "zh": "冬季学期：7月15日；夏季学期：1月15日",
+      "en": "Winter semester: Jul 15; Summer semester: Jan 15"
     }
   }
 ]

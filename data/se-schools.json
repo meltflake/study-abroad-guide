@@ -374,6 +374,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "乌普萨拉冬季寒冷（-5至0°C），夏季温和（16-22°C）。冬季日照短。",
+      "en": "Uppsala has cold winters (-5 to 0°C), mild summers (16-22°C). Short winter daylight."
+    },
+    "housing": {
+      "zh": "学生住房约SEK 3500-5500/月。比斯德哥尔摩便宜。",
+      "en": "Student housing ~SEK 3500-5500/month. Cheaper than Stockholm."
+    },
+    "employment": {
+      "zh": "北欧最古老大学之一。学术和制药行业就业强（阿斯利康等）。",
+      "en": "One of the oldest universities in the Nordics. Strong in academic and pharma employment (AstraZeneca etc.)."
+    },
+    "healthcare": {
+      "zh": "瑞典公立医疗。乌普萨拉大学医院是顶级教学医院。",
+      "en": "Swedish public healthcare. Uppsala University Hospital is a top teaching hospital."
+    },
+    "application": {
+      "zh": "通过universityadmissions.se申请。",
+      "en": "Apply via universityadmissions.se."
+    },
+    "safetyDetail": {
+      "zh": "乌普萨拉是安全的大学城。",
+      "en": "Uppsala is a safe university town."
+    },
+    "deadline": {
+      "zh": "非EU学生：1月15日",
+      "en": "Non-EU students: January 15"
     }
   }
 ]

@@ -779,6 +779,34 @@
     "desc": {
       "en": "Korea's oldest university (1398), backed by Samsung. Strong in business and engineering.",
       "zh": "韩国最古老的大学（1398年），三星赞助，商科和工程强。"
+    },
+    "climate": {
+      "zh": "首尔/水原四季分明，同SNU。",
+      "en": "Seoul/Suwon four seasons, same as SNU."
+    },
+    "housing": {
+      "zh": "两个校区都有宿舍，约₩35-55万/月。",
+      "en": "Both campuses have dorms, ~₩350,000-550,000/month."
+    },
+    "employment": {
+      "zh": "三星集团深度合作大学。半导体、IT行业就业极佳。",
+      "en": "Deep partnership with Samsung Group. Excellent employment in semiconductor and IT industries."
+    },
+    "healthcare": {
+      "zh": "韩国NHI。成均馆大学三星医院是亚洲顶级医院。",
+      "en": "Korea's NHI. SKKU Samsung Hospital is a top Asian hospital."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需成绩单、SAT/IB、英语/韩语证明。",
+      "en": "Apply via website. Transcripts, SAT/IB, English/Korean proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "首尔明伦校区和水原校区均安全。",
+      "en": "Both Seoul Myeongnyun and Suwon campuses are safe."
+    },
+    "deadline": {
+      "zh": "3月（秋季入学）/ 9月（春季入学）",
+      "en": "March (fall entry) / September (spring entry)"
     }
   },
   {
@@ -886,6 +914,34 @@
     "desc": {
       "en": "Top engineering university. Known for practical education and industry connections.",
       "zh": "顶尖工科大学，以实践教育和产业联系闻名。"
+    },
+    "climate": {
+      "zh": "首尔四季分明，同SNU。",
+      "en": "Seoul four seasons, same as SNU."
+    },
+    "housing": {
+      "zh": "校内宿舍约₩35-50万/月。首尔校区位于城东。",
+      "en": "On-campus dorms ~₩350,000-500,000/month. Seoul campus in eastern city."
+    },
+    "employment": {
+      "zh": "工科著名，与现代、起亚等企业合作紧密。工程毕业生就业率极高。",
+      "en": "Famous for engineering with close ties to Hyundai, Kia. Engineering graduates have very high employment rate."
+    },
+    "healthcare": {
+      "zh": "韩国NHI。汉阳大学医院提供优质医疗。",
+      "en": "Korea's NHI. Hanyang University Hospital provides quality care."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需成绩单、英语/韩语证明。",
+      "en": "Apply via website. Transcripts, English/Korean proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "首尔城东区域安全便利。",
+      "en": "Eastern Seoul area is safe and convenient."
+    },
+    "deadline": {
+      "zh": "3月（秋季）/ 9月（春季）",
+      "en": "March (fall) / September (spring)"
     }
   },
   {
@@ -993,6 +1049,34 @@
     "desc": {
       "en": "A Jesuit university known for small class sizes and strong humanities/business programs.",
       "zh": "耶稣会大学，以小班教学和人文/商科项目闻名。"
+    },
+    "climate": {
+      "zh": "首尔四季分明，同SNU。",
+      "en": "Seoul four seasons, same as SNU."
+    },
+    "housing": {
+      "zh": "校内宿舍约₩35-50万/月。新村/弘大区域学生生活丰富。",
+      "en": "On-campus dorms ~₩350,000-500,000/month. Sinchon/Hongdae area rich in student life."
+    },
+    "employment": {
+      "zh": "韩国著名商科和人文大学。商学院和经济学在韩国顶尖。小班教学注重质量。",
+      "en": "Renowned Korean business and humanities university. Business and economics top-tier in Korea. Small class sizes focused on quality."
+    },
+    "healthcare": {
+      "zh": "韩国NHI。新村地区医疗资源丰富。",
+      "en": "Korea's NHI. Sinchon area rich in medical resources."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需成绩单、英语证明。",
+      "en": "Apply via website. Transcripts, English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "新村是首尔最安全的学生区之一。",
+      "en": "Sinchon is one of Seoul's safest student areas."
+    },
+    "deadline": {
+      "zh": "3月（秋季）/ 9月（春季）",
+      "en": "March (fall) / September (spring)"
     }
   }
 ]

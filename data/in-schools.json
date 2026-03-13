@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "孟买热带气候。全年高温（24-33°C），6-9月季风暴雨。湿度高。",
+      "en": "Mumbai tropical climate. Hot year-round (24-33°C), monsoon rains Jun-Sep. High humidity."
+    },
+    "housing": {
+      "zh": "校内宿舍（Hostel）极便宜，约₹5000-10000/月（约$60-120）。所有学生强制住校。",
+      "en": "On-campus hostels very cheap, ~₹5000-10000/month (~$60-120). All students required to live on campus."
+    },
+    "employment": {
+      "zh": "印度顶尖理工学院。毕业生被Google、微软、高盛等全球企业争相录用。起薪极高。",
+      "en": "India's top engineering institute. Graduates recruited by Google, Microsoft, Goldman Sachs globally. Very high starting salaries."
+    },
+    "healthcare": {
+      "zh": "校内有医院和健康中心。建议额外购买保险。印度医疗费用低。",
+      "en": "Campus hospital and health center. Additional insurance recommended. India's medical costs are low."
+    },
+    "application": {
+      "zh": "国际生通过DASA或学校官网申请。需SAT/JEE成绩、高中成绩单。竞争极其激烈。",
+      "en": "International students apply via DASA or website. SAT/JEE scores, transcripts required. Extremely competitive."
+    },
+    "safetyDetail": {
+      "zh": "IIT Bombay校园在Powai湖畔，环境优美安全。孟买大城市需注意安全。",
+      "en": "IIT Bombay campus by Powai Lake—beautiful and safe. Mumbai big city requires safety awareness."
+    },
+    "deadline": {
+      "zh": "DASA：通常4月-6月",
+      "en": "DASA: usually April-June"
     }
   },
   {
@@ -211,6 +239,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "新德里极端气候。夏季酷热（35-45°C），冬季寒冷有雾（5-15°C），10-11月空气质量差。",
+      "en": "New Delhi extreme climate. Scorching summers (35-45°C), cold foggy winters (5-15°C), poor air quality Oct-Nov."
+    },
+    "housing": {
+      "zh": "校内宿舍强制住校，约₹5000-10000/月。",
+      "en": "Mandatory on-campus hostels, ~₹5000-10000/month."
+    },
+    "employment": {
+      "zh": "印度顶尖IIT之一。毕业生被全球科技和金融企业大量招聘。",
+      "en": "One of India's top IITs. Graduates recruited heavily by global tech and finance companies."
+    },
+    "healthcare": {
+      "zh": "校内有医疗中心。德里有大量优质医院。",
+      "en": "Campus medical center. Delhi has many quality hospitals."
+    },
+    "application": {
+      "zh": "国际生通过DASA申请。需SAT/JEE成绩。",
+      "en": "International students apply via DASA. SAT/JEE scores required."
+    },
+    "safetyDetail": {
+      "zh": "IIT Delhi校园安全，有围墙和安保。德里大城市需注意人身安全。",
+      "en": "IIT Delhi campus is secure with walls and guards. Delhi as a big city requires personal safety awareness."
+    },
+    "deadline": {
+      "zh": "DASA：通常4月-6月",
+      "en": "DASA: usually April-June"
     }
   },
   {
@@ -318,6 +374,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "班加罗尔高原气候。全年温和（18-33°C），被称为'花园城市'。雨季6-9月。",
+      "en": "Bangalore highland climate. Mild year-round (18-33°C), known as 'Garden City'. Rainy season Jun-Sep."
+    },
+    "housing": {
+      "zh": "校内宿舍约₹3000-8000/月。班加罗尔生活成本在印度主要城市中适中。",
+      "en": "On-campus hostels ~₹3000-8000/month. Bangalore cost of living moderate among Indian major cities."
+    },
+    "employment": {
+      "zh": "印度顶尖科研机构。班加罗尔是'印度硅谷'，IT和科技就业极佳。",
+      "en": "India's top research institution. Bangalore is 'India's Silicon Valley' with excellent IT/tech employment."
+    },
+    "healthcare": {
+      "zh": "校内有健康中心。班加罗尔医疗资源丰富。",
+      "en": "Campus health center. Bangalore has rich medical resources."
+    },
+    "application": {
+      "zh": "本科项目有限，主要通过KVPY/JEE申请。国际生联系招生办。",
+      "en": "Limited undergrad programs, mainly via KVPY/JEE. International students contact admissions."
+    },
+    "safetyDetail": {
+      "zh": "班加罗尔是印度较安全的城市。IISc校园绿树环绕，安保良好。",
+      "en": "Bangalore is one of India's safer cities. IISc campus surrounded by greenery with good security."
+    },
+    "deadline": {
+      "zh": "本科：通常4月-5月",
+      "en": "Undergrad: usually April-May"
     }
   }
 ]

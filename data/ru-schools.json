@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "莫斯科大陆性气候。冬季漫长寒冷（-10至-3°C），夏季温暖短暂（18-25°C）。大量降雪。",
+      "en": "Moscow continental climate. Long cold winters (-10 to -3°C), warm short summers (18-25°C). Heavy snowfall."
+    },
+    "housing": {
+      "zh": "校内宿舍（主楼群）约$100-200/月，非常便宜。校园是世界最大大学校园之一。",
+      "en": "On-campus dorms (main building complex) ~$100-200/month, very affordable. One of the world's largest university campuses."
+    },
+    "employment": {
+      "zh": "俄罗斯顶尖学府。学术和科研领域就业强势。俄罗斯大企业广泛认可。",
+      "en": "Russia's top university. Strong in academic and research employment. Widely recognized by major Russian companies."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险（约$100-200/年）。校内有综合医疗中心。",
+      "en": "International students need medical insurance (~$100-200/year). Comprehensive medical center on campus."
+    },
+    "application": {
+      "zh": "通过学校官网或俄罗斯教育中心申请。需高中成绩、俄语/英语证明。部分项目英语授课。",
+      "en": "Apply via website or Russian education center. Transcripts, Russian/English proficiency required. Some programs English-taught."
+    },
+    "safetyDetail": {
+      "zh": "莫斯科大城市安全状况一般。校园区域安保严格，相对安全。",
+      "en": "Moscow has average big city safety. Campus area has strict security, relatively safe."
+    },
+    "deadline": {
+      "zh": "国际生：通常3月-7月",
+      "en": "International students: usually March-July"
     }
   }
 ]

@@ -374,6 +374,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "乌得勒支气候与阿姆斯特丹类似。温和海洋性，多风多雨。",
+      "en": "Utrecht climate similar to Amsterdam. Mild maritime, windy and rainy."
+    },
+    "housing": {
+      "zh": "SSH或私人住房约€400-650/月。乌得勒支住房比阿姆斯特丹容易些。",
+      "en": "SSH or private housing ~€400-650/month. Housing slightly easier than Amsterdam."
+    },
+    "employment": {
+      "zh": "荷兰第四大城市，地理位置中心。许多国际组织和企业在此设点。",
+      "en": "Netherlands' 4th largest city, centrally located. Many international organizations and companies based here."
+    },
+    "healthcare": {
+      "zh": "荷兰强制医保，学生约€120/月。UMC Utrecht是顶级教学医院。",
+      "en": "Netherlands mandates insurance, students ~€120/month. UMC Utrecht is a top teaching hospital."
+    },
+    "application": {
+      "zh": "通过Studielink+学校官网申请。",
+      "en": "Apply via Studielink + university website."
+    },
+    "safetyDetail": {
+      "zh": "乌得勒支安全宜居，以学生友好著称。运河环绕的历史城市。",
+      "en": "Utrecht is safe and livable, known as student-friendly. Historic city surrounded by canals."
+    },
+    "deadline": {
+      "zh": "非EU学生：4月1日",
+      "en": "Non-EU students: April 1"
     }
   },
   {
@@ -481,6 +509,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "莱顿海洋性气候，与代尔夫特类似。",
+      "en": "Leiden maritime climate, similar to Delft."
+    },
+    "housing": {
+      "zh": "DUWO学生宿舍约€400-600/月。莱顿是小型大学城。",
+      "en": "DUWO student housing ~€400-600/month. Leiden is a small university town."
+    },
+    "employment": {
+      "zh": "荷兰最古老大学。法律、人文、考古领域尤为突出。海牙国际组织近在咫尺。",
+      "en": "Netherlands' oldest university. Especially strong in law, humanities, archaeology. The Hague's international organizations nearby."
+    },
+    "healthcare": {
+      "zh": "荷兰强制医保。LUMC是顶级教学医院。",
+      "en": "Netherlands mandates insurance. LUMC is a top teaching hospital."
+    },
+    "application": {
+      "zh": "通过Studielink+学校官网申请。",
+      "en": "Apply via Studielink + university website."
+    },
+    "safetyDetail": {
+      "zh": "莱顿是安全的大学城，历史悠久，氛围宁静。",
+      "en": "Leiden is a safe, historic university town with a peaceful atmosphere."
+    },
+    "deadline": {
+      "zh": "非EU学生：4月1日",
+      "en": "Non-EU students: April 1"
     }
   },
   {
@@ -588,6 +644,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "瓦赫宁根气候与荷兰其他城市类似。温和多雨。",
+      "en": "Wageningen climate similar to other Dutch cities. Mild and rainy."
+    },
+    "housing": {
+      "zh": "Idealis学生宿舍约€350-550/月。小镇住房相对充足。",
+      "en": "Idealis student housing ~€350-550/month. Small town with relatively adequate housing."
+    },
+    "employment": {
+      "zh": "全球农业和食品科学第一名校。联合利华、达能等食品巨头大量招聘。",
+      "en": "World's #1 in agriculture and food science. Unilever, Danone actively recruit graduates."
+    },
+    "healthcare": {
+      "zh": "荷兰强制医保。镇上有完善的医疗设施。",
+      "en": "Netherlands mandates insurance. Town has complete medical facilities."
+    },
+    "application": {
+      "zh": "通过Studielink+学校官网申请。",
+      "en": "Apply via Studielink + university website."
+    },
+    "safetyDetail": {
+      "zh": "瓦赫宁根是极安全的小型大学城。",
+      "en": "Wageningen is an extremely safe small university town."
+    },
+    "deadline": {
+      "zh": "非EU学生：4月1日",
+      "en": "Non-EU students: April 1"
     }
   },
   {
@@ -695,6 +779,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "格罗宁根位于荷兰北部，气候偏冷多风。冬季1-4°C，夏季15-20°C。",
+      "en": "Groningen in northern Netherlands, cooler and windier. Winters 1-4°C, summers 15-20°C."
+    },
+    "housing": {
+      "zh": "SSH和私人住房约€350-550/月。北部住房比阿姆斯特丹便宜很多。",
+      "en": "SSH and private housing ~€350-550/month. Northern housing much cheaper than Amsterdam."
+    },
+    "employment": {
+      "zh": "荷兰北部经济中心。能源（天然气）和科技行业强势。",
+      "en": "Northern Netherlands' economic center. Strong in energy (natural gas) and tech."
+    },
+    "healthcare": {
+      "zh": "荷兰强制医保。UMCG是北部最大教学医院。",
+      "en": "Netherlands mandates insurance. UMCG is the largest teaching hospital in the north."
+    },
+    "application": {
+      "zh": "通过Studielink+学校官网申请。",
+      "en": "Apply via Studielink + university website."
+    },
+    "safetyDetail": {
+      "zh": "格罗宁根是活力大学城，学生占人口四分之一，非常安全。",
+      "en": "Groningen is a vibrant university town—students are a quarter of the population, very safe."
+    },
+    "deadline": {
+      "zh": "非EU学生：4月1日",
+      "en": "Non-EU students: April 1"
     }
   },
   {
@@ -802,6 +914,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "埃因霍温气候与荷兰其他城市类似。温和海洋性。",
+      "en": "Eindhoven climate similar to other Dutch cities. Mild maritime."
+    },
+    "housing": {
+      "zh": "Vestide学生宿舍约€380-580/月。住房比阿姆斯特丹容易。",
+      "en": "Vestide student housing ~€380-580/month. Housing easier than Amsterdam."
+    },
+    "employment": {
+      "zh": "ASML（全球光刻机垄断）、飞利浦总部所在地。工程毕业生极受欢迎。",
+      "en": "Home to ASML (global lithography monopoly) and Philips HQ. Engineering graduates in extremely high demand."
+    },
+    "healthcare": {
+      "zh": "荷兰强制医保。市内有完善医疗设施。",
+      "en": "Netherlands mandates insurance. City has complete medical facilities."
+    },
+    "application": {
+      "zh": "通过Studielink+学校官网申请。需数学/物理基础。",
+      "en": "Apply via Studielink + university website. Math/physics background required."
+    },
+    "safetyDetail": {
+      "zh": "埃因霍温是安全的科技城市，生活便利。",
+      "en": "Eindhoven is a safe tech city with convenient living."
+    },
+    "deadline": {
+      "zh": "非EU学生：4月1日",
+      "en": "Non-EU students: April 1"
     }
   }
 ]

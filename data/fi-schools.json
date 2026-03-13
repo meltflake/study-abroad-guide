@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "赫尔辛基冬季漫长寒冷（-7至-1°C），夏季温和（15-22°C）。冬季日照极短。",
+      "en": "Helsinki has long cold winters (-7 to -1°C), mild summers (15-22°C). Very short winter daylight."
+    },
+    "housing": {
+      "zh": "HOAS学生宿舍约€400-650/月。赫尔辛基住房竞争激烈。",
+      "en": "HOAS student housing ~€400-650/month. Helsinki housing is competitive."
+    },
+    "employment": {
+      "zh": "芬兰顶尖大学。诺基亚、Supercell等科技企业在此。毕业可获1年求职签证。",
+      "en": "Finland's top university. Nokia, Supercell based here. 1-year post-study job-seeking visa."
+    },
+    "healthcare": {
+      "zh": "芬兰公立医疗费用低。YTHS学生健康服务几乎免费。",
+      "en": "Finland's public healthcare affordable. YTHS student health services nearly free."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩、英语证明（TOEFL/IELTS）、SAT可选。",
+      "en": "Apply via website. Transcripts, English proficiency (TOEFL/IELTS) required, SAT optional."
+    },
+    "safetyDetail": {
+      "zh": "赫尔辛基是全球最安全城市之一。芬兰犯罪率极低。",
+      "en": "Helsinki is one of the world's safest cities. Finland has extremely low crime rate."
+    },
+    "deadline": {
+      "zh": "国际生：通常1月",
+      "en": "International students: usually January"
     }
   },
   {
@@ -211,6 +239,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "赫尔辛基气候，同赫尔辛基大学。Otaniemi校区在Espoo。",
+      "en": "Helsinki climate, same as University of Helsinki. Otaniemi campus in Espoo."
+    },
+    "housing": {
+      "zh": "AYY学生宿舍约€350-600/月。Otaniemi校园生活便利。",
+      "en": "AYY student housing ~€350-600/month. Otaniemi campus life convenient."
+    },
+    "employment": {
+      "zh": "芬兰顶尖设计和科技大学。与Nokia、KONE等企业紧密合作。创业氛围浓厚。",
+      "en": "Finland's top design and tech university. Close ties with Nokia, KONE. Strong entrepreneurship culture."
+    },
+    "healthcare": {
+      "zh": "芬兰YTHS学生健康服务。",
+      "en": "Finland's YTHS student health services."
+    },
+    "application": {
+      "zh": "通过学校官网申请。需高中成绩、英语证明、SAT/ACT可选。部分专业需作品集。",
+      "en": "Apply via website. Transcripts, English proficiency required, SAT/ACT optional. Some programs need portfolio."
+    },
+    "safetyDetail": {
+      "zh": "Espoo/Otaniemi校区非常安全。芬兰整体治安优秀。",
+      "en": "Espoo/Otaniemi campus very safe. Finland has excellent overall safety."
+    },
+    "deadline": {
+      "zh": "国际生：通常1月",
+      "en": "International students: usually January"
     }
   }
 ]

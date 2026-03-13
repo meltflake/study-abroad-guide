@@ -104,6 +104,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "米兰大陆性气候。夏季炎热（25-33°C），冬季湿冷有雾（0-5°C）。春秋宜人。",
+      "en": "Milan continental climate. Hot summers (25-33°C), damp cold foggy winters (0-5°C). Pleasant spring/autumn."
+    },
+    "housing": {
+      "zh": "Residenze Politecnico约€400-700/月。米兰租房€500-900/月。",
+      "en": "Residenze Politecnico ~€400-700/month. Milan rentals €500-900/month."
+    },
+    "employment": {
+      "zh": "意大利顶尖理工大学。米兰是意大利经济首都，时尚、设计、工程行业就业优秀。",
+      "en": "Italy's top tech university. Milan is Italy's economic capital with excellent employment in fashion, design, engineering."
+    },
+    "healthcare": {
+      "zh": "意大利SSN国家医疗，学生可注册享受。月费约€150。",
+      "en": "Italy's SSN national healthcare, students can register. ~€150/month."
+    },
+    "application": {
+      "zh": "通过学校官网Apply@Polimi申请。需高中成绩、英语/意大利语证明、入学测试。",
+      "en": "Apply via Apply@Polimi. Transcripts, English/Italian proficiency, entrance test required."
+    },
+    "safetyDetail": {
+      "zh": "米兰整体安全，火车站附近夜间需注意。校区安保良好。",
+      "en": "Milan generally safe, caution near train station at night. Good campus security."
+    },
+    "deadline": {
+      "zh": "国际生：通常2月-4月（第一轮）",
+      "en": "International: usually February-April (first round)"
     }
   },
   {
@@ -211,6 +239,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "罗马地中海气候。夏季炎热干燥（28-35°C），冬季温和多雨（5-12°C）。",
+      "en": "Rome Mediterranean climate. Hot dry summers (28-35°C), mild rainy winters (5-12°C)."
+    },
+    "housing": {
+      "zh": "Laziodisu宿舍或私人住房约€400-700/月。罗马市中心租金较高。",
+      "en": "Laziodisu dorms or private housing ~€400-700/month. Central Rome rents higher."
+    },
+    "employment": {
+      "zh": "意大利最大大学。人文、法律、建筑领域在意大利和欧洲广泛认可。",
+      "en": "Italy's largest university. Humanities, law, architecture widely recognized in Italy and Europe."
+    },
+    "healthcare": {
+      "zh": "意大利SSN国家医疗。Policlinico Umberto I是大学附属医院。",
+      "en": "Italy's SSN healthcare. Policlinico Umberto I is the university hospital."
+    },
+    "application": {
+      "zh": "通过Infostud系统申请。需成绩单认证、意大利语/英语证明。",
+      "en": "Apply via Infostud system. Credential verification, Italian/English proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "罗马旅游城市需注意扒手。Termini车站附近夜间谨慎。校区有安保。",
+      "en": "Rome as tourist city—watch for pickpockets. Caution near Termini station at night. Campus has security."
+    },
+    "deadline": {
+      "zh": "国际生：通常4月-7月",
+      "en": "International: usually April-July"
     }
   },
   {
@@ -318,6 +374,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "博洛尼亚气候四季分明。夏季炎热（26-33°C），冬季湿冷有雾（0-5°C）。",
+      "en": "Bologna has four distinct seasons. Hot summers (26-33°C), damp cold foggy winters (0-5°C)."
+    },
+    "housing": {
+      "zh": "ER.GO宿舍或私人住房约€350-600/月。博洛尼亚生活成本低于米兰和罗马。",
+      "en": "ER.GO dorms or private housing ~€350-600/month. Bologna cost of living lower than Milan and Rome."
+    },
+    "employment": {
+      "zh": "世界最古老大学（1088年建校）。法律、文学、医学在欧洲享有盛誉。",
+      "en": "World's oldest university (founded 1088). Law, literature, medicine highly regarded in Europe."
+    },
+    "healthcare": {
+      "zh": "意大利SSN国家医疗。学生可注册当地ASL。",
+      "en": "Italy's SSN healthcare. Students can register with local ASL."
+    },
+    "application": {
+      "zh": "通过Studenti Online系统申请。需成绩单认证、语言证明。",
+      "en": "Apply via Studenti Online system. Credential verification, language proficiency required."
+    },
+    "safetyDetail": {
+      "zh": "博洛尼亚是安全友好的大学城，学生人口比例高。",
+      "en": "Bologna is a safe, friendly university town with high student population."
+    },
+    "deadline": {
+      "zh": "国际生：通常3月-5月",
+      "en": "International: usually March-May"
     }
   }
 ]
