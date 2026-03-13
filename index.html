@@ -360,8 +360,8 @@ img{max-width:100%}
     <h1><span data-i18n="hero_title">留学择校通</span> <span class="gold">/ StudyAbroad Guide</span></h1>
     <p class="subtitle" data-i18n="hero_subtitle">帮助家长做出明智的留学决策 — 择校、费用、安全，一站掌握</p>
     <div class="hero-stats">
-      <div class="hero-stat"><div class="num">149</div><div class="label" data-i18n="hero_s1">精选院校</div></div>
-      <div class="hero-stat"><div class="num">9</div><div class="label" data-i18n="hero_s2">热门国家</div></div>
+      <div class="hero-stat"><div class="num" id="heroSchoolCount">210</div><div class="label" data-i18n="hero_s1">精选院校</div></div>
+      <div class="hero-stat"><div class="num" id="heroCountryCount">12</div><div class="label" data-i18n="hero_s2">热门国家</div></div>
       <div class="hero-stat"><div class="num">∞</div><div class="label" data-i18n="hero_s3">可能性</div></div>
     </div>
     <div class="scroll-hint">↓ <span data-i18n="hero_scroll">向下滚动探索</span></div>
@@ -29442,6 +29442,10 @@ function initScholarships(){
 
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded',()=>{
+  // Set hero stats dynamically
+  document.getElementById('heroSchoolCount').textContent = SCHOOLS.length;
+  document.getElementById('heroCountryCount').textContent = new Set(SCHOOLS.map(s=>s.country)).size;
+
   // Set country counts
   var counts = {};
   SCHOOLS.forEach(s=>{ counts[s.country] = (counts[s.country]||0)+1; });
