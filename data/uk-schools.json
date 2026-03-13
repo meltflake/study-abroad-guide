@@ -4369,6 +4369,34 @@
     "desc": {
       "en": "One of Scotland's oldest universities, strong in medicine, energy, and earth sciences.",
       "zh": "苏格兰最古老的大学之一，在医学、能源和地球科学方面实力强劲。"
+    },
+    "climate": {
+      "zh": "阿伯丁苏格兰东北部海洋性气候。夏季凉爽（13-18°C），冬季阴冷多风（1-6°C）。",
+      "en": "Aberdeen in northeast Scotland, maritime climate. Cool summers (13-18°C), cold windy winters (1-6°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -4475,6 +4503,34 @@
     "desc": {
       "en": "A Russell Group university in Northern Ireland with strong pharmacy and engineering programs.",
       "zh": "北爱尔兰的罗素集团大学，药学和工程实力突出。"
+    },
+    "climate": {
+      "zh": "贝尔法斯特海洋性气候。全年温和多雨。夏季14-18°C，冬季3-7°C。",
+      "en": "Belfast maritime climate. Mild and rainy year-round. Summers 14-18°C, winters 3-7°C."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -4581,6 +4637,34 @@
     "desc": {
       "en": "Strong in medicine, dentistry, and art & design. Known for the V&A Dundee design museum.",
       "zh": "医学、牙医和艺术设计实力强，V&A邓迪设计博物馆所在地。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -4687,6 +4771,34 @@
     "desc": {
       "en": "Known for information security (top UK), performing arts, and a stunning Victorian campus.",
       "zh": "以信息安全（英国顶尖）、表演艺术和维多利亚时代校园闻名。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -4793,6 +4905,34 @@
     "desc": {
       "en": "Renowned for environmental science and creative writing. Home of the Sainsbury Centre.",
       "zh": "以环境科学和创意写作闻名，赛恩斯伯里中心所在地。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -4899,6 +5039,34 @@
     "desc": {
       "en": "Strong in engineering, actuarial science, and translation. Has Dubai and Malaysia campuses.",
       "zh": "工程、精算和翻译实力强，在迪拜和马来西亚设有校区。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5005,6 +5173,34 @@
     "desc": {
       "en": "A leading technological university in Glasgow with triple-accredited business school.",
       "zh": "格拉斯哥领先的理工大学，商学院获三重认证。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5111,6 +5307,34 @@
     "desc": {
       "en": "A coastal university with strong engineering and a new Bay Campus on the beach.",
       "zh": "一所海滨大学，工程实力强，新建的海湾校区就在海边。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5217,6 +5441,34 @@
     "desc": {
       "en": "Known for engineering, design, and sports science. Named after Isambard Kingdom Brunel.",
       "zh": "以工程、设计和体育科学闻名，以著名工程师布鲁内尔命名。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5323,6 +5575,34 @@
     "desc": {
       "en": "The UK's European university in historic Canterbury. Strong in law and drama.",
       "zh": "位于历史名城坎特伯雷，法学和戏剧实力突出。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5430,6 +5710,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5537,6 +5845,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5644,6 +5980,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5751,6 +6115,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5858,6 +6250,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -5965,6 +6385,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6072,6 +6520,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6179,6 +6655,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6286,6 +6790,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6393,6 +6925,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6500,6 +7060,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6607,6 +7195,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6714,6 +7330,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6821,6 +7465,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -6928,6 +7600,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -7035,6 +7735,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -7142,6 +7870,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -7249,6 +8005,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -7356,6 +8140,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   },
   {
@@ -7463,6 +8275,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内宿舍约£500-900/月。大一通常保证住宿。校外学生公寓选择多。",
+      "en": "On-campus halls ~£500-900/month. First-year housing usually guaranteed. Off-campus student flats available."
+    },
+    "employment": {
+      "zh": "毕业后可获2年Graduate Route签证。英国就业市场对留学生开放。",
+      "en": "2-year Graduate Route visa after graduation. UK job market open to international graduates."
+    },
+    "healthcare": {
+      "zh": "支付IHS附加费后可享受NHS免费医疗。校内有学生健康中心。",
+      "en": "NHS free healthcare after paying IHS surcharge. Student health center on campus."
+    },
+    "application": {
+      "zh": "通过UCAS系统申请（最多5个志愿）。需IB/A-Level预估分、Personal Statement、学校推荐信。",
+      "en": "Apply via UCAS (max 5 choices). IB/A-Level predicted grades, Personal Statement, school reference required."
+    },
+    "safetyDetail": {
+      "zh": "英国整体治安良好。校园安保完善，有24小时紧急联系电话。",
+      "en": "UK generally safe. Good campus security with 24h emergency contact."
+    },
+    "deadline": {
+      "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
+      "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
   }
 ]

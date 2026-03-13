@@ -1164,6 +1164,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -1271,6 +1299,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -1378,6 +1434,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -1485,6 +1569,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -1592,6 +1704,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -1699,6 +1839,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -1806,6 +1974,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -1913,6 +2109,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -2020,6 +2244,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -2127,6 +2379,34 @@
     "applicationGuide": {
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   },
   {
@@ -2234,6 +2514,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "请查看学校官网了解当地气候信息。",
+      "en": "Please check school website for local climate information."
+    },
+    "housing": {
+      "zh": "校内留学生宿舍约¥800-2000/月。部分学校可校外租房。",
+      "en": "On-campus international dorms ~¥800-2000/month. Some schools allow off-campus housing."
+    },
+    "employment": {
+      "zh": "中国经济发展迅速。毕业生在科技、金融、制造业就业机会多。",
+      "en": "China's rapid economic growth. Graduates find opportunities in tech, finance, manufacturing."
+    },
+    "healthcare": {
+      "zh": "留学生需购买医疗保险。校内有医务室。公立医院费用低廉。",
+      "en": "International students need medical insurance. Campus clinic available. Public hospital costs are low."
+    },
+    "application": {
+      "zh": "通过学校官网或中国留学基金委申请。需成绩单、HSK成绩、推荐信。",
+      "en": "Apply via school website or CSC. Transcripts, HSK scores, recommendations required."
+    },
+    "safetyDetail": {
+      "zh": "中国整体治安良好。校园管理严格，有门禁和安保。",
+      "en": "China generally safe. Strict campus management with gate access and security."
+    },
+    "deadline": {
+      "zh": "通常12月-3月（因校而异）",
+      "en": "Usually December-March (varies by school)"
     }
   }
 ]

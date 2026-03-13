@@ -8069,6 +8069,34 @@
     "desc": {
       "en": "WashU is a top research university known for strong programs in medicine, business, and arts & sciences.",
       "zh": "圣路易斯华盛顿大学以医学、商科和文理学院闻名。"
+    },
+    "climate": {
+      "zh": "圣路易斯四季分明。夏季炎热潮湿（28-35°C），冬季寒冷（-3至5°C）。春秋宜人。",
+      "en": "St. Louis has four seasons. Hot humid summers (28-35°C), cold winters (-3 to 5°C). Pleasant spring/autumn."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -8175,6 +8203,34 @@
     "desc": {
       "en": "Known for its Eastman School of Music and strong optics/physics programs.",
       "zh": "以伊斯曼音乐学院和光学/物理项目闻名。"
+    },
+    "climate": {
+      "zh": "罗切斯特冬季寒冷多雪（-7至1°C），夏季温暖（20-27°C）。紧邻安大略湖。",
+      "en": "Rochester has cold snowy winters (-7 to 1°C), warm summers (20-27°C). Near Lake Ontario."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -8415,6 +8471,34 @@
     "desc": {
       "en": "University of Miami is known for marine science, business, and its location in sunny South Florida.",
       "zh": "迈阿密大学以海洋科学、商科和阳光南佛罗里达的校园环境闻名。"
+    },
+    "climate": {
+      "zh": "迈阿密热带气候。全年温暖（20-33°C），夏季炎热潮湿，6-11月飓风季。",
+      "en": "Miami tropical climate. Warm year-round (20-33°C), hot humid summers, hurricane season Jun-Nov."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -8521,6 +8605,34 @@
     "desc": {
       "en": "A leading public research university with strong engineering, health sciences, and agriculture programs.",
       "zh": "明尼苏达大学是顶尖公立研究型大学，工程、健康科学和农学实力强劲。"
+    },
+    "climate": {
+      "zh": "明尼阿波利斯冬季极寒（-15至-5°C），夏季温暖（22-30°C）。冬季漫长多雪。",
+      "en": "Minneapolis has extremely cold winters (-15 to -5°C), warm summers (22-30°C). Long snowy winters."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -8627,6 +8739,34 @@
     "desc": {
       "en": "UMD is a top public university near Washington DC with strong CS, engineering, and policy programs.",
       "zh": "马里兰大学靠近华盛顿特区，CS、工程和政策项目实力突出。"
+    },
+    "climate": {
+      "zh": "马里兰州气候温和。夏季炎热潮湿（27-33°C），冬季温和（-1至6°C）。",
+      "en": "Maryland has mild climate. Hot humid summers (27-33°C), mild winters (-1 to 6°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -8733,6 +8873,34 @@
     "desc": {
       "en": "MSU is known for education, agriculture, hospitality management, and supply chain management.",
       "zh": "密歇根州立大学以教育、农学、酒店管理和供应链管理闻名。"
+    },
+    "climate": {
+      "zh": "密歇根州冬季寒冷多雪（-8至-1°C），夏季温暖（20-28°C）。",
+      "en": "Michigan has cold snowy winters (-8 to -1°C), warm summers (20-28°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -8839,6 +9007,34 @@
     "desc": {
       "en": "CU Boulder excels in aerospace, physics, and environmental sciences with a stunning Rocky Mountain campus.",
       "zh": "科罗拉多大学博尔德分校在航空航天、物理和环境科学方面表现出色。"
+    },
+    "climate": {
+      "zh": "博尔德位于科罗拉多州。日照充足，冬季有雪但阳光明媚。夏季凉爽干燥（18-30°C）。",
+      "en": "Boulder, Colorado. Sunny with snowy winters but lots of sunshine. Cool dry summers (18-30°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -8945,6 +9141,34 @@
     "desc": {
       "en": "A Jesuit university in the heart of Silicon Valley with strong engineering and business programs.",
       "zh": "位于硅谷中心的耶稣会大学，工程和商科项目实力强。"
+    },
+    "climate": {
+      "zh": "硅谷地中海气候。全年温和干燥（10-28°C），几乎不下雨。非常宜居。",
+      "en": "Silicon Valley Mediterranean climate. Mild and dry year-round (10-28°C), almost no rain. Very livable."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9051,6 +9275,34 @@
     "desc": {
       "en": "UA is a top research university renowned for astronomy, planetary science, and optical sciences.",
       "zh": "亚利桑那大学以天文学、行星科学和光学科学闻名世界。"
+    },
+    "climate": {
+      "zh": "图森沙漠气候。夏季酷热（35-42°C），冬季温暖宜人（8-20°C）。极度干燥。",
+      "en": "Tucson desert climate. Scorching summers (35-42°C), warm pleasant winters (8-20°C). Extremely dry."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9157,6 +9409,34 @@
     "desc": {
       "en": "ASU is the largest public university in the US, known for innovation, sustainability, and accessibility.",
       "zh": "亚利桑那州立大学是美国最大的公立大学，以创新和可持续发展闻名。"
+    },
+    "climate": {
+      "zh": "凤凰城沙漠气候。夏季酷热（35-45°C），冬季温暖（10-20°C）。全年日照充足。",
+      "en": "Phoenix desert climate. Scorching summers (35-45°C), warm winters (10-20°C). Year-round sunshine."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9263,6 +9543,34 @@
     "desc": {
       "en": "A top SUNY research university on Long Island with strong STEM programs and Brookhaven National Lab nearby.",
       "zh": "石溪大学是纽约州立大学系统顶尖研究型大学，STEM实力强劲。"
+    },
+    "climate": {
+      "zh": "纽约长岛气候。夏季温暖（25-30°C），冬季寒冷（-3至4°C）。靠近海滩。",
+      "en": "Long Island, NY climate. Warm summers (25-30°C), cold winters (-3 to 4°C). Near beaches."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9369,6 +9677,34 @@
     "desc": {
       "en": "New Jersey's flagship public university with a strong pharmacy program and proximity to NYC.",
       "zh": "新泽西州旗舰公立大学，药学项目强，靠近纽约市。"
+    },
+    "climate": {
+      "zh": "新泽西气候温和。夏季温暖潮湿（25-32°C），冬季寒冷（-3至5°C）。",
+      "en": "New Jersey mild climate. Warm humid summers (25-32°C), cold winters (-3 to 5°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9476,6 +9812,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "宾州伯利恒四季分明。夏季温暖（23-30°C），冬季寒冷有雪（-5至3°C）。",
+      "en": "Bethlehem, PA four seasons. Warm summers (23-30°C), cold snowy winters (-5 to 3°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9583,6 +9947,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "纽约州特洛伊冬季漫长寒冷（-10至0°C），夏季温暖（20-28°C）。",
+      "en": "Troy, NY has long cold winters (-10 to 0°C), warm summers (20-28°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9690,6 +10082,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "康涅狄格州四季分明。夏季温暖（23-30°C），冬季寒冷多雪（-5至3°C）。",
+      "en": "Connecticut four seasons. Warm summers (23-30°C), cold snowy winters (-5 to 3°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9797,6 +10217,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "南卡罗来纳州气候温暖。夏季炎热（27-33°C），冬季温和（2-12°C）。",
+      "en": "South Carolina warm climate. Hot summers (27-33°C), mild winters (2-12°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -9904,6 +10352,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "新泽西霍博肯，对望曼哈顿。四季分明，夏热冬冷。",
+      "en": "Hoboken, NJ facing Manhattan. Four seasons, hot summers and cold winters."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -10011,6 +10487,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "费城近郊气候。夏季温暖（25-32°C），冬季寒冷（-3至5°C）。",
+      "en": "Philadelphia suburbs climate. Warm summers (25-32°C), cold winters (-3 to 5°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -10118,6 +10622,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "费城四季分明。夏季炎热（27-33°C），冬季寒冷（-2至5°C）。",
+      "en": "Philadelphia four seasons. Hot summers (27-33°C), cold winters (-2 to 5°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -10225,6 +10757,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "达拉斯气候炎热。夏季酷热（33-40°C），冬季温和（3-13°C）。",
+      "en": "Dallas hot climate. Scorching summers (33-40°C), mild winters (3-13°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -10332,6 +10892,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "纽约市四季分明。夏季炎热潮湿（27-32°C），冬季寒冷（-3至4°C）。",
+      "en": "New York City four seasons. Hot humid summers (27-32°C), cold winters (-3 to 4°C)."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
@@ -10439,6 +11027,34 @@
     "applicationGuide": {
       "en": "Check official website.",
       "zh": "请查看学校官网。"
+    },
+    "climate": {
+      "zh": "费城四季分明，同Drexel。",
+      "en": "Philadelphia four seasons, same as Drexel."
+    },
+    "housing": {
+      "zh": "校内宿舍约$800-1300/月。校外租房选择丰富。大一通常建议住校。",
+      "en": "On-campus housing ~$800-1300/month. Off-campus options plentiful. Freshmen usually encouraged to live on campus."
+    },
+    "employment": {
+      "zh": "美国就业市场广阔。学校career center提供就业支持。CPT/OPT工作许可。",
+      "en": "Broad US job market. Career center provides employment support. CPT/OPT work authorization available."
+    },
+    "healthcare": {
+      "zh": "学校提供学生健康保险计划。校内设有健康中心。",
+      "en": "University offers student health insurance plan. Health center on campus."
+    },
+    "application": {
+      "zh": "通过Common App或学校官网申请。需成绩单、SAT/ACT（部分可选）、TOEFL/IELTS、个人陈述。",
+      "en": "Apply via Common App or school website. Transcripts, SAT/ACT (some test-optional), TOEFL/IELTS, personal statement required."
+    },
+    "safetyDetail": {
+      "zh": "校园有完善的安保系统和紧急报警设施。具体安全情况因地区而异。",
+      "en": "Campus has comprehensive security system and emergency alert facilities. Safety varies by location."
+    },
+    "deadline": {
+      "zh": "EA/ED: 11月1-15日; RD: 1月1-15日",
+      "en": "EA/ED: Nov 1-15; RD: Jan 1-15"
     }
   },
   {
