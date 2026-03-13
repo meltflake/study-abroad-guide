@@ -1744,7 +1744,7 @@ function renderTimeline(country){
   const tl = TIMELINES[country];
   if(!tl) return;
   // Update buttons
-  document.querySelectorAll('.tl-country-tab').forEach(b=>{
+  document.querySelectorAll('#tlCountryBtns .tl-country-tab').forEach(b=>{
     b.classList.toggle('active', b.dataset.country===country);
   });
   const now = new Date();
