@@ -41843,18 +41843,18 @@ function openCompare(){
     ['compare_tuition', s=>s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()],
     ['compare_safety_label', s=>`${s.safety}/10`],
     ['compare_city', s=>(s.city[lang]||s.city.en)],
-    ['compare_climate', s=>(s.climate[lang]||s.climate.en)],
+    ['compare_climate', s=>s.climate ? (s.climate[lang]||s.climate.en) : 'N/A'],
     ['compare_living', s=>(s.livingCost[lang]||s.livingCost.en)],
     ['compare_requirements', s=>s.requirements ? `TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}` : 'N/A'],
     ['compare_ib', s=>{ let ib = s.requirements && s.requirements.IB; if(!ib && s.ibRequirement) ib = s.ibRequirement[lang]||s.ibRequirement.en; return ib || 'N/A'; }],
     ['compare_accept', s=>s.acceptanceRate ? `${s.acceptanceRate.overall} (${t('accept_intl')}: ${s.acceptanceRate.intl})` : 'N/A'],
     ['compare_deadline', s=>s.deadline ? (s.deadline[lang]||s.deadline.en) : 'N/A'],
 
-    ['compare_housing_label', s=>(s.housing[lang]||s.housing.en)],
+    ['compare_housing_label', s=>s.housing ? (s.housing[lang]||s.housing.en) : 'N/A'],
     ['compare_graduation', s=>(s.graduationRate[lang]||s.graduationRate.en)],
-    ['compare_employment', s=>(s.employment[lang]||s.employment.en)],
-    ['compare_healthcare', s=>(s.healthcare[lang]||s.healthcare.en)],
-    ['compare_application', s=>(s.application[lang]||s.application.en)],
+    ['compare_employment', s=>s.employment ? (s.employment[lang]||s.employment.en) : 'N/A'],
+    ['compare_healthcare', s=>s.healthcare ? (s.healthcare[lang]||s.healthcare.en) : 'N/A'],
+    ['compare_application', s=>s.application ? (s.application[lang]||s.application.en) : 'N/A'],
   ];
   const panel = document.getElementById('comparePanel');
   panel.innerHTML = `
@@ -41915,11 +41915,11 @@ function openDetail(id){
       </div>
       <div class="detail-section">
         <h3>${t('detail_safety')}</h3>
-        <p class="detail-desc"><span class="safety-badge ${safetyClass(s.safety)}" style="font-size:.9rem;margin-right:.5rem">${s.safety}/10</span>${(s.safetyDetail[lang]||s.safetyDetail.en)}</p>
+        <p class="detail-desc"><span class="safety-badge ${safetyClass(s.safety)}" style="font-size:.9rem;margin-right:.5rem">${s.safety}/10</span>${s.safetyDetail ? (s.safetyDetail[lang]||s.safetyDetail.en) : ''}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_climate')}</h3>
-        <p class="detail-desc">${(s.climate[lang]||s.climate.en)}</p>
+        <p class="detail-desc">${s.climate ? (s.climate[lang]||s.climate.en) : 'N/A'}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_living')}</h3>
@@ -41927,7 +41927,7 @@ function openDetail(id){
       </div>
       <div class="detail-section">
         <h3>${t('detail_housing')}</h3>
-        <p class="detail-desc">${(s.housing[lang]||s.housing.en)}</p>
+        <p class="detail-desc">${s.housing ? (s.housing[lang]||s.housing.en) : 'N/A'}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_graduation')}</h3>
@@ -41935,15 +41935,15 @@ function openDetail(id){
       </div>
       <div class="detail-section">
         <h3>${t('detail_employment')}</h3>
-        <p class="detail-desc">${(s.employment[lang]||s.employment.en)}</p>
+        <p class="detail-desc">${s.employment ? (s.employment[lang]||s.employment.en) : 'N/A'}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_healthcare')}</h3>
-        <p class="detail-desc">${(s.healthcare[lang]||s.healthcare.en)}</p>
+        <p class="detail-desc">${s.healthcare ? (s.healthcare[lang]||s.healthcare.en) : 'N/A'}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_application')}</h3>
-        <p class="detail-desc" style="white-space:pre-line">${(s.application[lang]||s.application.en)}</p>
+        <p class="detail-desc" style="white-space:pre-line">${s.application ? (s.application[lang]||s.application.en) : 'N/A'}</p>
       </div>
     </div>
   `;
