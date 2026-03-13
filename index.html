@@ -491,6 +491,12 @@ img{max-width:100%}
 <footer class="footer">
   <div class="brand">留学择校通 StudyAbroad Guide</div>
   <p data-i18n="footer">© 2025 留学择校通 — 本站为演示平台，数据仅供参考</p>
+  <div style="margin-top:1.2rem;padding-top:1rem;border-top:1px solid rgba(255,255,255,.1);font-size:.75rem;line-height:1.8;color:var(--gray-500)" data-i18n="disclaimer">
+    📊 数据来源：QS World University Rankings、Times Higher Education (THE)、US News Best Global Universities、ARWU (软科)、各校官方网站<br>
+    🛡️ 安全评分参考：Numbeo 城市安全指数、US News 安全排名、各国政府官方统计数据<br>
+    💰 学费与生活费基于 2024-2025 学年公开数据，汇率可能波动<br>
+    ⚠️ 免责声明：本站所有数据仅供参考，不构成任何申请建议。实际信息请以各校官方公布为准。
+  </div>
 </footer>
 
 <!-- Compare Bar -->
@@ -21802,6 +21808,7 @@ const I18N = {
   compare_selected:{zh:'已选择对比：',en:'Selected for comparison:'},
   compare_btn:{zh:'开始对比',en:'Compare Now'},
   footer:{zh:'© 2025 留学择校通 — 本站为演示平台，数据仅供参考',en:'© 2025 StudyAbroad Guide — Demo platform, data for reference only'},
+  disclaimer:{zh:'📊 数据来源：QS World University Rankings、Times Higher Education (THE)、US News Best Global Universities、ARWU (软科)、各校官方网站<br>🛡️ 安全评分参考：Numbeo 城市安全指数、US News 安全排名、各国政府官方统计数据<br>💰 学费与生活费基于 2024-2025 学年公开数据，汇率可能波动<br>⚠️ 免责声明：本站所有数据仅供参考，不构成任何申请建议。实际信息请以各校官方公布为准。',en:'📊 Data sources: QS World University Rankings, Times Higher Education (THE), US News Best Global Universities, ARWU (Shanghai Ranking), official university websites<br>🛡️ Safety ratings: Numbeo City Safety Index, US News safety rankings, official government statistics<br>💰 Tuition and living costs based on 2024-2025 academic year data; exchange rates may vary<br>⚠️ Disclaimer: All data is for reference only and does not constitute application advice. Please verify with official university sources.'},
   click_detail:{zh:'点击查看详情',en:'Click for details'},
   qs_rank:{zh:'QS #',en:'QS #'},
   tuition_label:{zh:'学费/年',en:'Tuition/yr'},
@@ -21921,7 +21928,7 @@ function switchLang(newLang){
   // Update all data-i18n elements
   document.querySelectorAll('[data-i18n]').forEach(el=>{
     const key = el.getAttribute('data-i18n');
-    if(I18N[key]) el.textContent = I18N[key][lang] || I18N[key].en;
+    if(I18N[key]) { const v = I18N[key][lang] || I18N[key].en; if(v.includes('<br>')) el.innerHTML = v; else el.textContent = v; }
   });
   document.querySelectorAll('[data-i18n-placeholder]').forEach(el=>{
     const key = el.getAttribute('data-i18n-placeholder');
