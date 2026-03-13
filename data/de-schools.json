@@ -1,323 +1,1072 @@
 [
   {
     "id": "tumunich",
-    "country": "DE",
-    "flag": "🇩🇪",
     "name": {
-      "zh": "慕尼黑工业大学",
-      "en": "Technical University of Munich (TUM)"
+      "en": "Technical University of Munich",
+      "zh": "慕尼黑工业大学"
     },
+    "country": "DE",
     "city": {
-      "zh": "巴伐利亚州 慕尼黑",
-      "en": "Munich, Bavaria"
+      "en": "Munich",
+      "zh": "慕尼黑"
     },
-    "qs": 28,
+    "qs": 37,
     "the": 30,
     "usnews": 58,
     "arwu": 52,
     "tuition": 300,
-    "tuitionRange": null,
-    "safety": 8,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 1200,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 36-42",
+      "zh": "IB 36-42"
+    },
+    "acceptanceRate": {
+      "overall": "8%",
+      "intl": "~6%"
+    },
     "majors": {
-      "zh": [
-        "工程学",
-        "计算机科学",
-        "物理学",
-        "管理学",
-        "生命科学"
-      ],
       "en": [
-        "Engineering",
         "Computer Science",
+        "Mechanical Engineering",
+        "Electrical Engineering",
         "Physics",
-        "Management",
-        "Life Sciences"
+        "Mathematics",
+        "Chemistry",
+        "Architecture",
+        "Business",
+        "Biomedical Engineering",
+        "Aerospace Engineering",
+        "Data Science",
+        "Robotics",
+        "Environmental Engineering",
+        "Civil Engineering",
+        "Economics",
+        "Biology",
+        "Materials Science",
+        "Information Systems"
+      ],
+      "zh": [
+        "计算机科学",
+        "机械工程",
+        "电气工程",
+        "物理学",
+        "数学",
+        "化学",
+        "建筑学",
+        "商科",
+        "生物医工学",
+        "航空航天工程",
+        "数据科学",
+        "机器人学",
+        "环境工程",
+        "土木工程",
+        "经济学",
+        "生物学",
+        "材料科学",
+        "信息系统"
       ]
     },
-    "majorTuition": {
-      "zh": "慕尼黑工业大学学费因专业而异。",
-      "en": "Technical University of Munich (TUM) tuition varies by program."
-    },
-    "desc": {
-      "zh": "TUM是德国排名第一的理工大学，工程和计算机全球领先。学费几乎免费（仅收注册费约€150/学期）！宝马、西门子等总部在慕尼黑。",
-      "en": "TUM is Germany's #1 technical university with globally leading engineering and CS. Almost free tuition (only ~€150/semester registration)! BMW, Siemens HQs are in Munich."
+    "description": {
+      "en": "Germany's top technical university. Nearly free tuition (~€300/year admin fee). World-class engineering and CS.",
+      "zh": "德国顶尖理工大学，学费几乎免费（约€300/年管理费），工程和CS世界一流。"
     },
     "tuitionBreakdown": {
-      "zh": {
-        "学费": 300,
-        "住宿": 8000,
-        "生活费": 10000,
-        "保险": 1320
-      },
       "en": {
-        "Tuition": 300,
-        "Housing": 8000,
-        "Living": 10000,
-        "Insurance": 1320
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
       }
     },
-    "requirements": {
-      "TOEFL": "88+",
-      "IELTS": "6.5+",
-      "SAT": "不要求/Not Required",
-      "IB": "各专业IB要求不同：\\n• 一般要求IB 34+（含HL科目要求）\\n• Engineering 工程：IB 36+（HL数学+物理6+）\\n• Computer Science 计算机：IB 36+（HL数学6+）\\n• Management 管理（英语授课）：IB 34+\\n⚠️ 部分专业要求德语B2-C1"
-    },
-    "deadline": {
-      "zh": "冬季学期（10月入学）：7月15日截止 / 夏季学期（4月）：1月15日",
-      "en": "Winter semester (Oct): Jul 15 / Summer (Apr): Jan 15"
-    },
-    "safetyDetail": {
-      "zh": "慕尼黑工业大学校园安全良好。",
-      "en": "Technical University of Munich (TUM) has good campus safety."
-    },
-    "climate": {
-      "zh": "大陆性气候，冬冷夏暖",
-      "en": "Continental, cold winters warm summers"
-    },
-    "livingCost": {
-      "zh": "约€1,200/月（慕尼黑较贵）",
-      "en": "~€1,200/month (Munich is expensive)"
-    },
-    "livingCostAnnual": 14400,
-    "insurance": 1320,
-    "flights": 1500,
-    "visa": {
-      "zh": "学生签证 → 毕业后18个月Job Seeker Visa → 工作签 → EU Blue Card → 永居。德国对STEM毕业生政策友好。",
-      "en": "Student visa → 18-month Job Seeker Visa → Work visa → EU Blue Card → Permanent residency. Germany is STEM-graduate friendly."
-    },
-    "housing": {
-      "zh": "学生宿舍（Studentenwerk）约€300-400/月，极其抢手需提前申请。私人租房€500-900/月。",
-      "en": "Student dorms (Studentenwerk) ~€300-400/month, very competitive. Private rent €500-900/month."
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "en": "N/A",
+      "zh": "暂无数据"
     },
-    "employment": {
-      "zh": "就业前景良好，学校提供职业指导服务。",
-      "en": "Good employment prospects with career guidance services."
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
     },
-    "healthcare": {
-      "zh": "✅ 强制医疗保险（公保约€110/月或私保）。德国医疗体系世界领先。",
-      "en": "✅ Mandatory health insurance (~€110/month public or private). Germany has world-leading healthcare."
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
     },
-    "application": {
-      "zh": "📋 申请平台：uni-assist 或直接申请\\n📅 冬季学期7月15日截止\\n💰 申请费：€75（uni-assist）\\n📝 所需材料：成绩单认证、语言证明（英语+部分需德语）、动机信\\n⚠️ 学费几乎免费，仅€150/学期注册费！",
-      "en": "📋 Platform: uni-assist or direct\\n📅 Winter semester: Jul 15\\n💰 Fee: €75 (uni-assist)\\n📝 Required: Certified transcripts, language proof, motivation letter\\n⚠️ Almost free tuition - only €150/semester registration!"
-    }
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
   },
   {
     "id": "lmu",
-    "country": "DE",
-    "flag": "🇩🇪",
     "name": {
-      "zh": "慕尼黑大学",
-      "en": "LMU Munich"
+      "en": "Ludwig Maximilian University of Munich",
+      "zh": "慕尼黑大学"
     },
+    "country": "DE",
     "city": {
-      "zh": "巴伐利亚州 慕尼黑",
-      "en": "Munich, Bavaria"
+      "en": "Munich",
+      "zh": "慕尼黑"
     },
-    "qs": 59,
-    "the": 38,
+    "qs": 54,
+    "the": 32,
     "usnews": 46,
     "arwu": 48,
     "tuition": 300,
-    "tuitionRange": null,
-    "safety": 8,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 1200,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 35-42",
+      "zh": "IB 35-42"
+    },
+    "acceptanceRate": {
+      "overall": "15%",
+      "intl": "~10%"
+    },
     "majors": {
-      "zh": [
-        "医学",
-        "法学",
-        "物理学",
-        "哲学",
-        "经济学"
-      ],
       "en": [
         "Medicine",
         "Law",
         "Physics",
+        "Biology",
+        "Chemistry",
         "Philosophy",
-        "Economics"
+        "Economics",
+        "Computer Science",
+        "Mathematics",
+        "History",
+        "Psychology",
+        "Political Science",
+        "Sociology",
+        "Linguistics",
+        "Art History",
+        "Business",
+        "Education",
+        "Pharmacy"
+      ],
+      "zh": [
+        "医学",
+        "法学",
+        "物理学",
+        "生物学",
+        "化学",
+        "哲学",
+        "经济学",
+        "计算机科学",
+        "数学",
+        "历史学",
+        "心理学",
+        "政治学",
+        "社会学",
+        "语言学",
+        "美术史",
+        "商科",
+        "教育学",
+        "药学"
       ]
     },
-    "majorTuition": {
-      "zh": "慕尼黑大学学费因专业而异。",
-      "en": "LMU Munich tuition varies by program."
-    },
-    "desc": {
-      "zh": "LMU是德国最著名的综合性大学，人文和自然科学均顶尖。诺贝尔奖得主数量德国第一。学费免费！",
-      "en": "LMU is Germany's most prestigious comprehensive university, top in both humanities and sciences. Most Nobel laureates of any German university. Free tuition!"
+    "description": {
+      "en": "One of Europe's leading research universities. Strong across all disciplines. Nearly free tuition.",
+      "zh": "欧洲顶尖研究型大学，各学科实力均衡，学费几乎免费。"
     },
     "tuitionBreakdown": {
-      "zh": {
-        "学费": 300,
-        "住宿": 8000,
-        "生活费": 10000,
-        "保险": 1320
-      },
       "en": {
-        "Tuition": 300,
-        "Housing": 8000,
-        "Living": 10000,
-        "Insurance": 1320
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
       }
     },
-    "requirements": {
-      "TOEFL": "88+",
-      "IELTS": "6.5+",
-      "SAT": "不要求/Not Required",
-      "IB": "各专业IB要求不同：\\n• 人文/社会科学：IB 33+\\n• 自然科学：IB 34+\\n• Medicine 医学：IB 40+（竞争极其激烈）\\n• Law 法学：IB 34+\\n⚠️ 多数本科课程为德语授课"
-    },
-    "deadline": {
-      "zh": "冬季学期7月15日 / 夏季学期1月15日",
-      "en": "Winter: Jul 15 / Summer: Jan 15"
-    },
-    "safetyDetail": {
-      "zh": "慕尼黑大学校园安全良好。",
-      "en": "LMU Munich has good campus safety."
-    },
-    "climate": {
-      "zh": "大陆性气候",
-      "en": "Continental climate"
-    },
-    "livingCost": {
-      "zh": "约€1,200/月",
-      "en": "~€1,200/month"
-    },
-    "livingCostAnnual": 14400,
-    "insurance": 1320,
-    "flights": 1500,
-    "visa": {
-      "zh": "同TUM，毕业后18个月Job Seeker Visa。",
-      "en": "Same as TUM, 18-month Job Seeker Visa post-graduation."
-    },
-    "housing": {
-      "zh": "Studentenwerk宿舍€300-400/月。",
-      "en": "Studentenwerk dorms €300-400/month."
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "en": "N/A",
+      "zh": "暂无数据"
     },
-    "employment": {
-      "zh": "就业前景良好，学校提供职业指导服务。",
-      "en": "Good employment prospects with career guidance services."
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
     },
-    "healthcare": {
-      "zh": "✅ 强制医保约€110/月。",
-      "en": "✅ Mandatory insurance ~€110/month."
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
     },
-    "application": {
-      "zh": "📋 直接向LMU申请\\n📅 冬季学期7月15日\\n💰 免申请费\\n📝 成绩单+语言证明\\n⚠️ 学费免费！仅€150/学期注册费",
-      "en": "📋 Apply directly to LMU\\n📅 Winter: Jul 15\\n💰 No application fee\\n📝 Transcripts + language proof\\n⚠️ Free tuition! Only €150/semester"
-    }
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
   },
   {
     "id": "heidelberg",
-    "country": "DE",
-    "flag": "🇩🇪",
     "name": {
-      "zh": "海德堡大学",
-      "en": "Heidelberg University"
+      "en": "Heidelberg University",
+      "zh": "海德堡大学"
     },
+    "country": "DE",
     "city": {
-      "zh": "巴登-符腾堡州 海德堡",
-      "en": "Heidelberg, Baden-Württemberg"
+      "en": "Heidelberg",
+      "zh": "海德堡"
     },
     "qs": 47,
-    "the": 47,
-    "usnews": 55,
-    "arwu": 63,
-    "tuition": 1500,
-    "tuitionRange": null,
+    "the": 43,
+    "usnews": 56,
+    "arwu": 47,
+    "tuition": 300,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 1200,
+    "flights": 800,
     "safety": 9,
+    "ibRequirement": {
+      "en": "IB 35-40",
+      "zh": "IB 35-40"
+    },
+    "acceptanceRate": {
+      "overall": "20%",
+      "intl": "~15%"
+    },
     "majors": {
-      "zh": [
-        "医学",
-        "物理学",
-        "哲学",
-        "法学",
-        "分子生物学"
-      ],
       "en": [
         "Medicine",
         "Physics",
+        "Biology",
+        "Chemistry",
         "Philosophy",
         "Law",
-        "Molecular Biology"
+        "Mathematics",
+        "Computer Science",
+        "Economics",
+        "History",
+        "Psychology",
+        "Molecular Biology",
+        "Astronomy",
+        "Political Science",
+        "Sociology",
+        "Linguistics",
+        "Theology",
+        "Geology"
+      ],
+      "zh": [
+        "医学",
+        "物理学",
+        "生物学",
+        "化学",
+        "哲学",
+        "法学",
+        "数学",
+        "计算机科学",
+        "经济学",
+        "历史学",
+        "心理学",
+        "分子生物学",
+        "天文学",
+        "政治学",
+        "社会学",
+        "语言学",
+        "神学",
+        "地质学"
       ]
     },
-    "majorTuition": {
-      "zh": "海德堡大学学费因专业而异。",
-      "en": "Heidelberg University tuition varies by program."
-    },
-    "desc": {
-      "zh": "海德堡大学成立于1386年，是德国最古老的大学。以医学和自然科学研究闻名。海德堡老城被誉为德国最浪漫的城市。",
-      "en": "Heidelberg, founded in 1386, is Germany's oldest university. Renowned for medicine and natural sciences. The old town is considered Germany's most romantic city."
+    "description": {
+      "en": "Germany's oldest university (1386). Nobel Prize tradition in physics and medicine.",
+      "zh": "德国最古老的大学（1386年），物理学和医学诺贝尔奖传统。"
     },
     "tuitionBreakdown": {
-      "zh": {
-        "学费": 1500,
-        "住宿": 8000,
-        "生活费": 10000,
-        "保险": 1320
-      },
       "en": {
-        "Tuition": 1500,
-        "Housing": 8000,
-        "Living": 10000,
-        "Insurance": 1320
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
       }
     },
-    "requirements": {
-      "TOEFL": "88+",
-      "IELTS": "6.5+",
-      "SAT": "不要求/Not Required",
-      "IB": "各专业IB要求不同：\\n• 自然科学：IB 34+\\n• Medicine 医学：IB 40+\\n• Physics 物理：IB 35+\\n• Philosophy 哲学：IB 33+\\n⚠️ 巴登-符腾堡州对非EU学生收€1,500/学期学费"
-    },
-    "deadline": {
-      "zh": "冬季学期7月15日 / 夏季学期1月15日",
-      "en": "Winter: Jul 15 / Summer: Jan 15"
-    },
-    "safetyDetail": {
-      "zh": "海德堡大学校园安全良好。",
-      "en": "Heidelberg University has good campus safety."
-    },
-    "climate": {
-      "zh": "温和大陆性",
-      "en": "Mild continental"
-    },
-    "livingCost": {
-      "zh": "约€900/月",
-      "en": "~€900/month"
-    },
-    "livingCostAnnual": 10800,
-    "insurance": 1320,
-    "flights": 1500,
-    "visa": {
-      "zh": "毕业后18个月Job Seeker Visa。",
-      "en": "18-month Job Seeker Visa post-graduation."
-    },
-    "housing": {
-      "zh": "学生宿舍€250-350/月。海德堡生活成本低于慕尼黑。",
-      "en": "Student dorms €250-350/month. Lower cost than Munich."
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
     },
     "graduationRate": {
-      "zh": "毕业率良好，学术支持完善。",
-      "en": "Good graduation rates with strong academic support."
+      "en": "N/A",
+      "zh": "暂无数据"
     },
-    "employment": {
-      "zh": "就业前景良好，学校提供职业指导服务。",
-      "en": "Good employment prospects with career guidance services."
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
     },
-    "healthcare": {
-      "zh": "✅ 强制医保。",
-      "en": "✅ Mandatory insurance."
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
     },
-    "application": {
-      "zh": "📋 直接申请或通过uni-assist\\n📅 冬季学期7月15日\\n📝 成绩单+语言证明\\n⚠️ 巴登-符腾堡州收€1,500/学期（非EU学生）",
-      "en": "📋 Direct or via uni-assist\\n📅 Winter: Jul 15\\n📝 Transcripts + language proof\\n⚠️ Baden-Württemberg charges €1,500/semester (non-EU)"
-    }
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "huberlin",
+    "name": {
+      "en": "Humboldt University of Berlin",
+      "zh": "柏林洪堡大学"
+    },
+    "country": "DE",
+    "city": {
+      "en": "Berlin",
+      "zh": "柏林"
+    },
+    "qs": 120,
+    "the": 87,
+    "usnews": 74,
+    "arwu": 61,
+    "tuition": 300,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 1200,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "25%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Philosophy",
+        "Physics",
+        "Mathematics",
+        "Biology",
+        "Chemistry",
+        "Law",
+        "Economics",
+        "History",
+        "Political Science",
+        "Sociology",
+        "Psychology",
+        "Computer Science",
+        "Linguistics",
+        "Art History",
+        "Medicine",
+        "Geography",
+        "Theology",
+        "Education"
+      ],
+      "zh": [
+        "哲学",
+        "物理学",
+        "数学",
+        "生物学",
+        "化学",
+        "法学",
+        "经济学",
+        "历史学",
+        "政治学",
+        "社会学",
+        "心理学",
+        "计算机科学",
+        "语言学",
+        "美术史",
+        "医学",
+        "地理学",
+        "神学",
+        "教育学"
+      ]
+    },
+    "description": {
+      "en": "Founded by Wilhelm von Humboldt. 29 Nobel laureates including Einstein. In central Berlin.",
+      "zh": "洪堡创立，29位诺贝尔奖得主包括爱因斯坦，位于柏林市中心。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "fuberlin",
+    "name": {
+      "en": "Free University of Berlin",
+      "zh": "柏林自由大学"
+    },
+    "country": "DE",
+    "city": {
+      "en": "Berlin",
+      "zh": "柏林"
+    },
+    "qs": 84,
+    "the": 83,
+    "usnews": 87,
+    "arwu": 76,
+    "tuition": 300,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 1200,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 33-39",
+      "zh": "IB 33-39"
+    },
+    "acceptanceRate": {
+      "overall": "30%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Political Science",
+        "Law",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Computer Science",
+        "Economics",
+        "Philosophy",
+        "History",
+        "Psychology",
+        "Sociology",
+        "Mathematics",
+        "Medicine",
+        "Pharmacy",
+        "Earth Science",
+        "Linguistics",
+        "Film",
+        "Art History"
+      ],
+      "zh": [
+        "政治学",
+        "法学",
+        "生物学",
+        "化学",
+        "物理学",
+        "计算机科学",
+        "经济学",
+        "哲学",
+        "历史学",
+        "心理学",
+        "社会学",
+        "数学",
+        "医学",
+        "药学",
+        "地球科学",
+        "语言学",
+        "电影",
+        "美术史"
+      ]
+    },
+    "description": {
+      "en": "A leading German university in Berlin, strong in humanities and social sciences.",
+      "zh": "柏林顶尖大学，人文和社会科学实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "rwth",
+    "name": {
+      "en": "RWTH Aachen University",
+      "zh": "亚琛工业大学"
+    },
+    "country": "DE",
+    "city": {
+      "en": "Aachen",
+      "zh": "亚琛"
+    },
+    "qs": 106,
+    "the": 90,
+    "usnews": 101,
+    "arwu": 85,
+    "tuition": 300,
+    "livingCost": {
+      "en": "$10,500/year",
+      "zh": "$10,500/年"
+    },
+    "insurance": 1200,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "20%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Science",
+        "Civil Engineering",
+        "Chemical Engineering",
+        "Physics",
+        "Mathematics",
+        "Materials Science",
+        "Architecture",
+        "Biomedical Engineering",
+        "Industrial Engineering",
+        "Chemistry",
+        "Biology",
+        "Economics",
+        "Psychology",
+        "Geology",
+        "Environmental Engineering",
+        "Robotics"
+      ],
+      "zh": [
+        "机械工程",
+        "电气工程",
+        "计算机科学",
+        "土木工程",
+        "化学工程",
+        "物理学",
+        "数学",
+        "材料科学",
+        "建筑学",
+        "生物医工学",
+        "工业工程",
+        "化学",
+        "生物学",
+        "经济学",
+        "心理学",
+        "地质学",
+        "环境工程",
+        "机器人学"
+      ]
+    },
+    "description": {
+      "en": "Germany's largest technical university. Top employer reputation in engineering across Europe.",
+      "zh": "德国最大的理工大学，工程专业在欧洲雇主声誉极高。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "tuberlin",
+    "name": {
+      "en": "Technical University of Berlin",
+      "zh": "柏林工业大学"
+    },
+    "country": "DE",
+    "city": {
+      "en": "Berlin",
+      "zh": "柏林"
+    },
+    "qs": 154,
+    "the": 140,
+    "usnews": 162,
+    "arwu": 125,
+    "tuition": 300,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 1200,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "35%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Architecture",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Urban Planning",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Environmental Engineering",
+        "Industrial Engineering",
+        "Materials Science",
+        "Philosophy",
+        "Sociology",
+        "Food Science",
+        "Design"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "建筑学",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "城市规划",
+        "电气工程",
+        "机械工程",
+        "土木工程",
+        "环境工程",
+        "工业工程",
+        "材料科学",
+        "哲学",
+        "社会学",
+        "食品科学",
+        "设计"
+      ]
+    },
+    "description": {
+      "en": "Berlin's technical university. Strong in engineering, CS, and architecture. Start-up hub.",
+      "zh": "柏林工业大学，工程、CS和建筑学实力强，创业氛围浓厚。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "freiburg",
+    "name": {
+      "en": "University of Freiburg",
+      "zh": "弗莱堡大学"
+    },
+    "country": "DE",
+    "city": {
+      "en": "Freiburg",
+      "zh": "弗莱堡"
+    },
+    "qs": 192,
+    "the": 108,
+    "usnews": 109,
+    "arwu": 83,
+    "tuition": 300,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 1200,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "30%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Law",
+        "Philosophy",
+        "History",
+        "Mathematics",
+        "Computer Science",
+        "Environmental Science",
+        "Psychology",
+        "Economics",
+        "Sociology",
+        "Linguistics",
+        "Forestry",
+        "Pharmacy",
+        "Education",
+        "Political Science"
+      ],
+      "zh": [
+        "医学",
+        "生物学",
+        "化学",
+        "物理学",
+        "法学",
+        "哲学",
+        "历史学",
+        "数学",
+        "计算机科学",
+        "环境科学",
+        "心理学",
+        "经济学",
+        "社会学",
+        "语言学",
+        "林学",
+        "药学",
+        "教育学",
+        "政治学"
+      ]
+    },
+    "description": {
+      "en": "A traditional German research university in beautiful Freiburg. Strong in medicine and natural sciences.",
+      "zh": "位于美丽的弗莱堡，传统研究型大学，医学和自然科学实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "goettingen",
+    "name": {
+      "en": "University of Göttingen",
+      "zh": "哥廷根大学"
+    },
+    "country": "DE",
+    "city": {
+      "en": "Göttingen",
+      "zh": "哥廷根"
+    },
+    "qs": 232,
+    "the": 119,
+    "usnews": 126,
+    "arwu": 99,
+    "tuition": 300,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 1200,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "35%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Economics",
+        "Law",
+        "Philosophy",
+        "Computer Science",
+        "Agriculture",
+        "Medicine",
+        "Psychology",
+        "History",
+        "Sociology",
+        "Linguistics",
+        "Geology",
+        "Forestry",
+        "Theology",
+        "Political Science"
+      ],
+      "zh": [
+        "数学",
+        "物理学",
+        "化学",
+        "生物学",
+        "经济学",
+        "法学",
+        "哲学",
+        "计算机科学",
+        "农学",
+        "医学",
+        "心理学",
+        "历史学",
+        "社会学",
+        "语言学",
+        "地质学",
+        "林学",
+        "神学",
+        "政治学"
+      ]
+    },
+    "description": {
+      "en": "Historic mathematics powerhouse (Gauss, Riemann, Hilbert). 45 Nobel Prize connections.",
+      "zh": "数学圣地（高斯、黎曼、希尔伯特），与45位诺贝尔奖获得者有关。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "tubingen",
+    "name": {
+      "en": "University of Tübingen",
+      "zh": "图宾根大学"
+    },
+    "country": "DE",
+    "city": {
+      "en": "Tübingen",
+      "zh": "图宾根"
+    },
+    "qs": 213,
+    "the": 135,
+    "usnews": 152,
+    "arwu": 114,
+    "tuition": 300,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 1200,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "30%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Neuroscience",
+        "Artificial Intelligence",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Philosophy",
+        "Theology",
+        "Law",
+        "Computer Science",
+        "Mathematics",
+        "Psychology",
+        "History",
+        "Economics",
+        "Linguistics",
+        "Archaeology",
+        "Sociology",
+        "Political Science"
+      ],
+      "zh": [
+        "医学",
+        "神经科学",
+        "人工知能",
+        "生物学",
+        "化学",
+        "物理学",
+        "哲学",
+        "神学",
+        "法学",
+        "计算机科学",
+        "数学",
+        "心理学",
+        "历史学",
+        "经济学",
+        "语言学",
+        "考古学",
+        "社会学",
+        "政治学"
+      ]
+    },
+    "description": {
+      "en": "Leading in AI/machine learning research (Cyber Valley). Historic university town.",
+      "zh": "AI/机器学习研究领先（Cyber Valley），历史悠久的大学城。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 300
+      },
+      "zh": {
+        "学费": 300
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $300/year",
+      "zh": "学费: $300/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇩🇪"
   }
 ]

@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "utokyo",
+    "name": {
+      "en": "University of Tokyo",
+      "zh": "东京大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Tokyo",
+      "zh": "东京"
+    },
+    "qs": 28,
+    "the": 29,
+    "usnews": 38,
+    "arwu": 24,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 38-45",
+      "zh": "IB 38-45"
+    },
+    "acceptanceRate": {
+      "overall": "25%",
+      "intl": "~5%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Physics",
+        "Mathematics",
+        "Chemistry",
+        "Biology",
+        "Economics",
+        "Law",
+        "Medicine",
+        "Computer Science",
+        "Architecture",
+        "Political Science",
+        "Philosophy",
+        "History",
+        "Literature",
+        "Psychology",
+        "Astronomy",
+        "Bioengineering",
+        "Public Policy"
+      ],
+      "zh": [
+        "工学",
+        "物理学",
+        "数学",
+        "化学",
+        "生物学",
+        "经济学",
+        "法学",
+        "医学",
+        "计算机科学",
+        "建筑学",
+        "政治学",
+        "哲学",
+        "历史学",
+        "文学",
+        "心理学",
+        "天文学",
+        "生物工程",
+        "公共政策"
+      ]
+    },
+    "description": {
+      "en": "Japan's most prestigious university. PEAK program offers English-taught undergraduate degrees.",
+      "zh": "日本最顶尖的大学，PEAK项目提供全英文本科学位。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "kyoto",
+    "name": {
+      "en": "Kyoto University",
+      "zh": "京都大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Kyoto",
+      "zh": "京都"
+    },
+    "qs": 50,
+    "the": 55,
+    "usnews": 65,
+    "arwu": 37,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 36-42",
+      "zh": "IB 36-42"
+    },
+    "acceptanceRate": {
+      "overall": "30%",
+      "intl": "~5%"
+    },
+    "majors": {
+      "en": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Engineering",
+        "Medicine",
+        "Economics",
+        "Law",
+        "Philosophy",
+        "Computer Science",
+        "Agriculture",
+        "Pharmacy",
+        "Environmental Science",
+        "Psychology",
+        "History",
+        "Literature",
+        "Astronomy",
+        "Architecture"
+      ],
+      "zh": [
+        "物理学",
+        "化学",
+        "生物学",
+        "数学",
+        "工学",
+        "医学",
+        "经济学",
+        "法学",
+        "哲学",
+        "计算机科学",
+        "农学",
+        "药学",
+        "环境科学",
+        "心理学",
+        "历史学",
+        "文学",
+        "天文学",
+        "建筑学"
+      ]
+    },
+    "description": {
+      "en": "Japan's second university. Known for academic freedom and Nobel Prize winners. iUP English program.",
+      "zh": "日本第二名校，以学术自由和诺贝尔奖得主闻名，iUP英文项目。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "osaka",
+    "name": {
+      "en": "Osaka University",
+      "zh": "大阪大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Osaka",
+      "zh": "大阪"
+    },
+    "qs": 80,
+    "the": 80,
+    "usnews": 83,
+    "arwu": 69,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "35%",
+      "intl": "~8%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Medicine",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Computer Science",
+        "Economics",
+        "Law",
+        "Dentistry",
+        "Pharmacy",
+        "Mathematics",
+        "Psychology",
+        "Robotics",
+        "Materials Science",
+        "Literature",
+        "Sociology",
+        "Architecture",
+        "Biomedical Engineering"
+      ],
+      "zh": [
+        "工学",
+        "医学",
+        "物理学",
+        "化学",
+        "生物学",
+        "计算机科学",
+        "经济学",
+        "法学",
+        "牙医学",
+        "药学",
+        "数学",
+        "心理学",
+        "机器人学",
+        "材料科学",
+        "文学",
+        "社会学",
+        "建筑学",
+        "生物医工学"
+      ]
+    },
+    "description": {
+      "en": "A leading research university in Japan's second city. Strong in engineering and medicine.",
+      "zh": "日本第二大城市的顶尖研究型大学，工程和医学实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "tohoku",
+    "name": {
+      "en": "Tohoku University",
+      "zh": "东北大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Sendai",
+      "zh": "仙台"
+    },
+    "qs": 105,
+    "the": 130,
+    "usnews": 150,
+    "arwu": 78,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$9,000/year",
+      "zh": "$9,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "40%",
+      "intl": "~10%"
+    },
+    "majors": {
+      "en": [
+        "Materials Science",
+        "Physics",
+        "Engineering",
+        "Chemistry",
+        "Medicine",
+        "Biology",
+        "Mathematics",
+        "Computer Science",
+        "Economics",
+        "Law",
+        "Agriculture",
+        "Pharmacy",
+        "Environmental Science",
+        "Psychology",
+        "Literature",
+        "Education",
+        "Geology",
+        "Dentistry"
+      ],
+      "zh": [
+        "材料科学",
+        "物理学",
+        "工学",
+        "化学",
+        "医学",
+        "生物学",
+        "数学",
+        "计算机科学",
+        "经济学",
+        "法学",
+        "农学",
+        "药学",
+        "环境科学",
+        "心理学",
+        "文学",
+        "教育学",
+        "地质学",
+        "牙医学"
+      ]
+    },
+    "description": {
+      "en": "First Japanese university to admit women and international students. Excellent materials science.",
+      "zh": "日本第一所录取女性和留学生的大学，材料科学卓越。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "titech",
+    "name": {
+      "en": "Tokyo Institute of Technology",
+      "zh": "东京工业大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Tokyo",
+      "zh": "东京"
+    },
+    "qs": 84,
+    "the": 91,
+    "usnews": 108,
+    "arwu": 101,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 35-42",
+      "zh": "IB 35-42"
+    },
+    "acceptanceRate": {
+      "overall": "20%",
+      "intl": "~8%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Chemical Engineering",
+        "Materials Science",
+        "Physics",
+        "Mathematics",
+        "Chemistry",
+        "Architecture",
+        "Civil Engineering",
+        "Bioengineering",
+        "Data Science",
+        "Artificial Intelligence",
+        "Environmental Engineering",
+        "Nuclear Engineering",
+        "Industrial Engineering",
+        "Robotics",
+        "Applied Physics"
+      ],
+      "zh": [
+        "计算机科学",
+        "机械工程",
+        "电气工程",
+        "化学工程",
+        "材料科学",
+        "物理学",
+        "数学",
+        "化学",
+        "建筑学",
+        "土木工程",
+        "生物工程",
+        "数据科学",
+        "人工知能",
+        "环境工程",
+        "核能工程",
+        "工业工程",
+        "机器人学",
+        "应用物理"
+      ]
+    },
+    "description": {
+      "en": "Japan's top science and technology university. Merged with Tokyo Medical & Dental in 2024.",
+      "zh": "日本顶尖理工大学，2024年与东京医科齿科大学合并。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "nagoya",
+    "name": {
+      "en": "Nagoya University",
+      "zh": "名古屋大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Nagoya",
+      "zh": "名古屋"
+    },
+    "qs": 152,
+    "the": 175,
+    "usnews": 188,
+    "arwu": 83,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$9,000/year",
+      "zh": "$9,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "40%",
+      "intl": "~10%"
+    },
+    "majors": {
+      "en": [
+        "Physics",
+        "Chemistry",
+        "Engineering",
+        "Medicine",
+        "Biology",
+        "Mathematics",
+        "Economics",
+        "Law",
+        "Agriculture",
+        "Computer Science",
+        "Environmental Science",
+        "Pharmacy",
+        "Education",
+        "Literature",
+        "Psychology",
+        "Aerospace Engineering",
+        "Materials Science",
+        "Sociology"
+      ],
+      "zh": [
+        "物理学",
+        "化学",
+        "工学",
+        "医学",
+        "生物学",
+        "数学",
+        "经济学",
+        "法学",
+        "农学",
+        "计算机科学",
+        "环境科学",
+        "药学",
+        "教育学",
+        "文学",
+        "心理学",
+        "航空航天工程",
+        "材料科学",
+        "社会学"
+      ]
+    },
+    "description": {
+      "en": "6 Nobel laureates in physics and chemistry. G-30 English program available.",
+      "zh": "6位诺贝尔物理/化学奖得主，提供G-30英语项目。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "waseda",
+    "name": {
+      "en": "Waseda University",
+      "zh": "早稻田大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Tokyo",
+      "zh": "东京"
+    },
+    "qs": 181,
+    "the": 196,
+    "usnews": 230,
+    "arwu": 401,
+    "tuition": 18000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "20%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Political Science",
+        "Economics",
+        "Law",
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Literature",
+        "Education",
+        "Psychology",
+        "Sociology",
+        "Architecture",
+        "Physics",
+        "Chemistry",
+        "Communication",
+        "Art",
+        "International Relations",
+        "Mathematics",
+        "Biology"
+      ],
+      "zh": [
+        "政治学",
+        "经济学",
+        "法学",
+        "工学",
+        "计算机科学",
+        "商科",
+        "文学",
+        "教育学",
+        "心理学",
+        "社会学",
+        "建筑学",
+        "物理学",
+        "化学",
+        "传播学",
+        "艺术",
+        "国际关系",
+        "数学",
+        "生物学"
+      ]
+    },
+    "description": {
+      "en": "Japan's top private university. Many English-taught programs. 7 Japanese PMs are alumni.",
+      "zh": "日本顶尖私立大学，多个英文授课项目，7位日本首相的母校。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 18000
+      },
+      "zh": {
+        "学费": 18000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $18,000/year",
+      "zh": "学费: $18,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "keio",
+    "name": {
+      "en": "Keio University",
+      "zh": "庆应义塾大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Tokyo",
+      "zh": "东京"
+    },
+    "qs": 188,
+    "the": 218,
+    "usnews": 275,
+    "arwu": 501,
+    "tuition": 18000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "25%",
+      "intl": "~12%"
+    },
+    "majors": {
+      "en": [
+        "Economics",
+        "Business",
+        "Law",
+        "Medicine",
+        "Engineering",
+        "Computer Science",
+        "Political Science",
+        "Literature",
+        "Psychology",
+        "Chemistry",
+        "Physics",
+        "Biology",
+        "Mathematics",
+        "Design",
+        "Pharmacy",
+        "Nursing",
+        "Sociology",
+        "Philosophy"
+      ],
+      "zh": [
+        "经济学",
+        "商科",
+        "法学",
+        "医学",
+        "工学",
+        "计算机科学",
+        "政治学",
+        "文学",
+        "心理学",
+        "化学",
+        "物理学",
+        "生物学",
+        "数学",
+        "设计",
+        "药学",
+        "护理学",
+        "社会学",
+        "哲学"
+      ]
+    },
+    "description": {
+      "en": "Japan's oldest private university (1858). PEARL English program. Strong business alumni network.",
+      "zh": "日本最古老的私立大学（1858年），PEARL英文项目，商界校友网络强大。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 18000
+      },
+      "zh": {
+        "学费": 18000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $18,000/year",
+      "zh": "学费: $18,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "kyushu",
+    "name": {
+      "en": "Kyushu University",
+      "zh": "九州大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Fukuoka",
+      "zh": "福冈"
+    },
+    "qs": 164,
+    "the": 201,
+    "usnews": 205,
+    "arwu": 101,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$8,500/year",
+      "zh": "$8,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "40%",
+      "intl": "~10%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Agriculture",
+        "Medicine",
+        "Economics",
+        "Law",
+        "Mathematics",
+        "Computer Science",
+        "Architecture",
+        "Environmental Science",
+        "Pharmacy",
+        "Education",
+        "Literature",
+        "Psychology",
+        "Dentistry",
+        "Sociology"
+      ],
+      "zh": [
+        "工学",
+        "物理学",
+        "化学",
+        "生物学",
+        "农学",
+        "医学",
+        "经济学",
+        "法学",
+        "数学",
+        "计算机科学",
+        "建筑学",
+        "环境科学",
+        "药学",
+        "教育学",
+        "文学",
+        "心理学",
+        "牙医学",
+        "社会学"
+      ]
+    },
+    "description": {
+      "en": "A leading university in southern Japan. English-taught programs through JTW and IUPE.",
+      "zh": "日本南部顶尖大学，通过JTW和IUPE提供英语授课项目。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "hokkaido",
+    "name": {
+      "en": "Hokkaido University",
+      "zh": "北海道大学"
+    },
+    "country": "JP",
+    "city": {
+      "en": "Sapporo",
+      "zh": "札幌"
+    },
+    "qs": 196,
+    "the": 251,
+    "usnews": 225,
+    "arwu": 101,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$8,000/year",
+      "zh": "$8,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 32-36",
+      "zh": "IB 32-36"
+    },
+    "acceptanceRate": {
+      "overall": "45%",
+      "intl": "~10%"
+    },
+    "majors": {
+      "en": [
+        "Agriculture",
+        "Veterinary Medicine",
+        "Environmental Science",
+        "Engineering",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Medicine",
+        "Computer Science",
+        "Economics",
+        "Law",
+        "Mathematics",
+        "Fisheries",
+        "Education",
+        "Literature",
+        "Pharmacy",
+        "Psychology",
+        "Earth Science"
+      ],
+      "zh": [
+        "农学",
+        "兽医学",
+        "环境科学",
+        "工学",
+        "物理学",
+        "化学",
+        "生物学",
+        "医学",
+        "计算机科学",
+        "经济学",
+        "法学",
+        "数学",
+        "水产学",
+        "教育学",
+        "文学",
+        "药学",
+        "心理学",
+        "地球科学"
+      ]
+    },
+    "description": {
+      "en": "Beautiful campus in Sapporo. Strong in agriculture, veterinary science, and environmental studies.",
+      "zh": "札幌美丽校园，农学、兽医和环境研究实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇯🇵"
+  }
+]

@@ -1,0 +1,858 @@
+[
+  {
+    "id": "snu",
+    "name": {
+      "en": "Seoul National University",
+      "zh": "首尔国立大学"
+    },
+    "country": "KR",
+    "city": {
+      "en": "Seoul",
+      "zh": "首尔"
+    },
+    "qs": 31,
+    "the": 56,
+    "usnews": 129,
+    "arwu": 69,
+    "tuition": 6000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 600,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 36-42",
+      "zh": "IB 36-42"
+    },
+    "acceptanceRate": {
+      "overall": "18%",
+      "intl": "~5%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Economics",
+        "Medicine",
+        "Law",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Political Science",
+        "Psychology",
+        "Architecture",
+        "Design",
+        "Music",
+        "International Relations",
+        "Materials Science",
+        "Pharmacy"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "经济学",
+        "医学",
+        "法学",
+        "物理学",
+        "化学",
+        "生物学",
+        "数学",
+        "政治学",
+        "心理学",
+        "建筑学",
+        "设计",
+        "音乐",
+        "国际关系",
+        "材料科学",
+        "药学"
+      ]
+    },
+    "description": {
+      "en": "South Korea's #1 university. Highly competitive admission. English-taught courses available.",
+      "zh": "韩国第一名校，录取竞争极其激烈，提供英语授课课程。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 6000
+      },
+      "zh": {
+        "学费": 6000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $6,000/year",
+      "zh": "学费: $6,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇰🇷"
+  },
+  {
+    "id": "kaist",
+    "name": {
+      "en": "KAIST",
+      "zh": "韩国科学技术院"
+    },
+    "country": "KR",
+    "city": {
+      "en": "Daejeon",
+      "zh": "大田"
+    },
+    "qs": 56,
+    "the": 96,
+    "usnews": 303,
+    "arwu": 69,
+    "tuition": 6000,
+    "livingCost": {
+      "en": "$8,000/year",
+      "zh": "$8,000/年"
+    },
+    "insurance": 600,
+    "flights": 600,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 36-42",
+      "zh": "IB 36-42"
+    },
+    "acceptanceRate": {
+      "overall": "15%",
+      "intl": "~8%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Bioengineering",
+        "Materials Science",
+        "Aerospace Engineering",
+        "Industrial Engineering",
+        "Nuclear Engineering",
+        "Data Science",
+        "Artificial Intelligence",
+        "Robotics",
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Design",
+        "Business"
+      ],
+      "zh": [
+        "计算机科学",
+        "电气工程",
+        "机械工程",
+        "物理学",
+        "化学",
+        "数学",
+        "生物工程",
+        "材料科学",
+        "航空航天工程",
+        "工业工程",
+        "核能工程",
+        "数据科学",
+        "人工知能",
+        "机器人学",
+        "化学工程",
+        "土木工程",
+        "设计",
+        "商科"
+      ]
+    },
+    "description": {
+      "en": "Korea's MIT. Full scholarship for international students. All courses in English at undergrad.",
+      "zh": "韩国的MIT，国际生全额奖学金，本科全英文授课。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 6000
+      },
+      "zh": {
+        "学费": 6000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $6,000/year",
+      "zh": "学费: $6,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇰🇷"
+  },
+  {
+    "id": "yonsei",
+    "name": {
+      "en": "Yonsei University",
+      "zh": "延世大学"
+    },
+    "country": "KR",
+    "city": {
+      "en": "Seoul",
+      "zh": "首尔"
+    },
+    "qs": 56,
+    "the": 78,
+    "usnews": 317,
+    "arwu": 101,
+    "tuition": 10000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 600,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "25%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Economics",
+        "Engineering",
+        "Computer Science",
+        "Medicine",
+        "Law",
+        "Political Science",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Communication",
+        "Architecture",
+        "Music",
+        "Philosophy",
+        "Sociology",
+        "Education"
+      ],
+      "zh": [
+        "商科",
+        "经济学",
+        "工学",
+        "计算机科学",
+        "医学",
+        "法学",
+        "政治学",
+        "心理学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "传播学",
+        "建筑学",
+        "音乐",
+        "哲学",
+        "社会学",
+        "教育学"
+      ]
+    },
+    "description": {
+      "en": "One of Korea's top 3 (SKY). Underwood International College offers full English programs.",
+      "zh": "韩国SKY三校之一，Underwood国际学院提供全英文项目。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 10000
+      },
+      "zh": {
+        "学费": 10000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $10,000/year",
+      "zh": "学费: $10,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇰🇷"
+  },
+  {
+    "id": "korea",
+    "name": {
+      "en": "Korea University",
+      "zh": "高丽大学"
+    },
+    "country": "KR",
+    "city": {
+      "en": "Seoul",
+      "zh": "首尔"
+    },
+    "qs": 67,
+    "the": 76,
+    "usnews": 290,
+    "arwu": 101,
+    "tuition": 10000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 600,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "25%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Law",
+        "Engineering",
+        "Computer Science",
+        "Economics",
+        "Political Science",
+        "Medicine",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Communication",
+        "History",
+        "Sociology",
+        "Education",
+        "Philosophy",
+        "Architecture"
+      ],
+      "zh": [
+        "商科",
+        "法学",
+        "工学",
+        "计算机科学",
+        "经济学",
+        "政治学",
+        "医学",
+        "心理学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "传播学",
+        "历史学",
+        "社会学",
+        "教育学",
+        "哲学",
+        "建筑学"
+      ]
+    },
+    "description": {
+      "en": "One of Korea's top 3 (SKY). Strong in business, law, and engineering.",
+      "zh": "韩国SKY三校之一，商科、法学和工程实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 10000
+      },
+      "zh": {
+        "学费": 10000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $10,000/year",
+      "zh": "学费: $10,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇰🇷"
+  },
+  {
+    "id": "postech",
+    "name": {
+      "en": "POSTECH",
+      "zh": "浦项科技大学"
+    },
+    "country": "KR",
+    "city": {
+      "en": "Pohang",
+      "zh": "浦项"
+    },
+    "qs": 71,
+    "the": 185,
+    "usnews": 552,
+    "arwu": 78,
+    "tuition": 6000,
+    "livingCost": {
+      "en": "$7,000/year",
+      "zh": "$7,000/年"
+    },
+    "insurance": 600,
+    "flights": 600,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 35-40",
+      "zh": "IB 35-40"
+    },
+    "acceptanceRate": {
+      "overall": "10%",
+      "intl": "~5%"
+    },
+    "majors": {
+      "en": [
+        "Physics",
+        "Chemistry",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Chemical Engineering",
+        "Materials Science",
+        "Mathematics",
+        "Biology",
+        "Industrial Engineering",
+        "Bioengineering",
+        "Environmental Engineering",
+        "Artificial Intelligence",
+        "Data Science",
+        "Robotics",
+        "Nuclear Engineering",
+        "Applied Physics",
+        "Computational Finance"
+      ],
+      "zh": [
+        "物理学",
+        "化学",
+        "计算机科学",
+        "机械工程",
+        "电气工程",
+        "化学工程",
+        "材料科学",
+        "数学",
+        "生物学",
+        "工业工程",
+        "生物工程",
+        "环境工程",
+        "人工知能",
+        "数据科学",
+        "机器人学",
+        "核能工程",
+        "应用物理",
+        "计算金融"
+      ]
+    },
+    "description": {
+      "en": "South Korea's Caltech. Tiny, elite science university. Full scholarship for international students.",
+      "zh": "韩国的加州理工，精英科技大学，国际生全额奖学金。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 6000
+      },
+      "zh": {
+        "学费": 6000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $6,000/year",
+      "zh": "学费: $6,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇰🇷"
+  },
+  {
+    "id": "skku",
+    "name": {
+      "en": "Sungkyunkwan University",
+      "zh": "成均馆大学"
+    },
+    "country": "KR",
+    "city": {
+      "en": "Seoul",
+      "zh": "首尔"
+    },
+    "qs": 100,
+    "the": 122,
+    "usnews": 434,
+    "arwu": 101,
+    "tuition": 9000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 600,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-37",
+      "zh": "IB 32-37"
+    },
+    "acceptanceRate": {
+      "overall": "30%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Computer Science",
+        "Economics",
+        "Law",
+        "Medicine",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Psychology",
+        "Sociology",
+        "Education",
+        "Pharmacy",
+        "Architecture",
+        "Communication",
+        "Art",
+        "Philosophy"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "计算机科学",
+        "经济学",
+        "法学",
+        "医学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "心理学",
+        "社会学",
+        "教育学",
+        "药学",
+        "建筑学",
+        "传播学",
+        "艺术",
+        "哲学"
+      ]
+    },
+    "description": {
+      "en": "Korea's oldest university (1398), backed by Samsung. Strong in business and engineering.",
+      "zh": "韩国最古老的大学（1398年），三星赞助，商科和工程强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 9000
+      },
+      "zh": {
+        "学费": 9000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $9,000/year",
+      "zh": "学费: $9,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇰🇷"
+  },
+  {
+    "id": "hanyang",
+    "name": {
+      "en": "Hanyang University",
+      "zh": "汉阳大学"
+    },
+    "country": "KR",
+    "city": {
+      "en": "Seoul",
+      "zh": "首尔"
+    },
+    "qs": 162,
+    "the": 251,
+    "usnews": 434,
+    "arwu": 201,
+    "tuition": 9000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 600,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-35",
+      "zh": "IB 30-35"
+    },
+    "acceptanceRate": {
+      "overall": "35%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Architecture",
+        "Business",
+        "Computer Science",
+        "Medicine",
+        "Drama",
+        "Music",
+        "Design",
+        "Economics",
+        "Law",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Nursing",
+        "Education",
+        "Psychology",
+        "Communication"
+      ],
+      "zh": [
+        "工学",
+        "建筑学",
+        "商科",
+        "计算机科学",
+        "医学",
+        "戏剧",
+        "音乐",
+        "设计",
+        "经济学",
+        "法学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "护理学",
+        "教育学",
+        "心理学",
+        "传播学"
+      ]
+    },
+    "description": {
+      "en": "Top engineering university. Known for practical education and industry connections.",
+      "zh": "顶尖工科大学，以实践教育和产业联系闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 9000
+      },
+      "zh": {
+        "学费": 9000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $9,000/year",
+      "zh": "学费: $9,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇰🇷"
+  },
+  {
+    "id": "sogang",
+    "name": {
+      "en": "Sogang University",
+      "zh": "西江大学"
+    },
+    "country": "KR",
+    "city": {
+      "en": "Seoul",
+      "zh": "首尔"
+    },
+    "qs": 434,
+    "the": 401,
+    "usnews": 601,
+    "arwu": 501,
+    "tuition": 9000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 600,
+    "flights": 600,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-35",
+      "zh": "IB 30-35"
+    },
+    "acceptanceRate": {
+      "overall": "35%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Economics",
+        "Computer Science",
+        "Engineering",
+        "Communication",
+        "Psychology",
+        "Philosophy",
+        "Sociology",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Political Science",
+        "History",
+        "English Literature",
+        "Education",
+        "Art",
+        "Law"
+      ],
+      "zh": [
+        "商科",
+        "经济学",
+        "计算机科学",
+        "工学",
+        "传播学",
+        "心理学",
+        "哲学",
+        "社会学",
+        "数学",
+        "物理学",
+        "化学",
+        "生物学",
+        "政治学",
+        "历史学",
+        "英文学",
+        "教育学",
+        "艺术",
+        "法学"
+      ]
+    },
+    "description": {
+      "en": "A Jesuit university known for small class sizes and strong humanities/business programs.",
+      "zh": "耶稣会大学，以小班教学和人文/商科项目闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 9000
+      },
+      "zh": {
+        "学费": 9000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $9,000/year",
+      "zh": "学费: $9,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    },
+    "flag": "🇰🇷"
+  }
+]
