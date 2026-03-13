@@ -345,8 +345,8 @@ img{max-width:100%}
   <div class="nav-brand">求学地图 <span>EduMap</span></div>
   <div class="nav-right">
     <div class="nav-links" id="navLinks">
-      <a href="#schools" data-i18n="nav_schools" onclick="closeNav()">院校浏览</a>
       <a href="#recommend" data-i18n="nav_recommend" onclick="closeNav()">智能选校</a>
+      <a href="#schools" data-i18n="nav_schools" onclick="closeNav()">院校浏览</a>
       <a href="#timeline" data-i18n="nav_timeline" onclick="closeNav()">申请时间线</a>
       <a href="#checklist" data-i18n="nav_checklist" onclick="closeNav()">材料清单</a>
       <a href="#scholarships" data-i18n="nav_scholarship" onclick="closeNav()">奖学金</a>
@@ -368,6 +368,49 @@ img{max-width:100%}
       <div class="hero-stat"><div class="num">∞</div><div class="label" data-i18n="hero_s3">可能性</div></div>
     </div>
     <div class="scroll-hint">↓ <span data-i18n="hero_scroll">向下滚动探索</span></div>
+  </div>
+</section>
+
+<!-- Smart Recommendation Section -->
+<section class="section" id="recommend" style="background:linear-gradient(135deg,#1e293b 0%,#334155 100%);color:#fff">
+  <div class="container">
+    <h2 class="section-title" style="color:#fff" data-i18n="section_recommend">🎯 智能选校推荐</h2>
+    <p class="section-desc" style="color:#94a3b8" data-i18n="section_recommend_desc">输入你的条件，AI帮你匹配最适合的学校</p>
+    <div class="recommend-form" style="max-width:700px;margin:0 auto">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
+        <div class="rec-field">
+          <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_ib">📊 你的IB预估分 (24-45)</label>
+          <input type="range" id="recIB" min="24" max="45" value="36" oninput="document.getElementById('recIBVal').textContent=this.value;runRecommend()" style="width:100%;accent-color:var(--gold)">
+          <div style="text-align:center;font-size:1.5rem;font-weight:700;color:var(--gold)" id="recIBVal">36</div>
+        </div>
+        <div class="rec-field">
+          <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_budget">💰 年度预算 (USD)</label>
+          <select id="recBudget" onchange="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #475569;background:#1e293b;color:#fff;font-size:.9rem">
+            <option value="0" data-i18n="rec_budget_any">不限预算</option>
+            <option value="5000">≤ $5,000 (德国/瑞士)</option>
+            <option value="20000">≤ $20,000</option>
+            <option value="35000">≤ $35,000</option>
+            <option value="50000">≤ $50,000</option>
+            <option value="65000">≤ $65,000</option>
+          </select>
+        </div>
+      </div>
+      <div style="margin-top:1rem">
+        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_countries">🌍 意向国家/地区（可多选）</label>
+        <div id="recCountries" style="display:flex;flex-wrap:wrap;gap:.4rem">
+        </div>
+      </div>
+      <div style="margin-top:1rem">
+        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_major">🎓 感兴趣的专业方向</label>
+        <input type="text" id="recMajor" placeholder="如：计算机、商学、医学、工程..." oninput="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #475569;background:#1e293b;color:#fff;font-size:.9rem;box-sizing:border-box">
+      </div>
+      <div style="margin-top:1rem">
+        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_priority">⭐ 最看重什么？</label>
+        <div id="recPriority" style="display:flex;flex-wrap:wrap;gap:.4rem">
+        </div>
+      </div>
+    </div>
+    <div id="recResults" style="margin-top:2rem"></div>
   </div>
 </section>
 
@@ -445,49 +488,6 @@ img{max-width:100%}
 </section>
 
 <!-- Calculator Section -->
-<!-- Smart Recommendation Section -->
-<section class="section" id="recommend" style="background:linear-gradient(135deg,#1e293b 0%,#334155 100%);color:#fff">
-  <div class="container">
-    <h2 class="section-title" style="color:#fff" data-i18n="section_recommend">🎯 智能选校推荐</h2>
-    <p class="section-desc" style="color:#94a3b8" data-i18n="section_recommend_desc">输入你的条件，AI帮你匹配最适合的学校</p>
-    <div class="recommend-form" style="max-width:700px;margin:0 auto">
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
-        <div class="rec-field">
-          <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_ib">📊 你的IB预估分 (24-45)</label>
-          <input type="range" id="recIB" min="24" max="45" value="36" oninput="document.getElementById('recIBVal').textContent=this.value;runRecommend()" style="width:100%;accent-color:var(--gold)">
-          <div style="text-align:center;font-size:1.5rem;font-weight:700;color:var(--gold)" id="recIBVal">36</div>
-        </div>
-        <div class="rec-field">
-          <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_budget">💰 年度预算 (USD)</label>
-          <select id="recBudget" onchange="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #475569;background:#1e293b;color:#fff;font-size:.9rem">
-            <option value="0" data-i18n="rec_budget_any">不限预算</option>
-            <option value="5000">≤ $5,000 (德国/瑞士)</option>
-            <option value="20000">≤ $20,000</option>
-            <option value="35000">≤ $35,000</option>
-            <option value="50000">≤ $50,000</option>
-            <option value="65000">≤ $65,000</option>
-          </select>
-        </div>
-      </div>
-      <div style="margin-top:1rem">
-        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_countries">🌍 意向国家/地区（可多选）</label>
-        <div id="recCountries" style="display:flex;flex-wrap:wrap;gap:.4rem">
-        </div>
-      </div>
-      <div style="margin-top:1rem">
-        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_major">🎓 感兴趣的专业方向</label>
-        <input type="text" id="recMajor" placeholder="如：计算机、商学、医学、工程..." oninput="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #475569;background:#1e293b;color:#fff;font-size:.9rem;box-sizing:border-box">
-      </div>
-      <div style="margin-top:1rem">
-        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_priority">⭐ 最看重什么？</label>
-        <div id="recPriority" style="display:flex;flex-wrap:wrap;gap:.4rem">
-        </div>
-      </div>
-    </div>
-    <div id="recResults" style="margin-top:2rem"></div>
-  </div>
-</section>
-
 <section class="section" id="calculator" style="background:var(--gray-100)">
   <div class="container">
     <h2 class="section-title" data-i18n="section_calc">💰 留学费用计算器</h2>
