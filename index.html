@@ -41968,7 +41968,7 @@ function closeDetail(){
   countryOrder.forEach(c => {
     if(!countries[c]) return;
     const btn = document.createElement('button');
-    btn.className = 'rec-tag active';
+    btn.className = 'rec-tag';
     btn.dataset.country = c;
     btn.innerHTML = `${countries[c].flag} ${(countryNames[c][lang]||countryNames[c].en)}`;
     btn.onclick = function(){
