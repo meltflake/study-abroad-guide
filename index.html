@@ -398,7 +398,7 @@ img{max-width:100%}
         </div>
       </div>
       <div style="margin-top:1rem">
-        <label style="color:#475569;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_countries">🌍 意向国家/地区（可多选）</label>
+        <label style="color:#475569;font-size:.85rem;margin-bottom:.5rem;display:flex;align-items:center;gap:.5rem" data-i18n="rec_countries">🌍 意向国家/地区（可多选）<button id="recToggleAll" style="font-size:.72rem;padding:.2rem .6rem;border-radius:12px;border:1px dashed #94a3b8;background:transparent;color:#64748b;cursor:pointer">全选/取消</button></label>
         <div id="recCountries" style="display:flex;flex-wrap:wrap;gap:.4rem">
         </div>
       </div>
@@ -41989,18 +41989,13 @@ function closeDetail(){
     };
     cDiv.appendChild(btn);
   });
-  // Add select all / deselect all toggle button
-  const toggleAllBtn = document.createElement('button');
-  toggleAllBtn.className = 'rec-tag';
-  toggleAllBtn.style.cssText = 'border-style:dashed;font-size:.75rem';
-  toggleAllBtn.innerHTML = lang==='zh'?'全选/取消':'All/None';
-  toggleAllBtn.onclick = function(){
-    const allBtns = document.querySelectorAll('#recCountries .rec-tag:not(:last-child)');
+  // Wire up toggle all button
+  document.getElementById('recToggleAll').onclick = function(){
+    const allBtns = document.querySelectorAll('#recCountries .rec-tag');
     const allActive = [...allBtns].every(b => b.classList.contains('active'));
     allBtns.forEach(b => { if(allActive) b.classList.remove('active'); else b.classList.add('active'); });
     runRecommend();
   };
-  cDiv.appendChild(toggleAllBtn);
 
   // Build priority toggles
   const priorities = [
