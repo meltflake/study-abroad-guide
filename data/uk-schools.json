@@ -4264,5 +4264,1065 @@
       "overall": "~40-60%",
       "intl": "~35-55%"
     }
+  },
+  {
+    "id": "aberdeen",
+    "name": {
+      "en": "University of Aberdeen",
+      "zh": "阿伯丁大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "Aberdeen",
+      "zh": "阿伯丁"
+    },
+    "qs": 236,
+    "the": 201,
+    "usnews": 170,
+    "arwu": 201,
+    "tuition": 22000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 600,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-34",
+      "zh": "IB 30-34"
+    },
+    "acceptanceRate": {
+      "overall": "73%",
+      "intl": "~65%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Law",
+        "Biology",
+        "Chemistry",
+        "Geology",
+        "Business",
+        "Computer Science",
+        "Psychology",
+        "Economics",
+        "History",
+        "Philosophy",
+        "Physics",
+        "Environmental Science",
+        "Education",
+        "Sociology",
+        "Mathematics",
+        "Art"
+      ],
+      "zh": [
+        "医学",
+        "工学",
+        "法学",
+        "生物学",
+        "化学",
+        "地质学",
+        "商科",
+        "计算机科学",
+        "心理学",
+        "经济学",
+        "历史学",
+        "哲学",
+        "物理学",
+        "环境科学",
+        "教育学",
+        "社会学",
+        "数学",
+        "艺术"
+      ]
+    },
+    "description": {
+      "en": "One of Scotland's oldest universities, strong in medicine, energy, and earth sciences.",
+      "zh": "苏格兰最古老的大学之一，在医学、能源和地球科学方面实力强劲。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 22000
+      },
+      "zh": {
+        "学费": 22000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $22,000/year",
+      "zh": "学费: $22,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "qub",
+    "name": {
+      "en": "Queen's University Belfast",
+      "zh": "贝尔法斯特女王大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "Belfast",
+      "zh": "贝尔法斯特"
+    },
+    "qs": 202,
+    "the": 198,
+    "usnews": 155,
+    "arwu": 201,
+    "tuition": 20500,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-34",
+      "zh": "IB 30-34"
+    },
+    "acceptanceRate": {
+      "overall": "75%",
+      "intl": "~65%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Law",
+        "Pharmacy",
+        "Computer Science",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Business",
+        "Economics",
+        "Psychology",
+        "History",
+        "Politics",
+        "Music",
+        "Architecture",
+        "Nursing",
+        "Education",
+        "Food Science"
+      ],
+      "zh": [
+        "医学",
+        "工学",
+        "法学",
+        "药学",
+        "计算机科学",
+        "生物学",
+        "化学",
+        "物理学",
+        "商科",
+        "经济学",
+        "心理学",
+        "历史学",
+        "政治学",
+        "音乐",
+        "建筑学",
+        "护理学",
+        "教育学",
+        "食品科学"
+      ]
+    },
+    "description": {
+      "en": "A Russell Group university in Northern Ireland with strong pharmacy and engineering programs.",
+      "zh": "北爱尔兰的罗素集团大学，药学和工程实力突出。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 20500
+      },
+      "zh": {
+        "学费": 20500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $20,500/year",
+      "zh": "学费: $20,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "dundee",
+    "name": {
+      "en": "University of Dundee",
+      "zh": "邓迪大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "Dundee",
+      "zh": "邓迪"
+    },
+    "qs": 354,
+    "the": 251,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 21000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-33",
+      "zh": "IB 28-33"
+    },
+    "acceptanceRate": {
+      "overall": "78%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Dentistry",
+        "Art & Design",
+        "Law",
+        "Engineering",
+        "Biology",
+        "Computer Science",
+        "Business",
+        "Nursing",
+        "Psychology",
+        "Education",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Sociology",
+        "Geography",
+        "Architecture",
+        "Environmental Science"
+      ],
+      "zh": [
+        "医学",
+        "牙医学",
+        "艺术与设计",
+        "法学",
+        "工学",
+        "生物学",
+        "计算机科学",
+        "商科",
+        "护理学",
+        "心理学",
+        "教育学",
+        "化学",
+        "数学",
+        "物理学",
+        "社会学",
+        "地理学",
+        "建筑学",
+        "环境科学"
+      ]
+    },
+    "description": {
+      "en": "Strong in medicine, dentistry, and art & design. Known for the V&A Dundee design museum.",
+      "zh": "医学、牙医和艺术设计实力强，V&A邓迪设计博物馆所在地。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 21000
+      },
+      "zh": {
+        "学费": 21000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $21,000/year",
+      "zh": "学费: $21,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "royalholloway",
+    "name": {
+      "en": "Royal Holloway University of London",
+      "zh": "伦敦大学皇家霍洛威学院"
+    },
+    "country": "UK",
+    "city": {
+      "en": "London",
+      "zh": "伦敦"
+    },
+    "qs": 368,
+    "the": 301,
+    "usnews": 301,
+    "arwu": 401,
+    "tuition": 22500,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 600,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-34",
+      "zh": "IB 30-34"
+    },
+    "acceptanceRate": {
+      "overall": "80%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Cybersecurity",
+        "Drama",
+        "Media",
+        "Psychology",
+        "Economics",
+        "Management",
+        "Biology",
+        "Physics",
+        "Mathematics",
+        "History",
+        "Geography",
+        "Music",
+        "English Literature",
+        "Political Science",
+        "Philosophy",
+        "Sociology",
+        "Law"
+      ],
+      "zh": [
+        "计算机科学",
+        "网络安全",
+        "戏剧",
+        "媒体",
+        "心理学",
+        "经济学",
+        "管理学",
+        "生物学",
+        "物理学",
+        "数学",
+        "历史学",
+        "地理学",
+        "音乐",
+        "英文学",
+        "政治学",
+        "哲学",
+        "社会学",
+        "法学"
+      ]
+    },
+    "description": {
+      "en": "Known for information security (top UK), performing arts, and a stunning Victorian campus.",
+      "zh": "以信息安全（英国顶尖）、表演艺术和维多利亚时代校园闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 22500
+      },
+      "zh": {
+        "学费": 22500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $22,500/year",
+      "zh": "学费: $22,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "uea",
+    "name": {
+      "en": "University of East Anglia",
+      "zh": "东英吉利大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "Norwich",
+      "zh": "诺里奇"
+    },
+    "qs": 295,
+    "the": 200,
+    "usnews": 252,
+    "arwu": 201,
+    "tuition": 21000,
+    "livingCost": {
+      "en": "$11,500/year",
+      "zh": "$11,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-34",
+      "zh": "IB 30-34"
+    },
+    "acceptanceRate": {
+      "overall": "82%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Environmental Science",
+        "Creative Writing",
+        "Medicine",
+        "Pharmacy",
+        "Biology",
+        "Chemistry",
+        "Computer Science",
+        "Economics",
+        "Business",
+        "Psychology",
+        "Film & Television",
+        "Mathematics",
+        "History",
+        "Law",
+        "Education",
+        "Art",
+        "Drama",
+        "Nursing"
+      ],
+      "zh": [
+        "环境科学",
+        "创意写作",
+        "医学",
+        "药学",
+        "生物学",
+        "化学",
+        "计算机科学",
+        "经济学",
+        "商科",
+        "心理学",
+        "影视",
+        "数学",
+        "历史学",
+        "法学",
+        "教育学",
+        "艺术",
+        "戏剧",
+        "护理学"
+      ]
+    },
+    "description": {
+      "en": "Renowned for environmental science and creative writing. Home of the Sainsbury Centre.",
+      "zh": "以环境科学和创意写作闻名，赛恩斯伯里中心所在地。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 21000
+      },
+      "zh": {
+        "学费": 21000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $21,000/year",
+      "zh": "学费: $21,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "heriotwatt",
+    "name": {
+      "en": "Heriot-Watt University",
+      "zh": "赫瑞瓦特大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "Edinburgh",
+      "zh": "爱丁堡"
+    },
+    "qs": 281,
+    "the": 351,
+    "usnews": 401,
+    "arwu": 501,
+    "tuition": 20000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-33",
+      "zh": "IB 28-33"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Architecture",
+        "Translation",
+        "Petroleum Engineering",
+        "Robotics",
+        "Data Science",
+        "Biology",
+        "Economics",
+        "Psychology",
+        "Design",
+        "Urban Planning",
+        "Statistics",
+        "Environmental Science"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "数学",
+        "物理学",
+        "化学",
+        "建筑学",
+        "翻译",
+        "石油工程",
+        "机器人学",
+        "数据科学",
+        "生物学",
+        "经济学",
+        "心理学",
+        "设计",
+        "城市规划",
+        "统计学",
+        "环境科学"
+      ]
+    },
+    "description": {
+      "en": "Strong in engineering, actuarial science, and translation. Has Dubai and Malaysia campuses.",
+      "zh": "工程、精算和翻译实力强，在迪拜和马来西亚设有校区。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 20000
+      },
+      "zh": {
+        "学费": 20000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $20,000/year",
+      "zh": "学费: $20,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "strathclyde",
+    "name": {
+      "en": "University of Strathclyde",
+      "zh": "斯特拉斯克莱德大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "Glasgow",
+      "zh": "格拉斯哥"
+    },
+    "qs": 325,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 21000,
+    "livingCost": {
+      "en": "$11,500/year",
+      "zh": "$11,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 28-33",
+      "zh": "IB 28-33"
+    },
+    "acceptanceRate": {
+      "overall": "80%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Pharmacy",
+        "Law",
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Architecture",
+        "Marketing",
+        "Economics",
+        "Psychology",
+        "Education",
+        "Biology",
+        "Journalism",
+        "Design",
+        "Social Work",
+        "Public Health"
+      ],
+      "zh": [
+        "工学",
+        "商科",
+        "计算机科学",
+        "药学",
+        "法学",
+        "物理学",
+        "化学",
+        "数学",
+        "建筑学",
+        "市场营销",
+        "经济学",
+        "心理学",
+        "教育学",
+        "生物学",
+        "新闻学",
+        "设计",
+        "社会工作",
+        "公共卫生"
+      ]
+    },
+    "description": {
+      "en": "A leading technological university in Glasgow with triple-accredited business school.",
+      "zh": "格拉斯哥领先的理工大学，商学院获三重认证。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 21000
+      },
+      "zh": {
+        "学费": 21000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $21,000/year",
+      "zh": "学费: $21,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "swansea",
+    "name": {
+      "en": "Swansea University",
+      "zh": "斯旺西大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "Swansea",
+      "zh": "斯旺西"
+    },
+    "qs": 425,
+    "the": 301,
+    "usnews": 351,
+    "arwu": 301,
+    "tuition": 20000,
+    "livingCost": {
+      "en": "$10,500/year",
+      "zh": "$10,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Medicine",
+        "Law",
+        "Business",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Psychology",
+        "Criminology",
+        "Geography",
+        "Nursing",
+        "Economics",
+        "History",
+        "Art",
+        "Sociology",
+        "Education"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "医学",
+        "法学",
+        "商科",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "心理学",
+        "犯罪学",
+        "地理学",
+        "护理学",
+        "经济学",
+        "历史学",
+        "艺术",
+        "社会学",
+        "教育学"
+      ]
+    },
+    "description": {
+      "en": "A coastal university with strong engineering and a new Bay Campus on the beach.",
+      "zh": "一所海滨大学，工程实力强，新建的海湾校区就在海边。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 20000
+      },
+      "zh": {
+        "学费": 20000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $20,000/year",
+      "zh": "学费: $20,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "brunel",
+    "name": {
+      "en": "Brunel University London",
+      "zh": "布鲁内尔大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "London",
+      "zh": "伦敦"
+    },
+    "qs": 412,
+    "the": 351,
+    "usnews": 401,
+    "arwu": 501,
+    "tuition": 19500,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 600,
+    "flights": 800,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "82%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Design",
+        "Computer Science",
+        "Business",
+        "Film",
+        "Education",
+        "Psychology",
+        "Economics",
+        "Law",
+        "Biology",
+        "Mathematics",
+        "Sociology",
+        "Biomedical Engineering",
+        "Sports Science",
+        "Creative Writing",
+        "Journalism",
+        "Anthropology",
+        "Public Health"
+      ],
+      "zh": [
+        "工学",
+        "设计",
+        "计算机科学",
+        "商科",
+        "电影",
+        "教育学",
+        "心理学",
+        "经济学",
+        "法学",
+        "生物学",
+        "数学",
+        "社会学",
+        "生物医工学",
+        "体育科学",
+        "创意写作",
+        "新闻学",
+        "人类学",
+        "公共卫生"
+      ]
+    },
+    "description": {
+      "en": "Known for engineering, design, and sports science. Named after Isambard Kingdom Brunel.",
+      "zh": "以工程、设计和体育科学闻名，以著名工程师布鲁内尔命名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 19500
+      },
+      "zh": {
+        "学费": 19500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $19,500/year",
+      "zh": "学费: $19,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "kent",
+    "name": {
+      "en": "University of Kent",
+      "zh": "肯特大学"
+    },
+    "country": "UK",
+    "city": {
+      "en": "Canterbury",
+      "zh": "坎特伯雷"
+    },
+    "qs": 459,
+    "the": 351,
+    "usnews": 401,
+    "arwu": 501,
+    "tuition": 19500,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Law",
+        "Drama",
+        "Computer Science",
+        "Business",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "History",
+        "Architecture",
+        "Economics",
+        "Sociology",
+        "English Literature",
+        "Mathematics",
+        "Film",
+        "Art",
+        "Journalism",
+        "Education"
+      ],
+      "zh": [
+        "法学",
+        "戏剧",
+        "计算机科学",
+        "商科",
+        "心理学",
+        "生物学",
+        "化学",
+        "物理学",
+        "历史学",
+        "建筑学",
+        "经济学",
+        "社会学",
+        "英文学",
+        "数学",
+        "电影",
+        "艺术",
+        "新闻学",
+        "教育学"
+      ]
+    },
+    "description": {
+      "en": "The UK's European university in historic Canterbury. Strong in law and drama.",
+      "zh": "位于历史名城坎特伯雷，法学和戏剧实力突出。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 19500
+      },
+      "zh": {
+        "学费": 19500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $19,500/year",
+      "zh": "学费: $19,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
   }
 ]

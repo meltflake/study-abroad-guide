@@ -7102,150 +7102,6 @@
     }
   },
   {
-    "id": "gatech",
-    "country": "US",
-    "flag": "🇺🇸",
-    "name": {
-      "zh": "佐治亚理工学院",
-      "en": "Georgia Institute of Technology"
-    },
-    "city": {
-      "zh": "佐治亚州 亚特兰大",
-      "en": "Atlanta, GA"
-    },
-    "qs": 61,
-    "the": 45,
-    "usnews": 33,
-    "arwu": 101,
-    "tuition": 37606,
-    "tuitionRange": [
-      33964,
-      37606
-    ],
-    "safety": 6,
-    "majors": {
-      "zh": [
-        "计算机科学",
-        "机械工程",
-        "工业工程",
-        "电气工程",
-        "生物医学工程",
-        "航空航天工程",
-        "化学工程",
-        "土木工程",
-        "材料科学",
-        "建筑学",
-        "商学",
-        "数学",
-        "物理学",
-        "化学",
-        "生物学",
-        "公共政策",
-        "设计",
-        "心理学",
-        "国际事务",
-        "计算媒体"
-      ],
-      "en": [
-        "Computer Science",
-        "Mechanical Engineering",
-        "Industrial Engineering",
-        "Electrical Engineering",
-        "Biomedical Engineering",
-        "Aerospace Engineering",
-        "Chemical Engineering",
-        "Civil Engineering",
-        "Materials Science",
-        "Architecture",
-        "Business",
-        "Mathematics",
-        "Physics",
-        "Chemistry",
-        "Biology",
-        "Public Policy",
-        "Design",
-        "Psychology",
-        "International Affairs",
-        "Computational Media"
-      ]
-    },
-    "majorTuition": {
-      "zh": "佐治亚理工学院国际生学费因专业有所不同，范围$33,964-$37,606/年。",
-      "en": "Georgia Institute of Technology international tuition varies by program: $33,964-$37,606/yr."
-    },
-    "desc": {
-      "zh": "佐治亚理工是美国顶尖理工大学，工程和CS专业全美前五。学费在顶尖大学中性价比极高。",
-      "en": "Georgia Tech is a top US engineering university with top-5 engineering and CS programs. Excellent value among top universities."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费": 37606,
-        "食宿": 18000,
-        "书本费": 1000,
-        "个人花费": 2500
-      },
-      "en": {
-        "Tuition": 37606,
-        "Room & Board": 18000,
-        "Books": 1000,
-        "Personal": 2500
-      }
-    },
-    "requirements": {
-      "TOEFL": "100+",
-      "IELTS": "7.0+",
-      "SAT": "建议提交/Recommended",
-      "IB": "38-43（理工科HL成绩重要）"
-    },
-    "deadline": {
-      "zh": "1月1日（常规）/ 11月1日（提前）",
-      "en": "Jan 1 (Regular) / Nov 1 (Early)"
-    },
-    "safetyDetail": {
-      "zh": "佐治亚理工学院校园安全良好，设有专职校警和24小时巡逻。",
-      "en": "Georgia Institute of Technology has good campus security with 24/7 patrols."
-    },
-    "climate": {
-      "zh": "四季分明",
-      "en": "Four distinct seasons"
-    },
-    "livingCost": {
-      "zh": "约$2,000/月",
-      "en": "~$2,000/month"
-    },
-    "livingCostAnnual": 24000,
-    "insurance": 3500,
-    "flights": 2400,
-    "visa": {
-      "zh": "F-1学生签证 → OPT(12个月，STEM专业36个月) → H-1B工作签证 → 绿卡。",
-      "en": "F-1 visa → OPT (12 months, 36 for STEM) → H-1B → Green Card."
-    },
-    "housing": {
-      "zh": "大一通常保证校内住宿。校内住宿约$15,000-20,000/年。",
-      "en": "Freshman housing typically guaranteed. On-campus ~$15,000-20,000/yr."
-    },
-    "graduationRate": {
-      "zh": "四年毕业率约85-90%，学术支持完善。",
-      "en": "4-year graduation rate ~85-90%. Strong academic support."
-    },
-    "employment": {
-      "zh": "毕业生就业前景良好，Career Center提供全面职业支持。",
-      "en": "Strong employment prospects. Career Center provides comprehensive support."
-    },
-    "healthcare": {
-      "zh": "✅ 强制购买学校医疗保险，约$3,000-4,500/年。校内设有健康中心。",
-      "en": "✅ Mandatory health insurance ~$3,000-4,500/yr. On-campus health center available."
-    },
-    "application": {
-      "zh": "📋 申请平台：Common Application\n📅 截止日期：常规1月1日/提前11月1日\n💰 申请费：$75-85\n📝 所需材料：文书、成绩单、推荐信、标化成绩",
-      "en": "📋 Platform: Common Application\n📅 Deadlines: Regular Jan 1 / Early Nov 1\n💰 Fee: $75-85\n📝 Required: Essays, transcripts, recommendations, test scores"
-    },
-    "acceptanceRate": {
-      "overall": "16.0%",
-      "intl": "~12%"
-    }
-  },
-  {
     "id": "utaustin",
     "country": "US",
     "flag": "🇺🇸",
@@ -8107,6 +7963,1384 @@
     "acceptanceRate": {
       "overall": "20.9%",
       "intl": "~15%"
+    }
+  },
+  {
+    "id": "wustl",
+    "name": {
+      "en": "Washington University in St. Louis",
+      "zh": "圣路易斯华盛顿大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "St. Louis",
+      "zh": "圣路易斯"
+    },
+    "qs": 154,
+    "the": 57,
+    "usnews": 24,
+    "arwu": 23,
+    "tuition": 62000,
+    "livingCost": {
+      "en": "$17,000/year",
+      "zh": "$17,000/年"
+    },
+    "insurance": 3200,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 38-42",
+      "zh": "IB 38-42"
+    },
+    "acceptanceRate": {
+      "overall": "11%",
+      "intl": "~10%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Biology",
+        "Business",
+        "Economics",
+        "Political Science",
+        "Psychology",
+        "Engineering",
+        "Pre-Law",
+        "Chemistry",
+        "Art & Design",
+        "Neuroscience",
+        "Mathematics",
+        "History",
+        "Philosophy",
+        "Public Health",
+        "Data Science",
+        "Anthropology",
+        "Environmental Science"
+      ],
+      "zh": [
+        "计算机科学",
+        "生物学",
+        "商科",
+        "经济学",
+        "政治学",
+        "心理学",
+        "工学",
+        "法学预科",
+        "化学",
+        "艺术与设计",
+        "神经科学",
+        "数学",
+        "历史学",
+        "哲学",
+        "公共卫生",
+        "数据科学",
+        "人类学",
+        "环境科学"
+      ]
+    },
+    "description": {
+      "en": "WashU is a top research university known for strong programs in medicine, business, and arts & sciences.",
+      "zh": "圣路易斯华盛顿大学以医学、商科和文理学院闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 62000
+      },
+      "zh": {
+        "学费": 62000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $62,000/year",
+      "zh": "学费: $62,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "urochester",
+    "name": {
+      "en": "University of Rochester",
+      "zh": "罗切斯特大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "Rochester",
+      "zh": "罗切斯特"
+    },
+    "qs": 154,
+    "the": 142,
+    "usnews": 40,
+    "arwu": 100,
+    "tuition": 62000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 3000,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 35-40",
+      "zh": "IB 35-40"
+    },
+    "acceptanceRate": {
+      "overall": "34%",
+      "intl": "~30%"
+    },
+    "majors": {
+      "en": [
+        "Music",
+        "Optics",
+        "Computer Science",
+        "Economics",
+        "Biology",
+        "Physics",
+        "Political Science",
+        "Data Science",
+        "Engineering",
+        "Neuroscience",
+        "Mathematics",
+        "Chemistry",
+        "Psychology",
+        "Business",
+        "Nursing",
+        "Philosophy",
+        "History",
+        "Art"
+      ],
+      "zh": [
+        "音乐",
+        "光学",
+        "计算机科学",
+        "经济学",
+        "生物学",
+        "物理学",
+        "政治学",
+        "数据科学",
+        "工学",
+        "神经科学",
+        "数学",
+        "化学",
+        "心理学",
+        "商科",
+        "护理学",
+        "哲学",
+        "历史学",
+        "艺术"
+      ]
+    },
+    "description": {
+      "en": "Known for its Eastman School of Music and strong optics/physics programs.",
+      "zh": "以伊斯曼音乐学院和光学/物理项目闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 62000
+      },
+      "zh": {
+        "学费": 62000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $62,000/year",
+      "zh": "学费: $62,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "uwash",
+    "name": {
+      "en": "University of Washington",
+      "zh": "华盛顿大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "Seattle",
+      "zh": "西雅图"
+    },
+    "qs": 63,
+    "the": 26,
+    "usnews": 7,
+    "arwu": 16,
+    "tuition": 40740,
+    "livingCost": {
+      "en": "$16,000/year",
+      "zh": "$16,000/年"
+    },
+    "insurance": 2800,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "48%",
+      "intl": "~40%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Biology",
+        "Business",
+        "Medicine",
+        "Nursing",
+        "Public Health",
+        "Information",
+        "Earth Sciences",
+        "Environmental Science",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Psychology",
+        "Economics",
+        "Sociology",
+        "Architecture",
+        "Law"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "生物学",
+        "商科",
+        "医学",
+        "护理学",
+        "公共卫生",
+        "信息学",
+        "地球科学",
+        "环境科学",
+        "数学",
+        "物理学",
+        "化学",
+        "心理学",
+        "经济学",
+        "社会学",
+        "建筑学",
+        "法学"
+      ]
+    },
+    "description": {
+      "en": "UW Seattle is a top public research university with world-class CS and medical programs.",
+      "zh": "华盛顿大学西雅图分校是顶尖公立研究型大学，CS和医学项目世界一流。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 40740
+      },
+      "zh": {
+        "学费": 40740
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $40,740/year",
+      "zh": "学费: $40,740/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "umiami",
+    "name": {
+      "en": "University of Miami",
+      "zh": "迈阿密大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "Miami",
+      "zh": "迈阿密"
+    },
+    "qs": 291,
+    "the": 201,
+    "usnews": 97,
+    "arwu": 201,
+    "tuition": 58000,
+    "livingCost": {
+      "en": "$16,000/year",
+      "zh": "$16,000/年"
+    },
+    "insurance": 3500,
+    "flights": 1000,
+    "safety": 6,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "19%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Marine Science",
+        "Business",
+        "Engineering",
+        "Music",
+        "Biology",
+        "Computer Science",
+        "Film",
+        "Communication",
+        "Psychology",
+        "Nursing",
+        "Architecture",
+        "Economics",
+        "Chemistry",
+        "Pre-Law",
+        "Public Health",
+        "Mathematics",
+        "Journalism",
+        "Art"
+      ],
+      "zh": [
+        "海洋科学",
+        "商科",
+        "工学",
+        "音乐",
+        "生物学",
+        "计算机科学",
+        "电影",
+        "传播学",
+        "心理学",
+        "护理学",
+        "建筑学",
+        "经济学",
+        "化学",
+        "法学预科",
+        "公共卫生",
+        "数学",
+        "新闻学",
+        "艺术"
+      ]
+    },
+    "description": {
+      "en": "University of Miami is known for marine science, business, and its location in sunny South Florida.",
+      "zh": "迈阿密大学以海洋科学、商科和阳光南佛罗里达的校园环境闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 58000
+      },
+      "zh": {
+        "学费": 58000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $58,000/year",
+      "zh": "学费: $58,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "umin",
+    "name": {
+      "en": "University of Minnesota",
+      "zh": "明尼苏达大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "Minneapolis",
+      "zh": "明尼阿波利斯"
+    },
+    "qs": 166,
+    "the": 86,
+    "usnews": 43,
+    "arwu": 38,
+    "tuition": 36200,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 2800,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-35",
+      "zh": "IB 30-35"
+    },
+    "acceptanceRate": {
+      "overall": "75%",
+      "intl": "~60%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Biology",
+        "Business",
+        "Psychology",
+        "Chemistry",
+        "Economics",
+        "Mathematics",
+        "Physics",
+        "Nursing",
+        "Agriculture",
+        "Public Health",
+        "Architecture",
+        "Education",
+        "Statistics",
+        "Journalism",
+        "Sociology",
+        "Food Science"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "生物学",
+        "商科",
+        "心理学",
+        "化学",
+        "经济学",
+        "数学",
+        "物理学",
+        "护理学",
+        "农学",
+        "公共卫生",
+        "建筑学",
+        "教育学",
+        "统计学",
+        "新闻学",
+        "社会学",
+        "食品科学"
+      ]
+    },
+    "description": {
+      "en": "A leading public research university with strong engineering, health sciences, and agriculture programs.",
+      "zh": "明尼苏达大学是顶尖公立研究型大学，工程、健康科学和农学实力强劲。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 36200
+      },
+      "zh": {
+        "学费": 36200
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $36,200/year",
+      "zh": "学费: $36,200/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "umaryland",
+    "name": {
+      "en": "University of Maryland",
+      "zh": "马里兰大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "College Park",
+      "zh": "学院公园"
+    },
+    "qs": 152,
+    "the": 87,
+    "usnews": 55,
+    "arwu": 48,
+    "tuition": 39000,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 2600,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "44%",
+      "intl": "~40%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Biology",
+        "Economics",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Journalism",
+        "Psychology",
+        "Information Systems",
+        "Public Policy",
+        "Education",
+        "Sociology",
+        "Criminology",
+        "Architecture",
+        "Linguistics",
+        "Statistics"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "商科",
+        "生物学",
+        "经济学",
+        "数学",
+        "物理学",
+        "化学",
+        "新闻学",
+        "心理学",
+        "信息系统",
+        "公共政策",
+        "教育学",
+        "社会学",
+        "犯罪学",
+        "建筑学",
+        "语言学",
+        "统计学"
+      ]
+    },
+    "description": {
+      "en": "UMD is a top public university near Washington DC with strong CS, engineering, and policy programs.",
+      "zh": "马里兰大学靠近华盛顿特区，CS、工程和政策项目实力突出。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 39000
+      },
+      "zh": {
+        "学费": 39000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $39,000/year",
+      "zh": "学费: $39,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "msu",
+    "name": {
+      "en": "Michigan State University",
+      "zh": "密歇根州立大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "East Lansing",
+      "zh": "东兰辛"
+    },
+    "qs": 140,
+    "the": 93,
+    "usnews": 100,
+    "arwu": 75,
+    "tuition": 42000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 2400,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 28-33",
+      "zh": "IB 28-33"
+    },
+    "acceptanceRate": {
+      "overall": "83%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Business",
+        "Education",
+        "Agriculture",
+        "Computer Science",
+        "Biology",
+        "Communication",
+        "Hospitality Management",
+        "Nursing",
+        "Chemistry",
+        "Psychology",
+        "Economics",
+        "Criminal Justice",
+        "Mathematics",
+        "Physics",
+        "Social Work",
+        "Food Science",
+        "Environmental Science"
+      ],
+      "zh": [
+        "工学",
+        "商科",
+        "教育学",
+        "农学",
+        "计算机科学",
+        "生物学",
+        "传播学",
+        "酒店管理",
+        "护理学",
+        "化学",
+        "心理学",
+        "经济学",
+        "刑事司法",
+        "数学",
+        "物理学",
+        "社会工作",
+        "食品科学",
+        "环境科学"
+      ]
+    },
+    "description": {
+      "en": "MSU is known for education, agriculture, hospitality management, and supply chain management.",
+      "zh": "密歇根州立大学以教育、农学、酒店管理和供应链管理闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 42000
+      },
+      "zh": {
+        "学费": 42000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $42,000/year",
+      "zh": "学费: $42,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "ucolo",
+    "name": {
+      "en": "University of Colorado Boulder",
+      "zh": "科罗拉多大学博尔德分校"
+    },
+    "country": "US",
+    "city": {
+      "en": "Boulder",
+      "zh": "博尔德"
+    },
+    "qs": 235,
+    "the": 134,
+    "usnews": 89,
+    "arwu": 33,
+    "tuition": 42000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 2600,
+    "flights": 1200,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-34",
+      "zh": "IB 28-34"
+    },
+    "acceptanceRate": {
+      "overall": "80%",
+      "intl": "~65%"
+    },
+    "majors": {
+      "en": [
+        "Aerospace Engineering",
+        "Physics",
+        "Environmental Science",
+        "Computer Science",
+        "Business",
+        "Biology",
+        "Psychology",
+        "Chemistry",
+        "Music",
+        "Film",
+        "Mathematics",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Economics",
+        "Journalism",
+        "Ecology",
+        "Geology",
+        "Art"
+      ],
+      "zh": [
+        "航空航天工程",
+        "物理学",
+        "环境科学",
+        "计算机科学",
+        "商科",
+        "生物学",
+        "心理学",
+        "化学",
+        "音乐",
+        "电影",
+        "数学",
+        "机械工程",
+        "土木工程",
+        "经济学",
+        "新闻学",
+        "生态学",
+        "地质学",
+        "艺术"
+      ]
+    },
+    "description": {
+      "en": "CU Boulder excels in aerospace, physics, and environmental sciences with a stunning Rocky Mountain campus.",
+      "zh": "科罗拉多大学博尔德分校在航空航天、物理和环境科学方面表现出色。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 42000
+      },
+      "zh": {
+        "学费": 42000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $42,000/year",
+      "zh": "学费: $42,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "scu",
+    "name": {
+      "en": "Santa Clara University",
+      "zh": "圣克拉拉大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "Santa Clara",
+      "zh": "圣克拉拉"
+    },
+    "qs": 601,
+    "the": 351,
+    "usnews": 60,
+    "arwu": 501,
+    "tuition": 58000,
+    "livingCost": {
+      "en": "$17,000/year",
+      "zh": "$17,000/年"
+    },
+    "insurance": 3000,
+    "flights": 1200,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-37",
+      "zh": "IB 32-37"
+    },
+    "acceptanceRate": {
+      "overall": "49%",
+      "intl": "~40%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Finance",
+        "Marketing",
+        "Biology",
+        "Psychology",
+        "Communication",
+        "Mathematics",
+        "Economics",
+        "Political Science",
+        "Philosophy",
+        "Chemistry",
+        "Art",
+        "Sociology",
+        "Environmental Science",
+        "Public Health",
+        "Data Science"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "商科",
+        "金融",
+        "市场营销",
+        "生物学",
+        "心理学",
+        "传播学",
+        "数学",
+        "经济学",
+        "政治学",
+        "哲学",
+        "化学",
+        "艺术",
+        "社会学",
+        "环境科学",
+        "公共卫生",
+        "数据科学"
+      ]
+    },
+    "description": {
+      "en": "A Jesuit university in the heart of Silicon Valley with strong engineering and business programs.",
+      "zh": "位于硅谷中心的耶稣会大学，工程和商科项目实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 58000
+      },
+      "zh": {
+        "学费": 58000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $58,000/year",
+      "zh": "学费: $58,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "arizona",
+    "name": {
+      "en": "University of Arizona",
+      "zh": "亚利桑那大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "Tucson",
+      "zh": "图森"
+    },
+    "qs": 268,
+    "the": 193,
+    "usnews": 103,
+    "arwu": 101,
+    "tuition": 38000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 2400,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-32",
+      "zh": "IB 26-32"
+    },
+    "acceptanceRate": {
+      "overall": "87%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Astronomy",
+        "Planetary Science",
+        "Engineering",
+        "Business",
+        "Nursing",
+        "Biology",
+        "Computer Science",
+        "Psychology",
+        "Communication",
+        "Agriculture",
+        "Mining Engineering",
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Sociology",
+        "Education",
+        "Public Health",
+        "Environmental Science"
+      ],
+      "zh": [
+        "天文学",
+        "行星科学",
+        "工学",
+        "商科",
+        "护理学",
+        "生物学",
+        "计算机科学",
+        "心理学",
+        "传播学",
+        "农学",
+        "采矿工程",
+        "物理学",
+        "化学",
+        "数学",
+        "社会学",
+        "教育学",
+        "公共卫生",
+        "环境科学"
+      ]
+    },
+    "description": {
+      "en": "UA is a top research university renowned for astronomy, planetary science, and optical sciences.",
+      "zh": "亚利桑那大学以天文学、行星科学和光学科学闻名世界。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 38000
+      },
+      "zh": {
+        "学费": 38000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $38,000/year",
+      "zh": "学费: $38,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "asu",
+    "name": {
+      "en": "Arizona State University",
+      "zh": "亚利桑那州立大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "Tempe",
+      "zh": "坦佩"
+    },
+    "qs": 179,
+    "the": 126,
+    "usnews": 156,
+    "arwu": 101,
+    "tuition": 32000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 2400,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-32",
+      "zh": "IB 26-32"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Sustainability",
+        "Design",
+        "Journalism",
+        "Biology",
+        "Psychology",
+        "Education",
+        "Criminal Justice",
+        "Communication",
+        "Nursing",
+        "Public Health",
+        "Economics",
+        "Mathematics",
+        "Physics",
+        "Art",
+        "Data Science"
+      ],
+      "zh": [
+        "工学",
+        "商科",
+        "计算机科学",
+        "可持续发展",
+        "设计",
+        "新闻学",
+        "生物学",
+        "心理学",
+        "教育学",
+        "刑事司法",
+        "传播学",
+        "护理学",
+        "公共卫生",
+        "经济学",
+        "数学",
+        "物理学",
+        "艺术",
+        "数据科学"
+      ]
+    },
+    "description": {
+      "en": "ASU is the largest public university in the US, known for innovation, sustainability, and accessibility.",
+      "zh": "亚利桑那州立大学是美国最大的公立大学，以创新和可持续发展闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 32000
+      },
+      "zh": {
+        "学费": 32000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $32,000/year",
+      "zh": "学费: $32,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "stonybrook",
+    "name": {
+      "en": "Stony Brook University",
+      "zh": "石溪大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "Stony Brook",
+      "zh": "石溪"
+    },
+    "qs": 388,
+    "the": 201,
+    "usnews": 130,
+    "arwu": 78,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 2600,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-35",
+      "zh": "IB 30-35"
+    },
+    "acceptanceRate": {
+      "overall": "49%",
+      "intl": "~40%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Biology",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Marine Science",
+        "Business",
+        "Nursing",
+        "Health Sciences",
+        "Psychology",
+        "Economics",
+        "Political Science",
+        "Sociology",
+        "Art",
+        "Music",
+        "Philosophy",
+        "Data Science"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "生物学",
+        "数学",
+        "物理学",
+        "化学",
+        "海洋科学",
+        "商科",
+        "护理学",
+        "健康科学",
+        "心理学",
+        "经济学",
+        "政治学",
+        "社会学",
+        "艺术",
+        "音乐",
+        "哲学",
+        "数据科学"
+      ]
+    },
+    "description": {
+      "en": "A top SUNY research university on Long Island with strong STEM programs and Brookhaven National Lab nearby.",
+      "zh": "石溪大学是纽约州立大学系统顶尖研究型大学，STEM实力强劲。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $30,000/year",
+      "zh": "学费: $30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "rutgers",
+    "name": {
+      "en": "Rutgers University",
+      "zh": "罗格斯大学"
+    },
+    "country": "US",
+    "city": {
+      "en": "New Brunswick",
+      "zh": "新布朗斯维克"
+    },
+    "qs": 236,
+    "the": 143,
+    "usnews": 63,
+    "arwu": 78,
+    "tuition": 35000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 2600,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-35",
+      "zh": "IB 30-35"
+    },
+    "acceptanceRate": {
+      "overall": "68%",
+      "intl": "~55%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Computer Science",
+        "Pharmacy",
+        "Biology",
+        "Psychology",
+        "Economics",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Communication",
+        "Nursing",
+        "Public Health",
+        "Political Science",
+        "History",
+        "Sociology",
+        "Philosophy",
+        "Statistics"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "计算机科学",
+        "药学",
+        "生物学",
+        "心理学",
+        "经济学",
+        "数学",
+        "物理学",
+        "化学",
+        "传播学",
+        "护理学",
+        "公共卫生",
+        "政治学",
+        "历史学",
+        "社会学",
+        "哲学",
+        "统计学"
+      ]
+    },
+    "description": {
+      "en": "New Jersey's flagship public university with a strong pharmacy program and proximity to NYC.",
+      "zh": "新泽西州旗舰公立大学，药学项目强，靠近纽约市。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 35000
+      },
+      "zh": {
+        "学费": 35000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $35,000/year",
+      "zh": "学费: $35,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
     }
   }
 ]

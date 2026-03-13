@@ -2878,5 +2878,429 @@
       "overall": "~50-65%",
       "intl": "~40-55%"
     }
+  },
+  {
+    "id": "yorku",
+    "name": {
+      "en": "York University",
+      "zh": "约克大学"
+    },
+    "country": "CA",
+    "city": {
+      "en": "Toronto",
+      "zh": "多伦多"
+    },
+    "qs": 353,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 501,
+    "tuition": 32000,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 900,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 28-33",
+      "zh": "IB 28-33"
+    },
+    "acceptanceRate": {
+      "overall": "80%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Law",
+        "Psychology",
+        "Computer Science",
+        "Engineering",
+        "Film",
+        "Design",
+        "Biology",
+        "Economics",
+        "Communication",
+        "Sociology",
+        "Nursing",
+        "Education",
+        "Mathematics",
+        "Chemistry",
+        "Public Health",
+        "Art",
+        "Dance"
+      ],
+      "zh": [
+        "商科",
+        "法学",
+        "心理学",
+        "计算机科学",
+        "工学",
+        "电影",
+        "设计",
+        "生物学",
+        "经济学",
+        "传播学",
+        "社会学",
+        "护理学",
+        "教育学",
+        "数学",
+        "化学",
+        "公共卫生",
+        "艺术",
+        "舞蹈"
+      ]
+    },
+    "description": {
+      "en": "Home of Schulich School of Business and Osgoode Hall Law School.",
+      "zh": "舒立克商学院和奥斯古德霍尔法学院所在地。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 32000
+      },
+      "zh": {
+        "学费": 32000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $32,000/year",
+      "zh": "学费: $32,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "guelph",
+    "name": {
+      "en": "University of Guelph",
+      "zh": "圭尔夫大学"
+    },
+    "country": "CA",
+    "city": {
+      "en": "Guelph",
+      "zh": "圭尔夫"
+    },
+    "qs": 471,
+    "the": 401,
+    "usnews": 401,
+    "arwu": 301,
+    "tuition": 33000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 800,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-33",
+      "zh": "IB 28-33"
+    },
+    "acceptanceRate": {
+      "overall": "78%",
+      "intl": "~65%"
+    },
+    "majors": {
+      "en": [
+        "Veterinary Medicine",
+        "Agriculture",
+        "Food Science",
+        "Environmental Science",
+        "Biology",
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Psychology",
+        "Economics",
+        "Chemistry",
+        "Physics",
+        "Art",
+        "Sociology",
+        "Mathematics",
+        "Hospitality Management",
+        "Marine Science",
+        "Ecology"
+      ],
+      "zh": [
+        "兽医学",
+        "农学",
+        "食品科学",
+        "环境科学",
+        "生物学",
+        "工学",
+        "商科",
+        "计算机科学",
+        "心理学",
+        "经济学",
+        "化学",
+        "物理学",
+        "艺术",
+        "社会学",
+        "数学",
+        "酒店管理",
+        "海洋科学",
+        "生态学"
+      ]
+    },
+    "description": {
+      "en": "Canada's top agricultural and veterinary university with beautiful campus.",
+      "zh": "加拿大顶尖的农业和兽医大学，校园优美。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 33000
+      },
+      "zh": {
+        "学费": 33000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $33,000/year",
+      "zh": "学费: $33,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "uwinnipeg",
+    "name": {
+      "en": "University of Winnipeg",
+      "zh": "温尼伯大学"
+    },
+    "country": "CA",
+    "city": {
+      "en": "Winnipeg",
+      "zh": "温尼伯"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 601,
+    "arwu": 801,
+    "tuition": 17000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Education",
+        "Biology",
+        "Psychology",
+        "Business",
+        "Computer Science",
+        "Economics",
+        "History",
+        "English Literature",
+        "Chemistry",
+        "Mathematics",
+        "Sociology",
+        "Geography",
+        "Environmental Science",
+        "Political Science",
+        "Philosophy",
+        "Art",
+        "Anthropology",
+        "Communication"
+      ],
+      "zh": [
+        "教育学",
+        "生物学",
+        "心理学",
+        "商科",
+        "计算机科学",
+        "经济学",
+        "历史学",
+        "英文学",
+        "化学",
+        "数学",
+        "社会学",
+        "地理学",
+        "环境科学",
+        "政治学",
+        "哲学",
+        "艺术",
+        "人类学",
+        "传播学"
+      ]
+    },
+    "description": {
+      "en": "An affordable option in central Canada with strong education and indigenous studies.",
+      "zh": "加拿大中部的高性价比选择，教育学和原住民研究实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17000
+      },
+      "zh": {
+        "学费": 17000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,000/year",
+      "zh": "学费: $17,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
+  },
+  {
+    "id": "unb",
+    "name": {
+      "en": "University of New Brunswick",
+      "zh": "新不伦瑞克大学"
+    },
+    "country": "CA",
+    "city": {
+      "en": "Fredericton",
+      "zh": "弗雷德里克顿"
+    },
+    "qs": 651,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 19000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Forestry",
+        "Nursing",
+        "Business",
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Psychology",
+        "Economics",
+        "History",
+        "Education",
+        "Sociology",
+        "English Literature",
+        "Law",
+        "Environmental Science",
+        "Philosophy"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "林学",
+        "护理学",
+        "商科",
+        "生物学",
+        "化学",
+        "数学",
+        "物理学",
+        "心理学",
+        "经济学",
+        "历史学",
+        "教育学",
+        "社会学",
+        "英文学",
+        "法学",
+        "环境科学",
+        "哲学"
+      ]
+    },
+    "description": {
+      "en": "Canada's oldest English-language university with strong engineering and forestry.",
+      "zh": "加拿大最古老的英语大学，工程和林学实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 19000
+      },
+      "zh": {
+        "学费": 19000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $19,000/year",
+      "zh": "学费: $19,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website for details.",
+      "zh": "请查看学校官网了解详情。"
+    }
   }
 ]
