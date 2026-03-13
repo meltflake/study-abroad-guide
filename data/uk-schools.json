@@ -5324,5 +5324,2145 @@
       "en": "The UK's European university in historic Canterbury. Strong in law and drama.",
       "zh": "位于历史名城坎特伯雷，法学和戏剧实力突出。"
     }
+  },
+  {
+    "id": "leicester",
+    "name": {
+      "en": "University of Leicester",
+      "zh": "莱斯特大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Leicester",
+      "zh": "莱斯特"
+    },
+    "qs": 272,
+    "the": 301,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 20000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "82%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Genetics",
+        "Archaeology",
+        "Law",
+        "Computer Science",
+        "Business",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "History",
+        "Sociology",
+        "Engineering",
+        "Education",
+        "Geography",
+        "Economics",
+        "Art"
+      ],
+      "zh": [
+        "医学",
+        "遗传学",
+        "考古学",
+        "法学",
+        "计算机科学",
+        "商科",
+        "心理学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "历史学",
+        "社会学",
+        "工学",
+        "教育学",
+        "地理学",
+        "经济学",
+        "艺术"
+      ]
+    },
+    "desc": {
+      "en": "Discovered Richard III's remains. Pioneer in DNA fingerprinting and space research.",
+      "zh": "发现理查三世遗骸，DNA指纹和太空研究先驱。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 20000
+      },
+      "zh": {
+        "学费": 20000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $20,000/year",
+      "zh": "学费: $20,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "aston",
+    "name": {
+      "en": "Aston University",
+      "zh": "阿斯顿大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Birmingham",
+      "zh": "伯明翰"
+    },
+    "qs": 446,
+    "the": 401,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 18500,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Computer Science",
+        "Optometry",
+        "Pharmacy",
+        "Biology",
+        "Chemistry",
+        "Psychology",
+        "Mathematics",
+        "Languages",
+        "Sociology",
+        "Economics",
+        "Design",
+        "Law",
+        "Health Sciences",
+        "Marketing",
+        "Finance",
+        "Data Science"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "计算机科学",
+        "视光学",
+        "药学",
+        "生物学",
+        "化学",
+        "心理学",
+        "数学",
+        "语言学",
+        "社会学",
+        "经济学",
+        "设计",
+        "法学",
+        "健康科学",
+        "市场营销",
+        "金融",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "Triple-accredited business school. Known for graduate employability.",
+      "zh": "三重认证商学院，毕业生就业率高。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 18500
+      },
+      "zh": {
+        "学费": 18500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $18,500/year",
+      "zh": "学费: $18,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "essex",
+    "name": {
+      "en": "University of Essex",
+      "zh": "埃塞克斯大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Colchester",
+      "zh": "科尔切斯特"
+    },
+    "qs": 465,
+    "the": 301,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 19500,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "83%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Political Science",
+        "Economics",
+        "Computer Science",
+        "Law",
+        "Psychology",
+        "Biology",
+        "Drama",
+        "Art",
+        "Sociology",
+        "Linguistics",
+        "Mathematics",
+        "History",
+        "Philosophy",
+        "Business",
+        "Engineering",
+        "Criminology",
+        "Literature",
+        "Human Rights"
+      ],
+      "zh": [
+        "政治学",
+        "经济学",
+        "计算机科学",
+        "法学",
+        "心理学",
+        "生物学",
+        "戏剧",
+        "艺术",
+        "社会学",
+        "语言学",
+        "数学",
+        "历史学",
+        "哲学",
+        "商科",
+        "工学",
+        "犯罪学",
+        "文学",
+        "人权"
+      ]
+    },
+    "desc": {
+      "en": "Top for social sciences in the UK. Known for government and politics research.",
+      "zh": "英国社会科学顶尖，政治学研究闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 19500
+      },
+      "zh": {
+        "学费": 19500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $19,500/year",
+      "zh": "学费: $19,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "city",
+    "name": {
+      "en": "City University of London",
+      "zh": "伦敦城市大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "London",
+      "zh": "伦敦"
+    },
+    "qs": 328,
+    "the": 351,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 21000,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 600,
+    "flights": 800,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "80%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Journalism",
+        "Law",
+        "Computer Science",
+        "Engineering",
+        "Nursing",
+        "Music",
+        "Psychology",
+        "Economics",
+        "Sociology",
+        "Mathematics",
+        "Actuarial Science",
+        "Finance",
+        "Optometry",
+        "Health Sciences",
+        "Criminology",
+        "Communication",
+        "Data Science"
+      ],
+      "zh": [
+        "商科",
+        "新闻学",
+        "法学",
+        "计算机科学",
+        "工学",
+        "护理学",
+        "音乐",
+        "心理学",
+        "经济学",
+        "社会学",
+        "数学",
+        "精算学",
+        "金融",
+        "视光学",
+        "健康科学",
+        "犯罪学",
+        "传播学",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "Cass Business School (now Bayes) is highly ranked for finance and actuarial science.",
+      "zh": "卡斯商学院（现贝叶斯）金融和精算排名高。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 21000
+      },
+      "zh": {
+        "学费": 21000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $21,000/year",
+      "zh": "学费: $21,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "stirling",
+    "name": {
+      "en": "University of Stirling",
+      "zh": "斯特灵大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Stirling",
+      "zh": "斯特灵"
+    },
+    "qs": 501,
+    "the": 351,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 17500,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Sports Science",
+        "Business",
+        "Education",
+        "Psychology",
+        "Biology",
+        "Computer Science",
+        "Film",
+        "Nursing",
+        "Environmental Science",
+        "Economics",
+        "History",
+        "Sociology",
+        "Law",
+        "Mathematics",
+        "Art",
+        "Aquaculture",
+        "Marketing",
+        "Criminology"
+      ],
+      "zh": [
+        "体育科学",
+        "商科",
+        "教育学",
+        "心理学",
+        "生物学",
+        "计算机科学",
+        "电影",
+        "护理学",
+        "环境科学",
+        "经济学",
+        "历史学",
+        "社会学",
+        "法学",
+        "数学",
+        "艺术",
+        "水产养殖",
+        "市场营销",
+        "犯罪学"
+      ]
+    },
+    "desc": {
+      "en": "Beautiful lakeside campus in Scotland. Top for sports science and aquaculture.",
+      "zh": "苏格兰湖畔美丽校园，体育科学和水产养殖顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17500
+      },
+      "zh": {
+        "学费": 17500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,500/year",
+      "zh": "学费: $17,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "ulster",
+    "name": {
+      "en": "Ulster University",
+      "zh": "阿尔斯特大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Belfast",
+      "zh": "贝尔法斯特"
+    },
+    "qs": 501,
+    "the": 401,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 17000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Computer Science",
+        "Art & Design",
+        "Nursing",
+        "Law",
+        "Psychology",
+        "Biology",
+        "Architecture",
+        "Communication",
+        "Biomedical Engineering",
+        "Pharmacy",
+        "Education",
+        "Sociology",
+        "Criminology",
+        "Geography",
+        "Economics",
+        "Music"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "计算机科学",
+        "艺术与设计",
+        "护理学",
+        "法学",
+        "心理学",
+        "生物学",
+        "建筑学",
+        "传播学",
+        "生物医工学",
+        "药学",
+        "教育学",
+        "社会学",
+        "犯罪学",
+        "地理学",
+        "经济学",
+        "音乐"
+      ]
+    },
+    "desc": {
+      "en": "Northern Ireland's largest university. Strong in art, design, and biomedical research.",
+      "zh": "北爱尔兰最大大学，艺术设计和生物医学研究强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17000
+      },
+      "zh": {
+        "学费": 17000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,000/year",
+      "zh": "学费: $17,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "coventry",
+    "name": {
+      "en": "Coventry University",
+      "zh": "考文垂大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Coventry",
+      "zh": "考文垂"
+    },
+    "qs": 571,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 17000,
+    "livingCost": {
+      "en": "$10,500/year",
+      "zh": "$10,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Design",
+        "Business",
+        "Computer Science",
+        "Nursing",
+        "Art",
+        "Architecture",
+        "Psychology",
+        "Biology",
+        "Mathematics",
+        "Economics",
+        "Law",
+        "Journalism",
+        "Health Sciences",
+        "Criminology",
+        "History",
+        "Sociology",
+        "Education"
+      ],
+      "zh": [
+        "工学",
+        "设计",
+        "商科",
+        "计算机科学",
+        "护理学",
+        "艺术",
+        "建筑学",
+        "心理学",
+        "生物学",
+        "数学",
+        "经济学",
+        "法学",
+        "新闻学",
+        "健康科学",
+        "犯罪学",
+        "历史学",
+        "社会学",
+        "教育学"
+      ]
+    },
+    "desc": {
+      "en": "Known for automotive design and engineering. Modern, industry-focused campus.",
+      "zh": "以汽车设计和工程闻名，现代化产业导向校园。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17000
+      },
+      "zh": {
+        "学费": 17000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,000/year",
+      "zh": "学费: $17,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "portsmouth",
+    "name": {
+      "en": "University of Portsmouth",
+      "zh": "朴茨茅斯大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Portsmouth",
+      "zh": "朴茨茅斯"
+    },
+    "qs": 501,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 17500,
+    "livingCost": {
+      "en": "$10,500/year",
+      "zh": "$10,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Cybersecurity",
+        "Engineering",
+        "Business",
+        "Law",
+        "Psychology",
+        "Biology",
+        "Pharmacy",
+        "Architecture",
+        "Criminology",
+        "Film",
+        "Art",
+        "Mathematics",
+        "Physics",
+        "Economics",
+        "Nursing",
+        "Education",
+        "Geography"
+      ],
+      "zh": [
+        "计算机科学",
+        "网络安全",
+        "工学",
+        "商科",
+        "法学",
+        "心理学",
+        "生物学",
+        "药学",
+        "建筑学",
+        "犯罪学",
+        "电影",
+        "艺术",
+        "数学",
+        "物理学",
+        "经济学",
+        "护理学",
+        "教育学",
+        "地理学"
+      ]
+    },
+    "desc": {
+      "en": "Coastal university strong in cybersecurity and forensic science.",
+      "zh": "海滨大学，网络安全和法医科学实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17500
+      },
+      "zh": {
+        "学费": 17500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,500/year",
+      "zh": "学费: $17,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "uwest",
+    "name": {
+      "en": "University of the West of England",
+      "zh": "西英格兰大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Bristol",
+      "zh": "布里斯托"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 16500,
+    "livingCost": {
+      "en": "$11,500/year",
+      "zh": "$11,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Architecture",
+        "Business",
+        "Nursing",
+        "Art & Design",
+        "Computer Science",
+        "Law",
+        "Psychology",
+        "Biology",
+        "Education",
+        "Film",
+        "Criminology",
+        "Geography",
+        "Journalism",
+        "Economics",
+        "Health Sciences",
+        "Sociology",
+        "Mathematics"
+      ],
+      "zh": [
+        "工学",
+        "建筑学",
+        "商科",
+        "护理学",
+        "艺术与设计",
+        "计算机科学",
+        "法学",
+        "心理学",
+        "生物学",
+        "教育学",
+        "电影",
+        "犯罪学",
+        "地理学",
+        "新闻学",
+        "经济学",
+        "健康科学",
+        "社会学",
+        "数学"
+      ]
+    },
+    "desc": {
+      "en": "Bristol's other university. Strong in architecture, nursing, and creative industries.",
+      "zh": "布里斯托另一所大学，建筑、护理和创意产业强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 16500
+      },
+      "zh": {
+        "学费": 16500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $16,500/year",
+      "zh": "学费: $16,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "lincoln",
+    "name": {
+      "en": "University of Lincoln",
+      "zh": "林肯大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Lincoln",
+      "zh": "林肯"
+    },
+    "qs": 801,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 16500,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Art & Design",
+        "Business",
+        "Chemistry",
+        "Pharmacy",
+        "Psychology",
+        "Biology",
+        "Architecture",
+        "Journalism",
+        "Law",
+        "Education",
+        "History",
+        "Mathematics",
+        "Criminology",
+        "Food Science",
+        "Tourism Management",
+        "Drama"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "艺术与设计",
+        "商科",
+        "化学",
+        "药学",
+        "心理学",
+        "生物学",
+        "建筑学",
+        "新闻学",
+        "法学",
+        "教育学",
+        "历史学",
+        "数学",
+        "犯罪学",
+        "食品科学",
+        "旅游管理",
+        "戏剧"
+      ]
+    },
+    "desc": {
+      "en": "Modern campus in a historic city. Strong in chemistry and pharmacy.",
+      "zh": "历史名城中的现代校园，化学和药学实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 16500
+      },
+      "zh": {
+        "学费": 16500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $16,500/year",
+      "zh": "学费: $16,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "plymouth",
+    "name": {
+      "en": "University of Plymouth",
+      "zh": "普利茅斯大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Plymouth",
+      "zh": "普利茅斯"
+    },
+    "qs": 601,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 16000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Marine Science",
+        "Environmental Science",
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Nursing",
+        "Psychology",
+        "Biology",
+        "Art",
+        "Architecture",
+        "Law",
+        "Education",
+        "Medicine",
+        "Criminology",
+        "Geography",
+        "Mathematics",
+        "Chemistry",
+        "Sociology"
+      ],
+      "zh": [
+        "海洋科学",
+        "环境科学",
+        "工学",
+        "计算机科学",
+        "商科",
+        "护理学",
+        "心理学",
+        "生物学",
+        "艺术",
+        "建筑学",
+        "法学",
+        "教育学",
+        "医学",
+        "犯罪学",
+        "地理学",
+        "数学",
+        "化学",
+        "社会学"
+      ]
+    },
+    "desc": {
+      "en": "Coastal university with excellent marine and environmental science programs.",
+      "zh": "海滨大学，海洋和环境科学项目优秀。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 16000
+      },
+      "zh": {
+        "学费": 16000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $16,000/year",
+      "zh": "学费: $16,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "napier",
+    "name": {
+      "en": "Edinburgh Napier University",
+      "zh": "爱丁堡龙比亚大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Edinburgh",
+      "zh": "爱丁堡"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 17000,
+    "livingCost": {
+      "en": "$11,500/year",
+      "zh": "$11,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Nursing",
+        "Film",
+        "Music",
+        "Art & Design",
+        "Psychology",
+        "Biology",
+        "Law",
+        "Education",
+        "Journalism",
+        "Tourism Management",
+        "Criminology",
+        "Sociology",
+        "Mathematics",
+        "Economics",
+        "Architecture"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "商科",
+        "护理学",
+        "电影",
+        "音乐",
+        "艺术与设计",
+        "心理学",
+        "生物学",
+        "法学",
+        "教育学",
+        "新闻学",
+        "旅游管理",
+        "犯罪学",
+        "社会学",
+        "数学",
+        "经济学",
+        "建筑学"
+      ]
+    },
+    "desc": {
+      "en": "Modern university in Edinburgh with strong links to industry.",
+      "zh": "爱丁堡现代大学，产业联系紧密。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17000
+      },
+      "zh": {
+        "学费": 17000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,000/year",
+      "zh": "学费: $17,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "northumbria",
+    "name": {
+      "en": "Northumbria University",
+      "zh": "诺森比亚大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Newcastle",
+      "zh": "纽卡斯尔"
+    },
+    "qs": 501,
+    "the": 401,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 17000,
+    "livingCost": {
+      "en": "$10,500/year",
+      "zh": "$10,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Computer Science",
+        "Law",
+        "Art & Design",
+        "Architecture",
+        "Nursing",
+        "Psychology",
+        "Biology",
+        "Criminology",
+        "Education",
+        "Physics",
+        "Mathematics",
+        "Economics",
+        "Sociology",
+        "Sport Science",
+        "Geography",
+        "Communication"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "计算机科学",
+        "法学",
+        "艺术与设计",
+        "建筑学",
+        "护理学",
+        "心理学",
+        "生物学",
+        "犯罪学",
+        "教育学",
+        "物理学",
+        "数学",
+        "经济学",
+        "社会学",
+        "体育科学",
+        "地理学",
+        "传播学"
+      ]
+    },
+    "desc": {
+      "en": "Newcastle-based university with strong business school and design programs.",
+      "zh": "纽卡斯尔大学，商学院和设计项目强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17000
+      },
+      "zh": {
+        "学费": 17000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,000/year",
+      "zh": "学费: $17,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "greenwich",
+    "name": {
+      "en": "University of Greenwich",
+      "zh": "格林尼治大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "London",
+      "zh": "伦敦"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 16500,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 600,
+    "flights": 800,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Architecture",
+        "Business",
+        "Education",
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Law",
+        "Nursing",
+        "Criminology",
+        "Psychology",
+        "Economics",
+        "Art",
+        "Film",
+        "History",
+        "Sociology",
+        "Public Health"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "建筑学",
+        "商科",
+        "教育学",
+        "生物学",
+        "化学",
+        "数学",
+        "法学",
+        "护理学",
+        "犯罪学",
+        "心理学",
+        "经济学",
+        "艺术",
+        "电影",
+        "历史学",
+        "社会学",
+        "公共卫生"
+      ]
+    },
+    "desc": {
+      "en": "Historic riverside campus in London. Known for architecture and engineering.",
+      "zh": "伦敦历史河畔校园，建筑和工程闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 16500
+      },
+      "zh": {
+        "学费": 16500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $16,500/year",
+      "zh": "学费: $16,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "oxford_brookes",
+    "name": {
+      "en": "Oxford Brookes University",
+      "zh": "牛津布鲁克斯大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Oxford",
+      "zh": "牛津"
+    },
+    "qs": 401,
+    "the": 401,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 16500,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Architecture",
+        "Business",
+        "Hospitality Management",
+        "Law",
+        "Computer Science",
+        "Engineering",
+        "Biology",
+        "Psychology",
+        "Art",
+        "Education",
+        "Nursing",
+        "History",
+        "Economics",
+        "Communication",
+        "Sociology",
+        "Mathematics",
+        "Criminology",
+        "Environmental Science"
+      ],
+      "zh": [
+        "建筑学",
+        "商科",
+        "酒店管理",
+        "法学",
+        "计算机科学",
+        "工学",
+        "生物学",
+        "心理学",
+        "艺术",
+        "教育学",
+        "护理学",
+        "历史学",
+        "经济学",
+        "传播学",
+        "社会学",
+        "数学",
+        "犯罪学",
+        "环境科学"
+      ]
+    },
+    "desc": {
+      "en": "In Oxford city. Top for hospitality and architecture. Not to be confused with University of Oxford.",
+      "zh": "位于牛津市，酒店管理和建筑顶尖，非牛津大学。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 16500
+      },
+      "zh": {
+        "学费": 16500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $16,500/year",
+      "zh": "学费: $16,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "keele",
+    "name": {
+      "en": "Keele University",
+      "zh": "基尔大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Newcastle-under-Lyme",
+      "zh": "纽卡斯尔安德莱姆"
+    },
+    "qs": 751,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 17000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Pharmacy",
+        "Computer Science",
+        "Business",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Law",
+        "Education",
+        "Sociology",
+        "Geography",
+        "Mathematics",
+        "Music",
+        "History",
+        "Philosophy",
+        "Criminology",
+        "Environmental Science"
+      ],
+      "zh": [
+        "医学",
+        "药学",
+        "计算机科学",
+        "商科",
+        "心理学",
+        "生物学",
+        "化学",
+        "物理学",
+        "法学",
+        "教育学",
+        "社会学",
+        "地理学",
+        "数学",
+        "音乐",
+        "历史学",
+        "哲学",
+        "犯罪学",
+        "环境科学"
+      ]
+    },
+    "desc": {
+      "en": "Beautiful rural campus. Known for dual honours degrees and sustainability.",
+      "zh": "美丽乡村校园，双学位和可持续发展闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17000
+      },
+      "zh": {
+        "学费": 17000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,000/year",
+      "zh": "学费: $17,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "bangor",
+    "name": {
+      "en": "Bangor University",
+      "zh": "班戈大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Bangor",
+      "zh": "班戈"
+    },
+    "qs": 701,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 16000,
+    "livingCost": {
+      "en": "$9,500/year",
+      "zh": "$9,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Environmental Science",
+        "Marine Science",
+        "Psychology",
+        "Business",
+        "Computer Science",
+        "Law",
+        "Education",
+        "Biology",
+        "Chemistry",
+        "Music",
+        "Nursing",
+        "Linguistics",
+        "Sport Science",
+        "History",
+        "Sociology",
+        "Art",
+        "Economics",
+        "Philosophy"
+      ],
+      "zh": [
+        "环境科学",
+        "海洋科学",
+        "心理学",
+        "商科",
+        "计算机科学",
+        "法学",
+        "教育学",
+        "生物学",
+        "化学",
+        "音乐",
+        "护理学",
+        "语言学",
+        "体育科学",
+        "历史学",
+        "社会学",
+        "艺术",
+        "经济学",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "Welsh university in Snowdonia. Excellent for environmental and ocean sciences.",
+      "zh": "威尔士雪墩山下的大学，环境和海洋科学优秀。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 16000
+      },
+      "zh": {
+        "学费": 16000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $16,000/year",
+      "zh": "学费: $16,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "bournemouth",
+    "name": {
+      "en": "Bournemouth University",
+      "zh": "伯恩茅斯大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Bournemouth",
+      "zh": "伯恩茅斯"
+    },
+    "qs": 701,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 17000,
+    "livingCost": {
+      "en": "$10,500/year",
+      "zh": "$10,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Film Production",
+        "Animation",
+        "Tourism Management",
+        "Business",
+        "Computer Science",
+        "Psychology",
+        "Journalism",
+        "Law",
+        "Nursing",
+        "Archaeology",
+        "Engineering",
+        "Art",
+        "Communication",
+        "Criminology",
+        "Biology",
+        "Economics",
+        "Sociology",
+        "Education"
+      ],
+      "zh": [
+        "电影制作",
+        "动画",
+        "旅游管理",
+        "商科",
+        "计算机科学",
+        "心理学",
+        "新闻学",
+        "法学",
+        "护理学",
+        "考古学",
+        "工学",
+        "艺术",
+        "传播学",
+        "犯罪学",
+        "生物学",
+        "经济学",
+        "社会学",
+        "教育学"
+      ]
+    },
+    "desc": {
+      "en": "Top for animation and film. National Centre for Computer Animation (NCCA).",
+      "zh": "动画和电影顶尖，英国国家计算机动画中心。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 17000
+      },
+      "zh": {
+        "学费": 17000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $17,000/year",
+      "zh": "学费: $17,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "derby",
+    "name": {
+      "en": "University of Derby",
+      "zh": "德比大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Derby",
+      "zh": "德比"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 15500,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Nursing",
+        "Education",
+        "Psychology",
+        "Biology",
+        "Art & Design",
+        "Law",
+        "Criminology",
+        "Mathematics",
+        "Film",
+        "Tourism Management",
+        "Chemistry",
+        "Architecture",
+        "Sociology",
+        "Economics",
+        "Communication"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "护理学",
+        "教育学",
+        "心理学",
+        "生物学",
+        "艺术与设计",
+        "法学",
+        "犯罪学",
+        "数学",
+        "电影",
+        "旅游管理",
+        "化学",
+        "建筑学",
+        "社会学",
+        "经济学",
+        "传播学"
+      ]
+    },
+    "desc": {
+      "en": "Strong in online learning and industry partnerships. Good engineering facilities.",
+      "zh": "在线学习和产业合作强，工程设施好。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 15500
+      },
+      "zh": {
+        "学费": 15500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $15,500/year",
+      "zh": "学费: $15,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "hull",
+    "name": {
+      "en": "University of Hull",
+      "zh": "赫尔大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Hull",
+      "zh": "赫尔"
+    },
+    "qs": 651,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 16000,
+    "livingCost": {
+      "en": "$9,500/year",
+      "zh": "$9,500/年"
+    },
+    "insurance": 500,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Chemistry",
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Law",
+        "Nursing",
+        "Psychology",
+        "Biology",
+        "Physics",
+        "History",
+        "Drama",
+        "Music",
+        "Education",
+        "Criminology",
+        "Sociology",
+        "Geography",
+        "Mathematics",
+        "Economics"
+      ],
+      "zh": [
+        "化学",
+        "工学",
+        "计算机科学",
+        "商科",
+        "法学",
+        "护理学",
+        "心理学",
+        "生物学",
+        "物理学",
+        "历史学",
+        "戏剧",
+        "音乐",
+        "教育学",
+        "犯罪学",
+        "社会学",
+        "地理学",
+        "数学",
+        "经济学"
+      ]
+    },
+    "desc": {
+      "en": "Where liquid crystal displays (LCD) were invented. Strong chemistry research.",
+      "zh": "液晶显示器(LCD)发明地，化学研究强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 16000
+      },
+      "zh": {
+        "学费": 16000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $16,000/year",
+      "zh": "学费: $16,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
   }
 ]

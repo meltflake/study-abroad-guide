@@ -2890,5 +2890,2145 @@
       "en": "World leader in marine biology and tropical sciences near the Great Barrier Reef.",
       "zh": "大堡礁旁，海洋生物学和热带科学世界领先。"
     }
+  },
+  {
+    "id": "usouthau",
+    "name": {
+      "en": "University of South Australia",
+      "zh": "南澳大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Adelaide",
+      "zh": "阿德莱德"
+    },
+    "qs": 297,
+    "the": 301,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 34000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Nursing",
+        "Computer Science",
+        "Education",
+        "Psychology",
+        "Art & Design",
+        "Architecture",
+        "Aviation",
+        "Pharmacy",
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Communication",
+        "Law",
+        "Sociology",
+        "Environmental Science",
+        "Health Sciences"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "护理学",
+        "计算机科学",
+        "教育学",
+        "心理学",
+        "艺术与设计",
+        "建筑学",
+        "航空",
+        "药学",
+        "生物学",
+        "化学",
+        "数学",
+        "传播学",
+        "法学",
+        "社会学",
+        "环境科学",
+        "健康科学"
+      ]
+    },
+    "desc": {
+      "en": "Australia's University of Enterprise. Strong industry connections and aviation program.",
+      "zh": "澳大利亚企业大学，产业联系和航空项目强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 34000
+      },
+      "zh": {
+        "学费": 34000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $34,000/year",
+      "zh": "学费: $34,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "murdoch",
+    "name": {
+      "en": "Murdoch University",
+      "zh": "默多克大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Perth",
+      "zh": "珀斯"
+    },
+    "qs": 431,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 32000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Veterinary Medicine",
+        "Environmental Science",
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Law",
+        "Nursing",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Education",
+        "Criminology",
+        "Art",
+        "Communication",
+        "Mathematics",
+        "Physics",
+        "Sociology",
+        "Agriculture"
+      ],
+      "zh": [
+        "兽医学",
+        "环境科学",
+        "工学",
+        "计算机科学",
+        "商科",
+        "法学",
+        "护理学",
+        "心理学",
+        "生物学",
+        "化学",
+        "教育学",
+        "犯罪学",
+        "艺术",
+        "传播学",
+        "数学",
+        "物理学",
+        "社会学",
+        "农学"
+      ]
+    },
+    "desc": {
+      "en": "Western Australia university with strong veterinary science and environmental programs.",
+      "zh": "西澳大学，兽医和环境项目强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 32000
+      },
+      "zh": {
+        "学费": 32000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $32,000/year",
+      "zh": "学费: $32,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "cqu",
+    "name": {
+      "en": "CQUniversity",
+      "zh": "中央昆士兰大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Rockhampton",
+      "zh": "洛克汉普顿"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 32000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Nursing",
+        "Business",
+        "Computer Science",
+        "Education",
+        "Psychology",
+        "Agriculture",
+        "Environmental Science",
+        "Health Sciences",
+        "Art",
+        "Law",
+        "Criminology",
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Communication",
+        "Sociology",
+        "Music"
+      ],
+      "zh": [
+        "工学",
+        "护理学",
+        "商科",
+        "计算机科学",
+        "教育学",
+        "心理学",
+        "农学",
+        "环境科学",
+        "健康科学",
+        "艺术",
+        "法学",
+        "犯罪学",
+        "生物学",
+        "化学",
+        "数学",
+        "传播学",
+        "社会学",
+        "音乐"
+      ]
+    },
+    "desc": {
+      "en": "Regional university with campuses across Queensland. Affordable and industry-focused.",
+      "zh": "昆士兰州区域大学，学费实惠，产业导向。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 32000
+      },
+      "zh": {
+        "学费": 32000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $32,000/year",
+      "zh": "学费: $32,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "uca",
+    "name": {
+      "en": "University of Canberra",
+      "zh": "堪培拉大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Canberra",
+      "zh": "堪培拉"
+    },
+    "qs": 484,
+    "the": 301,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 33000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Education",
+        "Computer Science",
+        "Engineering",
+        "Nursing",
+        "Design",
+        "Law",
+        "Psychology",
+        "Biology",
+        "Communication",
+        "Architecture",
+        "Health Sciences",
+        "Art",
+        "Sociology",
+        "Economics",
+        "Criminology",
+        "Mathematics",
+        "Environmental Science"
+      ],
+      "zh": [
+        "商科",
+        "教育学",
+        "计算机科学",
+        "工学",
+        "护理学",
+        "设计",
+        "法学",
+        "心理学",
+        "生物学",
+        "传播学",
+        "建筑学",
+        "健康科学",
+        "艺术",
+        "社会学",
+        "经济学",
+        "犯罪学",
+        "数学",
+        "环境科学"
+      ]
+    },
+    "desc": {
+      "en": "In Australia's capital. Strong government and policy connections.",
+      "zh": "位于澳大利亚首都，政府和政策联系紧密。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 33000
+      },
+      "zh": {
+        "学费": 33000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $33,000/year",
+      "zh": "学费: $33,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "wsu",
+    "name": {
+      "en": "Western Sydney University",
+      "zh": "西悉尼大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Sydney",
+      "zh": "悉尼"
+    },
+    "qs": 461,
+    "the": 301,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 33000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Nursing",
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Education",
+        "Law",
+        "Psychology",
+        "Biology",
+        "Art & Design",
+        "Architecture",
+        "Communication",
+        "Criminology",
+        "Health Sciences",
+        "Social Work",
+        "Mathematics",
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "zh": [
+        "医学",
+        "护理学",
+        "工学",
+        "商科",
+        "计算机科学",
+        "教育学",
+        "法学",
+        "心理学",
+        "生物学",
+        "艺术与设计",
+        "建筑学",
+        "传播学",
+        "犯罪学",
+        "健康科学",
+        "社会工作",
+        "数学",
+        "化学",
+        "环境科学"
+      ]
+    },
+    "desc": {
+      "en": "Sydney's western suburbs university. Growing medical school and nursing programs.",
+      "zh": "悉尼西部大学，医学院和护理项目发展迅速。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 33000
+      },
+      "zh": {
+        "学费": 33000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $33,000/year",
+      "zh": "学费: $33,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "cdu",
+    "name": {
+      "en": "Charles Darwin University",
+      "zh": "查尔斯达尔文大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Darwin",
+      "zh": "达尔文"
+    },
+    "qs": 551,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 32000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Environmental Science",
+        "Engineering",
+        "Business",
+        "Nursing",
+        "Education",
+        "Computer Science",
+        "Law",
+        "Psychology",
+        "Biology",
+        "Indigenous Studies",
+        "Art",
+        "Health Sciences",
+        "Agriculture",
+        "Sociology",
+        "Communication",
+        "Chemistry",
+        "Mathematics",
+        "Architecture"
+      ],
+      "zh": [
+        "环境科学",
+        "工学",
+        "商科",
+        "护理学",
+        "教育学",
+        "计算机科学",
+        "法学",
+        "心理学",
+        "生物学",
+        "原住民研究",
+        "艺术",
+        "健康科学",
+        "农学",
+        "社会学",
+        "传播学",
+        "化学",
+        "数学",
+        "建筑学"
+      ]
+    },
+    "desc": {
+      "en": "Australia's only tropical university. Unique indigenous and environmental focus.",
+      "zh": "澳大利亚唯一热带大学，独特的原住民和环境研究。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 32000
+      },
+      "zh": {
+        "学费": 32000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $32,000/year",
+      "zh": "学费: $32,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "usc",
+    "name": {
+      "en": "University of the Sunshine Coast",
+      "zh": "阳光海岸大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Sunshine Coast",
+      "zh": "阳光海岸"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Nursing",
+        "Education",
+        "Computer Science",
+        "Engineering",
+        "Psychology",
+        "Biology",
+        "Environmental Science",
+        "Communication",
+        "Art",
+        "Criminology",
+        "Health Sciences",
+        "Sport Science",
+        "Sociology",
+        "Mathematics",
+        "Chemistry",
+        "Law",
+        "Social Work"
+      ],
+      "zh": [
+        "商科",
+        "护理学",
+        "教育学",
+        "计算机科学",
+        "工学",
+        "心理学",
+        "生物学",
+        "环境科学",
+        "传播学",
+        "艺术",
+        "犯罪学",
+        "健康科学",
+        "体育科学",
+        "社会学",
+        "数学",
+        "化学",
+        "法学",
+        "社会工作"
+      ]
+    },
+    "desc": {
+      "en": "Beautiful Sunshine Coast campus. Growing university focused on sustainability.",
+      "zh": "美丽的阳光海岸校园，专注可持续发展。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $30,000/year",
+      "zh": "学费: $30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "acu",
+    "name": {
+      "en": "Australian Catholic University",
+      "zh": "澳大利亚天主教大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Melbourne",
+      "zh": "墨尔本"
+    },
+    "qs": 801,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 33000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Education",
+        "Nursing",
+        "Business",
+        "Theology",
+        "Psychology",
+        "Social Work",
+        "Law",
+        "Health Sciences",
+        "Art",
+        "Exercise Science",
+        "Philosophy",
+        "Communication",
+        "Sociology",
+        "Biology",
+        "Mathematics",
+        "Criminology",
+        "Music",
+        "History"
+      ],
+      "zh": [
+        "教育学",
+        "护理学",
+        "商科",
+        "神学",
+        "心理学",
+        "社会工作",
+        "法学",
+        "健康科学",
+        "艺术",
+        "运动科学",
+        "哲学",
+        "传播学",
+        "社会学",
+        "生物学",
+        "数学",
+        "犯罪学",
+        "音乐",
+        "历史学"
+      ]
+    },
+    "desc": {
+      "en": "Multi-campus Catholic university. Top for education and nursing nationwide.",
+      "zh": "多校区天主教大学，教育和护理全国顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 33000
+      },
+      "zh": {
+        "学费": 33000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $33,000/year",
+      "zh": "学费: $33,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "bond",
+    "name": {
+      "en": "Bond University",
+      "zh": "邦德大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Gold Coast",
+      "zh": "黄金海岸"
+    },
+    "qs": 471,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 42000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "75%",
+      "intl": "~65%"
+    },
+    "majors": {
+      "en": [
+        "Law",
+        "Business",
+        "Medicine",
+        "Engineering",
+        "Computer Science",
+        "Architecture",
+        "Film",
+        "Communication",
+        "Psychology",
+        "Criminology",
+        "Economics",
+        "Art",
+        "Biology",
+        "Mathematics",
+        "Health Sciences",
+        "Actuarial Science",
+        "Design",
+        "Journalism"
+      ],
+      "zh": [
+        "法学",
+        "商科",
+        "医学",
+        "工学",
+        "计算机科学",
+        "建筑学",
+        "电影",
+        "传播学",
+        "心理学",
+        "犯罪学",
+        "经济学",
+        "艺术",
+        "生物学",
+        "数学",
+        "健康科学",
+        "精算学",
+        "设计",
+        "新闻学"
+      ]
+    },
+    "desc": {
+      "en": "Australia's first private university. Accelerated 3-year degrees. Gold Coast location.",
+      "zh": "澳大利亚第一所私立大学，三年加速学位，黄金海岸。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 42000
+      },
+      "zh": {
+        "学费": 42000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $42,000/year",
+      "zh": "学费: $42,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "vu",
+    "name": {
+      "en": "Victoria University",
+      "zh": "维多利亚大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Melbourne",
+      "zh": "墨尔本"
+    },
+    "qs": 601,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Computer Science",
+        "Sport Science",
+        "Education",
+        "Nursing",
+        "Law",
+        "Psychology",
+        "Biology",
+        "Art",
+        "Criminology",
+        "Communication",
+        "Health Sciences",
+        "Chemistry",
+        "Mathematics",
+        "Sociology",
+        "Economics",
+        "Food Science"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "计算机科学",
+        "体育科学",
+        "教育学",
+        "护理学",
+        "法学",
+        "心理学",
+        "生物学",
+        "艺术",
+        "犯罪学",
+        "传播学",
+        "健康科学",
+        "化学",
+        "数学",
+        "社会学",
+        "经济学",
+        "食品科学"
+      ]
+    },
+    "desc": {
+      "en": "Melbourne university with unique block model of teaching. Strong in sport science.",
+      "zh": "墨尔本大学，独特的区块教学模式，体育科学强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $30,000/year",
+      "zh": "学费: $30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "une",
+    "name": {
+      "en": "University of New England",
+      "zh": "新英格兰大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Armidale",
+      "zh": "阿米代尔"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 32000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Agriculture",
+        "Environmental Science",
+        "Education",
+        "Business",
+        "Computer Science",
+        "Nursing",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Law",
+        "Engineering",
+        "Archaeology",
+        "Economics",
+        "Mathematics",
+        "Physics",
+        "Sociology",
+        "Art",
+        "History"
+      ],
+      "zh": [
+        "农学",
+        "环境科学",
+        "教育学",
+        "商科",
+        "计算机科学",
+        "护理学",
+        "心理学",
+        "生物学",
+        "化学",
+        "法学",
+        "工学",
+        "考古学",
+        "经济学",
+        "数学",
+        "物理学",
+        "社会学",
+        "艺术",
+        "历史学"
+      ]
+    },
+    "desc": {
+      "en": "Australia's pioneer in distance education. Rural campus with strong agricultural research.",
+      "zh": "澳大利亚远程教育先驱，农村校园，农业研究强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 32000
+      },
+      "zh": {
+        "学费": 32000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $32,000/year",
+      "zh": "学费: $32,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "ecu",
+    "name": {
+      "en": "Edith Cowan University",
+      "zh": "伊迪斯科文大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Perth",
+      "zh": "珀斯"
+    },
+    "qs": 571,
+    "the": 501,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 33000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Cybersecurity",
+        "Computer Science",
+        "Engineering",
+        "Nursing",
+        "Education",
+        "Business",
+        "Communication",
+        "Psychology",
+        "Art & Design",
+        "Biology",
+        "Law",
+        "Criminology",
+        "Health Sciences",
+        "Exercise Science",
+        "Mathematics",
+        "Chemistry",
+        "Sociology",
+        "Music"
+      ],
+      "zh": [
+        "网络安全",
+        "计算机科学",
+        "工学",
+        "护理学",
+        "教育学",
+        "商科",
+        "传播学",
+        "心理学",
+        "艺术与设计",
+        "生物学",
+        "法学",
+        "犯罪学",
+        "健康科学",
+        "运动科学",
+        "数学",
+        "化学",
+        "社会学",
+        "音乐"
+      ]
+    },
+    "desc": {
+      "en": "Australia's leading cybersecurity research centre. Strong in performing arts.",
+      "zh": "澳大利亚领先的网络安全研究中心，表演艺术强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 33000
+      },
+      "zh": {
+        "学费": 33000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $33,000/year",
+      "zh": "学费: $33,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "fsu",
+    "name": {
+      "en": "Federation University Australia",
+      "zh": "澳大利亚联邦大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Ballarat",
+      "zh": "巴拉瑞特"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 28000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Nursing",
+        "Education",
+        "Psychology",
+        "Biology",
+        "Art",
+        "Communication",
+        "Health Sciences",
+        "Criminology",
+        "Mathematics",
+        "Chemistry",
+        "Sociology",
+        "History",
+        "Environmental Science",
+        "Economics",
+        "Music"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "护理学",
+        "教育学",
+        "心理学",
+        "生物学",
+        "艺术",
+        "传播学",
+        "健康科学",
+        "犯罪学",
+        "数学",
+        "化学",
+        "社会学",
+        "历史学",
+        "环境科学",
+        "经济学",
+        "音乐"
+      ]
+    },
+    "desc": {
+      "en": "Regional Victoria university. Australia's oldest regional university (1870).",
+      "zh": "维多利亚州区域大学，澳大利亚最古老的区域大学（1870年）。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 28000
+      },
+      "zh": {
+        "学费": 28000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $28,000/year",
+      "zh": "学费: $28,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "usq",
+    "name": {
+      "en": "University of Southern Queensland",
+      "zh": "南昆士兰大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Toowoomba",
+      "zh": "图文巴"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "$10,500/year",
+      "zh": "$10,500/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Nursing",
+        "Education",
+        "Psychology",
+        "Agriculture",
+        "Environmental Science",
+        "Law",
+        "Biology",
+        "Mathematics",
+        "Art",
+        "Communication",
+        "Sociology",
+        "Economics",
+        "Health Sciences",
+        "Criminology",
+        "Music"
+      ],
+      "zh": [
+        "工学",
+        "商科",
+        "计算机科学",
+        "护理学",
+        "教育学",
+        "心理学",
+        "农学",
+        "环境科学",
+        "法学",
+        "生物学",
+        "数学",
+        "艺术",
+        "传播学",
+        "社会学",
+        "经济学",
+        "健康科学",
+        "犯罪学",
+        "音乐"
+      ]
+    },
+    "desc": {
+      "en": "Strong in online and distance education. Affordable regional option.",
+      "zh": "在线和远程教育强，实惠的区域选择。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $30,000/year",
+      "zh": "学费: $30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "csu",
+    "name": {
+      "en": "Charles Sturt University",
+      "zh": "查尔斯特大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Bathurst",
+      "zh": "巴瑟斯特"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 31000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Agriculture",
+        "Veterinary Science",
+        "Nursing",
+        "Education",
+        "Computer Science",
+        "Business",
+        "Psychology",
+        "Biology",
+        "Communication",
+        "Criminology",
+        "Environmental Science",
+        "Art",
+        "Theology",
+        "Social Work",
+        "Health Sciences",
+        "Engineering",
+        "Economics",
+        "Mathematics"
+      ],
+      "zh": [
+        "农学",
+        "兽医学",
+        "护理学",
+        "教育学",
+        "计算机科学",
+        "商科",
+        "心理学",
+        "生物学",
+        "传播学",
+        "犯罪学",
+        "环境科学",
+        "艺术",
+        "神学",
+        "社会工作",
+        "健康科学",
+        "工学",
+        "经济学",
+        "数学"
+      ]
+    },
+    "desc": {
+      "en": "Rural NSW university with strong agricultural and veterinary science programs.",
+      "zh": "新南威尔士州农村大学，农业和兽医科学强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 31000
+      },
+      "zh": {
+        "学费": 31000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $31,000/year",
+      "zh": "学费: $31,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "uts2",
+    "name": {
+      "en": "University of Tasmania - Launceston",
+      "zh": "塔斯马尼亚大学朗塞斯顿分校"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Launceston",
+      "zh": "朗塞斯顿"
+    },
+    "qs": 293,
+    "the": 301,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 33000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Architecture",
+        "Design",
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Nursing",
+        "Education",
+        "Psychology",
+        "Biology",
+        "Art",
+        "Music",
+        "Environmental Science",
+        "Agriculture",
+        "Mathematics",
+        "Chemistry",
+        "Communication",
+        "Sociology",
+        "Health Sciences"
+      ],
+      "zh": [
+        "建筑学",
+        "设计",
+        "工学",
+        "计算机科学",
+        "商科",
+        "护理学",
+        "教育学",
+        "心理学",
+        "生物学",
+        "艺术",
+        "音乐",
+        "环境科学",
+        "农学",
+        "数学",
+        "化学",
+        "传播学",
+        "社会学",
+        "健康科学"
+      ]
+    },
+    "desc": {
+      "en": "UTAS's northern campus. Strong design and architecture in a charming colonial city.",
+      "zh": "塔大北部校区，迷人殖民城市中的设计和建筑。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 33000
+      },
+      "zh": {
+        "学费": 33000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $33,000/year",
+      "zh": "学费: $33,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "anu_crawford",
+    "name": {
+      "en": "Australian National University - Crawford",
+      "zh": "澳国立克劳福德公共政策学院"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Canberra",
+      "zh": "堪培拉"
+    },
+    "qs": 30,
+    "the": 67,
+    "usnews": 64,
+    "arwu": 76,
+    "tuition": 45000,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "35%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Public Policy",
+        "International Relations",
+        "Economics",
+        "Political Science",
+        "Environmental Policy",
+        "Development Studies",
+        "Law",
+        "Asian Studies",
+        "Strategic Studies",
+        "Diplomacy",
+        "National Security",
+        "Statistics",
+        "Demography",
+        "Climate Policy",
+        "Health Policy",
+        "Education Policy",
+        "Data Science",
+        "Philosophy"
+      ],
+      "zh": [
+        "公共政策",
+        "国际关系",
+        "经济学",
+        "政治学",
+        "环境政策",
+        "发展研究",
+        "法学",
+        "亚洲研究",
+        "战略研究",
+        "外交",
+        "国家安全",
+        "统计学",
+        "人口学",
+        "气候政策",
+        "健康政策",
+        "教育政策",
+        "数据科学",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "ANU's policy school, ranked #1 in Australia for politics and international studies.",
+      "zh": "澳国立政策学院，政治和国际研究澳大利亚第一。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 45000
+      },
+      "zh": {
+        "学费": 45000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $45,000/year",
+      "zh": "学费: $45,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "scuau",
+    "name": {
+      "en": "Southern Cross University",
+      "zh": "南十字星大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Lismore",
+      "zh": "利斯莫尔"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Marine Science",
+        "Environmental Science",
+        "Tourism Management",
+        "Business",
+        "Engineering",
+        "Computer Science",
+        "Education",
+        "Nursing",
+        "Psychology",
+        "Art",
+        "Law",
+        "Music",
+        "Sociology",
+        "Biology",
+        "Chemistry",
+        "Communication",
+        "Health Sciences",
+        "Agriculture"
+      ],
+      "zh": [
+        "海洋科学",
+        "环境科学",
+        "旅游管理",
+        "商科",
+        "工学",
+        "计算机科学",
+        "教育学",
+        "护理学",
+        "心理学",
+        "艺术",
+        "法学",
+        "音乐",
+        "社会学",
+        "生物学",
+        "化学",
+        "传播学",
+        "健康科学",
+        "农学"
+      ]
+    },
+    "desc": {
+      "en": "Coastal NSW university. Strong in marine science and sustainable tourism.",
+      "zh": "新南威尔士海岸大学，海洋科学和可持续旅游强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $30,000/year",
+      "zh": "学费: $30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "adelaide2",
+    "name": {
+      "en": "Torrens University Australia",
+      "zh": "托伦斯大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Adelaide",
+      "zh": "阿德莱德"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 28000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "95%",
+      "intl": "~85%"
+    },
+    "majors": {
+      "en": [
+        "Design",
+        "Business",
+        "Hospitality Management",
+        "Health Sciences",
+        "Education",
+        "Computer Science",
+        "Communication",
+        "Psychology",
+        "Nursing",
+        "Art",
+        "Marketing",
+        "Public Health",
+        "Culinary Arts",
+        "Sport Management",
+        "Film",
+        "Tourism Management",
+        "Data Science",
+        "Sociology"
+      ],
+      "zh": [
+        "设计",
+        "商科",
+        "酒店管理",
+        "健康科学",
+        "教育学",
+        "计算机科学",
+        "传播学",
+        "心理学",
+        "护理学",
+        "艺术",
+        "市场营销",
+        "公共卫生",
+        "烹饪艺术",
+        "体育管理",
+        "电影",
+        "旅游管理",
+        "数据科学",
+        "社会学"
+      ]
+    },
+    "desc": {
+      "en": "Private university focused on creative industries, hospitality, and health.",
+      "zh": "私立大学，专注创意产业、酒店和健康。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 28000
+      },
+      "zh": {
+        "学费": 28000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $28,000/year",
+      "zh": "学费: $28,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "usunshine",
+    "name": {
+      "en": "University of Wollongong - Dubai",
+      "zh": "伍伦贡大学"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Wollongong",
+      "zh": "伍伦贡"
+    },
+    "qs": 162,
+    "the": 201,
+    "usnews": 201,
+    "arwu": 201,
+    "tuition": 32000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 630,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-34",
+      "zh": "IB 28-34"
+    },
+    "acceptanceRate": {
+      "overall": "80%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Law",
+        "Education",
+        "Nursing",
+        "Psychology",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Art",
+        "Communication",
+        "Health Sciences",
+        "Environmental Science",
+        "Economics",
+        "Sociology",
+        "Information Systems"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "法学",
+        "教育学",
+        "护理学",
+        "心理学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "艺术",
+        "传播学",
+        "健康科学",
+        "环境科学",
+        "经济学",
+        "社会学",
+        "信息系统"
+      ]
+    },
+    "desc": {
+      "en": "Strong in engineering and CS with beautiful coastal campus south of Sydney.",
+      "zh": "工程和CS强，悉尼以南美丽海滨校园。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 32000
+      },
+      "zh": {
+        "学费": 32000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $32,000/year",
+      "zh": "学费: $32,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
   }
 ]

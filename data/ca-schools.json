@@ -3302,5 +3302,2038 @@
       "en": "Canada's oldest English-language university with strong engineering and forestry.",
       "zh": "加拿大最古老的英语大学，工程和林学实力强。"
     }
+  },
+  {
+    "id": "uregina",
+    "name": {
+      "en": "University of Regina",
+      "zh": "里贾纳大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Regina",
+      "zh": "里贾纳"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 501,
+    "arwu": 601,
+    "tuition": 22000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Education",
+        "Nursing",
+        "Biology",
+        "Psychology",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Economics",
+        "Sociology",
+        "Art",
+        "Journalism",
+        "Social Work",
+        "Geography",
+        "Geology",
+        "Political Science"
+      ],
+      "zh": [
+        "工学",
+        "商科",
+        "计算机科学",
+        "教育学",
+        "护理学",
+        "生物学",
+        "心理学",
+        "化学",
+        "数学",
+        "物理学",
+        "经济学",
+        "社会学",
+        "艺术",
+        "新闻学",
+        "社会工作",
+        "地理学",
+        "地质学",
+        "政治学"
+      ]
+    },
+    "desc": {
+      "en": "Saskatchewan's capital city university. Affordable tuition and energy research focus.",
+      "zh": "萨斯喀彻温省省会大学，学费实惠，能源研究。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 22000
+      },
+      "zh": {
+        "学费": 22000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $22,000/year",
+      "zh": "学费: $22,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "mta",
+    "name": {
+      "en": "Mount Allison University",
+      "zh": "蒙特爱立森大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Sackville",
+      "zh": "萨克维尔"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 20000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Biology",
+        "Chemistry",
+        "Computer Science",
+        "Economics",
+        "English Literature",
+        "Art",
+        "Music",
+        "Psychology",
+        "Philosophy",
+        "Physics",
+        "Mathematics",
+        "History",
+        "Sociology",
+        "Geography",
+        "Environmental Science",
+        "Political Science",
+        "Commerce",
+        "Education"
+      ],
+      "zh": [
+        "生物学",
+        "化学",
+        "计算机科学",
+        "经济学",
+        "英文学",
+        "艺术",
+        "音乐",
+        "心理学",
+        "哲学",
+        "物理学",
+        "数学",
+        "历史学",
+        "社会学",
+        "地理学",
+        "环境科学",
+        "政治学",
+        "商科",
+        "教育学"
+      ]
+    },
+    "desc": {
+      "en": "Canada's top primarily undergraduate university. Small class sizes and tight-knit community.",
+      "zh": "加拿大顶尖本科为主大学，小班教学，社区紧密。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 20000
+      },
+      "zh": {
+        "学费": 20000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $20,000/year",
+      "zh": "学费: $20,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "uwaterloo2",
+    "name": {
+      "en": "Wilfrid Laurier University",
+      "zh": "威尔弗里德·劳里埃大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Waterloo",
+      "zh": "滑铁卢"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 801,
+    "tuition": 28000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 800,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-32",
+      "zh": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "78%",
+      "intl": "~65%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Economics",
+        "Music",
+        "Psychology",
+        "Computer Science",
+        "Biology",
+        "Chemistry",
+        "Communication",
+        "Political Science",
+        "Sociology",
+        "Mathematics",
+        "History",
+        "Philosophy",
+        "Geography",
+        "Criminology",
+        "Education",
+        "Art",
+        "Physics"
+      ],
+      "zh": [
+        "商科",
+        "经济学",
+        "音乐",
+        "心理学",
+        "计算机科学",
+        "生物学",
+        "化学",
+        "传播学",
+        "政治学",
+        "社会学",
+        "数学",
+        "历史学",
+        "哲学",
+        "地理学",
+        "犯罪学",
+        "教育学",
+        "艺术",
+        "物理学"
+      ]
+    },
+    "desc": {
+      "en": "Lazaridis School of Business is top-ranked. Strong in music and social sciences.",
+      "zh": "拉扎里迪斯商学院排名顶尖，音乐和社会科学强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 28000
+      },
+      "zh": {
+        "学费": 28000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $28,000/year",
+      "zh": "学费: $28,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "brocku",
+    "name": {
+      "en": "Brock University",
+      "zh": "布鲁克大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "St. Catharines",
+      "zh": "圣凯瑟琳斯"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 601,
+    "arwu": 801,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 800,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "80%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Education",
+        "Biology",
+        "Computer Science",
+        "Psychology",
+        "Nursing",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Economics",
+        "Sociology",
+        "Political Science",
+        "Communication",
+        "Art",
+        "Geography",
+        "Tourism Management",
+        "Criminology",
+        "Health Sciences"
+      ],
+      "zh": [
+        "商科",
+        "教育学",
+        "生物学",
+        "计算机科学",
+        "心理学",
+        "护理学",
+        "化学",
+        "数学",
+        "物理学",
+        "经济学",
+        "社会学",
+        "政治学",
+        "传播学",
+        "艺术",
+        "地理学",
+        "旅游管理",
+        "犯罪学",
+        "健康科学"
+      ]
+    },
+    "desc": {
+      "en": "In Niagara wine region. Known for viticulture, education, and co-op programs.",
+      "zh": "位于尼亚加拉葡萄酒区，以葡萄栽培和教育闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $30,000/year",
+      "zh": "学费: $30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "trent",
+    "name": {
+      "en": "Trent University",
+      "zh": "特伦特大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Peterborough",
+      "zh": "彼得伯勒"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 24000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Environmental Science",
+        "Biology",
+        "Psychology",
+        "Business",
+        "Computer Science",
+        "Nursing",
+        "Education",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "History",
+        "Sociology",
+        "Philosophy",
+        "Art",
+        "Indigenous Studies",
+        "Criminology",
+        "Economics",
+        "Geography"
+      ],
+      "zh": [
+        "环境科学",
+        "生物学",
+        "心理学",
+        "商科",
+        "计算机科学",
+        "护理学",
+        "教育学",
+        "化学",
+        "物理学",
+        "数学",
+        "历史学",
+        "社会学",
+        "哲学",
+        "艺术",
+        "原住民研究",
+        "犯罪学",
+        "经济学",
+        "地理学"
+      ]
+    },
+    "desc": {
+      "en": "Top undergraduate university focused on environmental science and sustainability.",
+      "zh": "顶尖本科大学，专注环境科学和可持续发展。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 24000
+      },
+      "zh": {
+        "学费": 24000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $24,000/year",
+      "zh": "学费: $24,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "uleth",
+    "name": {
+      "en": "University of Lethbridge",
+      "zh": "莱斯布里奇大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Lethbridge",
+      "zh": "莱斯布里奇"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 18000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Management",
+        "Computer Science",
+        "Biology",
+        "Psychology",
+        "Neuroscience",
+        "Education",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Art",
+        "Music",
+        "Drama",
+        "Economics",
+        "Sociology",
+        "Philosophy",
+        "Geography",
+        "Health Sciences",
+        "Political Science"
+      ],
+      "zh": [
+        "管理学",
+        "计算机科学",
+        "生物学",
+        "心理学",
+        "神经科学",
+        "教育学",
+        "化学",
+        "物理学",
+        "数学",
+        "艺术",
+        "音乐",
+        "戏剧",
+        "经济学",
+        "社会学",
+        "哲学",
+        "地理学",
+        "健康科学",
+        "政治学"
+      ]
+    },
+    "desc": {
+      "en": "Small university with strong neuroscience research. Beautiful Alberta prairie campus.",
+      "zh": "小型大学，神经科学研究强，美丽的阿尔伯塔草原校园。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 18000
+      },
+      "zh": {
+        "学费": 18000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $18,000/year",
+      "zh": "学费: $18,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "lakehead",
+    "name": {
+      "en": "Lakehead University",
+      "zh": "湖首大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Thunder Bay",
+      "zh": "桑德贝"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 22000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Nursing",
+        "Biology",
+        "Education",
+        "Psychology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Environmental Science",
+        "Forestry",
+        "Sociology",
+        "Economics",
+        "History",
+        "Art",
+        "Geology",
+        "Outdoor Recreation"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "护理学",
+        "生物学",
+        "教育学",
+        "心理学",
+        "化学",
+        "物理学",
+        "数学",
+        "环境科学",
+        "林学",
+        "社会学",
+        "经济学",
+        "历史学",
+        "艺术",
+        "地质学",
+        "户外运动"
+      ]
+    },
+    "desc": {
+      "en": "Northern Ontario university. Strong in forestry, outdoor rec, and indigenous education.",
+      "zh": "安大略北部大学，林学、户外运动和原住民教育强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 22000
+      },
+      "zh": {
+        "学费": 22000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $22,000/year",
+      "zh": "学费: $22,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "upei",
+    "name": {
+      "en": "University of Prince Edward Island",
+      "zh": "爱德华王子岛大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Charlottetown",
+      "zh": "夏洛特敦"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 16000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Veterinary Medicine",
+        "Biology",
+        "Business",
+        "Computer Science",
+        "Nursing",
+        "Education",
+        "Psychology",
+        "Chemistry",
+        "Engineering",
+        "Mathematics",
+        "Physics",
+        "Sociology",
+        "Economics",
+        "Art",
+        "History",
+        "Environmental Science",
+        "Philosophy",
+        "Music"
+      ],
+      "zh": [
+        "兽医学",
+        "生物学",
+        "商科",
+        "计算机科学",
+        "护理学",
+        "教育学",
+        "心理学",
+        "化学",
+        "工学",
+        "数学",
+        "物理学",
+        "社会学",
+        "经济学",
+        "艺术",
+        "历史学",
+        "环境科学",
+        "哲学",
+        "音乐"
+      ]
+    },
+    "desc": {
+      "en": "Atlantic Canada's only vet school. Small, friendly, and very affordable.",
+      "zh": "大西洋加拿大唯一兽医学院，小而友好，费用极低。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 16000
+      },
+      "zh": {
+        "学费": 16000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $16,000/year",
+      "zh": "学费: $16,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "acadia",
+    "name": {
+      "en": "Acadia University",
+      "zh": "阿卡迪亚大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Wolfville",
+      "zh": "沃尔夫维尔"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 19000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Computer Science",
+        "Biology",
+        "Psychology",
+        "Education",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Music",
+        "Art",
+        "Sociology",
+        "Economics",
+        "History",
+        "Philosophy",
+        "Environmental Science",
+        "Nutrition",
+        "Geology",
+        "Political Science"
+      ],
+      "zh": [
+        "商科",
+        "计算机科学",
+        "生物学",
+        "心理学",
+        "教育学",
+        "化学",
+        "数学",
+        "物理学",
+        "音乐",
+        "艺术",
+        "社会学",
+        "经济学",
+        "历史学",
+        "哲学",
+        "环境科学",
+        "营养学",
+        "地质学",
+        "政治学"
+      ]
+    },
+    "desc": {
+      "en": "Small liberal arts university in Nova Scotia. One of Canada's first laptop universities.",
+      "zh": "新斯科舍省小型文理大学，加拿大最早的笔记本电脑大学之一。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 19000
+      },
+      "zh": {
+        "学费": 19000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $19,000/year",
+      "zh": "学费: $19,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "ufredericton",
+    "name": {
+      "en": "St. Thomas University",
+      "zh": "圣托马斯大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Fredericton",
+      "zh": "弗雷德里克顿"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 18000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Criminology",
+        "Psychology",
+        "English Literature",
+        "History",
+        "Philosophy",
+        "Sociology",
+        "Political Science",
+        "Economics",
+        "Education",
+        "Communication",
+        "Art",
+        "Human Rights",
+        "Social Work",
+        "Biology",
+        "Mathematics",
+        "French",
+        "Journalism",
+        "Gerontology"
+      ],
+      "zh": [
+        "犯罪学",
+        "心理学",
+        "英文学",
+        "历史学",
+        "哲学",
+        "社会学",
+        "政治学",
+        "经济学",
+        "教育学",
+        "传播学",
+        "艺术",
+        "人权",
+        "社会工作",
+        "生物学",
+        "数学",
+        "法语",
+        "新闻学",
+        "老年学"
+      ]
+    },
+    "desc": {
+      "en": "Liberal arts focused. Known for criminology and human rights programs.",
+      "zh": "文理教育为主，犯罪学和人权项目闻名。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 18000
+      },
+      "zh": {
+        "学费": 18000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $18,000/year",
+      "zh": "学费: $18,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "okanagan",
+    "name": {
+      "en": "University of British Columbia - Okanagan",
+      "zh": "英属哥伦比亚大学奥肯那根分校"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Kelowna",
+      "zh": "基隆拿"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 42000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 900,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-34",
+      "zh": "IB 30-34"
+    },
+    "acceptanceRate": {
+      "overall": "60%",
+      "intl": "~50%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Biology",
+        "Management",
+        "Economics",
+        "Psychology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Nursing",
+        "Education",
+        "Art",
+        "Sociology",
+        "Earth Science",
+        "Environmental Science",
+        "Data Science",
+        "Creative Writing",
+        "Philosophy"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "生物学",
+        "管理学",
+        "经济学",
+        "心理学",
+        "化学",
+        "物理学",
+        "数学",
+        "护理学",
+        "教育学",
+        "艺术",
+        "社会学",
+        "地球科学",
+        "环境科学",
+        "数据科学",
+        "创意写作",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "UBC's smaller Okanagan campus in beautiful wine country. Growing engineering programs.",
+      "zh": "UBC较小的奥肯那根校区，位于美丽的葡萄酒产区。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 42000
+      },
+      "zh": {
+        "学费": 42000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $42,000/year",
+      "zh": "学费: $42,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "mun",
+    "name": {
+      "en": "Memorial University of Newfoundland",
+      "zh": "纽芬兰纪念大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "St. John's",
+      "zh": "圣约翰斯"
+    },
+    "qs": 801,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 501,
+    "tuition": 12000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "85%",
+      "intl": "~75%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Marine Science",
+        "Business",
+        "Computer Science",
+        "Medicine",
+        "Nursing",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Education",
+        "Psychology",
+        "Economics",
+        "Sociology",
+        "History",
+        "Music",
+        "Geography",
+        "Folklore"
+      ],
+      "zh": [
+        "工学",
+        "海洋科学",
+        "商科",
+        "计算机科学",
+        "医学",
+        "护理学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "教育学",
+        "心理学",
+        "经济学",
+        "社会学",
+        "历史学",
+        "音乐",
+        "地理学",
+        "民俗学"
+      ]
+    },
+    "desc": {
+      "en": "Lowest tuition in Canada for international students. Strong marine and ocean research.",
+      "zh": "国际生学费加拿大最低，海洋研究实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 12000
+      },
+      "zh": {
+        "学费": 12000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $12,000/year",
+      "zh": "学费: $12,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "ryerson",
+    "name": {
+      "en": "Ontario Tech University",
+      "zh": "安大略理工大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Oshawa",
+      "zh": "奥沙瓦"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 601,
+    "arwu": 801,
+    "tuition": 28000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 800,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "82%",
+      "intl": "~72%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Nursing",
+        "Health Sciences",
+        "Nuclear Engineering",
+        "Automotive Engineering",
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Criminology",
+        "Education",
+        "Communication",
+        "Psychology",
+        "Economics",
+        "Information Systems",
+        "Data Science"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "护理学",
+        "健康科学",
+        "核能工程",
+        "汽车工程",
+        "生物学",
+        "化学",
+        "数学",
+        "物理学",
+        "犯罪学",
+        "教育学",
+        "传播学",
+        "心理学",
+        "经济学",
+        "信息系统",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "Focus on STEM and market-driven programs. Canada's only undergrad nuclear engineering.",
+      "zh": "专注STEM和市场导向项目，加拿大唯一本科核工程。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 28000
+      },
+      "zh": {
+        "学费": 28000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $28,000/year",
+      "zh": "学费: $28,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "uwindsor",
+    "name": {
+      "en": "University of Windsor",
+      "zh": "温莎大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Windsor",
+      "zh": "温莎"
+    },
+    "qs": 701,
+    "the": 601,
+    "usnews": 501,
+    "arwu": 601,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 800,
+    "flights": 1500,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-30",
+      "zh": "IB 26-30"
+    },
+    "acceptanceRate": {
+      "overall": "82%",
+      "intl": "~72%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Law",
+        "Nursing",
+        "Biology",
+        "Psychology",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Economics",
+        "Sociology",
+        "Communication",
+        "Education",
+        "Criminology",
+        "Art",
+        "Music",
+        "Environmental Science"
+      ],
+      "zh": [
+        "工学",
+        "商科",
+        "计算机科学",
+        "法学",
+        "护理学",
+        "生物学",
+        "心理学",
+        "化学",
+        "数学",
+        "物理学",
+        "经济学",
+        "社会学",
+        "传播学",
+        "教育学",
+        "犯罪学",
+        "艺术",
+        "音乐",
+        "环境科学"
+      ]
+    },
+    "desc": {
+      "en": "Border city with Detroit. Strong auto engineering ties and affordable tuition.",
+      "zh": "与底特律接壤，汽车工程联系紧密，学费实惠。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $30,000/year",
+      "zh": "学费: $30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "macewan",
+    "name": {
+      "en": "MacEwan University",
+      "zh": "麦科文大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Edmonton",
+      "zh": "埃德蒙顿"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 20000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Nursing",
+        "Computer Science",
+        "Biology",
+        "Psychology",
+        "Art & Design",
+        "Music",
+        "Communication",
+        "Economics",
+        "Sociology",
+        "Education",
+        "Chemistry",
+        "Mathematics",
+        "Philosophy",
+        "English Literature",
+        "History",
+        "Social Work",
+        "Anthropology"
+      ],
+      "zh": [
+        "商科",
+        "护理学",
+        "计算机科学",
+        "生物学",
+        "心理学",
+        "艺术与设计",
+        "音乐",
+        "传播学",
+        "经济学",
+        "社会学",
+        "教育学",
+        "化学",
+        "数学",
+        "哲学",
+        "英文学",
+        "历史学",
+        "社会工作",
+        "人类学"
+      ]
+    },
+    "desc": {
+      "en": "Edmonton's undergraduate-focused university. Strong in arts and nursing.",
+      "zh": "埃德蒙顿本科为主大学，艺术和护理强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 20000
+      },
+      "zh": {
+        "学费": 20000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $20,000/year",
+      "zh": "学费: $20,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "kwantlen",
+    "name": {
+      "en": "Kwantlen Polytechnic University",
+      "zh": "昆特仑理工大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Surrey",
+      "zh": "萨里"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 22000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Design",
+        "Nursing",
+        "Computer Science",
+        "Biology",
+        "Psychology",
+        "Criminology",
+        "Education",
+        "Mathematics",
+        "Chemistry",
+        "Sociology",
+        "Economics",
+        "Art",
+        "Music",
+        "Journalism",
+        "Horticulture",
+        "Brewing",
+        "Philosophy"
+      ],
+      "zh": [
+        "商科",
+        "设计",
+        "护理学",
+        "计算机科学",
+        "生物学",
+        "心理学",
+        "犯罪学",
+        "教育学",
+        "数学",
+        "化学",
+        "社会学",
+        "经济学",
+        "艺术",
+        "音乐",
+        "新闻学",
+        "园艺学",
+        "酿造学",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "BC's polytechnic university. Unique programs like brewing and sustainable horticulture.",
+      "zh": "BC省理工大学，独特项目如酿造和可持续园艺。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 22000
+      },
+      "zh": {
+        "学费": 22000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $22,000/year",
+      "zh": "学费: $22,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "ubishops",
+    "name": {
+      "en": "Bishop's University",
+      "zh": "毕索大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Sherbrooke",
+      "zh": "舍布鲁克"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 20000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "88%",
+      "intl": "~78%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Biology",
+        "Computer Science",
+        "Psychology",
+        "Education",
+        "English Literature",
+        "History",
+        "Philosophy",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Sociology",
+        "Economics",
+        "Art",
+        "Music",
+        "Drama",
+        "Environmental Science",
+        "Political Science"
+      ],
+      "zh": [
+        "商科",
+        "生物学",
+        "计算机科学",
+        "心理学",
+        "教育学",
+        "英文学",
+        "历史学",
+        "哲学",
+        "化学",
+        "数学",
+        "物理学",
+        "社会学",
+        "经济学",
+        "艺术",
+        "音乐",
+        "戏剧",
+        "环境科学",
+        "政治学"
+      ]
+    },
+    "desc": {
+      "en": "Small English-language liberal arts university in Quebec. Strong community feel.",
+      "zh": "魁北克省小型英语文理大学，社区感强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 20000
+      },
+      "zh": {
+        "学费": 20000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $20,000/year",
+      "zh": "学费: $20,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "ufrasv",
+    "name": {
+      "en": "University of the Fraser Valley",
+      "zh": "菲莎河谷大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "Abbotsford",
+      "zh": "阿伯茨福德"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 20000,
+    "livingCost": {
+      "en": "$10,500/year",
+      "zh": "$10,500/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "92%",
+      "intl": "~82%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Computer Science",
+        "Biology",
+        "Nursing",
+        "Criminal Justice",
+        "Psychology",
+        "Agriculture",
+        "Art",
+        "Communication",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Education",
+        "Sociology",
+        "Economics",
+        "Geography",
+        "Philosophy",
+        "Social Work"
+      ],
+      "zh": [
+        "商科",
+        "计算机科学",
+        "生物学",
+        "护理学",
+        "刑事司法",
+        "心理学",
+        "农学",
+        "艺术",
+        "传播学",
+        "化学",
+        "数学",
+        "物理学",
+        "教育学",
+        "社会学",
+        "经济学",
+        "地理学",
+        "哲学",
+        "社会工作"
+      ]
+    },
+    "desc": {
+      "en": "BC's Fraser Valley. Growing university with strong agriculture and criminal justice.",
+      "zh": "BC省菲莎河谷，农学和刑事司法项目强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 20000
+      },
+      "zh": {
+        "学费": 20000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $20,000/year",
+      "zh": "学费: $20,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "nipissing",
+    "name": {
+      "en": "Nipissing University",
+      "zh": "尼皮辛大学"
+    },
+    "country": "CA",
+    "flag": "🇨🇦",
+    "city": {
+      "en": "North Bay",
+      "zh": "北湾"
+    },
+    "qs": 801,
+    "the": 801,
+    "usnews": 801,
+    "arwu": 801,
+    "tuition": 22000,
+    "livingCost": {
+      "en": "$10,000/year",
+      "zh": "$10,000/年"
+    },
+    "insurance": 700,
+    "flights": 1500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 24-28",
+      "zh": "IB 24-28"
+    },
+    "acceptanceRate": {
+      "overall": "90%",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Education",
+        "Nursing",
+        "Computer Science",
+        "Business",
+        "Biology",
+        "Psychology",
+        "Criminal Justice",
+        "History",
+        "English Literature",
+        "Sociology",
+        "Mathematics",
+        "Chemistry",
+        "Geography",
+        "Philosophy",
+        "Art",
+        "Environmental Science",
+        "Economics",
+        "Physics"
+      ],
+      "zh": [
+        "教育学",
+        "护理学",
+        "计算机科学",
+        "商科",
+        "生物学",
+        "心理学",
+        "刑事司法",
+        "历史学",
+        "英文学",
+        "社会学",
+        "数学",
+        "化学",
+        "地理学",
+        "哲学",
+        "艺术",
+        "环境科学",
+        "经济学",
+        "物理学"
+      ]
+    },
+    "desc": {
+      "en": "Small northern Ontario university. Top-ranked education program in Canada.",
+      "zh": "安大略北部小型大学，教育学项目加拿大顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 22000
+      },
+      "zh": {
+        "学费": 22000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $22,000/year",
+      "zh": "学费: $22,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
   }
 ]

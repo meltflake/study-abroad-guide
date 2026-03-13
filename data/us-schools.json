@@ -9342,5 +9342,1075 @@
       "en": "New Jersey's flagship public university with a strong pharmacy program and proximity to NYC.",
       "zh": "新泽西州旗舰公立大学，药学项目强，靠近纽约市。"
     }
+  },
+  {
+    "id": "lehigh",
+    "name": {
+      "en": "Lehigh University",
+      "zh": "理海大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Bethlehem",
+      "zh": "伯利恒"
+    },
+    "qs": 371,
+    "the": 351,
+    "usnews": 51,
+    "arwu": 401,
+    "tuition": 60000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 3000,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 32-37",
+      "zh": "IB 32-37"
+    },
+    "acceptanceRate": {
+      "overall": "32%",
+      "intl": "~28%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Business",
+        "Computer Science",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Economics",
+        "Psychology",
+        "Architecture",
+        "Art",
+        "Political Science",
+        "Sociology",
+        "Philosophy",
+        "Music",
+        "Environmental Science",
+        "Journalism",
+        "Data Science"
+      ],
+      "zh": [
+        "工学",
+        "商科",
+        "计算机科学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "经济学",
+        "心理学",
+        "建筑学",
+        "艺术",
+        "政治学",
+        "社会学",
+        "哲学",
+        "音乐",
+        "环境科学",
+        "新闻学",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "Strong engineering and business school in Pennsylvania's Lehigh Valley.",
+      "zh": "宾州理海谷的强工程和商学院。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 60000
+      },
+      "zh": {
+        "学费": 60000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $60,000/year",
+      "zh": "学费: $60,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "rpi",
+    "name": {
+      "en": "Rensselaer Polytechnic Institute",
+      "zh": "伦斯勒理工学院"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Troy",
+      "zh": "特洛伊"
+    },
+    "qs": 397,
+    "the": 401,
+    "usnews": 53,
+    "arwu": 301,
+    "tuition": 62000,
+    "livingCost": {
+      "en": "$16,000/year",
+      "zh": "$16,000/年"
+    },
+    "insurance": 3000,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 33-38",
+      "zh": "IB 33-38"
+    },
+    "acceptanceRate": {
+      "overall": "57%",
+      "intl": "~50%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Architecture",
+        "Physics",
+        "Mathematics",
+        "Biology",
+        "Chemistry",
+        "Business",
+        "Game Design",
+        "Data Science",
+        "Biomedical Engineering",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Environmental Engineering",
+        "Economics",
+        "Psychology",
+        "Design",
+        "Information Systems"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "建筑学",
+        "物理学",
+        "数学",
+        "生物学",
+        "化学",
+        "商科",
+        "游戏设计",
+        "数据科学",
+        "生物医工学",
+        "电气工程",
+        "机械工程",
+        "环境工程",
+        "经济学",
+        "心理学",
+        "设计",
+        "信息系统"
+      ]
+    },
+    "desc": {
+      "en": "America's oldest technological research university (1824). Strong in CS, engineering, and architecture.",
+      "zh": "美国最古老的理工研究型大学（1824年），CS、工程和建筑强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 62000
+      },
+      "zh": {
+        "学费": 62000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $62,000/year",
+      "zh": "学费: $62,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "uconn",
+    "name": {
+      "en": "University of Connecticut",
+      "zh": "康涅狄格大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Storrs",
+      "zh": "斯托尔斯"
+    },
+    "qs": 373,
+    "the": 401,
+    "usnews": 63,
+    "arwu": 301,
+    "tuition": 42000,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 2800,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-35",
+      "zh": "IB 30-35"
+    },
+    "acceptanceRate": {
+      "overall": "56%",
+      "intl": "~45%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Nursing",
+        "Biology",
+        "Psychology",
+        "Computer Science",
+        "Economics",
+        "Education",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Political Science",
+        "Communication",
+        "Pharmacy",
+        "Agriculture",
+        "Sociology",
+        "Art",
+        "Public Health"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "护理学",
+        "生物学",
+        "心理学",
+        "计算机科学",
+        "经济学",
+        "教育学",
+        "化学",
+        "数学",
+        "物理学",
+        "政治学",
+        "传播学",
+        "药学",
+        "农学",
+        "社会学",
+        "艺术",
+        "公共卫生"
+      ]
+    },
+    "desc": {
+      "en": "Connecticut's flagship public university with strong business and health sciences.",
+      "zh": "康涅狄格州旗舰公立大学，商科和健康科学实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 42000
+      },
+      "zh": {
+        "学费": 42000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $42,000/year",
+      "zh": "学费: $42,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "clemson",
+    "name": {
+      "en": "Clemson University",
+      "zh": "克莱姆森大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Clemson",
+      "zh": "克莱姆森"
+    },
+    "qs": 801,
+    "the": 401,
+    "usnews": 75,
+    "arwu": 401,
+    "tuition": 40000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 2600,
+    "flights": 1200,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-33",
+      "zh": "IB 28-33"
+    },
+    "acceptanceRate": {
+      "overall": "43%",
+      "intl": "~35%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Architecture",
+        "Agriculture",
+        "Biology",
+        "Nursing",
+        "Psychology",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Economics",
+        "Education",
+        "Sociology",
+        "Communication",
+        "Environmental Science",
+        "Food Science",
+        "Art"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "建筑学",
+        "农学",
+        "生物学",
+        "护理学",
+        "心理学",
+        "化学",
+        "数学",
+        "物理学",
+        "经济学",
+        "教育学",
+        "社会学",
+        "传播学",
+        "环境科学",
+        "食品科学",
+        "艺术"
+      ]
+    },
+    "desc": {
+      "en": "Top public university in South Carolina. Known for engineering and school spirit.",
+      "zh": "南卡罗来纳州顶尖公立大学，工程强，校园氛围浓。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 40000
+      },
+      "zh": {
+        "学费": 40000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $40,000/year",
+      "zh": "学费: $40,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "stevens",
+    "name": {
+      "en": "Stevens Institute of Technology",
+      "zh": "史蒂文斯理工学院"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Hoboken",
+      "zh": "霍博肯"
+    },
+    "qs": 601,
+    "the": 301,
+    "usnews": 76,
+    "arwu": 501,
+    "tuition": 60000,
+    "livingCost": {
+      "en": "$17,000/year",
+      "zh": "$17,000/年"
+    },
+    "insurance": 3200,
+    "flights": 1200,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-37",
+      "zh": "IB 32-37"
+    },
+    "acceptanceRate": {
+      "overall": "41%",
+      "intl": "~35%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Cybersecurity",
+        "Finance",
+        "Data Science",
+        "Physics",
+        "Mathematics",
+        "Chemistry",
+        "Business",
+        "Artificial Intelligence",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Biomedical Engineering",
+        "Chemical Engineering",
+        "Design",
+        "Music",
+        "Philosophy",
+        "Quantitative Finance"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "网络安全",
+        "金融",
+        "数据科学",
+        "物理学",
+        "数学",
+        "化学",
+        "商科",
+        "人工智能",
+        "机械工程",
+        "电气工程",
+        "生物医工学",
+        "化学工程",
+        "设计",
+        "音乐",
+        "哲学",
+        "计算金融"
+      ]
+    },
+    "desc": {
+      "en": "Tech university across the Hudson from Manhattan. Strong in fintech and cybersecurity.",
+      "zh": "位于曼哈顿对岸，金融科技和网络安全实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 60000
+      },
+      "zh": {
+        "学费": 60000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $60,000/year",
+      "zh": "学费: $60,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "villanova",
+    "name": {
+      "en": "Villanova University",
+      "zh": "维拉诺瓦大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Villanova",
+      "zh": "维拉诺瓦"
+    },
+    "qs": 801,
+    "the": 351,
+    "usnews": 67,
+    "arwu": 501,
+    "tuition": 60000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 3000,
+    "flights": 1200,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-37",
+      "zh": "IB 32-37"
+    },
+    "acceptanceRate": {
+      "overall": "23%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Nursing",
+        "Biology",
+        "Computer Science",
+        "Economics",
+        "Psychology",
+        "Communication",
+        "Philosophy",
+        "Political Science",
+        "Mathematics",
+        "Chemistry",
+        "Physics",
+        "Education",
+        "Sociology",
+        "History",
+        "Art",
+        "Theology"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "护理学",
+        "生物学",
+        "计算机科学",
+        "经济学",
+        "心理学",
+        "传播学",
+        "哲学",
+        "政治学",
+        "数学",
+        "化学",
+        "物理学",
+        "教育学",
+        "社会学",
+        "历史学",
+        "艺术",
+        "神学"
+      ]
+    },
+    "desc": {
+      "en": "Top Catholic university near Philadelphia. Excellent business school and nursing program.",
+      "zh": "费城附近顶尖天主教大学，商学院和护理项目优秀。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 60000
+      },
+      "zh": {
+        "学费": 60000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $60,000/year",
+      "zh": "学费: $60,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "drexel",
+    "name": {
+      "en": "Drexel University",
+      "zh": "德雷塞尔大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Philadelphia",
+      "zh": "费城"
+    },
+    "qs": 601,
+    "the": 351,
+    "usnews": 105,
+    "arwu": 501,
+    "tuition": 58000,
+    "livingCost": {
+      "en": "$16,000/year",
+      "zh": "$16,000/年"
+    },
+    "insurance": 3000,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 28-33",
+      "zh": "IB 28-33"
+    },
+    "acceptanceRate": {
+      "overall": "76%",
+      "intl": "~65%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Business",
+        "Design",
+        "Nursing",
+        "Biology",
+        "Psychology",
+        "Communication",
+        "Architecture",
+        "Music",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Information Systems",
+        "Data Science",
+        "Biomedical Engineering",
+        "Economics",
+        "Art"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "商科",
+        "设计",
+        "护理学",
+        "生物学",
+        "心理学",
+        "传播学",
+        "建筑学",
+        "音乐",
+        "化学",
+        "数学",
+        "物理学",
+        "信息系统",
+        "数据科学",
+        "生物医工学",
+        "经济学",
+        "艺术"
+      ]
+    },
+    "desc": {
+      "en": "Known for co-op (paid internship) program. Every student gets work experience before graduation.",
+      "zh": "以Co-op带薪实习闻名，每位学生毕业前都有工作经验。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 58000
+      },
+      "zh": {
+        "学费": 58000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $58,000/year",
+      "zh": "学费: $58,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "smu",
+    "name": {
+      "en": "Southern Methodist University",
+      "zh": "南卫理公会大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Dallas",
+      "zh": "达拉斯"
+    },
+    "qs": 601,
+    "the": 501,
+    "usnews": 67,
+    "arwu": 501,
+    "tuition": 60000,
+    "livingCost": {
+      "en": "$16,000/year",
+      "zh": "$16,000/年"
+    },
+    "insurance": 3000,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 32-37",
+      "zh": "IB 32-37"
+    },
+    "acceptanceRate": {
+      "overall": "49%",
+      "intl": "~40%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Engineering",
+        "Computer Science",
+        "Economics",
+        "Political Science",
+        "Psychology",
+        "Art",
+        "Communication",
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Music",
+        "Dance",
+        "Film",
+        "Statistics",
+        "Data Science",
+        "Philosophy"
+      ],
+      "zh": [
+        "商科",
+        "工学",
+        "计算机科学",
+        "经济学",
+        "政治学",
+        "心理学",
+        "艺术",
+        "传播学",
+        "生物学",
+        "化学",
+        "数学",
+        "物理学",
+        "音乐",
+        "舞蹈",
+        "电影",
+        "统计学",
+        "数据科学",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "Dallas university with strong business ties. Cox School of Business is highly regarded.",
+      "zh": "达拉斯大学，商业联系紧密，考克斯商学院声誉高。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 60000
+      },
+      "zh": {
+        "学费": 60000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $60,000/year",
+      "zh": "学费: $60,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "fordham",
+    "name": {
+      "en": "Fordham University",
+      "zh": "福特汉姆大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "New York",
+      "zh": "纽约"
+    },
+    "qs": 801,
+    "the": 501,
+    "usnews": 82,
+    "arwu": 501,
+    "tuition": 60000,
+    "livingCost": {
+      "en": "$18,000/year",
+      "zh": "$18,000/年"
+    },
+    "insurance": 3200,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-35",
+      "zh": "IB 30-35"
+    },
+    "acceptanceRate": {
+      "overall": "46%",
+      "intl": "~38%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Law",
+        "Communication",
+        "Psychology",
+        "Biology",
+        "Economics",
+        "Computer Science",
+        "Political Science",
+        "Philosophy",
+        "Theology",
+        "History",
+        "Sociology",
+        "Mathematics",
+        "Chemistry",
+        "Art",
+        "Education",
+        "English Literature",
+        "International Relations"
+      ],
+      "zh": [
+        "商科",
+        "法学",
+        "传播学",
+        "心理学",
+        "生物学",
+        "经济学",
+        "计算机科学",
+        "政治学",
+        "哲学",
+        "神学",
+        "历史学",
+        "社会学",
+        "数学",
+        "化学",
+        "艺术",
+        "教育学",
+        "英文学",
+        "国际关系"
+      ]
+    },
+    "desc": {
+      "en": "Jesuit university in New York City. Lincoln Center and Rose Hill campuses.",
+      "zh": "纽约市耶稣会大学，林肯中心和玫瑰山两个校区。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 60000
+      },
+      "zh": {
+        "学费": 60000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $60,000/year",
+      "zh": "学费: $60,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "temple",
+    "name": {
+      "en": "Temple University",
+      "zh": "天普大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Philadelphia",
+      "zh": "费城"
+    },
+    "qs": 801,
+    "the": 501,
+    "usnews": 115,
+    "arwu": 501,
+    "tuition": 34000,
+    "livingCost": {
+      "en": "$15,000/year",
+      "zh": "$15,000/年"
+    },
+    "insurance": 2800,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 26-32",
+      "zh": "IB 26-32"
+    },
+    "acceptanceRate": {
+      "overall": "80%",
+      "intl": "~70%"
+    },
+    "majors": {
+      "en": [
+        "Business",
+        "Communication",
+        "Art",
+        "Engineering",
+        "Education",
+        "Computer Science",
+        "Biology",
+        "Psychology",
+        "Nursing",
+        "Pharmacy",
+        "Music",
+        "Film",
+        "Journalism",
+        "Architecture",
+        "Chemistry",
+        "Mathematics",
+        "Criminal Justice",
+        "Public Health"
+      ],
+      "zh": [
+        "商科",
+        "传播学",
+        "艺术",
+        "工学",
+        "教育学",
+        "计算机科学",
+        "生物学",
+        "心理学",
+        "护理学",
+        "药学",
+        "音乐",
+        "电影",
+        "新闻学",
+        "建筑学",
+        "化学",
+        "数学",
+        "刑事司法",
+        "公共卫生"
+      ]
+    },
+    "desc": {
+      "en": "Large public university in Philadelphia. Fox School of Business and Klein College of Media.",
+      "zh": "费城大型公立大学，福克斯商学院和克莱因传媒学院。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 34000
+      },
+      "zh": {
+        "学费": 34000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $34,000/year",
+      "zh": "学费: $34,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
   }
 ]
