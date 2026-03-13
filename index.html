@@ -1329,7 +1329,18 @@ function updateRecLabels(){
   setTimeout(runRecommend, 100);
 })();
 
+var _recTimer = null;
 function runRecommend(){
+  // Debounce rapid changes (slider dragging)
+  if(_recTimer) clearTimeout(_recTimer);
+  var container = document.getElementById('recResults');
+  container.style.opacity = '0.5';
+  _recTimer = setTimeout(function(){ _runRecommendNow(); }, 150);
+}
+function _runRecommendNow(){
+  var container = document.getElementById('recResults');
+  container.style.opacity = '1';
+  container.style.transition = 'opacity 0.2s';
   const ibScore = parseInt(document.getElementById('recIB').value);
   const budget = parseInt(document.getElementById('recBudget').value);
   const majorQ = document.getElementById('recMajor').value.trim().toLowerCase();
@@ -1400,8 +1411,6 @@ function runRecommend(){
   // Show top 30 results (10+10+10), rest hidden behind button
   const results = scored.slice(0, 30);
   const remaining = scored.slice(30);
-  const container = document.getElementById('recResults');
-
   if(!results.length) {
     container.innerHTML = `<div style="text-align:center;padding:2rem;color:#64748b">${t('no_match_msg')}</div>`;
     return;
