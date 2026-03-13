@@ -442,20 +442,47 @@ img{max-width:100%}
 
 <section class="section" id="calculator" style="background:var(--gray-100)">
   <div class="container">
-    <h2 class="section-title" data-i18n="section_calc">留学费用计算器</h2>
-    <p class="section-desc" data-i18n="section_calc_desc">估算留学总花费，包含学费、生活费、保险及往返机票</p>
+    <h2 class="section-title" data-i18n="section_calc">💰 留学费用计算器</h2>
+    <p class="section-desc" data-i18n="section_calc_desc">精准估算留学总花费，对比不同学校的真实成本</p>
     <div class="calc-section">
-      <div class="calc-row">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
         <div class="calc-field">
-          <label data-i18n="calc_school">选择学校</label>
-          <select id="calcSchool" onchange="calcCost()"></select>
+          <label data-i18n="calc_school">🏫 选择学校</label>
+          <select id="calcSchool" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem"></select>
         </div>
         <div class="calc-field">
-          <label data-i18n="calc_years">就读年数</label>
-          <input type="number" id="calcYears" value="4" min="1" max="6" onchange="calcCost()" oninput="calcCost()">
+          <label data-i18n="calc_years">📅 就读年数</label>
+          <select id="calcYears" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem">
+            <option value="3">3年（英国/澳洲本科）</option>
+            <option value="4" selected>4年（美国/加拿大/香港本科）</option>
+            <option value="5">5年（含预科/荣誉年）</option>
+          </select>
+        </div>
+        <div class="calc-field">
+          <label>💱 显示货币</label>
+          <select id="calcCurrency" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem">
+            <option value="USD">USD 美元</option>
+            <option value="CNY">CNY 人民币</option>
+            <option value="SGD">SGD 新加坡元</option>
+            <option value="HKD">HKD 港币</option>
+            <option value="GBP">GBP 英镑</option>
+            <option value="AUD">AUD 澳元</option>
+            <option value="CAD">CAD 加元</option>
+          </select>
+        </div>
+        <div class="calc-field">
+          <label>🎓 奖学金/年 (USD)</label>
+          <input type="number" id="calcScholarship" value="0" min="0" max="100000" onchange="calcCost()" oninput="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem;box-sizing:border-box" placeholder="0">
         </div>
       </div>
-      <div id="calcResult"></div>
+      <!-- Compare school 2 -->
+      <div style="margin-top:1rem;padding-top:1rem;border-top:1px dashed var(--gray-300)">
+        <label style="font-size:.85rem;color:var(--gray-500)">⚖️ 对比第二所学校（可选）</label>
+        <select id="calcSchool2" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem;margin-top:.3rem">
+          <option value="">— 不对比 —</option>
+        </select>
+      </div>
+      <div id="calcResult" style="margin-top:1.5rem"></div>
     </div>
   </div>
 </section>
@@ -17974,37 +18001,108 @@ function runRecommend(){
 }
 
 // ===== CALCULATOR =====
-const CNY_RATE = 7.25;
+const FX_RATES = { USD:1, CNY:7.25, SGD:1.35, HKD:7.8, GBP:0.79, AUD:1.55, CAD:1.37 };
+const FX_SYMBOLS = { USD:'$', CNY:'¥', SGD:'S$', HKD:'HK$', GBP:'£', AUD:'A$', CAD:'C$' };
+
 function populateCalcSelect(){
-  const sel = document.getElementById('calcSchool');
-  sel.innerHTML = SCHOOLS.map(s=>`<option value="${s.id}">${s.flag} ${s.name[lang]}</option>`).join('');
+  const sorted = [...SCHOOLS].sort((a,b) => a.name[lang].localeCompare(b.name[lang]));
+  const opts = sorted.map(s=>`<option value="${s.id}">${s.flag} ${s.name[lang]} — $${s.tuition.toLocaleString()}/yr</option>`).join('');
+  document.getElementById('calcSchool').innerHTML = opts;
+  document.getElementById('calcSchool2').innerHTML = '<option value="">— ' + (lang==='zh'?'不对比':'No comparison') + ' —</option>' + opts;
 }
+
+function calcSchoolCost(s, years, scholarship) {
+  const tuitionTotal = Math.max(0, s.tuition - scholarship) * years;
+  const livingTotal = (s.livingCostAnnual || 15000) * years;
+  const insuranceTotal = (s.insurance || 1000) * years;
+  const flightsTotal = (s.flights || 1500) * years;
+  const total = tuitionTotal + livingTotal + insuranceTotal + flightsTotal;
+  return { tuitionTotal, livingTotal, insuranceTotal, flightsTotal, total };
+}
+
+function fmtMoney(usd, cur) {
+  const val = Math.round(usd * FX_RATES[cur]);
+  return FX_SYMBOLS[cur] + val.toLocaleString();
+}
+
+function renderCostCard(s, costs, cur, label) {
+  const {tuitionTotal, livingTotal, insuranceTotal, flightsTotal, total} = costs;
+  const perYear = Math.round(total / parseInt(document.getElementById('calcYears').value));
+  const perMonth = Math.round(perYear / 12);
+  return `
+  <div style="flex:1;min-width:280px">
+    ${label ? `<div style="font-size:.75rem;color:var(--gray-400);margin-bottom:.3rem">${label}</div>` : ''}
+    <div style="font-size:.85rem;font-weight:600;color:var(--navy);margin-bottom:.5rem">${s.flag} ${s.name[lang]}</div>
+    <div style="font-size:2rem;font-weight:800;color:var(--navy)">${fmtMoney(total, cur)}</div>
+    <div style="font-size:.85rem;color:var(--gray-500);margin-top:.2rem">${lang==='zh'?'每年':'Per year'}: ${fmtMoney(perYear, cur)} · ${lang==='zh'?'每月':'Monthly'}: ${fmtMoney(perMonth, cur)}</div>
+    <div style="margin-top:1rem;display:grid;gap:.5rem">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <span style="font-size:.82rem;color:var(--gray-500)">📚 ${lang==='zh'?'学费':'Tuition'}</span>
+        <span style="font-weight:600">${fmtMoney(tuitionTotal, cur)}</span>
+      </div>
+      <div style="background:var(--gray-100);border-radius:4px;height:8px;overflow:hidden">
+        <div style="background:#3b82f6;height:100%;width:${Math.round(tuitionTotal/total*100)}%;border-radius:4px"></div>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <span style="font-size:.82rem;color:var(--gray-500)">🏠 ${lang==='zh'?'生活费':'Living'}</span>
+        <span style="font-weight:600">${fmtMoney(livingTotal, cur)}</span>
+      </div>
+      <div style="background:var(--gray-100);border-radius:4px;height:8px;overflow:hidden">
+        <div style="background:#10b981;height:100%;width:${Math.round(livingTotal/total*100)}%;border-radius:4px"></div>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <span style="font-size:.82rem;color:var(--gray-500)">🏥 ${lang==='zh'?'保险':'Insurance'}</span>
+        <span style="font-weight:600">${fmtMoney(insuranceTotal, cur)}</span>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <span style="font-size:.82rem;color:var(--gray-500)">✈️ ${lang==='zh'?'往返机票':'Flights'}</span>
+        <span style="font-weight:600">${fmtMoney(flightsTotal, cur)}</span>
+      </div>
+    </div>
+  </div>`;
+}
+
 function calcCost(){
   const id = document.getElementById('calcSchool').value;
+  const id2 = document.getElementById('calcSchool2').value;
   const years = parseInt(document.getElementById('calcYears').value)||4;
+  const cur = document.getElementById('calcCurrency').value;
+  const scholarship = parseInt(document.getElementById('calcScholarship').value)||0;
   const s = SCHOOLS.find(x=>x.id===id);
   if(!s) return;
-  const tuitionTotal = s.tuition * years;
-  const livingTotal = s.livingCostAnnual * years;
-  const insuranceTotal = s.insurance * years;
-  const flightsTotal = s.flights * years;
-  const total = tuitionTotal + livingTotal + insuranceTotal + flightsTotal;
-  const totalCNY = Math.round(total * CNY_RATE);
+  
+  const costs = calcSchoolCost(s, years, scholarship);
   const div = document.getElementById('calcResult');
-  div.innerHTML = `
-    <div class="calc-result">
-      <div>${t('calc_total_usd')}</div>
-      <div class="total">$${total.toLocaleString()}</div>
-      <div style="font-size:1.1rem;color:var(--gold-light)">${t('calc_total_cny')}：¥${totalCNY.toLocaleString()}</div>
-      <div class="breakdown">
-        <div class="item"><span class="label">${t('calc_tuition_total')}</span><span class="val">$${tuitionTotal.toLocaleString()}</span></div>
-        <div class="item"><span class="label">${t('calc_living_total')}</span><span class="val">$${livingTotal.toLocaleString()}</span></div>
-        <div class="item"><span class="label">${t('calc_insurance_total')}</span><span class="val">$${insuranceTotal.toLocaleString()}</span></div>
-        <div class="item"><span class="label">${t('calc_flights_total')}</span><span class="val">$${flightsTotal.toLocaleString()}</span></div>
-      </div>
-      <p style="margin-top:1rem;font-size:.78rem;color:var(--gray-400)">${t('calc_note')}</p>
-    </div>
-  `;
+  
+  let html = '<div style="display:flex;gap:1.5rem;flex-wrap:wrap">';
+  
+  if(id2) {
+    const s2 = SCHOOLS.find(x=>x.id===id2);
+    if(s2) {
+      const costs2 = calcSchoolCost(s2, years, scholarship);
+      html += renderCostCard(s, costs, cur, lang==='zh'?'学校 A':'School A');
+      html += renderCostCard(s2, costs2, cur, lang==='zh'?'学校 B':'School B');
+      
+      const diff = costs.total - costs2.total;
+      const diffAbs = Math.abs(diff);
+      html += `</div><div style="margin-top:1rem;padding:1rem;background:${diff>0?'#fef2f2':'#f0fdf4'};border-radius:10px;text-align:center">
+        <span style="font-size:.9rem">${diff > 0 
+          ? (lang==='zh'?`${s.name[lang]} 比 ${s2.name[lang]} 贵 <strong>${fmtMoney(diffAbs,cur)}</strong>`:`${s.name[lang]} costs <strong>${fmtMoney(diffAbs,cur)}</strong> more than ${s2.name[lang]}`)
+          : diff < 0 
+            ? (lang==='zh'?`${s.name[lang]} 比 ${s2.name[lang]} 便宜 <strong>${fmtMoney(diffAbs,cur)}</strong>`:`${s.name[lang]} costs <strong>${fmtMoney(diffAbs,cur)}</strong> less than ${s2.name[lang]}`)
+            : (lang==='zh'?'两所学校费用相同':'Both schools cost the same')
+        }</span>
+      </div>`;
+    } else {
+      html += renderCostCard(s, costs, cur, '') + '</div>';
+    }
+  } else {
+    html += renderCostCard(s, costs, cur, '') + '</div>';
+  }
+  
+  html += `<p style="margin-top:1rem;font-size:.75rem;color:var(--gray-400)">${lang==='zh'?'⚠️ 以上为估算数据，实际费用以学校官方公布为准。汇率可能波动。':'⚠️ Estimates only. Actual costs per official sources. Exchange rates may vary.'}</p>`;
+  
+  div.innerHTML = html;
 }
 
 // ===== INIT =====
