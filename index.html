@@ -42127,9 +42127,12 @@ function runRecommend(){
 
   // "More matches" button + hidden section
   if(remaining.length) {
-    html += `<div style="text-align:center;margin:1rem 0">
-      <button onclick="document.getElementById('recMore').style.display='block';this.style.display='none'" style="background:var(--navy);color:#fff;border:none;padding:.7rem 2rem;border-radius:8px;font-size:.9rem;cursor:pointer;transition:all .2s">
+    html += `<div id="recMoreWrap" style="text-align:center;margin:1rem 0">
+      <button id="recMoreBtn" onclick="document.getElementById('recMore').style.display='block';document.getElementById('recCollapseBtn').style.display='inline-block';this.style.display='none'" style="background:var(--navy);color:#fff;border:none;padding:.7rem 2rem;border-radius:8px;font-size:.9rem;cursor:pointer;transition:all .2s">
         📋 ${lang==='zh'?'查看更多匹配学校':'Show more matches'} (${remaining.length})
+      </button>
+      <button id="recCollapseBtn" onclick="document.getElementById('recMore').style.display='none';document.getElementById('recMoreBtn').style.display='inline-block';this.style.display='none'" style="display:none;background:#e2e8f0;color:#475569;border:none;padding:.7rem 2rem;border-radius:8px;font-size:.9rem;cursor:pointer;transition:all .2s;margin-top:.5rem">
+        ↑ ${lang==='zh'?'收起':'Collapse'}
       </button>
     </div>
     <div id="recMore" style="display:none">
