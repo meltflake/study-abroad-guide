@@ -41507,9 +41507,9 @@ const I18N = {
   high_safety:{zh:'🛡️ 高安全评分',en:'🛡️ High safety'},
   no_match_msg:{zh:'😔 没有找到匹配的学校，试试调整条件？',en:'😔 No matching schools found. Try adjusting your criteria?'},
   found_matches:{zh:'找到 {n} 所匹配学校，为你推荐 Top {t}',en:'Found {n} matches, showing Top {t}',ja:'{n}校ヒット、Top {t}を表示',ko:'{n}개 일치, 상위 {t}개 추천',fr:'{n} écoles trouvées, Top {t}',es:'{n} escuelas encontradas, Top {t}',th:'พบ {n} แห่ง แนะนำ {t} อันดับแรก',vi:'Tìm thấy {n}, gợi ý Top {t}',hi:'{n} मिले, शीर्ष {t} दिखा रहे'},
-  highly_rec:{zh:'⭐ 强烈推荐',en:'⭐ Highly Recommended'},
-  recommended:{zh:'👍 推荐',en:'👍 Recommended'},
-  suitable:{zh:'✅ 适合',en:'✅ Suitable'},
+  highly_rec:{zh:'🚀 冲刺校',en:'🚀 Reach'},
+  recommended:{zh:'🎯 推荐校',en:'🎯 Match'},
+  suitable:{zh:'✅ 适合校',en:'✅ Safety'},
   advice_title:{zh:'📋 选校建议',en:'📋 Advice'},
   advice_text:{zh:'以你IB {ib}分的预估，建议申请策略：<br>• <strong style="color:#f59e0b">冲刺校 1-2所</strong>（IB要求接近或略高于你的分数）<br>• <strong style="color:#3b82f6">匹配校 3-4所</strong>（IB要求低于你2-5分）<br>• <strong style="color:#34d399">保底校 2-3所</strong>（IB要求明显低于你的分数）',en:'With your estimated IB {ib}, suggested strategy:<br>• <strong style="color:#f59e0b">1-2 Reach schools</strong> (IB req near or above your score)<br>• <strong style="color:#3b82f6">3-4 Match schools</strong> (IB req 2-5 below yours)<br>• <strong style="color:#34d399">2-3 Safety schools</strong> (IB req well below yours)',ja:'IB予測{ib}点の場合の戦略：<br>• <strong style="color:#f59e0b">挑戦校 1-2校</strong>（IB要件があなたの点数付近）<br>• <strong style="color:#3b82f6">適正校 3-4校</strong>（IB要件が2-5点低い）<br>• <strong style="color:#34d399">安全校 2-3校</strong>（IB要件が十分低い）',ko:'IB 예상 {ib}점 기준 전략:<br>• <strong style="color:#f59e0b">도전교 1-2곳</strong> (IB 요건이 본인 점수 근처)<br>• <strong style="color:#3b82f6">적정교 3-4곳</strong> (IB 요건이 2-5점 낮음)<br>• <strong style="color:#34d399">안전교 2-3곳</strong> (IB 요건이 충분히 낮음)',fr:'Avec votre IB estimé de {ib}:<br>• <strong style="color:#f59e0b">1-2 écoles ambitieuses</strong><br>• <strong style="color:#3b82f6">3-4 écoles cibles</strong><br>• <strong style="color:#34d399">2-3 écoles de sécurité</strong>',es:'Con tu IB estimado de {ib}:<br>• <strong style="color:#f59e0b">1-2 escuelas ambiciosas</strong><br>• <strong style="color:#3b82f6">3-4 escuelas objetivo</strong><br>• <strong style="color:#34d399">2-3 escuelas seguras</strong>',th:'คะแนน IB ประมาณ {ib} แนะนำ:<br>• <strong style="color:#f59e0b">มหาวิทยาลัยท้าทาย 1-2 แห่ง</strong><br>• <strong style="color:#3b82f6">มหาวิทยาลัยเหมาะสม 3-4 แห่ง</strong><br>• <strong style="color:#34d399">มหาวิทยาลัยปลอดภัย 2-3 แห่ง</strong>',vi:'Với IB dự kiến {ib}:<br>• <strong style="color:#f59e0b">1-2 trường thử thách</strong><br>• <strong style="color:#3b82f6">3-4 trường phù hợp</strong><br>• <strong style="color:#34d399">2-3 trường an toàn</strong>',hi:'IB अनुमानित {ib} के साथ:<br>• <strong style="color:#f59e0b">1-2 चुनौतीपूर्ण स्कूल</strong><br>• <strong style="color:#3b82f6">3-4 मिलान स्कूल</strong><br>• <strong style="color:#34d399">2-3 सुरक्षित स्कूल</strong>'},
   section_timeline:{zh:'📅 申请时间线',en:'📅 Application Timeline'},
@@ -42079,7 +42079,7 @@ function runRecommend(){
   scored.sort((a,b) => b.score - a.score);
 
   // Show top results
-  const results = scored.slice(0, 9);
+  const results = scored.slice(0, 15);
   const container = document.getElementById('recResults');
 
   if(!results.length) {
@@ -42098,8 +42098,8 @@ function runRecommend(){
   results.forEach((r, i) => {
     const s = r.school;
     const ibMin = getIBMinScore(s);
-    const tierColor = i < 3 ? '#f59e0b' : (i < 6 ? '#3b82f6' : '#6b7280');
-    const tierLabel = i < 3 ? (t('highly_rec')) : (i < 6 ? (t('recommended')) : (t('suitable')));
+    const tierColor = i < 5 ? '#f59e0b' : (i < 10 ? '#3b82f6' : '#6b7280');
+    const tierLabel = i < 5 ? (t('highly_rec')) : (i < 10 ? (t('recommended')) : (t('suitable')));
     html += `
     <div style="background:#fff;border:1px solid #e2e8f0;border-radius:12px;overflow:hidden;cursor:pointer;transition:all .2s;border-top:3px solid ${tierColor};box-shadow:0 1px 4px rgba(0,0,0,.05)" onclick="openDetail('${s.id}')">
       <div style="padding:1rem 1.2rem">
