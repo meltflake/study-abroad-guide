@@ -322,7 +322,17 @@ img{max-width:100%}
     <a href="#schools" data-i18n="nav_schools">院校浏览</a>
     <a href="#recommend" data-i18n="nav_recommend">智能选校</a>
     <a href="#calculator" data-i18n="nav_calc">费用计算</a>
-    <button class="lang-toggle" onclick="toggleLang()">EN / 中</button>
+    <select class="lang-toggle" id="langSelect" onchange="switchLang(this.value)" style="border:none;padding:.45rem .8rem;border-radius:20px;font-size:.85rem;font-weight:600;background:var(--gold);color:var(--navy);cursor:pointer">
+      <option value="zh">中文</option>
+      <option value="en">English</option>
+      <option value="ja">日本語</option>
+      <option value="ko">한국어</option>
+      <option value="fr">Français</option>
+      <option value="es">Español</option>
+      <option value="th">ภาษาไทย</option>
+      <option value="vi">Tiếng Việt</option>
+      <option value="hi">हिन्दी</option>
+    </select>
   </div>
 </nav>
 
@@ -21752,33 +21762,33 @@ const SCHOOLS = [
 // ===== I18N =====
 let lang = 'zh';
 const I18N = {
-  nav_schools:{zh:'院校浏览',en:'Schools'},
-  nav_calc:{zh:'费用计算',en:'Cost Calculator'},
-  hero_title:{zh:'留学择校通',en:'StudyAbroad Guide'},
-  hero_subtitle:{zh:'帮助家长做出明智的留学决策 — 择校、费用、安全，一站掌握',en:'Empowering parents to make informed study-abroad decisions — schools, costs & safety, all in one place'},
-  hero_s1:{zh:'精选院校',en:'Top Schools'},
-  hero_s2:{zh:'热门国家',en:'Countries'},
-  hero_s3:{zh:'可能性',en:'Possibilities'},
-  hero_scroll:{zh:'向下滚动探索',en:'Scroll down to explore'},
-  section_schools:{zh:'院校一览',en:'School Directory'},
-  section_schools_desc:{zh:'点击卡片查看详情，勾选后可对比不同学校（最多3所）',en:'Click cards for details. Select up to 3 schools to compare side by side.'},
-  search_placeholder:{zh:'搜索学校、专业、城市...',en:'Search schools, majors, cities...'},
-  filter_all:{zh:'全部',en:'All'},
-  filter_us:{zh:'美国',en:'USA'},
-  filter_uk:{zh:'英国',en:'UK'},
-  filter_ca:{zh:'加拿大',en:'Canada'},
+  nav_schools:{zh:'院校浏览',en:'Schools',ja:'学校一覧',ko:'학교 탐색',fr:'Écoles',es:'Escuelas',th:'สำรวจมหาวิทยาลัย',vi:'Trường học',hi:'स्कूल'},
+  nav_calc:{zh:'费用计算',en:'Cost Calculator',ja:'費用計算',ko:'비용 계산',fr:'Calculateur',es:'Calculadora',th:'คำนวณค่าใช้จ่าย',vi:'Tính chi phí',hi:'लागत गणना'},
+  hero_title:{zh:'留学择校通',en:'StudyAbroad Guide',ja:'留学ガイド',ko:'유학 가이드',fr:'Guide d\'Études',es:'Guía de Estudios',th:'คู่มือเรียนต่อ',vi:'Hướng dẫn du học',hi:'विदेश अध्ययन गाइड'},
+  hero_subtitle:{zh:'帮助家长做出明智的留学决策 — 择校、费用、安全，一站掌握',en:'Empowering parents to make informed study-abroad decisions — schools, costs & safety, all in one place',ja:'保護者の留学決断をサポート — 学校、費用、安全を一括管理',ko:'학부모의 현명한 유학 결정을 돕습니다 — 학교, 비용, 안전 한눈에',fr:'Aider les parents à prendre des décisions éclairées — écoles, coûts et sécurité',es:'Ayudando a los padres a tomar decisiones informadas — escuelas, costos y seguridad',th:'ช่วยผู้ปกครองตัดสินใจเรื่องเรียนต่อ — โรงเรียน ค่าใช้จ่าย ความปลอดภัย',vi:'Giúp phụ huynh đưa ra quyết định du học sáng suốt — trường, chi phí, an toàn',hi:'माता-पिता को सूचित विदेश अध्ययन निर्णय लेने में सहायता'},
+  hero_s1:{zh:'精选院校',en:'Top Schools',ja:'厳選校',ko:'엄선 학교',fr:'Écoles sélectionnées',es:'Escuelas selectas',th:'มหาวิทยาลัยชั้นนำ',vi:'Trường hàng đầu',hi:'शीर्ष स्कूल'},
+  hero_s2:{zh:'热门国家',en:'Countries',ja:'対象国',ko:'국가',fr:'Pays',es:'Países',th:'ประเทศ',vi:'Quốc gia',hi:'देश'},
+  hero_s3:{zh:'可能性',en:'Possibilities',ja:'可能性',ko:'가능성',fr:'Possibilités',es:'Posibilidades',th:'โอกาส',vi:'Cơ hội',hi:'संभावनाएं'},
+  hero_scroll:{zh:'向下滚动探索',en:'Scroll down to explore',ja:'スクロールして探索',ko:'아래로 스크롤',fr:'Défiler pour explorer',es:'Desplaza para explorar',th:'เลื่อนลงเพื่อสำรวจ',vi:'Cuộn xuống để khám phá',hi:'नीचे स्क्रॉल करें'},
+  section_schools:{zh:'院校一览',en:'School Directory',ja:'学校一覧',ko:'학교 디렉토리',fr:'Répertoire des écoles',es:'Directorio de escuelas',th:'รายชื่อมหาวิทยาลัย',vi:'Danh mục trường',hi:'स्कूल सूची'},
+  section_schools_desc:{zh:'点击卡片查看详情，勾选后可对比不同学校（最多3所）',en:'Click cards for details. Select up to 3 schools to compare side by side.',ja:'カードをクリックして詳細表示。最大3校まで比較可能',ko:'카드를 클릭하면 상세정보 표시. 최대 3개교 비교 가능',fr:'Cliquez sur une carte pour les détails. Comparez jusqu\'à 3 écoles.',es:'Haz clic en las tarjetas para detalles. Compara hasta 3 escuelas.',th:'คลิกการ์ดเพื่อดูรายละเอียด เปรียบเทียบได้สูงสุด 3 แห่ง',vi:'Nhấp thẻ để xem chi tiết. So sánh tối đa 3 trường.',hi:'विवरण के लिए कार्ड क्लिक करें। 3 स्कूलों तक की तुलना करें।'},
+  search_placeholder:{zh:'搜索学校、专业、城市...',en:'Search schools, majors, cities...',ja:'学校、専攻、都市を検索...',ko:'학교, 전공, 도시 검색...',fr:'Rechercher écoles, filières, villes...',es:'Buscar escuelas, carreras, ciudades...',th:'ค้นหามหาวิทยาลัย สาขา เมือง...',vi:'Tìm trường, ngành, thành phố...',hi:'स्कूल, विषय, शहर खोजें...'},
+  filter_all:{zh:'全部',en:'All',ja:'すべて',ko:'전체',fr:'Tous',es:'Todos',th:'ทั้งหมด',vi:'Tất cả',hi:'सभी'},
+  filter_us:{zh:'美国',en:'USA',ja:'アメリカ',ko:'미국',fr:'États-Unis',es:'EE.UU.',th:'สหรัฐฯ',vi:'Mỹ',hi:'अमेरिका'},
+  filter_uk:{zh:'英国',en:'UK',ja:'イギリス',ko:'영국',fr:'Royaume-Uni',es:'Reino Unido',th:'อังกฤษ',vi:'Anh',hi:'ब्रिटेन'},
+  filter_ca:{zh:'加拿大',en:'Canada',ja:'カナダ',ko:'캐나다',fr:'Canada',es:'Canadá',th:'แคนาดา',vi:'Canada',hi:'कनाडा'},
   filter_cn:{zh:'中国',en:'China'},
-  filter_au:{zh:'澳大利亚',en:'Australia'},
-  filter_sg:{zh:'新加坡',en:'Singapore'},
-  filter_hk:{zh:'香港',en:'Hong Kong'},
-  filter_nz:{zh:'新西兰',en:'New Zealand'},
-  filter_ie:{zh:'爱尔兰',en:'Ireland'},
+  filter_au:{zh:'澳大利亚',en:'Australia',ja:'オーストラリア',ko:'호주',fr:'Australie',es:'Australia',th:'ออสเตรเลีย',vi:'Úc',hi:'ऑस्ट्रेलिया'},
+  filter_sg:{zh:'新加坡',en:'Singapore',ja:'シンガポール',ko:'싱가포르',fr:'Singapour',es:'Singapur',th:'สิงคโปร์',vi:'Singapore',hi:'सिंगापुर'},
+  filter_hk:{zh:'香港',en:'Hong Kong',ja:'香港',ko:'홍콩',fr:'Hong Kong',es:'Hong Kong',th:'ฮ่องกง',vi:'Hồng Kông',hi:'हांगकांग'},
+  filter_nz:{zh:'新西兰',en:'New Zealand',ja:'ニュージーランド',ko:'뉴질랜드',fr:'Nouvelle-Zélande',es:'Nueva Zelanda',th:'นิวซีแลนด์',vi:'New Zealand',hi:'न्यूज़ीलैंड'},
+  filter_ie:{zh:'爱尔兰',en:'Ireland',ja:'アイルランド',ko:'아일랜드',fr:'Irlande',es:'Irlanda',th:'ไอร์แลนด์',vi:'Ireland',hi:'आयरलैंड'},
   filter_de:{zh:'德国',en:'Germany'},
-  filter_ch:{zh:'瑞士',en:'Switzerland'},
-  ib_label:{zh:'IB分数：',en:'IB Score:'},
-  ib_all:{zh:'不限',en:'All'},
+  filter_ch:{zh:'瑞士',en:'Switzerland',ja:'スイス',ko:'스위스',fr:'Suisse',es:'Suiza',th:'สวิตเซอร์แลนด์',vi:'Thụy Sĩ',hi:'स्विट्ज़रलैंड'},
+  ib_label:{zh:'IB分数：',en:'IB Score:',ja:'IBスコア：',ko:'IB 점수:',fr:'Score IB :',es:'Puntuación IB:',th:'คะแนน IB:',vi:'Điểm IB:',hi:'IB स्कोर:'},
+  ib_all:{zh:'不限',en:'All',ja:'制限なし',ko:'전체',fr:'Tous',es:'Todos',th:'ไม่จำกัด',vi:'Tất cả',hi:'सभी'},
   sort_rank:{zh:'按 QS 排名',en:'By QS Ranking'},
-  rank_label:{zh:'排名体系：',en:'Ranking:'},
+  rank_label:{zh:'排名体系：',en:'Ranking:',ja:'ランキング：',ko:'랭킹:',fr:'Classement :',es:'Ranking:',th:'การจัดอันดับ:',vi:'Xếp hạng:',hi:'रैंकिंग:'},
   sort_rank_the:{zh:'按 THE 排名',en:'THE Ranking'},
   sort_rank_usnews:{zh:'按 US News 排名',en:'US News Ranking'},
   sort_rank_arwu:{zh:'按 ARWU 排名',en:'ARWU Ranking'},
@@ -21786,36 +21796,36 @@ const I18N = {
   sort_tuition_desc:{zh:'按学费 ↓',en:'Tuition ↓'},
   sort_ib_desc:{zh:'按IB要求 ↓',en:'IB Req ↓'},
   sort_ib_asc:{zh:'按IB要求 ↑',en:'IB Req ↑'},
-  nav_recommend:{zh:'智能选校',en:'Smart Match'},
-  section_recommend:{zh:'🎯 智能选校推荐',en:'🎯 Smart School Matcher'},
-  section_recommend_desc:{zh:'输入你的条件，AI帮你匹配最适合的学校',en:'Enter your profile and get personalized school recommendations'},
-  rec_ib:{zh:'📊 你的IB预估分 (24-45)',en:'📊 Your IB Score (24-45)'},
-  rec_budget:{zh:'💰 年度预算 (USD)',en:'💰 Annual Budget (USD)'},
-  rec_budget_any:{zh:'不限预算',en:'Any Budget'},
-  rec_countries:{zh:'🌍 意向国家/地区（可多选）',en:'🌍 Preferred Countries (multi-select)'},
-  rec_major:{zh:'🎓 感兴趣的专业方向',en:'🎓 Interested Major/Field'},
-  rec_priority:{zh:'⭐ 最看重什么？',en:'⭐ What matters most?'},
-  section_calc:{zh:'留学费用计算器',en:'Study Abroad Cost Calculator'},
-  section_calc_desc:{zh:'估算留学总花费，包含学费、生活费、保险及往返机票',en:'Estimate total costs including tuition, living expenses, insurance & flights'},
-  calc_school:{zh:'选择学校',en:'Select School'},
-  calc_years:{zh:'就读年数',en:'Years of Study'},
+  nav_recommend:{zh:'智能选校',en:'Smart Match',ja:'AI選校',ko:'AI 추천',fr:'Recommandation',es:'Recomendación',th:'แนะนำ AI',vi:'Gợi ý AI',hi:'AI सुझाव'},
+  section_recommend:{zh:'🎯 智能选校推荐',en:'🎯 Smart School Matcher',ja:'🎯 AI学校マッチング',ko:'🎯 AI 학교 매칭',fr:'🎯 Recommandation intelligente',es:'🎯 Recomendación inteligente',th:'🎯 จับคู่มหาวิทยาลัย AI',vi:'🎯 Gợi ý trường thông minh',hi:'🎯 AI स्कूल मैचिंग'},
+  section_recommend_desc:{zh:'输入你的条件，AI帮你匹配最适合的学校',en:'Enter your profile and get personalized school recommendations',ja:'条件を入力して最適な学校を見つけましょう',ko:'조건을 입력하면 최적의 학교를 추천합니다',fr:'Entrez vos critères pour des recommandations personnalisées',es:'Ingresa tus criterios para recomendaciones personalizadas',th:'กรอกเงื่อนไขเพื่อค้นหามหาวิทยาลัยที่เหมาะกับคุณ',vi:'Nhập điều kiện để tìm trường phù hợp',hi:'अपनी शर्तें दर्ज करें और सर्वोत्तम स्कूल खोजें'},
+  rec_ib:{zh:'📊 你的IB预估分 (24-45)',en:'📊 Your IB Score (24-45)',ja:'📊 IBスコア (24-45)',ko:'📊 IB 점수 (24-45)',fr:'📊 Score IB (24-45)',es:'📊 Puntuación IB (24-45)',th:'📊 คะแนน IB (24-45)',vi:'📊 Điểm IB (24-45)',hi:'📊 IB स्कोर (24-45)'},
+  rec_budget:{zh:'💰 年度预算 (USD)',en:'💰 Annual Budget (USD)',ja:'💰 年間予算 (USD)',ko:'💰 연간 예산 (USD)',fr:'💰 Budget annuel (USD)',es:'💰 Presupuesto anual (USD)',th:'💰 งบประมาณต่อปี (USD)',vi:'💰 Ngân sách/năm (USD)',hi:'💰 वार्षिक बजट (USD)'},
+  rec_budget_any:{zh:'不限预算',en:'Any Budget',ja:'予算制限なし',ko:'예산 제한 없음',fr:'Sans limite',es:'Sin límite',th:'ไม่จำกัดงบ',vi:'Không giới hạn',hi:'कोई सीमा नहीं'},
+  rec_countries:{zh:'🌍 意向国家/地区（可多选）',en:'🌍 Preferred Countries (multi-select)',ja:'🌍 希望国（複数選択可）',ko:'🌍 희망 국가 (복수 선택)',fr:'🌍 Pays souhaités (multi-sélection)',es:'🌍 Países preferidos (multi-selección)',th:'🌍 ประเทศที่สนใจ (เลือกได้หลายแห่ง)',vi:'🌍 Quốc gia mong muốn (chọn nhiều)',hi:'🌍 पसंदीदा देश (बहु-चयन)'},
+  rec_major:{zh:'🎓 感兴趣的专业方向',en:'🎓 Interested Major/Field',ja:'🎓 興味のある専攻分野',ko:'🎓 관심 전공 분야',fr:'🎓 Domaine d\'intérêt',es:'🎓 Área de interés',th:'🎓 สาขาที่สนใจ',vi:'🎓 Ngành quan tâm',hi:'🎓 रुचि का क्षेत्र'},
+  rec_priority:{zh:'⭐ 最看重什么？',en:'⭐ What matters most?',ja:'⭐ 最も重視すること',ko:'⭐ 가장 중요한 것',fr:'⭐ Ce qui compte le plus',es:'⭐ Lo más importante',th:'⭐ สิ่งที่ให้ความสำคัญ',vi:'⭐ Điều quan trọng nhất',hi:'⭐ सबसे महत्वपूर्ण'},
+  section_calc:{zh:'留学费用计算器',en:'Study Abroad Cost Calculator',ja:'留学費用計算機',ko:'유학 비용 계산기',fr:'Calculateur de coûts',es:'Calculadora de costos',th:'เครื่องคำนวณค่าใช้จ่าย',vi:'Máy tính chi phí du học',hi:'अध्ययन लागत कैलकुलेटर'},
+  section_calc_desc:{zh:'估算留学总花费，包含学费、生活费、保险及往返机票',en:'Estimate total costs including tuition, living expenses, insurance & flights',ja:'学費、生活費、保険、航空券を含む留学費用を試算',ko:'학비, 생활비, 보험, 항공편 포함 유학비용 추정',fr:'Estimez les coûts : frais de scolarité, vie, assurance et vols',es:'Estima costos: matrícula, vida, seguro y vuelos',th:'ประมาณการค่าใช้จ่ายรวม: ค่าเทอม ค่าครองชีพ ประกัน และตั๋วเครื่องบิน',vi:'Ước tính chi phí: học phí, sinh hoạt, bảo hiểm và vé máy bay',hi:'शुल्क, रहन-सहन, बीमा और उड़ानों सहित लागत का अनुमान'},
+  calc_school:{zh:'选择学校',en:'Select School',ja:'学校を選択',ko:'학교 선택',fr:'Choisir une école',es:'Elegir escuela',th:'เลือกมหาวิทยาลัย',vi:'Chọn trường',hi:'स्कूल चुनें'},
+  calc_years:{zh:'就读年数',en:'Years of Study',ja:'在学年数',ko:'재학 연수',fr:'Années d\'études',es:'Años de estudio',th:'จำนวนปี',vi:'Số năm học',hi:'अध्ययन वर्ष'},
   compare_selected:{zh:'已选择对比：',en:'Selected for comparison:'},
   compare_btn:{zh:'开始对比',en:'Compare Now'},
-  footer:{zh:'© 2025 留学择校通 — 本站为演示平台，数据仅供参考',en:'© 2025 StudyAbroad Guide — Demo platform, data for reference only'},
+  footer:{zh:'© 2025 留学择校通 — 本站为演示平台，数据仅供参考',en:'© 2025 StudyAbroad Guide — Demo platform, data for reference only',ja:'© 2025 留学ガイド — デモサイト、データは参考用',ko:'© 2025 유학 가이드 — 데모 사이트, 참고용 데이터',fr:'© 2025 Guide d\'Études — Site démo, données à titre indicatif',es:'© 2025 Guía de Estudios — Plataforma demo, datos de referencia',th:'© 2025 คู่มือเรียนต่อ — เว็บทดลอง ข้อมูลเพื่อการอ้างอิง',vi:'© 2025 Hướng dẫn du học — Trang demo, dữ liệu tham khảo',hi:'© 2025 विदेश अध्ययन गाइड — डेमो, केवल संदर्भ डेटा'},
   click_detail:{zh:'点击查看详情',en:'Click for details'},
   qs_rank:{zh:'QS #',en:'QS #'},
   tuition_label:{zh:'学费/年',en:'Tuition/yr'},
   safety_label:{zh:'安全评分',en:'Safety Score'},
   top_majors:{zh:'热门专业',en:'Top Majors'},
-  detail_overview:{zh:'学校简介',en:'Overview'},
-  detail_tuition:{zh:'费用明细（USD/年）',en:'Cost Breakdown (USD/yr)'},
-  detail_requirements:{zh:'申请要求',en:'Admission Requirements'},
-  detail_deadline:{zh:'申请截止日',en:'Application Deadline'},
-  detail_safety:{zh:'安全详情',en:'Safety Details'},
-  detail_climate:{zh:'气候条件',en:'Climate'},
-  detail_living:{zh:'生活费参考',en:'Cost of Living'},
-  compare_title:{zh:'院校对比',en:'School Comparison'},
-  compare_name:{zh:'学校',en:'School'},
+  detail_overview:{zh:'学校简介',en:'Overview',ja:'学校概要',ko:'학교 소개',fr:'Aperçu',es:'Descripción',th:'ภาพรวม',vi:'Tổng quan',hi:'अवलोकन'},
+  detail_tuition:{zh:'费用明细（USD/年）',en:'Cost Breakdown (USD/yr)',ja:'費用内訳（USD/年）',ko:'비용 상세 (USD/년)',fr:'Détail des coûts (USD/an)',es:'Desglose de costos (USD/año)',th:'รายละเอียดค่าใช้จ่าย (USD/ปี)',vi:'Chi tiết chi phí (USD/năm)',hi:'लागत विवरण (USD/वर्ष)'},
+  detail_requirements:{zh:'申请要求',en:'Admission Requirements',ja:'出願要件',ko:'입학 요건',fr:'Conditions d\'admission',es:'Requisitos de admisión',th:'เงื่อนไขการรับสมัคร',vi:'Yêu cầu tuyển sinh',hi:'प्रवेश आवश्यकताएँ'},
+  detail_deadline:{zh:'申请截止日',en:'Application Deadline',ja:'出願締切',ko:'지원 마감',fr:'Date limite',es:'Fecha límite',th:'วันปิดรับสมัคร',vi:'Hạn nộp hồ sơ',hi:'आवेदन की अंतिम तिथि'},
+  detail_safety:{zh:'安全详情',en:'Safety Details',ja:'安全情報',ko:'안전 정보',fr:'Sécurité',es:'Seguridad',th:'ความปลอดภัย',vi:'An toàn',hi:'सुरक्षा'},
+  detail_climate:{zh:'气候条件',en:'Climate',ja:'気候',ko:'기후',fr:'Climat',es:'Clima',th:'สภาพอากาศ',vi:'Khí hậu',hi:'जलवायु'},
+  detail_living:{zh:'生活费参考',en:'Cost of Living',ja:'生活費目安',ko:'생활비 참고',fr:'Coût de la vie',es:'Costo de vida',th:'ค่าครองชีพ',vi:'Chi phí sinh hoạt',hi:'रहन-सहन लागत'},
+  compare_title:{zh:'院校对比',en:'School Comparison',ja:'学校比較',ko:'학교 비교',fr:'Comparaison',es:'Comparación',th:'เปรียบเทียบ',vi:'So sánh',hi:'तुलना'},
+  compare_name:{zh:'学校',en:'School',ja:'学校',ko:'학교',fr:'École',es:'Escuela',th:'มหาวิทยาลัย',vi:'Trường',hi:'स्कूल'},
   compare_country:{zh:'国家',en:'Country'},
   compare_qs:{zh:'QS 排名',en:'QS Ranking'},
   compare_the:{zh:'THE 排名',en:'THE Ranking'},
@@ -21830,7 +21840,7 @@ const I18N = {
   compare_ib:{zh:'IB 录取分参考',en:'IB Score Reference'},
   compare_accept:{zh:'录取率',en:'Acceptance Rate'},
   compare_deadline:{zh:'申请截止',en:'Deadline'},
-  compare_close:{zh:'关闭',en:'Close'},
+  compare_close:{zh:'关闭',en:'Close',ja:'閉じる',ko:'닫기',fr:'Fermer',es:'Cerrar',th:'ปิด',vi:'Đóng',hi:'बंद करें'},
   calc_total_usd:{zh:'预估总费用（USD）',en:'Estimated Total (USD)'},
   calc_total_cny:{zh:'预估总费用（CNY）',en:'Estimated Total (CNY)'},
   calc_tuition_total:{zh:'学费总计',en:'Total Tuition'},
@@ -21838,17 +21848,17 @@ const I18N = {
   calc_insurance_total:{zh:'保险总计',en:'Total Insurance'},
   calc_flights_total:{zh:'往返机票总计',en:'Total Flights'},
   calc_note:{zh:'* 汇率按 1 USD ≈ 7.25 CNY 估算，实际费用请以学校官方为准',en:'* Exchange rate: 1 USD ≈ 7.25 CNY. Actual costs may vary.'},
-  no_results:{zh:'没有找到匹配的学校',en:'No matching schools found'},
+  no_results:{zh:'没有找到匹配的学校',en:'No matching schools found',ja:'該当する学校がありません',ko:'해당하는 학교가 없습니다',fr:'Aucune école trouvée',es:'No se encontraron escuelas',th:'ไม่พบมหาวิทยาลัยที่ตรงกัน',vi:'Không tìm thấy trường phù hợp',hi:'कोई मिलान स्कूल नहीं मिला'},
   country_US:{zh:'美国',en:'United States'},
   country_UK:{zh:'英国',en:'United Kingdom'},
   country_CA:{zh:'加拿大',en:'Canada'},
   detail_visa:{zh:'签证与身份路径',en:'Visa & Immigration Pathway'},
-  detail_housing:{zh:'住宿信息',en:'Housing Information'},
-  detail_graduation:{zh:'毕业率与学业',en:'Graduation Rate & Academics'},
-  detail_employment:{zh:'就业与职业发展',en:'Employment & Career'},
-  detail_healthcare:{zh:'医疗保障',en:'Healthcare & Insurance'},
-  detail_application:{zh:'申请指南',en:'How to Apply'},
-  detail_major_tuition:{zh:'💰 各专业学费差异',en:'💰 Tuition by Major'},
+  detail_housing:{zh:'住宿信息',en:'Housing Information',ja:'住居情報',ko:'숙소 정보',fr:'Logement',es:'Alojamiento',th:'ที่พัก',vi:'Chỗ ở',hi:'आवास'},
+  detail_graduation:{zh:'毕业率与学业',en:'Graduation Rate & Academics',ja:'卒業率と学業',ko:'졸업률 및 학업',fr:'Taux de diplomation',es:'Tasa de graduación',th:'อัตราการสำเร็จการศึกษา',vi:'Tỷ lệ tốt nghiệp',hi:'स्नातक दर'},
+  detail_employment:{zh:'就业与职业发展',en:'Employment & Career',ja:'就職とキャリア',ko:'취업 및 진로',fr:'Emploi et carrière',es:'Empleo y carrera',th:'การจ้างงานและอาชีพ',vi:'Việc làm và nghề nghiệp',hi:'रोज़गार और करियर'},
+  detail_healthcare:{zh:'医疗保障',en:'Healthcare & Insurance',ja:'医療保障',ko:'의료 보장',fr:'Couverture santé',es:'Seguro médico',th:'ประกันสุขภาพ',vi:'Bảo hiểm y tế',hi:'स्वास्थ्य बीमा'},
+  detail_application:{zh:'申请指南',en:'How to Apply',ja:'出願ガイド',ko:'지원 안내',fr:'Guide de candidature',es:'Guía de solicitud',th:'คู่มือสมัครเรียน',vi:'Hướng dẫn nộp hồ sơ',hi:'आवेदन गाइड'},
+  detail_major_tuition:{zh:'💰 各专业学费差异',en:'💰 Tuition by Major',ja:'💰 専攻別学費',ko:'💰 전공별 학비',fr:'💰 Frais par filière',es:'💰 Matrícula por carrera',th:'💰 ค่าเทอมตามสาขา',vi:'💰 Học phí theo ngành',hi:'💰 विषय अनुसार शुल्क'},
   compare_visa:{zh:'签证路径',en:'Visa Pathway'},
   compare_housing_label:{zh:'住宿',en:'Housing'},
   compare_graduation:{zh:'毕业率',en:'Graduation Rate'},
@@ -21859,8 +21869,9 @@ const I18N = {
 
 function t(key){ return (I18N[key] && I18N[key][lang]) || key; }
 
-function toggleLang(){
-  lang = lang==='zh'?'en':'zh';
+function switchLang(newLang){
+  lang = newLang || 'zh';
+  document.getElementById('langSelect').value = lang;
   // Update all data-i18n elements
   document.querySelectorAll('[data-i18n]').forEach(el=>{
     const key = el.getAttribute('data-i18n');
@@ -22078,14 +22089,14 @@ function renderCards(){
       if(matchedMajors.length && !s.name.zh.toLowerCase().includes(searchQ) && !s.name.en.toLowerCase().includes(searchQ)){
         matchInfo = `<div style="margin-top:.5rem;padding:.4rem .6rem;background:#dbeafe;border-radius:6px;font-size:.78rem;color:#1d4ed8">🎯 ${lang==='zh'?'匹配专业':'Matched major'}: <strong>${matchedMajors[0]}</strong></div>`;
       } else if(matchedCity && !s.name.zh.toLowerCase().includes(searchQ) && !s.name.en.toLowerCase().includes(searchQ)){
-        matchInfo = `<div style="margin-top:.5rem;padding:.4rem .6rem;background:#fef3c7;border-radius:6px;font-size:.78rem;color:#92400e">📍 ${lang==='zh'?'匹配城市':'Matched city'}: <strong>${s.city[lang]}</strong></div>`;
+        matchInfo = `<div style="margin-top:.5rem;padding:.4rem .6rem;background:#fef3c7;border-radius:6px;font-size:.78rem;color:#92400e">📍 ${lang==='zh'?'匹配城市':'Matched city'}: <strong>${(s.city[lang]||s.city.en)}</strong></div>`;
       }
     }
     return `
     <div class="school-card ${sel?'selected':''}" onclick="openDetail('${s.id}')" data-id="${s.id}">
       <div class="card-header">
         <div>
-          <div class="school-name" style="display:flex;align-items:center;gap:.4rem">${s.name[lang]} <button onclick="toggleFav('${s.id}',event)" style="background:none;border:none;font-size:1rem;cursor:pointer;padding:0;line-height:1;filter:drop-shadow(0 1px 2px rgba(0,0,0,.3))" title="${lang==='zh'?'收藏':'Favorite'}">${favorites.includes(s.id)?'❤️':'🤍'}</button></div>
+          <div class="school-name" style="display:flex;align-items:center;gap:.4rem">${(s.name[lang]||s.name.en)} <button onclick="toggleFav('${s.id}',event)" style="background:none;border:none;font-size:1rem;cursor:pointer;padding:0;line-height:1;filter:drop-shadow(0 1px 2px rgba(0,0,0,.3))" title="${lang==='zh'?'收藏':'Favorite'}">${favorites.includes(s.id)?'❤️':'🤍'}</button></div>
           ${lang==='zh'?`<div class="school-name-en">${s.name.en}</div>`:''}
         </div>
         <div class="flag">${s.flag}</div>
@@ -22095,7 +22106,7 @@ function renderCards(){
           <span class="tag tag-rank" style="font-size:.95rem;font-weight:700;padding:.4rem .8rem">${getRankLabel(currentRankSystem)} #${getRankValue(s,currentRankSystem)}</span>
           ${['qs','the','usnews','arwu'].filter(r=>r!==currentRankSystem).map(r=>`<span class="tag" style="background:var(--gray-100);color:var(--gray-500);font-size:.7rem">${getRankLabel(r)} #${getRankValue(s,r)}</span>`).join('')}
           <span class="tag tag-tuition">${s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()}/yr</span>
-          <span class="tag tag-city">${s.city[lang]}</span>
+          <span class="tag tag-city">${(s.city[lang]||s.city.en)}</span>
           ${s.requirements&&s.requirements.IB ? `<span class="tag tag-ib">IB ${getIBMinScore(s)||'?'}+</span>` : ''}
           ${s.acceptanceRate ? `<span class="tag tag-accept">📊 ${s.acceptanceRate.overall}</span>` : ''}
         </div>
@@ -22144,7 +22155,7 @@ function updateCompareBar(){
     bar.classList.add('show');
     list.innerHTML = selectedIds.map(id=>{
       const s = SCHOOLS.find(x=>x.id===id);
-      return `<span class="compare-chip">${s.flag} ${s.name[lang]} <button onclick="toggleCompare('${id}',false)">×</button></span>`;
+      return `<span class="compare-chip">${s.flag} ${(s.name[lang]||s.name.en)} <button onclick="toggleCompare('${id}',false)">×</button></span>`;
     }).join('');
     btn.disabled = selectedIds.length<2;
   } else {
@@ -22164,25 +22175,25 @@ function openCompare(){
     ['compare_arwu', s=>'#'+s.arwu],
     ['compare_tuition', s=>s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()],
     ['compare_safety_label', s=>`${s.safety}/10`],
-    ['compare_city', s=>s.city[lang]],
-    ['compare_climate', s=>s.climate[lang]],
+    ['compare_city', s=>(s.city[lang]||s.city.en)],
+    ['compare_climate', s=>(s.climate[lang]||s.climate.en)],
     ['compare_living', s=>s.livingCost[lang]],
     ['compare_requirements', s=>`TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}`],
     ['compare_ib', s=>s.requirements.IB || 'N/A'],
     ['compare_accept', s=>s.acceptanceRate ? `${s.acceptanceRate.overall} (${lang==='zh'?'国际生':'Intl'}: ${s.acceptanceRate.intl})` : 'N/A'],
-    ['compare_deadline', s=>s.deadline[lang]],
+    ['compare_deadline', s=>(s.deadline[lang]||s.deadline.en)],
 
-    ['compare_housing_label', s=>s.housing[lang]],
+    ['compare_housing_label', s=>(s.housing[lang]||s.housing.en)],
     ['compare_graduation', s=>s.graduationRate[lang]],
-    ['compare_employment', s=>s.employment[lang]],
-    ['compare_healthcare', s=>s.healthcare[lang]],
-    ['compare_application', s=>s.application[lang]],
+    ['compare_employment', s=>(s.employment[lang]||s.employment.en)],
+    ['compare_healthcare', s=>(s.healthcare[lang]||s.healthcare.en)],
+    ['compare_application', s=>(s.application[lang]||s.application.en)],
   ];
   const panel = document.getElementById('comparePanel');
   panel.innerHTML = `
     <h2>${t('compare_title')}</h2>
     <table class="compare-table">
-      <thead><tr><th></th>${schools.map(s=>`<th>${s.flag} ${s.name[lang]}</th>`).join('')}</tr></thead>
+      <thead><tr><th></th>${schools.map(s=>`<th>${s.flag} ${(s.name[lang]||s.name.en)}</th>`).join('')}</tr></thead>
       <tbody>${rows.map(([key,fn])=>`<tr><th>${t(key)}</th>${schools.map(s=>`<td>${fn(s)}</td>`).join('')}</tr>`).join('')}</tbody>
     </table>
     <button class="compare-close" onclick="closeCompare()">${t('compare_close')}</button>
@@ -22205,10 +22216,10 @@ function openDetail(id){
     <div class="detail-close"><button onclick="closeDetail()">✕</button></div>
     <div class="detail-header">
       <div style="display:flex;justify-content:space-between;align-items:start">
-        <h2>${s.flag} ${s.name[lang]}</h2>
+        <h2>${s.flag} ${(s.name[lang]||s.name.en)}</h2>
         <button onclick="toggleFav('${s.id}',event);openDetail('${s.id}')" style="background:none;border:none;font-size:1.8rem;cursor:pointer;padding:0;line-height:1">${favorites.includes(s.id)?'❤️':'🤍'}</button>
       </div>
-      <div class="sub">${lang==='zh'?s.name.en+' · ':''} ${s.city[lang]}</div>
+      <div class="sub">${lang==='zh'?s.name.en+' · ':''} ${(s.city[lang]||s.city.en)}</div>
       <div class="sub" style="margin-top:.3rem">📊 QS #${s.qs} · THE #${s.the} · US News #${s.usnews} · ARWU #${s.arwu}</div>
     </div>
     <div class="detail-content">
@@ -22231,17 +22242,17 @@ function openDetail(id){
           <div class="item"><span class="label">IELTS</span><span class="value">${s.requirements.IELTS}</span></div>
           <div class="item"><span class="label">SAT/ACT</span><span class="value">${s.requirements.SAT}</span></div>
           <div class="item"><span class="label">IB</span><span class="value">${s.requirements.IB || 'N/A'}</span></div>
-          <div class="item"><span class="label">${t('detail_deadline')}</span><span class="value">${s.deadline[lang]}</span></div>
+          <div class="item"><span class="label">${t('detail_deadline')}</span><span class="value">${(s.deadline[lang]||s.deadline.en)}</span></div>
           ${s.acceptanceRate ? `<div class="item"><span class="label">${lang==='zh'?'录取率':'Acceptance Rate'}</span><span class="value">${lang==='zh'?'整体':'Overall'}: ${s.acceptanceRate.overall} · ${lang==='zh'?'国际生':'Intl'}: ${s.acceptanceRate.intl}</span></div>` : ''}
         </div>
       </div>
       <div class="detail-section">
         <h3>${t('detail_safety')}</h3>
-        <p class="detail-desc"><span class="safety-badge ${safetyClass(s.safety)}" style="font-size:.9rem;margin-right:.5rem">${s.safety}/10</span>${s.safetyDetail[lang]}</p>
+        <p class="detail-desc"><span class="safety-badge ${safetyClass(s.safety)}" style="font-size:.9rem;margin-right:.5rem">${s.safety}/10</span>${(s.safetyDetail[lang]||s.safetyDetail.en)}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_climate')}</h3>
-        <p class="detail-desc">${s.climate[lang]}</p>
+        <p class="detail-desc">${(s.climate[lang]||s.climate.en)}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_living')}</h3>
@@ -22249,7 +22260,7 @@ function openDetail(id){
       </div>
       <div class="detail-section">
         <h3>${t('detail_housing')}</h3>
-        <p class="detail-desc">${s.housing[lang]}</p>
+        <p class="detail-desc">${(s.housing[lang]||s.housing.en)}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_graduation')}</h3>
@@ -22257,15 +22268,15 @@ function openDetail(id){
       </div>
       <div class="detail-section">
         <h3>${t('detail_employment')}</h3>
-        <p class="detail-desc">${s.employment[lang]}</p>
+        <p class="detail-desc">${(s.employment[lang]||s.employment.en)}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_healthcare')}</h3>
-        <p class="detail-desc">${s.healthcare[lang]}</p>
+        <p class="detail-desc">${(s.healthcare[lang]||s.healthcare.en)}</p>
       </div>
       <div class="detail-section">
         <h3>${t('detail_application')}</h3>
-        <p class="detail-desc" style="white-space:pre-line">${s.application[lang]}</p>
+        <p class="detail-desc" style="white-space:pre-line">${(s.application[lang]||s.application.en)}</p>
       </div>
     </div>
   `;
@@ -22428,7 +22439,7 @@ function runRecommend(){
         <div style="display:flex;justify-content:space-between;align-items:start;margin-bottom:.5rem">
           <div>
             <div style="font-size:.7rem;color:${tierColor};font-weight:600;margin-bottom:.3rem">${tierLabel}</div>
-            <div style="font-weight:700;font-size:1rem">${s.flag} ${s.name[lang]}</div>
+            <div style="font-weight:700;font-size:1rem">${s.flag} ${(s.name[lang]||s.name.en)}</div>
             ${lang==='zh'?`<div style="font-size:.75rem;color:#94a3b8">${s.name.en}</div>`:''}
           </div>
           <div style="text-align:right">
@@ -22468,7 +22479,7 @@ const FX_SYMBOLS = { USD:'$', CNY:'¥', SGD:'S$', HKD:'HK$', GBP:'£', AUD:'A$',
 
 function populateCalcSelect(){
   const sorted = [...SCHOOLS].sort((a,b) => a.name[lang].localeCompare(b.name[lang]));
-  const opts = sorted.map(s=>`<option value="${s.id}">${s.flag} ${s.name[lang]} — $${s.tuition.toLocaleString()}/yr</option>`).join('');
+  const opts = sorted.map(s=>`<option value="${s.id}">${s.flag} ${(s.name[lang]||s.name.en)} — $${s.tuition.toLocaleString()}/yr</option>`).join('');
   document.getElementById('calcSchool').innerHTML = opts;
   document.getElementById('calcSchool2').innerHTML = '<option value="">— ' + (lang==='zh'?'不对比':'No comparison') + ' —</option>' + opts;
 }
@@ -22494,7 +22505,7 @@ function renderCostCard(s, costs, cur, label) {
   return `
   <div style="flex:1;min-width:280px">
     ${label ? `<div style="font-size:.75rem;color:var(--gray-400);margin-bottom:.3rem">${label}</div>` : ''}
-    <div style="font-size:.85rem;font-weight:600;color:var(--navy);margin-bottom:.5rem">${s.flag} ${s.name[lang]}</div>
+    <div style="font-size:.85rem;font-weight:600;color:var(--navy);margin-bottom:.5rem">${s.flag} ${(s.name[lang]||s.name.en)}</div>
     <div style="font-size:2rem;font-weight:800;color:var(--navy)">${fmtMoney(total, cur)}</div>
     <div style="font-size:.85rem;color:var(--gray-500);margin-top:.2rem">${lang==='zh'?'每年':'Per year'}: ${fmtMoney(perYear, cur)} · ${lang==='zh'?'每月':'Monthly'}: ${fmtMoney(perMonth, cur)}</div>
     <div style="margin-top:1rem;display:grid;gap:.5rem">
@@ -22549,9 +22560,9 @@ function calcCost(){
       const diffAbs = Math.abs(diff);
       html += `</div><div style="margin-top:1rem;padding:1rem;background:${diff>0?'#fef2f2':'#f0fdf4'};border-radius:10px;text-align:center">
         <span style="font-size:.9rem">${diff > 0 
-          ? (lang==='zh'?`${s.name[lang]} 比 ${s2.name[lang]} 贵 <strong>${fmtMoney(diffAbs,cur)}</strong>`:`${s.name[lang]} costs <strong>${fmtMoney(diffAbs,cur)}</strong> more than ${s2.name[lang]}`)
+          ? (lang==='zh'?`${(s.name[lang]||s.name.en)} 比 ${s2.name[lang]} 贵 <strong>${fmtMoney(diffAbs,cur)}</strong>`:`${(s.name[lang]||s.name.en)} costs <strong>${fmtMoney(diffAbs,cur)}</strong> more than ${s2.name[lang]}`)
           : diff < 0 
-            ? (lang==='zh'?`${s.name[lang]} 比 ${s2.name[lang]} 便宜 <strong>${fmtMoney(diffAbs,cur)}</strong>`:`${s.name[lang]} costs <strong>${fmtMoney(diffAbs,cur)}</strong> less than ${s2.name[lang]}`)
+            ? (lang==='zh'?`${(s.name[lang]||s.name.en)} 比 ${s2.name[lang]} 便宜 <strong>${fmtMoney(diffAbs,cur)}</strong>`:`${(s.name[lang]||s.name.en)} costs <strong>${fmtMoney(diffAbs,cur)}</strong> less than ${s2.name[lang]}`)
             : (lang==='zh'?'两所学校费用相同':'Both schools cost the same')
         }</span>
       </div>`;
