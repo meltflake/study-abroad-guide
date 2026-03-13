@@ -938,12 +938,18 @@ function getFiltered(){
   // search (school name, major, city — NOT description to avoid false positives)
   const q = document.getElementById('searchInput').value.trim().toLowerCase();
   if(q) {
+    // For short English terms (<=3 chars), use word-boundary match to avoid false positives
+    const isShortEn = /^[a-z]{1,3}$/.test(q);
+    const wordRe = isShortEn ? new RegExp('\\b' + q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + '\\b', 'i') : null;
+    function matchStr(str) {
+      return isShortEn ? wordRe.test(str) : str.toLowerCase().includes(q);
+    }
     // Score each school: name match > city match > major match
     list = list.map(s => {
       let score = 0;
-      if(s.name.zh.toLowerCase().includes(q) || s.name.en.toLowerCase().includes(q)) score = 3;
-      else if(s.city.zh.toLowerCase().includes(q) || s.city.en.toLowerCase().includes(q)) score = 2;
-      else if(s.majors.zh.some(m=>m.toLowerCase().includes(q)) || s.majors.en.some(m=>m.toLowerCase().includes(q))) score = 1;
+      if(matchStr(s.name.zh) || matchStr(s.name.en)) score = 3;
+      else if(matchStr(s.city.zh) || matchStr(s.city.en)) score = 2;
+      else if(s.majors.zh.some(m=>matchStr(m)) || s.majors.en.some(m=>matchStr(m))) score = 1;
       return {s, score};
     }).filter(x => x.score > 0).sort((a,b) => b.score - a.score).map(x => x.s);
   }
