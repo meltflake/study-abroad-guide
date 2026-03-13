@@ -1376,11 +1376,12 @@ function _runRecommendNow(){
       else return null;
     }
 
-    // Major match
+    // Major match — if user typed a major, only show schools that offer it
     if(majorQ) {
       const allMajors = [...s.majors.zh, ...s.majors.en];
       const matched = allMajors.filter(m => m.toLowerCase().includes(majorQ));
       if(matched.length) { score += 15; reasons.push(`🎓 ${t('major_match')}: ${matched[0]}`); }
+      else return null; // No matching major → exclude
     }
 
     // Ranking bonus (use QS as primary)
