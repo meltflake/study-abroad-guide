@@ -8304,5 +8304,423 @@
       "zh": "UCAS: 1月31日（牛剑/医学: 10月15日）",
       "en": "UCAS: Jan 31 (Oxbridge/Medicine: Oct 15)"
     }
+  },
+  {
+    "id": "ual",
+    "name": {
+      "en": "University of the Arts London",
+      "zh": "伦敦艺术大学"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "London",
+      "zh": "伦敦"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 28570,
+    "tuitionRange": [
+      26070,
+      31070
+    ],
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "服装设计",
+        "平面设计",
+        "纯艺术",
+        "时尚传播",
+        "摄影",
+        "插画",
+        "建筑",
+        "产品设计",
+        "珠宝设计",
+        "纺织设计",
+        "电影",
+        "动画",
+        "交互设计",
+        "策展",
+        "艺术管理",
+        "时尚商务",
+        "化妆与特效",
+        "舞台设计",
+        "游戏设计",
+        "数字媒体"
+      ],
+      "en": [
+        "Fashion Design",
+        "Graphic Design",
+        "Fine Art",
+        "Fashion Communication",
+        "Photography",
+        "Illustration",
+        "Architecture",
+        "Product Design",
+        "Jewellery Design",
+        "Textile Design",
+        "Film",
+        "Animation",
+        "Interaction Design",
+        "Curating",
+        "Arts Management",
+        "Fashion Business",
+        "Makeup & Prosthetics",
+        "Theatre Design",
+        "Game Design",
+        "Digital Media"
+      ]
+    },
+    "majorTuition": {
+      "zh": "UAL国际生学费£22,920-£28,570/年，因学院和专业不同。",
+      "en": "UAL international tuition £22,920-£28,570/year depending on college and program."
+    },
+    "desc": {
+      "zh": "伦敦艺术大学是欧洲最大的艺术设计大学，下设6所学院：中央圣马丁、伦敦传媒学院、切尔西艺术学院、坎伯韦尔艺术学院、温布尔登艺术学院、伦敦时装学院。中央圣马丁是全球时装设计的圣殿。",
+      "en": "UAL is Europe's largest art & design university with 6 colleges: Central Saint Martins, LCC, Chelsea, Camberwell, Wimbledon, and London College of Fashion. CSM is globally iconic for fashion."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 28570,
+        "食宿": 15000,
+        "材料费": 2000,
+        "个人花费": 3000
+      },
+      "en": {
+        "Tuition": 28570,
+        "Room & Board": 15000,
+        "Materials": 2000,
+        "Personal": 3000
+      }
+    },
+    "requirements": {
+      "TOEFL": "不接受",
+      "IELTS": "6.0-6.5+（因学院不同）",
+      "SAT": "不要求",
+      "IB": "无具体分数要求，重视作品集+面试"
+    },
+    "deadline": {
+      "zh": "1月25日（UCAS平等截止）/ 6月30日（后续可申请）",
+      "en": "Jan 25 (UCAS equal deadline) / Jun 30 (late applications possible)"
+    },
+    "safetyDetail": {
+      "zh": "校区分布在伦敦多处（King's Cross、Elephant & Castle等），伦敦整体安全但需注意。",
+      "en": "Campuses across London (King's Cross, Elephant & Castle, etc.). London generally safe but awareness needed."
+    },
+    "climate": {
+      "zh": "温带海洋性气候，冬季温和多雨（2~8°C），夏季凉爽（14~23°C）。",
+      "en": "Temperate maritime climate. Mild rainy winters (2~8°C), cool summers (14~23°C)."
+    },
+    "livingCost": {
+      "zh": "约£1,300/月",
+      "en": "~£1,300/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 800,
+    "flights": 1500,
+    "ibRequirement": {
+      "zh": "重视作品集和面试，IB不设最低分数要求",
+      "en": "Portfolio and interview focused, no minimum IB score"
+    },
+    "acceptanceRate": {
+      "overall": "45%",
+      "intl": "~40%"
+    },
+    "housing": {
+      "zh": "学校提供部分宿舍，名额有限。大部分学生需自行租房。伦敦租金较高。",
+      "en": "Limited on-campus housing. Most students rent privately. London rents are high."
+    },
+    "employment": {
+      "zh": "毕业生活跃于全球时尚、设计、艺术行业。伦敦是全球创意产业中心。校友包括Alexander McQueen、Stella McCartney等。",
+      "en": "Graduates active in global fashion, design, art. London is a global creative hub. Alumni include Alexander McQueen, Stella McCartney."
+    },
+    "healthcare": {
+      "zh": "NHS覆盖。国际生需支付Immigration Health Surcharge (IHS)约£776/年。",
+      "en": "NHS coverage. International students pay IHS ~£776/year."
+    },
+    "application": {
+      "zh": "通过UCAS申请（部分课程直接申请）。需提交作品集并参加面试。面试是录取的关键环节。",
+      "en": "Apply via UCAS (some courses direct application). Portfolio + interview required. Interview is crucial for admission."
+    },
+    "graduationRate": {
+      "zh": "毕业率约80%。",
+      "en": "Graduation rate ~80%."
+    }
+  },
+  {
+    "id": "goldsmiths",
+    "name": {
+      "en": "Goldsmiths, University of London",
+      "zh": "伦敦大学金史密斯学院"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "London",
+      "zh": "伦敦"
+    },
+    "qs": 593,
+    "the": 401,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 21750,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "纯艺术",
+        "设计",
+        "传媒",
+        "音乐",
+        "计算机艺术",
+        "策展",
+        "戏剧",
+        "舞蹈",
+        "电影",
+        "创意写作",
+        "心理学",
+        "社会学",
+        "人类学",
+        "政治学",
+        "历史学",
+        "英语文学",
+        "教育学",
+        "管理学"
+      ],
+      "en": [
+        "Fine Art",
+        "Design",
+        "Media & Communications",
+        "Music",
+        "Computational Arts",
+        "Curating",
+        "Drama",
+        "Dance",
+        "Film",
+        "Creative Writing",
+        "Psychology",
+        "Sociology",
+        "Anthropology",
+        "Politics",
+        "History",
+        "English",
+        "Education",
+        "Management"
+      ]
+    },
+    "majorTuition": {
+      "zh": "Goldsmiths国际生学费约£21,750/年。",
+      "en": "Goldsmiths international tuition ~£21,750/year."
+    },
+    "desc": {
+      "zh": "金史密斯学院以当代艺术和创意实践闻名，是YBA（英国青年艺术家）运动的发源地。达米恩·赫斯特等艺术家均出自此校。",
+      "en": "Goldsmiths is renowned for contemporary art and creative practice, birthplace of the YBA (Young British Artists) movement. Alumni include Damien Hirst."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 21750,
+        "食宿": 13000,
+        "材料费": 1500,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 21750,
+        "Room & Board": 13000,
+        "Materials": 1500,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "不接受",
+      "IELTS": "6.0+",
+      "SAT": "不要求",
+      "IB": "30-34"
+    },
+    "deadline": {
+      "zh": "1月25日（UCAS平等截止）",
+      "en": "Jan 25 (UCAS equal deadline)"
+    },
+    "safetyDetail": {
+      "zh": "位于伦敦东南部New Cross，是多元文化社区。",
+      "en": "In New Cross, southeast London, a diverse multicultural area."
+    },
+    "climate": {
+      "zh": "伦敦气候，温带海洋性。冬季温和多雨（2~8°C），夏季凉爽（14~23°C）。",
+      "en": "London climate, temperate maritime. Mild rainy winters (2~8°C), cool summers (14~23°C)."
+    },
+    "livingCost": {
+      "zh": "约£1,200/月",
+      "en": "~£1,200/month"
+    },
+    "livingCostAnnual": 16800,
+    "insurance": 776,
+    "flights": 1500,
+    "ibRequirement": {
+      "zh": "IB 30-34",
+      "en": "IB 30-34"
+    },
+    "acceptanceRate": {
+      "overall": "55%",
+      "intl": "~50%"
+    },
+    "housing": {
+      "zh": "大一新生可申请宿舍。校外New Cross租金相对伦敦市中心便宜。",
+      "en": "Freshmen may apply for halls. New Cross rents cheaper than central London."
+    },
+    "employment": {
+      "zh": "毕业生在当代艺术、创意产业、媒体行业活跃。",
+      "en": "Graduates active in contemporary art, creative industries, and media."
+    },
+    "healthcare": {
+      "zh": "NHS覆盖。国际生需支付IHS约£776/年。",
+      "en": "NHS coverage. International students pay IHS ~£776/year."
+    },
+    "application": {
+      "zh": "通过UCAS申请。艺术类专业需提交作品集+面试。",
+      "en": "Apply via UCAS. Art programs require portfolio + interview."
+    },
+    "graduationRate": {
+      "zh": "毕业率约75%。",
+      "en": "Graduation rate ~75%."
+    }
+  },
+  {
+    "id": "gsa",
+    "name": {
+      "en": "Glasgow School of Art",
+      "zh": "格拉斯哥艺术学院"
+    },
+    "country": "UK",
+    "flag": "🇬🇧",
+    "city": {
+      "en": "Glasgow",
+      "zh": "格拉斯哥"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 20950,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "建筑学",
+        "纯艺术",
+        "设计",
+        "数字文化",
+        "产品设计",
+        "传达设计",
+        "室内设计",
+        "银器与珠宝",
+        "纺织设计",
+        "摄影",
+        "雕塑",
+        "绘画",
+        "版画",
+        "动画",
+        "游戏设计",
+        "时尚设计",
+        "交互设计",
+        "策展"
+      ],
+      "en": [
+        "Architecture",
+        "Fine Art",
+        "Design",
+        "Digital Culture",
+        "Product Design",
+        "Communication Design",
+        "Interior Design",
+        "Silversmithing & Jewellery",
+        "Textile Design",
+        "Photography",
+        "Sculpture",
+        "Painting",
+        "Printmaking",
+        "Animation",
+        "Game Design",
+        "Fashion Design",
+        "Interaction Design",
+        "Curatorial Practice"
+      ]
+    },
+    "majorTuition": {
+      "zh": "GSA国际生学费约£20,950/年。",
+      "en": "GSA international tuition ~£20,950/year."
+    },
+    "desc": {
+      "zh": "格拉斯哥艺术学院是英国历史最悠久的独立艺术学院之一，以建筑和纯艺术闻名。Charles Rennie Mackintosh的标志性建筑是学校象征。",
+      "en": "Glasgow School of Art is one of the UK's oldest independent art schools, renowned for architecture and fine art. The iconic Mackintosh Building is its symbol."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 20950,
+        "食宿": 10000,
+        "材料费": 1500,
+        "个人花费": 2000
+      },
+      "en": {
+        "Tuition": 20950,
+        "Room & Board": 10000,
+        "Materials": 1500,
+        "Personal": 2000
+      }
+    },
+    "requirements": {
+      "TOEFL": "不接受",
+      "IELTS": "6.0+",
+      "SAT": "不要求",
+      "IB": "28-32"
+    },
+    "deadline": {
+      "zh": "1月25日（UCAS平等截止）",
+      "en": "Jan 25 (UCAS equal deadline)"
+    },
+    "safetyDetail": {
+      "zh": "格拉斯哥是苏格兰最大城市，校园位于市中心，整体安全。",
+      "en": "Glasgow is Scotland's largest city. Campus is centrally located and generally safe."
+    },
+    "climate": {
+      "zh": "海洋性气候，全年多雨。冬季温和（1~7°C），夏季凉爽（11~19°C）。",
+      "en": "Maritime climate, rainy year-round. Mild winters (1~7°C), cool summers (11~19°C)."
+    },
+    "livingCost": {
+      "zh": "约£900/月",
+      "en": "~£900/month"
+    },
+    "livingCostAnnual": 12600,
+    "insurance": 776,
+    "flights": 1600,
+    "ibRequirement": {
+      "zh": "IB 28-32",
+      "en": "IB 28-32"
+    },
+    "acceptanceRate": {
+      "overall": "35%",
+      "intl": "~30%"
+    },
+    "housing": {
+      "zh": "学校协助安排宿舍。格拉斯哥租金比伦敦低很多。",
+      "en": "School assists with housing. Glasgow rents much lower than London."
+    },
+    "employment": {
+      "zh": "毕业生在艺术、建筑、设计领域就业良好。格拉斯哥创意产业日益发展。",
+      "en": "Good employment in art, architecture, and design. Glasgow's creative sector is growing."
+    },
+    "healthcare": {
+      "zh": "NHS覆盖。国际生需支付IHS约£776/年。",
+      "en": "NHS coverage. International students pay IHS ~£776/year."
+    },
+    "application": {
+      "zh": "通过UCAS申请。需提交作品集+参加面试。",
+      "en": "Apply via UCAS. Portfolio + interview required."
+    },
+    "graduationRate": {
+      "zh": "毕业率约80%。",
+      "en": "Graduation rate ~80%."
+    }
   }
 ]

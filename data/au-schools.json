@@ -5786,5 +5786,258 @@
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
     }
+  },
+  {
+    "id": "nida",
+    "name": {
+      "en": "National Institute of Dramatic Art",
+      "zh": "澳大利亚国家戏剧艺术学院"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Sydney, NSW",
+      "zh": "新南威尔士州 悉尼"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 26000,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "表演",
+        "导演",
+        "戏剧创作",
+        "舞台设计",
+        "服装设计",
+        "舞台管理",
+        "灯光设计",
+        "音效设计",
+        "银幕表演",
+        "音乐剧"
+      ],
+      "en": [
+        "Acting",
+        "Directing",
+        "Dramatic Art",
+        "Set Design",
+        "Costume Design",
+        "Stage Management",
+        "Lighting Design",
+        "Sound Design",
+        "Screen Acting",
+        "Musical Theatre"
+      ]
+    },
+    "majorTuition": {
+      "zh": "NIDA国际生学费约A$26,000/年。",
+      "en": "NIDA international tuition ~A$26,000/year."
+    },
+    "desc": {
+      "zh": "NIDA是澳大利亚最负盛名的表演艺术学院，被誉为南半球的茱莉亚。培养了凯特·布兰切特、雨果·维文等巨星。",
+      "en": "NIDA is Australia's most prestigious performing arts school, often called the Juilliard of the Southern Hemisphere. Alumni include Cate Blanchett and Hugo Weaving."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 26000,
+        "食宿": 14000,
+        "材料费": 1000,
+        "个人花费": 2000
+      },
+      "en": {
+        "Tuition": 26000,
+        "Room & Board": 14000,
+        "Materials": 1000,
+        "Personal": 2000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.5+",
+      "SAT": "不要求",
+      "IB": "无具体要求，重视试镜/面试"
+    },
+    "deadline": {
+      "zh": "因专业不同，通常7-9月（次年2月入学）",
+      "en": "Varies by program, usually Jul-Sep (for Feb start)"
+    },
+    "safetyDetail": {
+      "zh": "位于悉尼Kensington，紧邻UNSW校园，环境安全。",
+      "en": "In Kensington, Sydney, adjacent to UNSW campus. Safe area."
+    },
+    "climate": {
+      "zh": "温带海洋性气候，冬季温和（8~17°C），夏季温暖（19~26°C）。",
+      "en": "Temperate maritime. Mild winters (8~17°C), warm summers (19~26°C)."
+    },
+    "livingCost": {
+      "zh": "约A$2,000/月",
+      "en": "~A$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 600,
+    "flights": 1500,
+    "ibRequirement": {
+      "zh": "重视试镜和面试，IB不设最低要求",
+      "en": "Audition/interview focused, no minimum IB requirement"
+    },
+    "acceptanceRate": {
+      "overall": "~5%",
+      "intl": "~5%"
+    },
+    "housing": {
+      "zh": "不提供校内住宿，需自行租房。学校协助寻找住处。",
+      "en": "No on-campus housing. Students rent privately. School assists with housing search."
+    },
+    "employment": {
+      "zh": "毕业生在澳大利亚及国际影视、戏剧行业就业极好。",
+      "en": "Graduates have excellent careers in Australian and international film, TV, and theatre."
+    },
+    "healthcare": {
+      "zh": "国际生需购买OSHC海外学生健康保险，约A$600/年。",
+      "en": "International students require OSHC ~A$600/year."
+    },
+    "application": {
+      "zh": "通过NIDA官网申请。需参加试镜/面试（可线上）。竞争极为激烈。",
+      "en": "Apply via NIDA website. Audition/interview required (can be online). Extremely competitive."
+    },
+    "graduationRate": {
+      "zh": "毕业率约90%。",
+      "en": "Graduation rate ~90%."
+    }
+  },
+  {
+    "id": "vca",
+    "name": {
+      "en": "Victorian College of the Arts",
+      "zh": "维多利亚艺术学院"
+    },
+    "country": "AU",
+    "flag": "🇦🇺",
+    "city": {
+      "en": "Melbourne, VIC",
+      "zh": "维多利亚州 墨尔本"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 35000,
+    "tuitionRange": [
+      30000,
+      40000
+    ],
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "纯艺术",
+        "音乐",
+        "舞蹈",
+        "戏剧",
+        "电影",
+        "动画",
+        "视觉艺术",
+        "当代音乐",
+        "爵士乐",
+        "作曲",
+        "音乐表演",
+        "制片",
+        "编剧",
+        "舞台设计"
+      ],
+      "en": [
+        "Fine Art",
+        "Music",
+        "Dance",
+        "Theatre",
+        "Film",
+        "Animation",
+        "Visual Art",
+        "Contemporary Music",
+        "Jazz",
+        "Composition",
+        "Music Performance",
+        "Producing",
+        "Screenwriting",
+        "Production Design"
+      ]
+    },
+    "majorTuition": {
+      "zh": "VCA国际生学费约A$30,000-40,000/年，因专业不同。",
+      "en": "VCA international tuition ~A$30,000-40,000/year depending on program."
+    },
+    "desc": {
+      "zh": "维多利亚艺术学院是墨尔本大学的艺术学院，澳大利亚最顶尖的综合性艺术教育机构之一。提供音乐、舞蹈、戏剧、电影、视觉艺术等全方位艺术教育。",
+      "en": "VCA is the arts faculty of the University of Melbourne, one of Australia's top comprehensive arts institutions offering music, dance, theatre, film, and visual arts."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 35000,
+        "食宿": 14000,
+        "材料费": 1500,
+        "个人花费": 2000
+      },
+      "en": {
+        "Tuition": 35000,
+        "Room & Board": 14000,
+        "Materials": 1500,
+        "Personal": 2000
+      }
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.5+",
+      "SAT": "不要求",
+      "IB": "25+（附作品集/试镜）"
+    },
+    "deadline": {
+      "zh": "因专业不同，通常8-10月（次年2月入学）",
+      "en": "Varies by program, usually Aug-Oct (for Feb start)"
+    },
+    "safetyDetail": {
+      "zh": "位于墨尔本Southbank，紧邻城市艺术区，环境安全活跃。",
+      "en": "In Melbourne's Southbank, near the arts precinct. Safe and vibrant area."
+    },
+    "climate": {
+      "zh": "温带海洋性气候，四季多变。冬季凉爽（6~14°C），夏季温暖（14~26°C）。墨尔本以'一天四季'闻名。",
+      "en": "Temperate maritime, changeable. Cool winters (6~14°C), warm summers (14~26°C). Melbourne famous for '4 seasons in a day'."
+    },
+    "livingCost": {
+      "zh": "约A$1,800/月",
+      "en": "~A$1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 600,
+    "flights": 1200,
+    "ibRequirement": {
+      "zh": "IB 25+，附作品集/试镜",
+      "en": "IB 25+, with portfolio/audition"
+    },
+    "acceptanceRate": {
+      "overall": "20%",
+      "intl": "~18%"
+    },
+    "housing": {
+      "zh": "可申请墨尔本大学宿舍。Southbank校区附近也有多种租房选择。",
+      "en": "Can apply for UniMelb housing. Various rental options near Southbank campus."
+    },
+    "employment": {
+      "zh": "毕业生在澳洲艺术、文化和创意产业就业良好。墨尔本是澳大利亚文化之都。",
+      "en": "Graduates have good careers in Australian arts, culture, and creative industries. Melbourne is Australia's cultural capital."
+    },
+    "healthcare": {
+      "zh": "国际生需购买OSHC海外学生健康保险，约A$600/年。",
+      "en": "International students require OSHC ~A$600/year."
+    },
+    "application": {
+      "zh": "通过墨尔本大学官网申请。艺术类专业需提交作品集/试镜。",
+      "en": "Apply via UniMelb website. Arts programs require portfolio/audition."
+    },
+    "graduationRate": {
+      "zh": "毕业率约85%。",
+      "en": "Graduation rate ~85%."
+    }
   }
 ]

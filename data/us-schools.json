@@ -11326,5 +11326,835 @@
       "zh": "滚动录取（建议1月前提交）",
       "en": "Rolling admission (recommended before January)"
     }
+  },
+  {
+    "id": "risd",
+    "name": {
+      "en": "Rhode Island School of Design",
+      "zh": "罗德岛设计学院"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Providence, RI",
+      "zh": "罗得岛州 普罗维登斯"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 62130,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "工业设计",
+        "平面设计",
+        "插画",
+        "建筑学",
+        "摄影",
+        "雕塑",
+        "绘画",
+        "版画",
+        "陶艺",
+        "珠宝设计",
+        "纺织设计",
+        "电影动画",
+        "家具设计",
+        "玻璃艺术",
+        "数字媒体",
+        "服装设计",
+        "室内建筑",
+        "艺术史",
+        "景观建筑",
+        "自然与人文"
+      ],
+      "en": [
+        "Industrial Design",
+        "Graphic Design",
+        "Illustration",
+        "Architecture",
+        "Photography",
+        "Sculpture",
+        "Painting",
+        "Printmaking",
+        "Ceramics",
+        "Jewelry Design",
+        "Textile Design",
+        "Film/Animation",
+        "Furniture Design",
+        "Glass Art",
+        "Digital Media",
+        "Apparel Design",
+        "Interior Architecture",
+        "Art History",
+        "Landscape Architecture",
+        "Nature Culture & Sustainability"
+      ]
+    },
+    "majorTuition": {
+      "zh": "RISD所有专业统一学费$62,130/年。",
+      "en": "RISD charges a flat tuition of $62,130/year."
+    },
+    "desc": {
+      "zh": "罗德岛设计学院是全球最顶尖的艺术与设计学院之一，与布朗大学毗邻，学生可跨校选课。以工业设计、平面设计和建筑闻名。",
+      "en": "RISD is one of the world's top art and design schools, adjacent to Brown University with cross-enrollment. Renowned for industrial design, graphic design, and architecture."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 62130,
+        "食宿": 16800,
+        "材料费": 2700,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 62130,
+        "Room & Board": 16800,
+        "Materials": 2700,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "93+",
+      "IELTS": "6.5+",
+      "SAT": "可选",
+      "IB": "无具体要求，重视作品集"
+    },
+    "deadline": {
+      "zh": "1月15日（常规）/ 11月1日（ED）",
+      "en": "Jan 15 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "校园位于普罗维登斯市中心，与布朗大学相邻。环境文艺安全。",
+      "en": "Campus in downtown Providence, adjacent to Brown University. Artsy and safe environment."
+    },
+    "climate": {
+      "zh": "新英格兰气候，四季分明。冬季寒冷（-4~4°C），夏季温暖（20~28°C）。",
+      "en": "New England climate with four seasons. Cold winters (-4~4°C), warm summers (20~28°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,600/月",
+      "en": "~$1,600/month"
+    },
+    "livingCostAnnual": 19200,
+    "insurance": 3200,
+    "flights": 2400,
+    "ibRequirement": {
+      "zh": "重视作品集，IB不设最低要求",
+      "en": "Portfolio-focused, no minimum IB requirement"
+    },
+    "acceptanceRate": {
+      "overall": "20%",
+      "intl": "~18%"
+    },
+    "housing": {
+      "zh": "大一新生必须住校。学校提供多种宿舍选择。",
+      "en": "Freshmen must live on campus. Various dorm options available."
+    },
+    "employment": {
+      "zh": "毕业生在设计、建筑、科技、时尚行业就业率高。Apple、Google等科技巨头常从RISD招聘。",
+      "en": "Graduates have high employment in design, architecture, tech, and fashion. Tech giants like Apple and Google recruit from RISD."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,200/年。",
+      "en": "Health insurance required (~$3,200/year)."
+    },
+    "application": {
+      "zh": "通过Common App + RISD补充申请。需提交作品集（12-20件作品）+ 独立命题创作（Assignment）。",
+      "en": "Apply via Common App + RISD supplement. Portfolio (12-20 pieces) + Assignment drawing required."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约88%。",
+      "en": "4-year graduation rate ~88%."
+    }
+  },
+  {
+    "id": "parsons",
+    "name": {
+      "en": "Parsons School of Design",
+      "zh": "帕森斯设计学院"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "New York, NY",
+      "zh": "纽约州 纽约市"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 56824,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "服装设计",
+        "传达设计",
+        "室内设计",
+        "产品设计",
+        "插画",
+        "摄影",
+        "纯艺术",
+        "建筑设计",
+        "设计与科技",
+        "策略设计与管理",
+        "城市设计",
+        "时尚管理",
+        "灯光设计",
+        "设计史",
+        "可持续设计",
+        "集成设计",
+        "数据可视化",
+        "动态影像"
+      ],
+      "en": [
+        "Fashion Design",
+        "Communication Design",
+        "Interior Design",
+        "Product Design",
+        "Illustration",
+        "Photography",
+        "Fine Arts",
+        "Architectural Design",
+        "Design & Technology",
+        "Strategic Design & Management",
+        "Urban Design",
+        "Fashion Management",
+        "Lighting Design",
+        "Design History",
+        "Sustainable Design",
+        "Integrated Design",
+        "Data Visualization",
+        "Motion Graphics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "Parsons所有专业统一学费$56,824/年。",
+      "en": "Parsons charges a flat tuition of $56,824/year."
+    },
+    "desc": {
+      "zh": "帕森斯设计学院隶属新学院大学，位于纽约曼哈顿第五大道。全球时尚与设计教育的领军者，培养了Marc Jacobs、Tom Ford等著名设计师。",
+      "en": "Parsons, part of The New School, is on Fifth Avenue in Manhattan. A global leader in fashion and design education, alumni include Marc Jacobs and Tom Ford."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 56824,
+        "食宿": 20800,
+        "材料费": 2000,
+        "个人花费": 3000
+      },
+      "en": {
+        "Tuition": 56824,
+        "Room & Board": 20800,
+        "Materials": 2000,
+        "Personal": 3000
+      }
+    },
+    "requirements": {
+      "TOEFL": "92+",
+      "IELTS": "7.0+",
+      "SAT": "可选",
+      "IB": "无具体要求，重视作品集"
+    },
+    "deadline": {
+      "zh": "1月15日（常规）/ 11月1日（ED）",
+      "en": "Jan 15 (Regular) / Nov 1 (ED)"
+    },
+    "safetyDetail": {
+      "zh": "位于曼哈顿格林威治村，繁华但需注意大城市安全。",
+      "en": "In Manhattan's Greenwich Village, vibrant but NYC street awareness needed."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-3~5°C），夏季炎热潮湿（22~32°C）。",
+      "en": "Four seasons. Cold winters (-3~5°C), hot humid summers (22~32°C)."
+    },
+    "livingCost": {
+      "zh": "约$2,200/月",
+      "en": "~$2,200/month"
+    },
+    "livingCostAnnual": 26400,
+    "insurance": 3600,
+    "flights": 2400,
+    "ibRequirement": {
+      "zh": "重视作品集，IB不设最低要求",
+      "en": "Portfolio-focused, no minimum IB requirement"
+    },
+    "acceptanceRate": {
+      "overall": "38%",
+      "intl": "~35%"
+    },
+    "housing": {
+      "zh": "大一新生可申请住校。纽约校外租房费用高。",
+      "en": "Freshmen may apply for on-campus housing. Off-campus NYC rent is high."
+    },
+    "employment": {
+      "zh": "毕业生在时尚、设计、广告、科技行业就业前景极好。纽约提供丰富的实习和就业机会。",
+      "en": "Excellent career prospects in fashion, design, advertising, and tech. NYC offers abundant internships and jobs."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,600/年。",
+      "en": "Health insurance required (~$3,600/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需提交作品集（8-12件）+ Parsons Challenge创意命题。",
+      "en": "Apply via Common App. Portfolio (8-12 pieces) + Parsons Challenge creative prompt required."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%。",
+      "en": "4-year graduation rate ~70%."
+    }
+  },
+  {
+    "id": "saic",
+    "name": {
+      "en": "School of the Art Institute of Chicago",
+      "zh": "芝加哥艺术学院"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Chicago, IL",
+      "zh": "伊利诺伊州 芝加哥"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 55410,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "绘画",
+        "雕塑",
+        "摄影",
+        "电影动画",
+        "视觉传达",
+        "纤维与材料",
+        "陶艺",
+        "版画",
+        "表演艺术",
+        "声音艺术",
+        "新媒体",
+        "艺术史",
+        "艺术教育",
+        "建筑设计",
+        "室内建筑",
+        "写作",
+        "视觉批评",
+        "设计与物体",
+        "艺术管理",
+        "时尚设计"
+      ],
+      "en": [
+        "Painting",
+        "Sculpture",
+        "Photography",
+        "Film/Animation",
+        "Visual Communication",
+        "Fiber & Material",
+        "Ceramics",
+        "Printmaking",
+        "Performance",
+        "Sound",
+        "New Media",
+        "Art History",
+        "Art Education",
+        "Architecture",
+        "Interior Architecture",
+        "Writing",
+        "Visual & Critical Studies",
+        "Designed Objects",
+        "Arts Administration",
+        "Fashion Design"
+      ]
+    },
+    "majorTuition": {
+      "zh": "SAIC所有专业统一学费$55,410/年。",
+      "en": "SAIC charges a flat tuition of $55,410/year."
+    },
+    "desc": {
+      "zh": "芝加哥艺术学院是美国最古老的独立艺术学校之一，与芝加哥艺术博物馆相连。以跨学科艺术教育和前卫创作著称。",
+      "en": "SAIC is one of the oldest independent art schools in the US, connected to the Art Institute of Chicago museum. Known for interdisciplinary arts and avant-garde practice."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 55410,
+        "食宿": 17500,
+        "材料费": 2500,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 55410,
+        "Room & Board": 17500,
+        "Materials": 2500,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "82+",
+      "IELTS": "6.5+",
+      "SAT": "不要求",
+      "IB": "无具体要求，重视作品集"
+    },
+    "deadline": {
+      "zh": "2月1日（秋季入学）",
+      "en": "Feb 1 (Fall entry)"
+    },
+    "safetyDetail": {
+      "zh": "位于芝加哥市中心密歇根大道，周围是博物馆区和千禧公园，安保较好。",
+      "en": "On Michigan Avenue downtown, near Museum Campus and Millennium Park with good security."
+    },
+    "climate": {
+      "zh": "大陆性气候，冬季寒冷多风（-8~1°C），夏季温暖（20~29°C）。",
+      "en": "Continental climate with cold windy winters (-8~1°C) and warm summers (20~29°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,800/月",
+      "en": "~$1,800/month"
+    },
+    "livingCostAnnual": 21600,
+    "insurance": 3400,
+    "flights": 2200,
+    "ibRequirement": {
+      "zh": "重视作品集，IB不设最低要求",
+      "en": "Portfolio-focused, no minimum IB requirement"
+    },
+    "acceptanceRate": {
+      "overall": "59%",
+      "intl": "~55%"
+    },
+    "housing": {
+      "zh": "提供校内宿舍，但不强制。芝加哥市区租金适中。",
+      "en": "On-campus housing available but not required. Moderate Chicago rents."
+    },
+    "employment": {
+      "zh": "毕业生活跃于当代艺术、设计、教育领域。芝加哥艺术社区活跃。",
+      "en": "Graduates active in contemporary art, design, and education. Chicago has a vibrant art community."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,400/年。",
+      "en": "Health insurance required (~$3,400/year)."
+    },
+    "application": {
+      "zh": "通过SAIC官网或Common App申请。需提交作品集（10-15件）+ 艺术家陈述。",
+      "en": "Apply via SAIC website or Common App. Portfolio (10-15 pieces) + artist statement required."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约65%。",
+      "en": "4-year graduation rate ~65%."
+    }
+  },
+  {
+    "id": "pratt",
+    "name": {
+      "en": "Pratt Institute",
+      "zh": "普瑞特艺术学院"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Brooklyn, NY",
+      "zh": "纽约州 布鲁克林"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 57440,
+    "tuitionRange": null,
+    "safety": 6,
+    "majors": {
+      "zh": [
+        "建筑学",
+        "室内设计",
+        "工业设计",
+        "传达设计",
+        "时尚设计",
+        "插画",
+        "电影",
+        "摄影",
+        "绘画",
+        "数字艺术",
+        "珠宝设计",
+        "雕塑",
+        "艺术史",
+        "创意写作",
+        "游戏设计",
+        "包装设计",
+        "可持续设计",
+        "信息设计"
+      ],
+      "en": [
+        "Architecture",
+        "Interior Design",
+        "Industrial Design",
+        "Communication Design",
+        "Fashion Design",
+        "Illustration",
+        "Film",
+        "Photography",
+        "Painting",
+        "Digital Arts",
+        "Jewelry Design",
+        "Sculpture",
+        "Art History",
+        "Creative Writing",
+        "Game Design",
+        "Package Design",
+        "Sustainability",
+        "Information Design"
+      ]
+    },
+    "majorTuition": {
+      "zh": "Pratt所有专业统一学费$57,440/年。",
+      "en": "Pratt charges a flat tuition of $57,440/year."
+    },
+    "desc": {
+      "zh": "普瑞特艺术学院位于布鲁克林，以建筑、室内设计和工业设计闻名。校园是纽约市内少有的绿色封闭式校园。",
+      "en": "Pratt Institute in Brooklyn is renowned for architecture, interior design, and industrial design. Its campus is one of NYC's few green, enclosed campuses."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 57440,
+        "食宿": 18500,
+        "材料费": 2000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 57440,
+        "Room & Board": 18500,
+        "Materials": 2000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "79+",
+      "IELTS": "6.5+",
+      "SAT": "可选",
+      "IB": "无具体要求，重视作品集"
+    },
+    "deadline": {
+      "zh": "1月5日（秋季入学优先）",
+      "en": "Jan 5 (Fall priority)"
+    },
+    "safetyDetail": {
+      "zh": "布鲁克林Clinton Hill社区，校园封闭式管理，安全。",
+      "en": "In Brooklyn's Clinton Hill, enclosed campus with good security."
+    },
+    "climate": {
+      "zh": "四季分明。冬季寒冷（-3~5°C），夏季温暖潮湿（22~30°C）。",
+      "en": "Four seasons. Cold winters (-3~5°C), warm humid summers (22~30°C)."
+    },
+    "livingCost": {
+      "zh": "约$2,000/月",
+      "en": "~$2,000/month"
+    },
+    "livingCostAnnual": 24000,
+    "insurance": 3400,
+    "flights": 2400,
+    "ibRequirement": {
+      "zh": "重视作品集，IB不设最低要求",
+      "en": "Portfolio-focused, no minimum IB requirement"
+    },
+    "acceptanceRate": {
+      "overall": "50%",
+      "intl": "~45%"
+    },
+    "housing": {
+      "zh": "大一新生建议住校。校内宿舍环境好。",
+      "en": "Freshmen encouraged to live on campus. Good dorm facilities."
+    },
+    "employment": {
+      "zh": "建筑和设计毕业生就业率高。纽约设计行业就业资源丰富。",
+      "en": "Architecture and design graduates have high employment. NYC design industry offers abundant opportunities."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,400/年。",
+      "en": "Health insurance required (~$3,400/year)."
+    },
+    "application": {
+      "zh": "通过Common App申请。需提交作品集（12-20件）。建筑专业需额外提交创意作品。",
+      "en": "Apply via Common App. Portfolio (12-20 pieces) required. Architecture requires additional creative work."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约65%。",
+      "en": "4-year graduation rate ~65%."
+    }
+  },
+  {
+    "id": "calarts",
+    "name": {
+      "en": "California Institute of the Arts",
+      "zh": "加州艺术学院"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Valencia, CA",
+      "zh": "加利福尼亚州 瓦伦西亚"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 55760,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "动画",
+        "电影",
+        "角色动画",
+        "实验动画",
+        "平面设计",
+        "摄影",
+        "纯艺术",
+        "音乐",
+        "戏剧",
+        "舞蹈",
+        "写作",
+        "表演艺术",
+        "游戏设计",
+        "数字媒体",
+        "声音设计",
+        "集成媒体",
+        "艺术与科技",
+        "舞台设计"
+      ],
+      "en": [
+        "Animation",
+        "Film",
+        "Character Animation",
+        "Experimental Animation",
+        "Graphic Design",
+        "Photography",
+        "Fine Arts",
+        "Music",
+        "Theater",
+        "Dance",
+        "Writing",
+        "Performance",
+        "Game Design",
+        "Digital Media",
+        "Sound Design",
+        "Integrated Media",
+        "Art & Technology",
+        "Stage Design"
+      ]
+    },
+    "majorTuition": {
+      "zh": "CalArts所有专业统一学费$55,760/年。",
+      "en": "CalArts charges a flat tuition of $55,760/year."
+    },
+    "desc": {
+      "zh": "加州艺术学院由沃尔特·迪士尼创立，是全球动画和电影教育的殿堂。皮克斯、迪士尼动画师的摇篮。",
+      "en": "CalArts was founded by Walt Disney and is a temple of animation and film education. Cradle of Pixar and Disney animators."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 55760,
+        "食宿": 14500,
+        "材料费": 2000,
+        "个人花费": 2500
+      },
+      "en": {
+        "Tuition": 55760,
+        "Room & Board": 14500,
+        "Materials": 2000,
+        "Personal": 2500
+      }
+    },
+    "requirements": {
+      "TOEFL": "80+",
+      "IELTS": "6.5+",
+      "SAT": "不要求",
+      "IB": "无具体要求，重视作品集"
+    },
+    "deadline": {
+      "zh": "1月15日（秋季入学）",
+      "en": "Jan 15 (Fall entry)"
+    },
+    "safetyDetail": {
+      "zh": "瓦伦西亚是洛杉矶北部安全的郊区社区。",
+      "en": "Valencia is a safe suburban community north of LA."
+    },
+    "climate": {
+      "zh": "地中海气候，全年温暖干燥。冬季温和（8~20°C），夏季炎热（20~35°C）。",
+      "en": "Mediterranean climate, warm and dry. Mild winters (8~20°C), hot summers (20~35°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,500/月",
+      "en": "~$1,500/month"
+    },
+    "livingCostAnnual": 18000,
+    "insurance": 3000,
+    "flights": 2000,
+    "ibRequirement": {
+      "zh": "重视作品集，IB不设最低要求",
+      "en": "Portfolio-focused, no minimum IB requirement"
+    },
+    "acceptanceRate": {
+      "overall": "24%",
+      "intl": "~22%"
+    },
+    "housing": {
+      "zh": "提供校内公寓式住宿。大部分学生住校。",
+      "en": "On-campus apartment-style housing available. Most students live on campus."
+    },
+    "employment": {
+      "zh": "动画和电影毕业生就业极好。迪士尼、皮克斯、梦工厂是主要雇主。",
+      "en": "Animation and film graduates have excellent careers. Disney, Pixar, DreamWorks are major employers."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$3,000/年。",
+      "en": "Health insurance required (~$3,000/year)."
+    },
+    "application": {
+      "zh": "通过CalArts官网申请。需提交作品集 + 艺术家陈述。动画专业需提交生活速写和故事板。",
+      "en": "Apply via CalArts website. Portfolio + artist statement required. Animation requires life drawing and storyboards."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约70%。",
+      "en": "4-year graduation rate ~70%."
+    }
+  },
+  {
+    "id": "scad",
+    "name": {
+      "en": "Savannah College of Art and Design",
+      "zh": "萨凡纳艺术设计学院"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Savannah, GA",
+      "zh": "佐治亚州 萨凡纳"
+    },
+    "qs": 0,
+    "the": 0,
+    "usnews": 0,
+    "arwu": 0,
+    "tuition": 41175,
+    "tuitionRange": null,
+    "safety": 7,
+    "majors": {
+      "zh": [
+        "动态媒体设计",
+        "插画",
+        "平面设计",
+        "工业设计",
+        "建筑学",
+        "时尚设计",
+        "电影",
+        "游戏设计",
+        "珠宝设计",
+        "摄影",
+        "室内设计",
+        "用户体验设计",
+        "服务设计",
+        "广告设计",
+        "漫画艺术",
+        "音效设计",
+        "虚拟现实",
+        "品牌设计"
+      ],
+      "en": [
+        "Motion Media Design",
+        "Illustration",
+        "Graphic Design",
+        "Industrial Design",
+        "Architecture",
+        "Fashion Design",
+        "Film",
+        "Game Design",
+        "Jewelry Design",
+        "Photography",
+        "Interior Design",
+        "UX Design",
+        "Service Design",
+        "Advertising",
+        "Sequential Art",
+        "Sound Design",
+        "Virtual Reality",
+        "Branding"
+      ]
+    },
+    "majorTuition": {
+      "zh": "SCAD所有专业统一学费$41,175/年。",
+      "en": "SCAD charges a flat tuition of $41,175/year."
+    },
+    "desc": {
+      "zh": "SCAD是全美规模最大的艺术与设计大学，提供超过40个专业方向。在萨凡纳和亚特兰大设有校区，还有法国拉科斯特校区。",
+      "en": "SCAD is the largest art and design university in the US with 40+ majors. Campuses in Savannah, Atlanta, and Lacoste, France."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费": 41175,
+        "食宿": 15500,
+        "材料费": 1800,
+        "个人花费": 2000
+      },
+      "en": {
+        "Tuition": 41175,
+        "Room & Board": 15500,
+        "Materials": 1800,
+        "Personal": 2000
+      }
+    },
+    "requirements": {
+      "TOEFL": "85+",
+      "IELTS": "6.5+",
+      "SAT": "可选",
+      "IB": "无具体要求，重视作品集"
+    },
+    "deadline": {
+      "zh": "滚动录取（建议2月15日前）",
+      "en": "Rolling admission (recommended by Feb 15)"
+    },
+    "safetyDetail": {
+      "zh": "萨凡纳是美丽的历史城市，校园分布在市区各处。学校安保完善。",
+      "en": "Savannah is a beautiful historic city. Campus spread throughout downtown with good security."
+    },
+    "climate": {
+      "zh": "亚热带气候，冬季温暖（5~16°C），夏季炎热潮湿（23~34°C）。",
+      "en": "Subtropical climate. Warm winters (5~16°C), hot humid summers (23~34°C)."
+    },
+    "livingCost": {
+      "zh": "约$1,200/月",
+      "en": "~$1,200/month"
+    },
+    "livingCostAnnual": 14400,
+    "insurance": 2800,
+    "flights": 2200,
+    "ibRequirement": {
+      "zh": "重视作品集，IB不设最低要求",
+      "en": "Portfolio-focused, no minimum IB requirement"
+    },
+    "acceptanceRate": {
+      "overall": "74%",
+      "intl": "~70%"
+    },
+    "housing": {
+      "zh": "大一新生建议住校。多种宿舍选择，包括历史建筑改造的宿舍。",
+      "en": "Freshmen encouraged to live on campus. Various dorms including converted historic buildings."
+    },
+    "employment": {
+      "zh": "毕业生就业率高。与迪士尼、苹果、谷歌等公司有强大的招聘关系。",
+      "en": "High employment rate. Strong recruiting relationships with Disney, Apple, Google, etc."
+    },
+    "healthcare": {
+      "zh": "要求学生购买健康保险，约$2,800/年。",
+      "en": "Health insurance required (~$2,800/year)."
+    },
+    "application": {
+      "zh": "通过SCAD官网或Common App申请。作品集可选但强烈建议提交。",
+      "en": "Apply via SCAD website or Common App. Portfolio optional but strongly recommended."
+    },
+    "graduationRate": {
+      "zh": "四年毕业率约65%。",
+      "en": "4-year graduation rate ~65%."
+    }
   }
 ]
