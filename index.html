@@ -41603,8 +41603,10 @@ function setIBFilter(btn){
 
 function getIBMinScore(s){
   // Extract the lowest number from the IB string to use for filtering
-  const ib = s.requirements && s.requirements.IB;
-  if(!ib) return null;
+  // Support both old format (s.requirements.IB) and new format (s.ibRequirement.en/zh)
+  let ib = s.requirements && s.requirements.IB;
+  if(!ib && s.ibRequirement) ib = s.ibRequirement.en || s.ibRequirement.zh || s.ibRequirement;
+  if(!ib || typeof ib !== 'string') return null;
   const nums = ib.match(/\d+/g);
   if(!nums) return null;
   // Return the smallest number >= 20 (filter out HL scores like 6,7)
@@ -41772,7 +41774,7 @@ function renderCards(){
           ${['qs','the','usnews','arwu'].filter(r=>r!==currentRankSystem).map(r=>`<span class="tag" style="background:var(--gray-100);color:var(--gray-500);font-size:.7rem">${getRankLabel(r)} #${getRankValue(s,r)}</span>`).join('')}
           <span class="tag tag-tuition">${s.tuitionRange ? '$'+s.tuitionRange[0].toLocaleString()+'~$'+s.tuitionRange[1].toLocaleString() : '$'+s.tuition.toLocaleString()}/yr</span>
           <span class="tag tag-city">${(s.city[lang]||s.city.en)}</span>
-          ${s.requirements&&s.requirements.IB ? `<span class="tag tag-ib">IB ${getIBMinScore(s)||'?'}+</span>` : ''}
+          ${getIBMinScore(s) ? `<span class="tag tag-ib">IB ${getIBMinScore(s)}+</span>` : ''}
           ${s.acceptanceRate ? `<span class="tag tag-accept">📊 ${s.acceptanceRate.overall}</span>` : ''}
         </div>
         <div class="card-info">
@@ -41843,10 +41845,10 @@ function openCompare(){
     ['compare_city', s=>(s.city[lang]||s.city.en)],
     ['compare_climate', s=>(s.climate[lang]||s.climate.en)],
     ['compare_living', s=>(s.livingCost[lang]||s.livingCost.en)],
-    ['compare_requirements', s=>`TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}`],
-    ['compare_ib', s=>s.requirements.IB || 'N/A'],
+    ['compare_requirements', s=>s.requirements ? `TOEFL ${s.requirements.TOEFL} / IELTS ${s.requirements.IELTS}` : 'N/A'],
+    ['compare_ib', s=>{ let ib = s.requirements && s.requirements.IB; if(!ib && s.ibRequirement) ib = s.ibRequirement[lang]||s.ibRequirement.en; return ib || 'N/A'; }],
     ['compare_accept', s=>s.acceptanceRate ? `${s.acceptanceRate.overall} (${t('accept_intl')}: ${s.acceptanceRate.intl})` : 'N/A'],
-    ['compare_deadline', s=>(s.deadline[lang]||s.deadline.en)],
+    ['compare_deadline', s=>s.deadline ? (s.deadline[lang]||s.deadline.en) : 'N/A'],
 
     ['compare_housing_label', s=>(s.housing[lang]||s.housing.en)],
     ['compare_graduation', s=>(s.graduationRate[lang]||s.graduationRate.en)],
@@ -41903,11 +41905,11 @@ function openDetail(id){
       <div class="detail-section">
         <h3>${t('detail_requirements')}</h3>
         <div class="detail-grid">
-          <div class="item"><span class="label">TOEFL</span><span class="value">${s.requirements.TOEFL}</span></div>
-          <div class="item"><span class="label">IELTS</span><span class="value">${s.requirements.IELTS}</span></div>
-          <div class="item"><span class="label">SAT/ACT</span><span class="value">${s.requirements.SAT}</span></div>
-          <div class="item"><span class="label">IB</span><span class="value">${s.requirements.IB || 'N/A'}</span></div>
-          <div class="item"><span class="label">${t('detail_deadline')}</span><span class="value">${(s.deadline[lang]||s.deadline.en)}</span></div>
+          <div class="item"><span class="label">TOEFL</span><span class="value">${s.requirements ? s.requirements.TOEFL : 'N/A'}</span></div>
+          <div class="item"><span class="label">IELTS</span><span class="value">${s.requirements ? s.requirements.IELTS : 'N/A'}</span></div>
+          <div class="item"><span class="label">SAT/ACT</span><span class="value">${s.requirements ? s.requirements.SAT : 'N/A'}</span></div>
+          <div class="item"><span class="label">IB</span><span class="value">${s.requirements && s.requirements.IB ? s.requirements.IB : (s.ibRequirement ? (s.ibRequirement[lang]||s.ibRequirement.en) : 'N/A')}</span></div>
+          <div class="item"><span class="label">${t('detail_deadline')}</span><span class="value">${s.deadline ? (s.deadline[lang]||s.deadline.en) : 'N/A'}</span></div>
           ${s.acceptanceRate ? `<div class="item"><span class="label">${t('accept_rate')}</span><span class="value">${t('accept_overall')}: ${s.acceptanceRate.overall} · ${t('accept_intl')}: ${s.acceptanceRate.intl}</span></div>` : ''}
         </div>
       </div>
