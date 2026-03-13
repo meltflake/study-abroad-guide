@@ -322,7 +322,7 @@ img{max-width:100%}
     <a href="#schools" data-i18n="nav_schools">院校浏览</a>
     <a href="#recommend" data-i18n="nav_recommend">智能选校</a>
     <a href="#calculator" data-i18n="nav_calc">费用计算</a>
-    <button class="lang-toggle" onclick="switchLang(lang==='zh'?'en':'zh')">EN / 中</button>
+    <button class="lang-toggle" id="langBtn">EN / 中</button>
   </div>
 </nav>
 
@@ -22635,6 +22635,9 @@ document.addEventListener('DOMContentLoaded',()=>{
   renderCards();
   populateCalcSelect();
   calcCost();
+  document.getElementById('langBtn').addEventListener('click',()=>{
+    switchLang(lang==='zh'?'en':'zh');
+  });
 });
 
 // Keyboard: Escape closes overlays
