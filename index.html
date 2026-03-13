@@ -471,13 +471,13 @@ img{max-width:100%}
         <div class="calc-field">
           <label data-i18n="calc_currency">💱 显示货币</label>
           <select id="calcCurrency" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem">
-            <option value="USD">USD 美元</option>
-            <option value="CNY">CNY 人民币</option>
-            <option value="SGD">SGD 新加坡元</option>
-            <option value="HKD">HKD 港币</option>
-            <option value="GBP">GBP 英镑</option>
-            <option value="AUD">AUD 澳元</option>
-            <option value="CAD">CAD 加元</option>
+            <option value="USD" data-i18n="cur_USD">USD 美元</option>
+            <option value="CNY" data-i18n="cur_CNY">CNY 人民币</option>
+            <option value="SGD" data-i18n="cur_SGD">SGD 新加坡元</option>
+            <option value="HKD" data-i18n="cur_HKD">HKD 港币</option>
+            <option value="GBP" data-i18n="cur_GBP">GBP 英镑</option>
+            <option value="AUD" data-i18n="cur_AUD">AUD 澳元</option>
+            <option value="CAD" data-i18n="cur_CAD">CAD 加元</option>
           </select>
         </div>
         <div class="calc-field">
@@ -44814,6 +44814,13 @@ const I18N = {
   calc_cheaper:{zh:'便宜',en:'less',ja:'安い',ko:'더 저렴',fr:'de moins',es:'menos',th:'ถูกกว่า',vi:'ít hơn',hi:'कम'},
   calc_same:{zh:'两所学校费用相同',en:'Both schools cost the same',ja:'両校同額',ko:'두 학교 비용 동일',fr:'Même coût',es:'Mismo costo',th:'ค่าใช้จ่ายเท่ากัน',vi:'Chi phí bằng nhau',hi:'समान लागत'},
   calc_disclaimer:{zh:'⚠️ 以上为估算数据，实际费用以学校官方公布为准。汇率可能波动。',en:'⚠️ Estimates only. Actual costs per official sources. Exchange rates may vary.',ja:'⚠️ 概算です。実際の費用は各大学公式サイトをご確認ください。',ko:'⚠️ 추정치입니다. 실제 비용은 각 대학 공식 정보를 확인하세요.',fr:'⚠️ Estimations uniquement. Consultez les sources officielles.',es:'⚠️ Solo estimaciones. Consulte fuentes oficiales.',th:'⚠️ ข้อมูลเป็นค่าประมาณ กรุณาตรวจสอบกับมหาวิทยาลัยโดยตรง',vi:'⚠️ Chỉ là ước tính. Vui lòng kiểm tra nguồn chính thức.',hi:'⚠️ केवल अनुमान। आधिकारिक स्रोतों से सत्यापित करें।'},
+  cur_USD:{zh:'USD 美元',en:'USD Dollar',ja:'USD ドル',ko:'USD 달러',fr:'USD Dollar',es:'USD Dólar',th:'USD ดอลลาร์',vi:'USD Đô la',hi:'USD डॉलर'},
+  cur_CNY:{zh:'CNY 人民币',en:'CNY Yuan',ja:'CNY 人民元',ko:'CNY 위안',fr:'CNY Yuan',es:'CNY Yuan',th:'CNY หยวน',vi:'CNY Nhân dân tệ',hi:'CNY युआन'},
+  cur_SGD:{zh:'SGD 新加坡元',en:'SGD Sing Dollar',ja:'SGD シンガポールドル',ko:'SGD 싱가포르달러',fr:'SGD Dollar singapourien',es:'SGD Dólar singapurense',th:'SGD ดอลลาร์สิงคโปร์',vi:'SGD Đô la Singapore',hi:'SGD सिंगापुर डॉलर'},
+  cur_HKD:{zh:'HKD 港币',en:'HKD HK Dollar',ja:'HKD 香港ドル',ko:'HKD 홍콩달러',fr:'HKD Dollar HK',es:'HKD Dólar HK',th:'HKD ดอลลาร์ฮ่องกง',vi:'HKD Đô la HK',hi:'HKD HK डॉलर'},
+  cur_GBP:{zh:'GBP 英镑',en:'GBP Pound',ja:'GBP ポンド',ko:'GBP 파운드',fr:'GBP Livre',es:'GBP Libra',th:'GBP ปอนด์',vi:'GBP Bảng Anh',hi:'GBP पाउंड'},
+  cur_AUD:{zh:'AUD 澳元',en:'AUD Aus Dollar',ja:'AUD 豪ドル',ko:'AUD 호주달러',fr:'AUD Dollar australien',es:'AUD Dólar australiano',th:'AUD ดอลลาร์ออสเตรเลีย',vi:'AUD Đô la Úc',hi:'AUD ऑस्ट्रेलियन डॉलर'},
+  cur_CAD:{zh:'CAD 加元',en:'CAD Can Dollar',ja:'CAD カナダドル',ko:'CAD 캐나다달러',fr:'CAD Dollar canadien',es:'CAD Dólar canadiense',th:'CAD ดอลลาร์แคนาดา',vi:'CAD Đô la Canada',hi:'CAD कैनेडियन डॉलर'},
 };
 
 function t(key){ return (I18N[key] && (I18N[key][lang] || I18N[key].en)) || key; }
