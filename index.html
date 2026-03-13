@@ -110,9 +110,9 @@ img{max-width:100%}
 .tag-ib{background:#fdf2f8;color:#9d174d;font-weight:600}
 .tag-accept{background:#f0f9ff;color:#0369a1}
 #favFilterBtn.active{background:#fef2f2;color:#dc2626;border-color:#dc2626;font-weight:600}
-.rec-tag{background:#1e293b;color:#94a3b8;border:1px solid #475569;padding:.4rem .8rem;border-radius:20px;font-size:.82rem;cursor:pointer;transition:all .2s}
-.rec-tag:hover{border-color:#64748b;color:#e2e8f0}
-.rec-tag.active{background:var(--gold);color:var(--navy);border-color:var(--gold);font-weight:600}
+.rec-tag{background:#f1f5f9;color:#475569;border:1px solid #e2e8f0;padding:.4rem .8rem;border-radius:20px;font-size:.82rem;cursor:pointer;transition:all .2s}
+.rec-tag:hover{border-color:#94a3b8;color:#1e293b}
+.rec-tag.active{background:var(--navy);color:#fff;border-color:var(--navy);font-weight:600}
 .card-info{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
 .card-info-item{display:flex;align-items:center;gap:.4rem;font-size:.85rem;color:var(--gray-600)}
 .card-info-item .icon{font-size:1rem}
@@ -372,20 +372,20 @@ img{max-width:100%}
 </section>
 
 <!-- Smart Recommendation Section -->
-<section class="section" id="recommend" style="background:linear-gradient(135deg,#1e293b 0%,#334155 100%);color:#fff">
+<section class="section" id="recommend" style="background:linear-gradient(135deg,#f0f4ff 0%,#e8f0fe 50%,#f5f0ff 100%)">
   <div class="container">
-    <h2 class="section-title" style="color:#fff" data-i18n="section_recommend">🎯 智能选校推荐</h2>
-    <p class="section-desc" style="color:#94a3b8" data-i18n="section_recommend_desc">输入你的条件，AI帮你匹配最适合的学校</p>
-    <div class="recommend-form" style="max-width:700px;margin:0 auto">
+    <h2 class="section-title" data-i18n="section_recommend">🎯 智能选校推荐</h2>
+    <p class="section-desc" style="color:#64748b" data-i18n="section_recommend_desc">输入你的条件，AI帮你匹配最适合的学校</p>
+    <div class="recommend-form" style="max-width:700px;margin:0 auto;background:#fff;border-radius:16px;padding:2rem;box-shadow:0 2px 12px rgba(0,0,0,.06)">
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
         <div class="rec-field">
-          <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_ib">📊 你的IB预估分 (24-45)</label>
-          <input type="range" id="recIB" min="24" max="45" value="36" oninput="document.getElementById('recIBVal').textContent=this.value;runRecommend()" style="width:100%;accent-color:var(--gold)">
-          <div style="text-align:center;font-size:1.5rem;font-weight:700;color:var(--gold)" id="recIBVal">36</div>
+          <label style="color:#475569;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_ib">📊 你的IB预估分 (24-45)</label>
+          <input type="range" id="recIB" min="24" max="45" value="36" oninput="document.getElementById('recIBVal').textContent=this.value;runRecommend()" style="width:100%;accent-color:var(--navy)">
+          <div style="text-align:center;font-size:1.5rem;font-weight:700;color:var(--navy)" id="recIBVal">36</div>
         </div>
         <div class="rec-field">
-          <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_budget">💰 年度预算 (USD)</label>
-          <select id="recBudget" onchange="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #475569;background:#1e293b;color:#fff;font-size:.9rem">
+          <label style="color:#475569;font-size:.85rem;margin-bottom:.3rem;display:block" data-i18n="rec_budget">💰 年度预算 (USD)</label>
+          <select id="recBudget" onchange="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #e2e8f0;background:#fff;color:#1e293b;font-size:.9rem">
             <option value="0" data-i18n="rec_budget_any">不限预算</option>
             <option value="5000">≤ $5,000 (德国/瑞士)</option>
             <option value="20000">≤ $20,000</option>
@@ -396,16 +396,16 @@ img{max-width:100%}
         </div>
       </div>
       <div style="margin-top:1rem">
-        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_countries">🌍 意向国家/地区（可多选）</label>
+        <label style="color:#475569;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_countries">🌍 意向国家/地区（可多选）</label>
         <div id="recCountries" style="display:flex;flex-wrap:wrap;gap:.4rem">
         </div>
       </div>
       <div style="margin-top:1rem">
-        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_major">🎓 感兴趣的专业方向</label>
-        <input type="text" id="recMajor" placeholder="如：计算机、商学、医学、工程..." oninput="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #475569;background:#1e293b;color:#fff;font-size:.9rem;box-sizing:border-box">
+        <label style="color:#475569;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_major">🎓 感兴趣的专业方向</label>
+        <input type="text" id="recMajor" placeholder="如：计算机、商学、医学、工程..." oninput="runRecommend()" style="width:100%;padding:.6rem;border-radius:8px;border:1px solid #e2e8f0;background:#fff;color:#1e293b;font-size:.9rem;box-sizing:border-box">
       </div>
       <div style="margin-top:1rem">
-        <label style="color:#cbd5e1;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_priority">⭐ 最看重什么？</label>
+        <label style="color:#475569;font-size:.85rem;margin-bottom:.5rem;display:block" data-i18n="rec_priority">⭐ 最看重什么？</label>
         <div id="recPriority" style="display:flex;flex-wrap:wrap;gap:.4rem">
         </div>
       </div>
