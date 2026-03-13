@@ -386,18 +386,19 @@ img{max-width:100%}
       <div class="filter-group" id="countryFilters">
         <button class="filter-btn" id="favFilterBtn" onclick="toggleFavFilter()" style="border-color:#ef4444">❤️ <span data-i18n="filter_fav">收藏</span> (0)</button>
         <button class="filter-btn active" data-country="all" onclick="setFilter(this)" data-i18n="filter_all">全部</button>
-        <button class="filter-btn" data-country="US" onclick="setFilter(this)">🇺🇸 <span data-i18n="filter_us">美国</span> <span class="country-count" data-cc="US"></span></button>
-        <button class="filter-btn" data-country="UK" onclick="setFilter(this)">🇬🇧 <span data-i18n="filter_uk">英国</span> <span class="country-count" data-cc="UK"></span></button>
-        <button class="filter-btn" data-country="CA" onclick="setFilter(this)">🇨🇦 <span data-i18n="filter_ca">加拿大</span> <span class="country-count" data-cc="CA"></span></button>
         <button class="filter-btn" data-country="AU" onclick="setFilter(this)">🇦🇺 <span data-i18n="filter_au">澳大利亚</span> <span class="country-count" data-cc="AU"></span></button>
-        <button class="filter-btn" data-country="NZ" onclick="setFilter(this)">🇳🇿 <span data-i18n="filter_nz">新西兰</span> <span class="country-count" data-cc="NZ"></span></button>
-        <button class="filter-btn" data-country="IE" onclick="setFilter(this)">🇮🇪 <span data-i18n="filter_ie">爱尔兰</span> <span class="country-count" data-cc="IE"></span></button>
-        <button class="filter-btn" data-country="SG" onclick="setFilter(this)">🇸🇬 <span data-i18n="filter_sg">新加坡</span> <span class="country-count" data-cc="SG"></span></button>
-        <button class="filter-btn" data-country="HK" onclick="setFilter(this)">🇭🇰 <span data-i18n="filter_hk">香港</span> <span class="country-count" data-cc="HK"></span></button>
+        <button class="filter-btn" data-country="CA" onclick="setFilter(this)">🇨🇦 <span data-i18n="filter_ca">加拿大</span> <span class="country-count" data-cc="CA"></span></button>
         <button class="filter-btn" data-country="CH" onclick="setFilter(this)">🇨🇭 <span data-i18n="filter_ch">瑞士</span> <span class="country-count" data-cc="CH"></span></button>
+        <button class="filter-btn" data-country="CN" onclick="setFilter(this)">🇨🇳 <span data-i18n="filter_cn">中国</span> <span class="country-count" data-cc="CN"></span></button>
         <button class="filter-btn" data-country="DE" onclick="setFilter(this)">🇩🇪 <span data-i18n="filter_de">德国</span> <span class="country-count" data-cc="DE"></span></button>
+        <button class="filter-btn" data-country="HK" onclick="setFilter(this)">🇭🇰 <span data-i18n="filter_hk">香港</span> <span class="country-count" data-cc="HK"></span></button>
+        <button class="filter-btn" data-country="IE" onclick="setFilter(this)">🇮🇪 <span data-i18n="filter_ie">爱尔兰</span> <span class="country-count" data-cc="IE"></span></button>
         <button class="filter-btn" data-country="JP" onclick="setFilter(this)">🇯🇵 <span data-i18n="filter_jp">日本</span> <span class="country-count" data-cc="JP"></span></button>
         <button class="filter-btn" data-country="KR" onclick="setFilter(this)">🇰🇷 <span data-i18n="filter_kr">韩国</span> <span class="country-count" data-cc="KR"></span></button>
+        <button class="filter-btn" data-country="NZ" onclick="setFilter(this)">🇳🇿 <span data-i18n="filter_nz">新西兰</span> <span class="country-count" data-cc="NZ"></span></button>
+        <button class="filter-btn" data-country="SG" onclick="setFilter(this)">🇸🇬 <span data-i18n="filter_sg">新加坡</span> <span class="country-count" data-cc="SG"></span></button>
+        <button class="filter-btn" data-country="UK" onclick="setFilter(this)">🇬🇧 <span data-i18n="filter_uk">英国</span> <span class="country-count" data-cc="UK"></span></button>
+        <button class="filter-btn" data-country="US" onclick="setFilter(this)">🇺🇸 <span data-i18n="filter_us">美国</span> <span class="country-count" data-cc="US"></span></button>
 
       </div>
       <div class="filter-group" id="rankFilters" style="display:flex;align-items:center;gap:.5rem;flex-wrap:wrap">
@@ -35404,6 +35405,2136 @@ const SCHOOLS = [
       "en": "A Jesuit university known for small class sizes and strong humanities/business programs.",
       "zh": "耶稣会大学，以小班教学和人文/商科项目闻名。"
     }
+  },
+  {
+    "id": "tsinghua",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "清华大学",
+      "en": "Tsinghua University"
+    },
+    "city": {
+      "zh": "北京",
+      "en": "Beijing"
+    },
+    "qs": 20,
+    "the": 12,
+    "usnews": 23,
+    "arwu": 22,
+    "tuition": 694,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "工程学",
+        "建筑学",
+        "经济与金融",
+        "材料科学"
+      ],
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Architecture",
+        "Economics & Finance",
+        "Materials Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "清华大学本科学费约¥5,000/年（约$694），中国大学学费远低于欧美。",
+      "en": "Tsinghua University tuition ~¥5,000/yr (~$694). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "清华大学是中国最顶尖的理工科大学，工程和计算机科学全球领先。培养了大量国家领导人和科技精英。",
+      "en": "Tsinghua is China's top science and engineering university with globally leading programs. Has produced numerous national leaders and tech elites."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5000,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5000,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "清华大学校园安全管理严格，治安良好。",
+      "en": "Tsinghua University has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "pku",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "北京大学",
+      "en": "Peking University"
+    },
+    "city": {
+      "zh": "北京",
+      "en": "Beijing"
+    },
+    "qs": 14,
+    "the": 13,
+    "usnews": 39,
+    "arwu": 29,
+    "tuition": 694,
+    "tuitionRange": null,
+    "safety": 9,
+    "majors": {
+      "zh": [
+        "人文学科",
+        "法学",
+        "经济学",
+        "生命科学",
+        "数学"
+      ],
+      "en": [
+        "Humanities",
+        "Law",
+        "Economics",
+        "Life Sciences",
+        "Mathematics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "北京大学本科学费约¥5,000/年（约$694），中国大学学费远低于欧美。",
+      "en": "Peking University tuition ~¥5,000/yr (~$694). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "北京大学是中国最顶尖的综合性大学，人文社科全国第一。创建于1898年，是中国现代高等教育的起源。",
+      "en": "Peking University is China's top comprehensive university, #1 in humanities and social sciences. Founded in 1898, the origin of modern Chinese higher education."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5000,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5000,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "北京大学校园安全管理严格，治安良好。",
+      "en": "Peking University has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "fudan",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "复旦大学",
+      "en": "Fudan University"
+    },
+    "city": {
+      "zh": "上海",
+      "en": "Shanghai"
+    },
+    "qs": 39,
+    "the": 44,
+    "usnews": 105,
+    "arwu": 34,
+    "tuition": 763,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "新闻学",
+        "经济学",
+        "医学",
+        "数学",
+        "哲学"
+      ],
+      "en": [
+        "Journalism",
+        "Economics",
+        "Medicine",
+        "Mathematics",
+        "Philosophy"
+      ]
+    },
+    "majorTuition": {
+      "zh": "复旦大学本科学费约¥5,500/年（约$763），中国大学学费远低于欧美。",
+      "en": "Fudan University tuition ~¥5,500/yr (~$763). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "复旦大学是上海最顶尖的综合性大学，新闻学院和经济学院全国领先。国际化程度高。",
+      "en": "Fudan is Shanghai's top comprehensive university with nationally leading journalism and economics. Highly internationalized."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5500,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5500,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "复旦大学校园安全管理严格，治安良好。",
+      "en": "Fudan University has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "sjtu",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "上海交通大学",
+      "en": "Shanghai Jiao Tong University"
+    },
+    "city": {
+      "zh": "上海",
+      "en": "Shanghai"
+    },
+    "qs": 45,
+    "the": 43,
+    "usnews": 89,
+    "arwu": 46,
+    "tuition": 694,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "工程学",
+        "计算机科学",
+        "医学",
+        "商学",
+        "材料科学"
+      ],
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Medicine",
+        "Business",
+        "Materials Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "上海交通大学本科学费约¥5,000/年（约$694），中国大学学费远低于欧美。",
+      "en": "Shanghai Jiao Tong University tuition ~¥5,000/yr (~$694). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "上海交大是中国顶尖的理工科大学之一，工程学和医学实力雄厚。安泰经管学院亚洲知名。",
+      "en": "SJTU is one of China's top science universities with strong engineering and medicine. Antai College of Economics & Management is renowned in Asia."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5000,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5000,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "上海交通大学校园安全管理严格，治安良好。",
+      "en": "Shanghai Jiao Tong University has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "zju",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "浙江大学",
+      "en": "Zhejiang University"
+    },
+    "city": {
+      "zh": "杭州",
+      "en": "Hangzhou, Zhejiang"
+    },
+    "qs": 36,
+    "the": 44,
+    "usnews": 93,
+    "arwu": 33,
+    "tuition": 694,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "计算机科学",
+        "农业科学",
+        "工程学",
+        "医学",
+        "管理学"
+      ],
+      "en": [
+        "Computer Science",
+        "Agricultural Sciences",
+        "Engineering",
+        "Medicine",
+        "Management"
+      ]
+    },
+    "majorTuition": {
+      "zh": "浙江大学本科学费约¥5,000/年（约$694），中国大学学费远低于欧美。",
+      "en": "Zhejiang University tuition ~¥5,000/yr (~$694). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "浙江大学是中国规模最大的综合性大学之一，学科覆盖面极广。杭州科技创新氛围浓厚（阿里巴巴总部）。",
+      "en": "ZJU is one of China's largest comprehensive universities with extremely broad discipline coverage. Hangzhou is a tech innovation hub (Alibaba HQ)."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5000,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5000,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "浙江大学校园安全管理严格，治安良好。",
+      "en": "Zhejiang University has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "ustc",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "中国科学技术大学",
+      "en": "USTC"
+    },
+    "city": {
+      "zh": "合肥",
+      "en": "Hefei, Anhui"
+    },
+    "qs": 93,
+    "the": 74,
+    "usnews": 115,
+    "arwu": 63,
+    "tuition": 666,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "物理学",
+        "数学",
+        "化学",
+        "计算机科学",
+        "天文学"
+      ],
+      "en": [
+        "Physics",
+        "Mathematics",
+        "Chemistry",
+        "Computer Science",
+        "Astronomy"
+      ]
+    },
+    "majorTuition": {
+      "zh": "中国科学技术大学本科学费约¥4,800/年（约$666），中国大学学费远低于欧美。",
+      "en": "USTC tuition ~¥4,800/yr (~$666). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "中科大以基础科学研究闻名，量子计算和物理学研究全球领先。培养了大量中科院院士。",
+      "en": "USTC is famous for fundamental science with globally leading quantum computing and physics. Has produced many Chinese Academy of Sciences members."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 4800,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 4800,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "中国科学技术大学校园安全管理严格，治安良好。",
+      "en": "USTC has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "nju",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "南京大学",
+      "en": "Nanjing University"
+    },
+    "city": {
+      "zh": "南京",
+      "en": "Nanjing, Jiangsu"
+    },
+    "qs": 126,
+    "the": 95,
+    "usnews": 123,
+    "arwu": 101,
+    "tuition": 694,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "天文学",
+        "地质学",
+        "物理学",
+        "化学",
+        "文学"
+      ],
+      "en": [
+        "Astronomy",
+        "Geology",
+        "Physics",
+        "Chemistry",
+        "Literature"
+      ]
+    },
+    "majorTuition": {
+      "zh": "南京大学本科学费约¥5,000/年（约$694），中国大学学费远低于欧美。",
+      "en": "Nanjing University tuition ~¥5,000/yr (~$694). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "南京大学天文学和地质学全国第一，基础学科实力深厚。百年名校，学术传统悠久。",
+      "en": "NJU is #1 nationally in astronomy and geology with deep fundamental science strengths. A century-old prestigious university."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5000,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5000,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "南京大学校园安全管理严格，治安良好。",
+      "en": "Nanjing University has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "whu",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "武汉大学",
+      "en": "Wuhan University"
+    },
+    "city": {
+      "zh": "武汉",
+      "en": "Wuhan, Hubei"
+    },
+    "qs": 150,
+    "the": 189,
+    "usnews": 170,
+    "arwu": 151,
+    "tuition": 694,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "测绘科学",
+        "法学",
+        "水利工程",
+        "新闻学",
+        "经济学"
+      ],
+      "en": [
+        "Surveying & Mapping",
+        "Law",
+        "Hydraulic Engineering",
+        "Journalism",
+        "Economics"
+      ]
+    },
+    "majorTuition": {
+      "zh": "武汉大学本科学费约¥5,000/年（约$694），中国大学学费远低于欧美。",
+      "en": "Wuhan University tuition ~¥5,000/yr (~$694). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "武汉大学以樱花和优美校园闻名，测绘科学和遥感全球第一。综合实力强劲的百年名校。",
+      "en": "WHU is famous for its cherry blossoms and beautiful campus. #1 globally in surveying and remote sensing. A strong century-old university."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5000,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5000,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "武汉大学校园安全管理严格，治安良好。",
+      "en": "Wuhan University has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "hust",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "华中科技大学",
+      "en": "HUST"
+    },
+    "city": {
+      "zh": "武汉",
+      "en": "Wuhan, Hubei"
+    },
+    "qs": 177,
+    "the": 176,
+    "usnews": 166,
+    "arwu": 101,
+    "tuition": 694,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "机械工程",
+        "光电信息",
+        "计算机科学",
+        "医学",
+        "电气工程"
+      ],
+      "en": [
+        "Mechanical Engineering",
+        "Optoelectronics",
+        "Computer Science",
+        "Medicine",
+        "Electrical Engineering"
+      ]
+    },
+    "majorTuition": {
+      "zh": "华中科技大学本科学费约¥5,000/年（约$694），中国大学学费远低于欧美。",
+      "en": "HUST tuition ~¥5,000/yr (~$694). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "华中科技大学以工科见长，机械工程和光电学科全国顶尖。同济医学院历史悠久。",
+      "en": "HUST excels in engineering with nationally top mechanical and optoelectronics programs. Tongji Medical College has a long history."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5000,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5000,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "华中科技大学校园安全管理严格，治安良好。",
+      "en": "HUST has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "sysu",
+    "country": "CN",
+    "flag": "🇨🇳",
+    "name": {
+      "zh": "中山大学",
+      "en": "Sun Yat-sen University"
+    },
+    "city": {
+      "zh": "广州",
+      "en": "Guangzhou, Guangdong"
+    },
+    "qs": 197,
+    "the": 168,
+    "usnews": 159,
+    "arwu": 73,
+    "tuition": 763,
+    "tuitionRange": null,
+    "safety": 8,
+    "majors": {
+      "zh": [
+        "医学",
+        "商学",
+        "哲学",
+        "生物学",
+        "海洋科学"
+      ],
+      "en": [
+        "Medicine",
+        "Business",
+        "Philosophy",
+        "Biology",
+        "Marine Science"
+      ]
+    },
+    "majorTuition": {
+      "zh": "中山大学本科学费约¥5,500/年（约$763），中国大学学费远低于欧美。",
+      "en": "Sun Yat-sen University tuition ~¥5,500/yr (~$763). Chinese universities are far more affordable than Western ones."
+    },
+    "desc": {
+      "zh": "中山大学是华南地区最好的综合性大学，医学和商学实力突出。在深圳、珠海设有校区，大湾区就业优势明显。",
+      "en": "SYSU is South China's top comprehensive university with strong medicine and business. Campuses in Shenzhen and Zhuhai offer GBA employment advantages."
+    },
+    "tuitionBreakdown": {
+      "zh": {
+        "学费(RMB)": 5500,
+        "住宿(RMB)": 1200,
+        "书本费(RMB)": 500,
+        "生活费(RMB)": 18000
+      },
+      "en": {
+        "Tuition(RMB)": 5500,
+        "Housing(RMB)": 1200,
+        "Books(RMB)": 500,
+        "Living(RMB)": 18000
+      }
+    },
+    "requirements": {
+      "TOEFL": "N/A",
+      "IELTS": "N/A",
+      "SAT": "高考/Gaokao"
+    },
+    "deadline": {
+      "zh": "高考后（内地）/ 1-5月（国际生）",
+      "en": "After Gaokao (mainland) / Jan-May (international)"
+    },
+    "safetyDetail": {
+      "zh": "中山大学校园安全管理严格，治安良好。",
+      "en": "Sun Yat-sen University has strict campus security and good safety."
+    },
+    "climate": {
+      "zh": "因城市而异",
+      "en": "Varies by city"
+    },
+    "livingCost": {
+      "zh": "约¥2,500/月",
+      "en": "~¥2,500/month (~$345)"
+    },
+    "livingCostAnnual": 4200,
+    "insurance": 100,
+    "flights": 0,
+    "visa": {
+      "zh": "中国学生：无需签证。国际学生：X1签证(长期)或X2签证(短期)。毕业后可通过工作签证留华。",
+      "en": "Chinese students: no visa needed. International: X1 visa (long-term) or X2 (short-term). Post-graduation work visa available."
+    },
+    "housing": {
+      "zh": "校内宿舍通常有保障。",
+      "en": "On-campus dormitory typically guaranteed."
+    },
+    "graduationRate": {
+      "zh": "毕业率良好。",
+      "en": "Good graduation rates."
+    },
+    "employment": {
+      "zh": "就业前景良好，学校提供就业指导服务。",
+      "en": "Good employment prospects with career guidance services."
+    },
+    "healthcare": {
+      "zh": "✅ 国际学生需购买综合医疗保险约¥600-800/年。校内设有校医院，提供基本医疗服务。持医保可报销部分费用。",
+      "en": "✅ International students must purchase insurance ~¥600-800/yr. On-campus hospital provides basic medical services."
+    },
+    "application": {
+      "zh": "📋 申请平台：高考统招（内地生）/ 各校国际生申请系统\n📅 截止日期：高考后填报志愿 / 国际生1月-5月\n💰 申请费：¥0（高考）/ ¥200-800（国际生）\n📝 所需材料：高考成绩 / 国际课程成绩、语言成绩",
+      "en": "📋 Platform: Gaokao (mainland) / University international portal\n📅 Deadline: After Gaokao / International: Jan-May\n💰 Fee: ¥0 (Gaokao) / ¥200-800 (international)\n📝 Required: Gaokao scores / International curriculum + language scores"
+    }
+  },
+  {
+    "id": "hit",
+    "name": {
+      "en": "Harbin Institute of Technology",
+      "zh": "哈尔滨工业大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Harbin",
+      "zh": "哈尔滨"
+    },
+    "qs": 256,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 26000,
+    "livingCost": {
+      "en": "¥25,000/year",
+      "zh": "¥25,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~5%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Aerospace Engineering",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Materials Science",
+        "Electrical Engineering",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Robotics",
+        "Automation",
+        "Architecture",
+        "Environmental Engineering",
+        "Control Science",
+        "Management",
+        "Economics",
+        "Law",
+        "Philosophy"
+      ],
+      "zh": [
+        "航空航天工程",
+        "计算机科学",
+        "机械工程",
+        "土木工程",
+        "材料科学",
+        "电气工程",
+        "数学",
+        "物理学",
+        "化学",
+        "机器人",
+        "自动化",
+        "建筑学",
+        "环境工程",
+        "控制科学",
+        "管理学",
+        "经济学",
+        "法学",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "C9 League member. Top for aerospace and engineering in China.",
+      "zh": "C9联盟成员，中国航空航天和工程顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 26000
+      },
+      "zh": {
+        "学费": 26000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥26,000/year",
+      "zh": "学费: ¥26,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "xjtu",
+    "name": {
+      "en": "Xi'an Jiaotong University",
+      "zh": "西安交通大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Xi'an",
+      "zh": "西安"
+    },
+    "qs": 344,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 101,
+    "tuition": 25000,
+    "livingCost": {
+      "en": "¥22,000/year",
+      "zh": "¥22,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Management",
+        "Computer Science",
+        "Medicine",
+        "Energy",
+        "Materials Science",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Law",
+        "Automation",
+        "Architecture",
+        "Biology",
+        "Public Administration",
+        "Foreign Languages",
+        "Philosophy"
+      ],
+      "zh": [
+        "电气工程",
+        "机械工程",
+        "管理学",
+        "计算机科学",
+        "医学",
+        "能源",
+        "材料科学",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "法学",
+        "自动化",
+        "建筑学",
+        "生物学",
+        "公共管理",
+        "外国语",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "C9 League. Pioneer in engineering education in western China.",
+      "zh": "C9联盟，中国西部工程教育先驱。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 25000
+      },
+      "zh": {
+        "学费": 25000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥25,000/year",
+      "zh": "学费: ¥25,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "tongji",
+    "name": {
+      "en": "Tongji University",
+      "zh": "同济大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Shanghai",
+      "zh": "上海"
+    },
+    "qs": 192,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "¥35,000/year",
+      "zh": "¥35,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~6%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Architecture",
+        "Civil Engineering",
+        "Urban Planning",
+        "Automotive Engineering",
+        "Environmental Engineering",
+        "Computer Science",
+        "Design",
+        "Mechanical Engineering",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Law",
+        "Medicine",
+        "Management",
+        "German Language",
+        "Marine Science",
+        "Art"
+      ],
+      "zh": [
+        "建筑学",
+        "土木工程",
+        "城市规划",
+        "汽车工程",
+        "环境工程",
+        "计算机科学",
+        "设计",
+        "机械工程",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "法学",
+        "医学",
+        "管理学",
+        "德语",
+        "海洋科学",
+        "艺术"
+      ]
+    },
+    "desc": {
+      "en": "Top for architecture and civil engineering. Strong German university partnerships.",
+      "zh": "建筑和土木顶尖，与德国大学合作紧密。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥30,000/year",
+      "zh": "学费: ¥30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "bhu",
+    "name": {
+      "en": "Beihang University",
+      "zh": "北京航空航天大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "qs": 388,
+    "the": 501,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 27000,
+    "livingCost": {
+      "en": "¥30,000/year",
+      "zh": "¥30,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~5%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Aerospace Engineering",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Automation",
+        "Materials Science",
+        "Electrical Engineering",
+        "Software Engineering",
+        "Mathematics",
+        "Physics",
+        "Reliability Engineering",
+        "Transportation",
+        "Economics",
+        "Law",
+        "Foreign Languages",
+        "Design",
+        "Management",
+        "Chemistry",
+        "Biology"
+      ],
+      "zh": [
+        "航空航天工程",
+        "计算机科学",
+        "机械工程",
+        "自动化",
+        "材料科学",
+        "电气工程",
+        "软件工程",
+        "数学",
+        "物理学",
+        "可靠性工程",
+        "交通运输",
+        "经济学",
+        "法学",
+        "外国语",
+        "设计",
+        "管理学",
+        "化学",
+        "生物学"
+      ]
+    },
+    "desc": {
+      "en": "China's top aerospace university. Strong in CS and automation.",
+      "zh": "中国顶级航空航天大学，CS和自动化强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 27000
+      },
+      "zh": {
+        "学费": 27000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥27,000/year",
+      "zh": "学费: ¥27,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "nankai",
+    "name": {
+      "en": "Nankai University",
+      "zh": "南开大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Tianjin",
+      "zh": "天津"
+    },
+    "qs": 372,
+    "the": 351,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 24000,
+    "livingCost": {
+      "en": "¥22,000/year",
+      "zh": "¥22,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Chemistry",
+        "Economics",
+        "Mathematics",
+        "History",
+        "Philosophy",
+        "Business",
+        "Computer Science",
+        "Biology",
+        "Physics",
+        "Environmental Science",
+        "Literature",
+        "Law",
+        "Sociology",
+        "Statistics",
+        "Finance",
+        "Pharmacy",
+        "Art",
+        "Foreign Languages"
+      ],
+      "zh": [
+        "化学",
+        "经济学",
+        "数学",
+        "历史学",
+        "哲学",
+        "商科",
+        "计算机科学",
+        "生物学",
+        "物理学",
+        "环境科学",
+        "文学",
+        "法学",
+        "社会学",
+        "统计学",
+        "金融",
+        "药学",
+        "艺术",
+        "外国语"
+      ]
+    },
+    "desc": {
+      "en": "Zhou Enlai's alma mater. Top for chemistry, economics, and mathematics.",
+      "zh": "周恩来母校，化学、经济学和数学顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 24000
+      },
+      "zh": {
+        "学费": 24000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥24,000/year",
+      "zh": "学费: ¥24,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "seu",
+    "name": {
+      "en": "Southeast University",
+      "zh": "东南大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Nanjing",
+      "zh": "南京"
+    },
+    "qs": 401,
+    "the": 501,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 26000,
+    "livingCost": {
+      "en": "¥25,000/year",
+      "zh": "¥25,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~7%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Architecture",
+        "Electrical Engineering",
+        "Computer Science",
+        "Civil Engineering",
+        "Biomedical Engineering",
+        "Information Engineering",
+        "Transportation",
+        "Mechanical Engineering",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Art",
+        "Law",
+        "Medicine",
+        "Automation",
+        "Design",
+        "Management"
+      ],
+      "zh": [
+        "建筑学",
+        "电气工程",
+        "计算机科学",
+        "土木工程",
+        "生物医学工程",
+        "信息工程",
+        "交通运输",
+        "机械工程",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "艺术",
+        "法学",
+        "医学",
+        "自动化",
+        "设计",
+        "管理学"
+      ]
+    },
+    "desc": {
+      "en": "Top for architecture and biomedical engineering. One of China's oldest universities.",
+      "zh": "建筑和生物医学工程顶尖，中国最古老大学之一。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 26000
+      },
+      "zh": {
+        "学费": 26000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥26,000/year",
+      "zh": "学费: ¥26,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "tju",
+    "name": {
+      "en": "Tianjin University",
+      "zh": "天津大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Tianjin",
+      "zh": "天津"
+    },
+    "qs": 443,
+    "the": 501,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 25000,
+    "livingCost": {
+      "en": "¥22,000/year",
+      "zh": "¥22,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Chemical Engineering",
+        "Architecture",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Computer Science",
+        "Electrical Engineering",
+        "Materials Science",
+        "Environmental Engineering",
+        "Management",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Automation",
+        "Marine Science",
+        "Biology",
+        "Law",
+        "Art"
+      ],
+      "zh": [
+        "化学工程",
+        "建筑学",
+        "机械工程",
+        "土木工程",
+        "计算机科学",
+        "电气工程",
+        "材料科学",
+        "环境工程",
+        "管理学",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "自动化",
+        "海洋科学",
+        "生物学",
+        "法学",
+        "艺术"
+      ]
+    },
+    "desc": {
+      "en": "China's first modern university (1895). Strong in chemical engineering and architecture.",
+      "zh": "中国第一所现代大学（1895年），化学工程和建筑强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 25000
+      },
+      "zh": {
+        "学费": 25000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥25,000/year",
+      "zh": "学费: ¥25,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "scu_cn",
+    "name": {
+      "en": "Sichuan University",
+      "zh": "四川大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Chengdu",
+      "zh": "成都"
+    },
+    "qs": 472,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 24000,
+    "livingCost": {
+      "en": "¥20,000/year",
+      "zh": "¥20,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-34",
+      "zh": "IB 28-34"
+    },
+    "acceptanceRate": {
+      "overall": "~10%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Stomatology",
+        "Literature",
+        "Mathematics",
+        "Chemistry",
+        "Biology",
+        "Computer Science",
+        "Medicine",
+        "Materials Science",
+        "History",
+        "Philosophy",
+        "Law",
+        "Economics",
+        "Art",
+        "Physics",
+        "Hydraulic Engineering",
+        "Polymer Materials",
+        "Management",
+        "Foreign Languages"
+      ],
+      "zh": [
+        "口腔医学",
+        "文学",
+        "数学",
+        "化学",
+        "生物学",
+        "计算机科学",
+        "医学",
+        "材料科学",
+        "历史学",
+        "哲学",
+        "法学",
+        "经济学",
+        "艺术",
+        "物理学",
+        "水利工程",
+        "高分子材料",
+        "管理学",
+        "外国语"
+      ]
+    },
+    "desc": {
+      "en": "Top stomatology (dental) school in Asia. Comprehensive university in Chengdu.",
+      "zh": "亚洲顶尖口腔医学院，成都综合性大学。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 24000
+      },
+      "zh": {
+        "学费": 24000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥24,000/year",
+      "zh": "学费: ¥24,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "ruc",
+    "name": {
+      "en": "Renmin University of China",
+      "zh": "中国人民大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "qs": 487,
+    "the": 501,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 26000,
+    "livingCost": {
+      "en": "¥30,000/year",
+      "zh": "¥30,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~6%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Economics",
+        "Law",
+        "Journalism",
+        "Sociology",
+        "Philosophy",
+        "Political Science",
+        "Business",
+        "Finance",
+        "Statistics",
+        "Literature",
+        "History",
+        "Public Administration",
+        "Art",
+        "Mathematics",
+        "Information Management",
+        "Agriculture Economics",
+        "Psychology",
+        "Foreign Languages"
+      ],
+      "zh": [
+        "经济学",
+        "法学",
+        "新闻学",
+        "社会学",
+        "哲学",
+        "政治学",
+        "商科",
+        "金融",
+        "统计学",
+        "文学",
+        "历史学",
+        "公共管理",
+        "艺术",
+        "数学",
+        "信息管理",
+        "农业经济",
+        "心理学",
+        "外国语"
+      ]
+    },
+    "desc": {
+      "en": "China's top for humanities and social sciences. Premier law and journalism school.",
+      "zh": "中国人文社科顶尖，法学和新闻学一流。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 26000
+      },
+      "zh": {
+        "学费": 26000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥26,000/year",
+      "zh": "学费: ¥26,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "buaa",
+    "name": {
+      "en": "Beijing Normal University",
+      "zh": "北京师范大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "qs": 256,
+    "the": 301,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 25000,
+    "livingCost": {
+      "en": "¥30,000/year",
+      "zh": "¥30,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-34",
+      "zh": "IB 28-34"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~22%"
+    },
+    "majors": {
+      "en": [
+        "Education",
+        "Psychology",
+        "Literature",
+        "History",
+        "Mathematics",
+        "Geography",
+        "Philosophy",
+        "Chinese Language",
+        "Environmental Science",
+        "Chemistry",
+        "Physics",
+        "Biology",
+        "Sociology",
+        "Art",
+        "Film",
+        "Economics",
+        "Law",
+        "Astronomy"
+      ],
+      "zh": [
+        "教育学",
+        "心理学",
+        "文学",
+        "历史学",
+        "数学",
+        "地理学",
+        "哲学",
+        "中国语言",
+        "环境科学",
+        "化学",
+        "物理学",
+        "生物学",
+        "社会学",
+        "艺术",
+        "电影",
+        "经济学",
+        "法学",
+        "天文学"
+      ]
+    },
+    "desc": {
+      "en": "China's #1 for education and psychology. Top teacher training university.",
+      "zh": "中国教育学和心理学第一，顶级师范大学。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 25000
+      },
+      "zh": {
+        "学费": 25000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥25,000/year",
+      "zh": "学费: ¥25,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
   }
 ];
 
@@ -36017,8 +38148,8 @@ function closeDetail(){
   // Build country toggles
   const countries = {};
   SCHOOLS.forEach(s => { if(!countries[s.country]) countries[s.country] = {flag:s.flag, count:0}; countries[s.country].count++; });
-  const countryOrder = ['US','UK','CA','AU','SG','HK','NZ','CH','IE','DE','JP','KR'];
-  const countryNames = {US:{zh:'美国',en:'US'},UK:{zh:'英国',en:'UK'},CA:{zh:'加拿大',en:'CA'},AU:{zh:'澳大利亚',en:'AU'},SG:{zh:'新加坡',en:'SG'},HK:{zh:'香港',en:'HK'},NZ:{zh:'新西兰',en:'NZ'},CH:{zh:'瑞士',en:'CH'},IE:{zh:'爱尔兰',en:'IE'},DE:{zh:'德国',en:'DE'},JP:{zh:'日本',en:'JP'},KR:{zh:'韩国',en:'KR'}};
+  const countryOrder = ['AU','CA','CH','CN','DE','HK','IE','JP','KR','NZ','SG','UK','US'];
+  const countryNames = {AU:{zh:'澳大利亚',en:'AU'},CA:{zh:'加拿大',en:'CA'},CH:{zh:'瑞士',en:'CH'},CN:{zh:'中国',en:'CN'},DE:{zh:'德国',en:'DE'},HK:{zh:'香港',en:'HK'},IE:{zh:'爱尔兰',en:'IE'},JP:{zh:'日本',en:'JP'},KR:{zh:'韩国',en:'KR'},NZ:{zh:'新西兰',en:'NZ'},SG:{zh:'新加坡',en:'SG'},UK:{zh:'英国',en:'UK'},US:{zh:'美国',en:'US'}};
   const cDiv = document.getElementById('recCountries');
   countryOrder.forEach(c => {
     if(!countries[c]) return;

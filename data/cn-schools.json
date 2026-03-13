@@ -1060,743 +1060,1073 @@
     }
   },
   {
-    "id": "hku",
+    "id": "hit",
+    "name": {
+      "en": "Harbin Institute of Technology",
+      "zh": "哈尔滨工业大学"
+    },
     "country": "CN",
     "flag": "🇨🇳",
-    "name": {
-      "zh": "香港大学",
-      "en": "University of Hong Kong"
-    },
     "city": {
-      "zh": "香港",
-      "en": "Hong Kong"
+      "en": "Harbin",
+      "zh": "哈尔滨"
     },
-    "qs": 17,
-    "the": 35,
-    "usnews": 53,
-    "arwu": 101,
-    "tuition": 23333,
-    "tuitionRange": null,
-    "safety": 8,
-    "majors": {
-      "zh": [
-        "医学",
-        "法学",
-        "商学",
-        "建筑学",
-        "工程学"
-      ],
-      "en": [
-        "Medicine",
-        "Law",
-        "Business",
-        "Architecture",
-        "Engineering"
-      ]
-    },
-    "majorTuition": {
-      "zh": "香港大学本科学费约HK$182,000/年（约$23,333），各专业学费基本统一。",
-      "en": "University of Hong Kong undergraduate tuition ~HK$182,000/yr (~$23,333). Uniform across programs."
-    },
-    "desc": {
-      "zh": "香港大学是亚洲最具声望的大学之一，医学和法学全球领先。全英文教学，国际化程度极高。",
-      "en": "HKU is one of Asia's most prestigious universities with globally leading medicine and law. Fully English-taught, highly internationalized."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费(HKD)": 182000,
-        "住宿(HKD)": 18000,
-        "生活费(HKD)": 60000,
-        "书本费(HKD)": 5000
-      },
-      "en": {
-        "Tuition(HKD)": 182000,
-        "Housing(HKD)": 18000,
-        "Living(HKD)": 60000,
-        "Books(HKD)": 5000
-      }
-    },
-    "requirements": {
-      "TOEFL": "80+",
-      "IELTS": "6.0+",
-      "SAT": "高考/SAT/IB/A-Level"
-    },
-    "deadline": {
-      "zh": "1月-4月（因校而异）",
-      "en": "Jan-Apr (varies)"
-    },
-    "safetyDetail": {
-      "zh": "香港大学校园安全管理严格，治安良好。",
-      "en": "University of Hong Kong has strict campus security and good safety."
-    },
-    "climate": {
-      "zh": "因城市而异",
-      "en": "Varies by city"
-    },
-    "livingCost": {
-      "zh": "约HK$8,000/月",
-      "en": "~HK$8,000/month (~$1,025)"
-    },
-    "livingCostAnnual": 33333,
-    "insurance": 400,
-    "flights": 800,
-    "visa": {
-      "zh": "内地学生：凭录取通知书办理逗留签注(D签)。国际学生：需申请学生签证。毕业后可申请IANG签证(1年)，之后可续签。在港居住满7年可申请永久居民。",
-      "en": "Mainland students: D visa with admission letter. International students: student visa required. After graduation: IANG visa (1 year, renewable). Permanent residency after 7 years in HK."
-    },
-    "housing": {
-      "zh": "大一通常保证校内宿舍。",
-      "en": "First-year housing usually guaranteed."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好。",
-      "en": "Good graduation rates."
-    },
-    "employment": {
-      "zh": "就业前景良好，学校提供就业指导服务。",
-      "en": "Good employment prospects with career guidance services."
-    },
-    "healthcare": {
-      "zh": "✅ 学校提供医疗保险计划。校内设有University Health Service。香港公立医院急诊费用HK$180。学生可购买额外商业保险约HK$1,500-3,000/年。",
-      "en": "✅ University health insurance plan available. On-campus University Health Service. HK public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：高考成绩/SAT/IB/A-Level、英语成绩（雅思6.0+/托福80+）、个人陈述、推荐信",
-      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: Gaokao/SAT/IB/A-Level scores, English proficiency (IELTS 6.0+/TOEFL 80+), personal statement, references"
-    }
-  },
-  {
-    "id": "cuhk",
-    "country": "CN",
-    "flag": "🇨🇳",
-    "name": {
-      "zh": "香港中文大学",
-      "en": "Chinese University of Hong Kong"
-    },
-    "city": {
-      "zh": "香港",
-      "en": "Hong Kong"
-    },
-    "qs": 36,
-    "the": 53,
-    "usnews": 82,
-    "arwu": 101,
-    "tuition": 18589,
-    "tuitionRange": null,
-    "safety": 8,
-    "majors": {
-      "zh": [
-        "商学",
-        "医学",
-        "传播学",
-        "翻译学",
-        "计算机科学"
-      ],
-      "en": [
-        "Business",
-        "Medicine",
-        "Communications",
-        "Translation",
-        "Computer Science"
-      ]
-    },
-    "majorTuition": {
-      "zh": "香港中文大学本科学费约HK$145,000/年（约$18,589），各专业学费基本统一。",
-      "en": "Chinese University of Hong Kong undergraduate tuition ~HK$145,000/yr (~$18,589). Uniform across programs."
-    },
-    "desc": {
-      "zh": "港中大以双语教育闻名，商学院亚洲顶尖。校园依山傍水，是香港最大最美的大学校园。",
-      "en": "CUHK is famous for bilingual education with a top Asian business school. Its mountainside campus is Hong Kong's largest and most beautiful."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费(HKD)": 145000,
-        "住宿(HKD)": 18000,
-        "生活费(HKD)": 60000,
-        "书本费(HKD)": 5000
-      },
-      "en": {
-        "Tuition(HKD)": 145000,
-        "Housing(HKD)": 18000,
-        "Living(HKD)": 60000,
-        "Books(HKD)": 5000
-      }
-    },
-    "requirements": {
-      "TOEFL": "80+",
-      "IELTS": "6.0+",
-      "SAT": "高考/SAT/IB/A-Level"
-    },
-    "deadline": {
-      "zh": "1月-4月（因校而异）",
-      "en": "Jan-Apr (varies)"
-    },
-    "safetyDetail": {
-      "zh": "香港中文大学校园安全管理严格，治安良好。",
-      "en": "Chinese University of Hong Kong has strict campus security and good safety."
-    },
-    "climate": {
-      "zh": "因城市而异",
-      "en": "Varies by city"
-    },
-    "livingCost": {
-      "zh": "约HK$8,000/月",
-      "en": "~HK$8,000/month (~$1,025)"
-    },
-    "livingCostAnnual": 28589,
-    "insurance": 400,
-    "flights": 800,
-    "visa": {
-      "zh": "内地学生：凭录取通知书办理逗留签注(D签)。国际学生：需申请学生签证。毕业后可申请IANG签证(1年)，之后可续签。在港居住满7年可申请永久居民。",
-      "en": "Mainland students: D visa with admission letter. International students: student visa required. After graduation: IANG visa (1 year, renewable). Permanent residency after 7 years in HK."
-    },
-    "housing": {
-      "zh": "大一通常保证校内宿舍。",
-      "en": "First-year housing usually guaranteed."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好。",
-      "en": "Good graduation rates."
-    },
-    "employment": {
-      "zh": "就业前景良好，学校提供就业指导服务。",
-      "en": "Good employment prospects with career guidance services."
-    },
-    "healthcare": {
-      "zh": "✅ 学校提供医疗保险计划。校内设有University Health Service。香港公立医院急诊费用HK$180。学生可购买额外商业保险约HK$1,500-3,000/年。",
-      "en": "✅ University health insurance plan available. On-campus University Health Service. HK public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：高考成绩/SAT/IB/A-Level、英语成绩（雅思6.0+/托福80+）、个人陈述、推荐信",
-      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: Gaokao/SAT/IB/A-Level scores, English proficiency (IELTS 6.0+/TOEFL 80+), personal statement, references"
-    }
-  },
-  {
-    "id": "hkust",
-    "country": "CN",
-    "flag": "🇨🇳",
-    "name": {
-      "zh": "香港科技大学",
-      "en": "HKUST"
-    },
-    "city": {
-      "zh": "香港",
-      "en": "Hong Kong"
-    },
-    "qs": 47,
-    "the": 64,
-    "usnews": 101,
+    "qs": 256,
+    "the": 401,
+    "usnews": 301,
     "arwu": 201,
-    "tuition": 19871,
-    "tuitionRange": null,
+    "tuition": 26000,
+    "livingCost": {
+      "en": "¥25,000/year",
+      "zh": "¥25,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
     "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~5%",
+      "intl": "~15%"
+    },
     "majors": {
-      "zh": [
-        "商学",
-        "计算机科学",
-        "工程学",
-        "金融学",
-        "数据科学"
-      ],
       "en": [
+        "Aerospace Engineering",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Materials Science",
+        "Electrical Engineering",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Robotics",
+        "Automation",
+        "Architecture",
+        "Environmental Engineering",
+        "Control Science",
+        "Management",
+        "Economics",
+        "Law",
+        "Philosophy"
+      ],
+      "zh": [
+        "航空航天工程",
+        "计算机科学",
+        "机械工程",
+        "土木工程",
+        "材料科学",
+        "电气工程",
+        "数学",
+        "物理学",
+        "化学",
+        "机器人",
+        "自动化",
+        "建筑学",
+        "环境工程",
+        "控制科学",
+        "管理学",
+        "经济学",
+        "法学",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "C9 League member. Top for aerospace and engineering in China.",
+      "zh": "C9联盟成员，中国航空航天和工程顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 26000
+      },
+      "zh": {
+        "学费": 26000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥26,000/year",
+      "zh": "学费: ¥26,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "xjtu",
+    "name": {
+      "en": "Xi'an Jiaotong University",
+      "zh": "西安交通大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Xi'an",
+      "zh": "西安"
+    },
+    "qs": 344,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 101,
+    "tuition": 25000,
+    "livingCost": {
+      "en": "¥22,000/year",
+      "zh": "¥22,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Management",
+        "Computer Science",
+        "Medicine",
+        "Energy",
+        "Materials Science",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Law",
+        "Automation",
+        "Architecture",
+        "Biology",
+        "Public Administration",
+        "Foreign Languages",
+        "Philosophy"
+      ],
+      "zh": [
+        "电气工程",
+        "机械工程",
+        "管理学",
+        "计算机科学",
+        "医学",
+        "能源",
+        "材料科学",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "法学",
+        "自动化",
+        "建筑学",
+        "生物学",
+        "公共管理",
+        "外国语",
+        "哲学"
+      ]
+    },
+    "desc": {
+      "en": "C9 League. Pioneer in engineering education in western China.",
+      "zh": "C9联盟，中国西部工程教育先驱。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 25000
+      },
+      "zh": {
+        "学费": 25000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥25,000/year",
+      "zh": "学费: ¥25,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "tongji",
+    "name": {
+      "en": "Tongji University",
+      "zh": "同济大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Shanghai",
+      "zh": "上海"
+    },
+    "qs": 192,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 30000,
+    "livingCost": {
+      "en": "¥35,000/year",
+      "zh": "¥35,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~6%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Architecture",
+        "Civil Engineering",
+        "Urban Planning",
+        "Automotive Engineering",
+        "Environmental Engineering",
+        "Computer Science",
+        "Design",
+        "Mechanical Engineering",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Law",
+        "Medicine",
+        "Management",
+        "German Language",
+        "Marine Science",
+        "Art"
+      ],
+      "zh": [
+        "建筑学",
+        "土木工程",
+        "城市规划",
+        "汽车工程",
+        "环境工程",
+        "计算机科学",
+        "设计",
+        "机械工程",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "法学",
+        "医学",
+        "管理学",
+        "德语",
+        "海洋科学",
+        "艺术"
+      ]
+    },
+    "desc": {
+      "en": "Top for architecture and civil engineering. Strong German university partnerships.",
+      "zh": "建筑和土木顶尖，与德国大学合作紧密。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 30000
+      },
+      "zh": {
+        "学费": 30000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥30,000/year",
+      "zh": "学费: ¥30,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "bhu",
+    "name": {
+      "en": "Beihang University",
+      "zh": "北京航空航天大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "qs": 388,
+    "the": 501,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 27000,
+    "livingCost": {
+      "en": "¥30,000/year",
+      "zh": "¥30,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~5%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Aerospace Engineering",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Automation",
+        "Materials Science",
+        "Electrical Engineering",
+        "Software Engineering",
+        "Mathematics",
+        "Physics",
+        "Reliability Engineering",
+        "Transportation",
+        "Economics",
+        "Law",
+        "Foreign Languages",
+        "Design",
+        "Management",
+        "Chemistry",
+        "Biology"
+      ],
+      "zh": [
+        "航空航天工程",
+        "计算机科学",
+        "机械工程",
+        "自动化",
+        "材料科学",
+        "电气工程",
+        "软件工程",
+        "数学",
+        "物理学",
+        "可靠性工程",
+        "交通运输",
+        "经济学",
+        "法学",
+        "外国语",
+        "设计",
+        "管理学",
+        "化学",
+        "生物学"
+      ]
+    },
+    "desc": {
+      "en": "China's top aerospace university. Strong in CS and automation.",
+      "zh": "中国顶级航空航天大学，CS和自动化强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 27000
+      },
+      "zh": {
+        "学费": 27000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥27,000/year",
+      "zh": "学费: ¥27,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "nankai",
+    "name": {
+      "en": "Nankai University",
+      "zh": "南开大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Tianjin",
+      "zh": "天津"
+    },
+    "qs": 372,
+    "the": 351,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 24000,
+    "livingCost": {
+      "en": "¥22,000/year",
+      "zh": "¥22,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Chemistry",
+        "Economics",
+        "Mathematics",
+        "History",
+        "Philosophy",
         "Business",
         "Computer Science",
-        "Engineering",
+        "Biology",
+        "Physics",
+        "Environmental Science",
+        "Literature",
+        "Law",
+        "Sociology",
+        "Statistics",
         "Finance",
-        "Data Science"
-      ]
-    },
-    "majorTuition": {
-      "zh": "香港科技大学本科学费约HK$155,000/年（约$19,871），各专业学费基本统一。",
-      "en": "HKUST undergraduate tuition ~HK$155,000/yr (~$19,871). Uniform across programs."
-    },
-    "desc": {
-      "zh": "港科大成立仅30余年即跻身世界顶尖，商学院全球Top 10。以创新和创业精神著称。",
-      "en": "HKUST reached world-class status in just 30+ years. Business school ranked global top 10. Known for innovation and entrepreneurship."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费(HKD)": 155000,
-        "住宿(HKD)": 18000,
-        "生活费(HKD)": 60000,
-        "书本费(HKD)": 5000
-      },
-      "en": {
-        "Tuition(HKD)": 155000,
-        "Housing(HKD)": 18000,
-        "Living(HKD)": 60000,
-        "Books(HKD)": 5000
-      }
-    },
-    "requirements": {
-      "TOEFL": "80+",
-      "IELTS": "6.0+",
-      "SAT": "高考/SAT/IB/A-Level"
-    },
-    "deadline": {
-      "zh": "1月-4月（因校而异）",
-      "en": "Jan-Apr (varies)"
-    },
-    "safetyDetail": {
-      "zh": "香港科技大学校园安全管理严格，治安良好。",
-      "en": "HKUST has strict campus security and good safety."
-    },
-    "climate": {
-      "zh": "因城市而异",
-      "en": "Varies by city"
-    },
-    "livingCost": {
-      "zh": "约HK$8,000/月",
-      "en": "~HK$8,000/month (~$1,025)"
-    },
-    "livingCostAnnual": 29871,
-    "insurance": 400,
-    "flights": 800,
-    "visa": {
-      "zh": "内地学生：凭录取通知书办理逗留签注(D签)。国际学生：需申请学生签证。毕业后可申请IANG签证(1年)，之后可续签。在港居住满7年可申请永久居民。",
-      "en": "Mainland students: D visa with admission letter. International students: student visa required. After graduation: IANG visa (1 year, renewable). Permanent residency after 7 years in HK."
-    },
-    "housing": {
-      "zh": "大一通常保证校内宿舍。",
-      "en": "First-year housing usually guaranteed."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好。",
-      "en": "Good graduation rates."
-    },
-    "employment": {
-      "zh": "就业前景良好，学校提供就业指导服务。",
-      "en": "Good employment prospects with career guidance services."
-    },
-    "healthcare": {
-      "zh": "✅ 学校提供医疗保险计划。校内设有University Health Service。香港公立医院急诊费用HK$180。学生可购买额外商业保险约HK$1,500-3,000/年。",
-      "en": "✅ University health insurance plan available. On-campus University Health Service. HK public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：高考成绩/SAT/IB/A-Level、英语成绩（雅思6.0+/托福80+）、个人陈述、推荐信",
-      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: Gaokao/SAT/IB/A-Level scores, English proficiency (IELTS 6.0+/TOEFL 80+), personal statement, references"
-    }
-  },
-  {
-    "id": "polyu",
-    "country": "CN",
-    "flag": "🇨🇳",
-    "name": {
-      "zh": "香港理工大学",
-      "en": "Hong Kong Polytechnic University"
-    },
-    "city": {
-      "zh": "香港",
-      "en": "Hong Kong"
-    },
-    "qs": 57,
-    "the": 87,
-    "usnews": 159,
-    "arwu": 201,
-    "tuition": 18589,
-    "tuitionRange": null,
-    "safety": 7,
-    "majors": {
-      "zh": [
-        "酒店管理",
-        "设计学",
-        "工程学",
-        "建筑学",
-        "护理学"
+        "Pharmacy",
+        "Art",
+        "Foreign Languages"
       ],
-      "en": [
-        "Hospitality Management",
-        "Design",
-        "Engineering",
-        "Architecture",
-        "Nursing"
-      ]
-    },
-    "majorTuition": {
-      "zh": "香港理工大学本科学费约HK$145,000/年（约$18,589），各专业学费基本统一。",
-      "en": "Hong Kong Polytechnic University undergraduate tuition ~HK$145,000/yr (~$18,589). Uniform across programs."
-    },
-    "desc": {
-      "zh": "港理工的酒店管理全球第一，设计学院和工程学院实力强劲。注重实用性和行业联系。",
-      "en": "PolyU's hospitality management is ranked #1 globally. Strong design and engineering schools. Focuses on practical application and industry connections."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费(HKD)": 145000,
-        "住宿(HKD)": 18000,
-        "生活费(HKD)": 60000,
-        "书本费(HKD)": 5000
-      },
-      "en": {
-        "Tuition(HKD)": 145000,
-        "Housing(HKD)": 18000,
-        "Living(HKD)": 60000,
-        "Books(HKD)": 5000
-      }
-    },
-    "requirements": {
-      "TOEFL": "80+",
-      "IELTS": "6.0+",
-      "SAT": "高考/SAT/IB/A-Level"
-    },
-    "deadline": {
-      "zh": "1月-4月（因校而异）",
-      "en": "Jan-Apr (varies)"
-    },
-    "safetyDetail": {
-      "zh": "香港理工大学校园安全管理严格，治安良好。",
-      "en": "Hong Kong Polytechnic University has strict campus security and good safety."
-    },
-    "climate": {
-      "zh": "因城市而异",
-      "en": "Varies by city"
-    },
-    "livingCost": {
-      "zh": "约HK$8,000/月",
-      "en": "~HK$8,000/month (~$1,025)"
-    },
-    "livingCostAnnual": 28589,
-    "insurance": 400,
-    "flights": 800,
-    "visa": {
-      "zh": "内地学生：凭录取通知书办理逗留签注(D签)。国际学生：需申请学生签证。毕业后可申请IANG签证(1年)，之后可续签。在港居住满7年可申请永久居民。",
-      "en": "Mainland students: D visa with admission letter. International students: student visa required. After graduation: IANG visa (1 year, renewable). Permanent residency after 7 years in HK."
-    },
-    "housing": {
-      "zh": "大一通常保证校内宿舍。",
-      "en": "First-year housing usually guaranteed."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好。",
-      "en": "Good graduation rates."
-    },
-    "employment": {
-      "zh": "就业前景良好，学校提供就业指导服务。",
-      "en": "Good employment prospects with career guidance services."
-    },
-    "healthcare": {
-      "zh": "✅ 学校提供医疗保险计划。校内设有University Health Service。香港公立医院急诊费用HK$180。学生可购买额外商业保险约HK$1,500-3,000/年。",
-      "en": "✅ University health insurance plan available. On-campus University Health Service. HK public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：高考成绩/SAT/IB/A-Level、英语成绩（雅思6.0+/托福80+）、个人陈述、推荐信",
-      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: Gaokao/SAT/IB/A-Level scores, English proficiency (IELTS 6.0+/TOEFL 80+), personal statement, references"
-    }
-  },
-  {
-    "id": "cityu",
-    "country": "CN",
-    "flag": "🇨🇳",
-    "name": {
-      "zh": "香港城市大学",
-      "en": "City University of Hong Kong"
-    },
-    "city": {
-      "zh": "香港",
-      "en": "Hong Kong"
-    },
-    "qs": 62,
-    "the": 82,
-    "usnews": 112,
-    "arwu": 201,
-    "tuition": 18589,
-    "tuitionRange": null,
-    "safety": 7,
-    "majors": {
       "zh": [
-        "商学",
-        "工程学",
-        "传播学",
+        "化学",
+        "经济学",
+        "数学",
+        "历史学",
+        "哲学",
+        "商科",
+        "计算机科学",
+        "生物学",
+        "物理学",
+        "环境科学",
+        "文学",
         "法学",
-        "兽医学"
-      ],
-      "en": [
-        "Business",
-        "Engineering",
-        "Communications",
-        "Law",
-        "Veterinary Medicine"
+        "社会学",
+        "统计学",
+        "金融",
+        "药学",
+        "艺术",
+        "外国语"
       ]
     },
-    "majorTuition": {
-      "zh": "香港城市大学本科学费约HK$145,000/年（约$18,589），各专业学费基本统一。",
-      "en": "City University of Hong Kong undergraduate tuition ~HK$145,000/yr (~$18,589). Uniform across programs."
-    },
     "desc": {
-      "zh": "城大近年排名上升迅速，商学院获AACSB和EQUIS双认证。拥有全港唯一的兽医学院。",
-      "en": "CityU has risen rapidly in rankings. Business school holds AACSB and EQUIS accreditation. Home to HK's only veterinary school."
+      "en": "Zhou Enlai's alma mater. Top for chemistry, economics, and mathematics.",
+      "zh": "周恩来母校，化学、经济学和数学顶尖。"
     },
     "tuitionBreakdown": {
-      "zh": {
-        "学费(HKD)": 145000,
-        "住宿(HKD)": 18000,
-        "生活费(HKD)": 60000,
-        "书本费(HKD)": 5000
-      },
       "en": {
-        "Tuition(HKD)": 145000,
-        "Housing(HKD)": 18000,
-        "Living(HKD)": 60000,
-        "Books(HKD)": 5000
+        "Tuition": 24000
+      },
+      "zh": {
+        "学费": 24000
       }
     },
-    "requirements": {
-      "TOEFL": "80+",
-      "IELTS": "6.0+",
-      "SAT": "高考/SAT/IB/A-Level"
-    },
-    "deadline": {
-      "zh": "1月-4月（因校而异）",
-      "en": "Jan-Apr (varies)"
-    },
-    "safetyDetail": {
-      "zh": "香港城市大学校园安全管理严格，治安良好。",
-      "en": "City University of Hong Kong has strict campus security and good safety."
-    },
-    "climate": {
-      "zh": "因城市而异",
-      "en": "Varies by city"
-    },
-    "livingCost": {
-      "zh": "约HK$8,000/月",
-      "en": "~HK$8,000/month (~$1,025)"
-    },
-    "livingCostAnnual": 28589,
-    "insurance": 400,
-    "flights": 800,
-    "visa": {
-      "zh": "内地学生：凭录取通知书办理逗留签注(D签)。国际学生：需申请学生签证。毕业后可申请IANG签证(1年)，之后可续签。在港居住满7年可申请永久居民。",
-      "en": "Mainland students: D visa with admission letter. International students: student visa required. After graduation: IANG visa (1 year, renewable). Permanent residency after 7 years in HK."
-    },
-    "housing": {
-      "zh": "大一通常保证校内宿舍。",
-      "en": "First-year housing usually guaranteed."
+    "majorTuition": {
+      "en": "Tuition: ¥24,000/year",
+      "zh": "学费: ¥24,000/年"
     },
     "graduationRate": {
-      "zh": "毕业率良好。",
-      "en": "Good graduation rates."
+      "en": "N/A",
+      "zh": "暂无数据"
     },
-    "employment": {
-      "zh": "就业前景良好，学校提供就业指导服务。",
-      "en": "Good employment prospects with career guidance services."
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
     },
-    "healthcare": {
-      "zh": "✅ 学校提供医疗保险计划。校内设有University Health Service。香港公立医院急诊费用HK$180。学生可购买额外商业保险约HK$1,500-3,000/年。",
-      "en": "✅ University health insurance plan available. On-campus University Health Service. HK public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
     },
-    "application": {
-      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：高考成绩/SAT/IB/A-Level、英语成绩（雅思6.0+/托福80+）、个人陈述、推荐信",
-      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: Gaokao/SAT/IB/A-Level scores, English proficiency (IELTS 6.0+/TOEFL 80+), personal statement, references"
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
     }
   },
   {
-    "id": "hkbu",
+    "id": "seu",
+    "name": {
+      "en": "Southeast University",
+      "zh": "东南大学"
+    },
     "country": "CN",
     "flag": "🇨🇳",
-    "name": {
-      "zh": "香港浸会大学",
-      "en": "Hong Kong Baptist University"
-    },
     "city": {
-      "zh": "香港",
-      "en": "Hong Kong"
+      "en": "Nanjing",
+      "zh": "南京"
     },
-    "qs": 252,
-    "the": 301,
-    "usnews": 300,
-    "arwu": 501,
-    "tuition": 17948,
-    "tuitionRange": null,
-    "safety": 7,
-    "majors": {
-      "zh": [
-        "传播学",
-        "新闻学",
-        "商学",
-        "中医学",
-        "视觉艺术"
-      ],
-      "en": [
-        "Communications",
-        "Journalism",
-        "Business",
-        "Chinese Medicine",
-        "Visual Arts"
-      ]
-    },
-    "majorTuition": {
-      "zh": "香港浸会大学本科学费约HK$140,000/年（约$17,948），各专业学费基本统一。",
-      "en": "Hong Kong Baptist University undergraduate tuition ~HK$140,000/yr (~$17,948). Uniform across programs."
-    },
-    "desc": {
-      "zh": "浸大传理学院是亚洲最好的新闻传播学院之一。中医药学院是香港唯一获政府资助的中医学院。",
-      "en": "HKBU's School of Communication is one of Asia's best for journalism. Its Chinese Medicine school is HK's only government-funded one."
-    },
-    "tuitionBreakdown": {
-      "zh": {
-        "学费(HKD)": 140000,
-        "住宿(HKD)": 18000,
-        "生活费(HKD)": 60000,
-        "书本费(HKD)": 5000
-      },
-      "en": {
-        "Tuition(HKD)": 140000,
-        "Housing(HKD)": 18000,
-        "Living(HKD)": 60000,
-        "Books(HKD)": 5000
-      }
-    },
-    "requirements": {
-      "TOEFL": "80+",
-      "IELTS": "6.0+",
-      "SAT": "高考/SAT/IB/A-Level"
-    },
-    "deadline": {
-      "zh": "1月-4月（因校而异）",
-      "en": "Jan-Apr (varies)"
-    },
-    "safetyDetail": {
-      "zh": "香港浸会大学校园安全管理严格，治安良好。",
-      "en": "Hong Kong Baptist University has strict campus security and good safety."
-    },
-    "climate": {
-      "zh": "因城市而异",
-      "en": "Varies by city"
-    },
+    "qs": 401,
+    "the": 501,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 26000,
     "livingCost": {
-      "zh": "约HK$8,000/月",
-      "en": "~HK$8,000/month (~$1,025)"
+      "en": "¥25,000/year",
+      "zh": "¥25,000/年"
     },
-    "livingCostAnnual": 27948,
-    "insurance": 400,
-    "flights": 800,
-    "visa": {
-      "zh": "内地学生：凭录取通知书办理逗留签注(D签)。国际学生：需申请学生签证。毕业后可申请IANG签证(1年)，之后可续签。在港居住满7年可申请永久居民。",
-      "en": "Mainland students: D visa with admission letter. International students: student visa required. After graduation: IANG visa (1 year, renewable). Permanent residency after 7 years in HK."
-    },
-    "housing": {
-      "zh": "大一通常保证校内宿舍。",
-      "en": "First-year housing usually guaranteed."
-    },
-    "graduationRate": {
-      "zh": "毕业率良好。",
-      "en": "Good graduation rates."
-    },
-    "employment": {
-      "zh": "就业前景良好，学校提供就业指导服务。",
-      "en": "Good employment prospects with career guidance services."
-    },
-    "healthcare": {
-      "zh": "✅ 学校提供医疗保险计划。校内设有University Health Service。香港公立医院急诊费用HK$180。学生可购买额外商业保险约HK$1,500-3,000/年。",
-      "en": "✅ University health insurance plan available. On-campus University Health Service. HK public hospital ER fee HK$180. Optional commercial insurance ~HK$1,500-3,000/yr."
-    },
-    "application": {
-      "zh": "📋 申请平台：直接向学校申请（各校独立系统）\\n📅 截止日期：1月-4月（因校而异）\\n💰 申请费：HK$300-450\\n📝 所需材料：高考成绩/SAT/IB/A-Level、英语成绩（雅思6.0+/托福80+）、个人陈述、推荐信",
-      "en": "📋 Platform: Apply directly to each university\\n📅 Deadline: Jan-Apr (varies)\\n💰 Fee: HK$300-450\\n📝 Required: Gaokao/SAT/IB/A-Level scores, English proficiency (IELTS 6.0+/TOEFL 80+), personal statement, references"
-    }
-  },
-  {
-    "id": "umac",
-    "country": "CN",
-    "flag": "🇨🇳",
-    "name": {
-      "zh": "澳门大学",
-      "en": "University of Macau"
-    },
-    "city": {
-      "zh": "澳门",
-      "en": "Macau"
-    },
-    "qs": 245,
-    "the": 193,
-    "usnews": 300,
-    "arwu": 301,
-    "tuition": 5775,
-    "tuitionRange": null,
+    "insurance": 500,
+    "flights": 500,
     "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~7%",
+      "intl": "~18%"
+    },
     "majors": {
-      "zh": [
-        "微电子",
-        "中文",
-        "葡语",
-        "法学",
-        "商学"
-      ],
       "en": [
-        "Microelectronics",
-        "Chinese",
-        "Portuguese",
+        "Architecture",
+        "Electrical Engineering",
+        "Computer Science",
+        "Civil Engineering",
+        "Biomedical Engineering",
+        "Information Engineering",
+        "Transportation",
+        "Mechanical Engineering",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Art",
         "Law",
-        "Business"
+        "Medicine",
+        "Automation",
+        "Design",
+        "Management"
+      ],
+      "zh": [
+        "建筑学",
+        "电气工程",
+        "计算机科学",
+        "土木工程",
+        "生物医学工程",
+        "信息工程",
+        "交通运输",
+        "机械工程",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "艺术",
+        "法学",
+        "医学",
+        "自动化",
+        "设计",
+        "管理学"
       ]
     },
-    "majorTuition": {
-      "zh": "澳门大学学费约MOP$46,200/年（约$5,775）。",
-      "en": "UM tuition ~MOP$46,200/yr (~$5,775)."
-    },
     "desc": {
-      "zh": "澳门大学是澳门最好的综合性大学，新校区位于横琴。微电子和中葡双语教育为特色。全英/中/葡三语环境。",
-      "en": "UM is Macau's top university with its new campus on Hengqin. Known for microelectronics and trilingual (English/Chinese/Portuguese) education."
+      "en": "Top for architecture and biomedical engineering. One of China's oldest universities.",
+      "zh": "建筑和生物医学工程顶尖，中国最古老大学之一。"
     },
     "tuitionBreakdown": {
-      "zh": {
-        "学费(MOP)": 46200,
-        "住宿(MOP)": 12000,
-        "生活费(MOP)": 40000
-      },
       "en": {
-        "Tuition(MOP)": 46200,
-        "Housing(MOP)": 12000,
-        "Living(MOP)": 40000
+        "Tuition": 26000
+      },
+      "zh": {
+        "学费": 26000
       }
     },
-    "requirements": {
-      "TOEFL": "80+",
-      "IELTS": "6.0+",
-      "SAT": "高考/SAT/IB/A-Level"
-    },
-    "deadline": {
-      "zh": "1月-4月（因校而异）",
-      "en": "Jan-Apr (varies)"
-    },
-    "safetyDetail": {
-      "zh": "澳门大学校园安全管理严格，治安良好。",
-      "en": "University of Macau has strict campus security and good safety."
-    },
-    "climate": {
-      "zh": "因城市而异",
-      "en": "Varies by city"
-    },
-    "livingCost": {
-      "zh": "约MOP$5,000/月",
-      "en": "~MOP$5,000/month (~$625)"
-    },
-    "livingCostAnnual": 7500,
-    "insurance": 200,
-    "flights": 800,
-    "visa": {
-      "zh": "内地学生：凭录取通知书办理逗留签注。国际学生：需申请学生签证。澳门生活成本低于香港。",
-      "en": "Mainland students: residence permit with admission letter. International: student visa required. Macau living costs lower than HK."
-    },
-    "housing": {
-      "zh": "大一通常保证校内宿舍。",
-      "en": "First-year housing usually guaranteed."
+    "majorTuition": {
+      "en": "Tuition: ¥26,000/year",
+      "zh": "学费: ¥26,000/年"
     },
     "graduationRate": {
-      "zh": "毕业率良好。",
-      "en": "Good graduation rates."
+      "en": "N/A",
+      "zh": "暂无数据"
     },
-    "employment": {
-      "zh": "就业前景良好，学校提供就业指导服务。",
-      "en": "Good employment prospects with career guidance services."
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
     },
-    "healthcare": {
-      "zh": "✅ 学校提供基本医疗保险。校内设有Health Centre。澳门公立医疗费用较低。",
-      "en": "✅ Basic university health insurance. On-campus Health Centre. Macau public healthcare is affordable."
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
     },
-    "application": {
-      "zh": "📋 申请平台：直接向学校申请\\n📅 截止日期：1月-6月（因校而异）\\n💰 申请费：MOP$200-300\\n📝 所需材料：高考成绩或国际课程成绩、英语成绩",
-      "en": "📋 Platform: Apply directly\\n📅 Deadline: Jan-Jun (varies)\\n💰 Fee: MOP$200-300\\n📝 Required: Gaokao or international curriculum scores, English proficiency"
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "tju",
+    "name": {
+      "en": "Tianjin University",
+      "zh": "天津大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Tianjin",
+      "zh": "天津"
+    },
+    "qs": 443,
+    "the": 501,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 25000,
+    "livingCost": {
+      "en": "¥22,000/year",
+      "zh": "¥22,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Chemical Engineering",
+        "Architecture",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Computer Science",
+        "Electrical Engineering",
+        "Materials Science",
+        "Environmental Engineering",
+        "Management",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Economics",
+        "Automation",
+        "Marine Science",
+        "Biology",
+        "Law",
+        "Art"
+      ],
+      "zh": [
+        "化学工程",
+        "建筑学",
+        "机械工程",
+        "土木工程",
+        "计算机科学",
+        "电气工程",
+        "材料科学",
+        "环境工程",
+        "管理学",
+        "数学",
+        "物理学",
+        "化学",
+        "经济学",
+        "自动化",
+        "海洋科学",
+        "生物学",
+        "法学",
+        "艺术"
+      ]
+    },
+    "desc": {
+      "en": "China's first modern university (1895). Strong in chemical engineering and architecture.",
+      "zh": "中国第一所现代大学（1895年），化学工程和建筑强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 25000
+      },
+      "zh": {
+        "学费": 25000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥25,000/year",
+      "zh": "学费: ¥25,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "scu_cn",
+    "name": {
+      "en": "Sichuan University",
+      "zh": "四川大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Chengdu",
+      "zh": "成都"
+    },
+    "qs": 472,
+    "the": 401,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 24000,
+    "livingCost": {
+      "en": "¥20,000/year",
+      "zh": "¥20,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-34",
+      "zh": "IB 28-34"
+    },
+    "acceptanceRate": {
+      "overall": "~10%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Stomatology",
+        "Literature",
+        "Mathematics",
+        "Chemistry",
+        "Biology",
+        "Computer Science",
+        "Medicine",
+        "Materials Science",
+        "History",
+        "Philosophy",
+        "Law",
+        "Economics",
+        "Art",
+        "Physics",
+        "Hydraulic Engineering",
+        "Polymer Materials",
+        "Management",
+        "Foreign Languages"
+      ],
+      "zh": [
+        "口腔医学",
+        "文学",
+        "数学",
+        "化学",
+        "生物学",
+        "计算机科学",
+        "医学",
+        "材料科学",
+        "历史学",
+        "哲学",
+        "法学",
+        "经济学",
+        "艺术",
+        "物理学",
+        "水利工程",
+        "高分子材料",
+        "管理学",
+        "外国语"
+      ]
+    },
+    "desc": {
+      "en": "Top stomatology (dental) school in Asia. Comprehensive university in Chengdu.",
+      "zh": "亚洲顶尖口腔医学院，成都综合性大学。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 24000
+      },
+      "zh": {
+        "学费": 24000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥24,000/year",
+      "zh": "学费: ¥24,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "ruc",
+    "name": {
+      "en": "Renmin University of China",
+      "zh": "中国人民大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "qs": 487,
+    "the": 501,
+    "usnews": 301,
+    "arwu": 301,
+    "tuition": 26000,
+    "livingCost": {
+      "en": "¥30,000/year",
+      "zh": "¥30,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~6%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Economics",
+        "Law",
+        "Journalism",
+        "Sociology",
+        "Philosophy",
+        "Political Science",
+        "Business",
+        "Finance",
+        "Statistics",
+        "Literature",
+        "History",
+        "Public Administration",
+        "Art",
+        "Mathematics",
+        "Information Management",
+        "Agriculture Economics",
+        "Psychology",
+        "Foreign Languages"
+      ],
+      "zh": [
+        "经济学",
+        "法学",
+        "新闻学",
+        "社会学",
+        "哲学",
+        "政治学",
+        "商科",
+        "金融",
+        "统计学",
+        "文学",
+        "历史学",
+        "公共管理",
+        "艺术",
+        "数学",
+        "信息管理",
+        "农业经济",
+        "心理学",
+        "外国语"
+      ]
+    },
+    "desc": {
+      "en": "China's top for humanities and social sciences. Premier law and journalism school.",
+      "zh": "中国人文社科顶尖，法学和新闻学一流。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 26000
+      },
+      "zh": {
+        "学费": 26000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥26,000/year",
+      "zh": "学费: ¥26,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
+    }
+  },
+  {
+    "id": "buaa",
+    "name": {
+      "en": "Beijing Normal University",
+      "zh": "北京师范大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "qs": 256,
+    "the": 301,
+    "usnews": 301,
+    "arwu": 201,
+    "tuition": 25000,
+    "livingCost": {
+      "en": "¥30,000/year",
+      "zh": "¥30,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-34",
+      "zh": "IB 28-34"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~22%"
+    },
+    "majors": {
+      "en": [
+        "Education",
+        "Psychology",
+        "Literature",
+        "History",
+        "Mathematics",
+        "Geography",
+        "Philosophy",
+        "Chinese Language",
+        "Environmental Science",
+        "Chemistry",
+        "Physics",
+        "Biology",
+        "Sociology",
+        "Art",
+        "Film",
+        "Economics",
+        "Law",
+        "Astronomy"
+      ],
+      "zh": [
+        "教育学",
+        "心理学",
+        "文学",
+        "历史学",
+        "数学",
+        "地理学",
+        "哲学",
+        "中国语言",
+        "环境科学",
+        "化学",
+        "物理学",
+        "生物学",
+        "社会学",
+        "艺术",
+        "电影",
+        "经济学",
+        "法学",
+        "天文学"
+      ]
+    },
+    "desc": {
+      "en": "China's #1 for education and psychology. Top teacher training university.",
+      "zh": "中国教育学和心理学第一，顶级师范大学。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 25000
+      },
+      "zh": {
+        "学费": 25000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: ¥25,000/year",
+      "zh": "学费: ¥25,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "University health insurance included.",
+      "zh": "含校园医保。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Apply via Gaokao or international student exam.",
+      "zh": "通过高考或留学生考试申请。"
     }
   }
 ]
