@@ -343,6 +343,8 @@ img{max-width:100%}
       <a href="#schools" data-i18n="nav_schools" onclick="closeNav()">院校浏览</a>
       <a href="#recommend" data-i18n="nav_recommend" onclick="closeNav()">智能选校</a>
       <a href="#timeline" data-i18n="nav_timeline" onclick="closeNav()">申请时间线</a>
+      <a href="#checklist" data-i18n="nav_checklist" onclick="closeNav()">材料清单</a>
+      <a href="#scholarships" data-i18n="nav_scholarship" onclick="closeNav()">奖学金</a>
       <a href="#calculator" data-i18n="nav_calc" onclick="closeNav()">费用计算</a>
     </div>
     <button class="lang-toggle" id="langBtn">EN / 中</button>
@@ -518,6 +520,26 @@ img{max-width:100%}
     <p class="section-desc" data-i18n="section_timeline_desc">各国本科申请关键节点一览，合理规划每一步</p>
     <div style="display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;margin-bottom:1.5rem" id="tlCountryBtns"></div>
     <div id="timelineContent"></div>
+  </div>
+</section>
+
+<!-- Checklist -->
+<section class="section" id="checklist" style="background:var(--gray-100)">
+  <div class="container">
+    <h2 class="section-title" data-i18n="section_checklist">📋 申请材料清单</h2>
+    <p class="section-desc" data-i18n="section_checklist_desc">各国本科申请所需材料一览，提前准备不遗漏</p>
+    <div style="display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;margin-bottom:1.5rem" id="clCountryBtns"></div>
+    <div id="checklistContent"></div>
+  </div>
+</section>
+
+<!-- Scholarships -->
+<section class="section" id="scholarships">
+  <div class="container">
+    <h2 class="section-title" data-i18n="section_scholarship">🎓 奖学金指南</h2>
+    <p class="section-desc" data-i18n="section_scholarship_desc">各国主要奖学金项目，助你减轻留学经济负担</p>
+    <div style="display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;margin-bottom:1.5rem" id="scCountryBtns"></div>
+    <div id="scholarshipContent"></div>
   </div>
 </section>
 
@@ -21959,6 +21981,12 @@ const I18N = {
   tl_deadline:{zh:'截止日期',en:'Deadline'},
   tl_result:{zh:'结果公布',en:'Results'},
   tl_done:{zh:'确认入学',en:'Confirmed'},
+  section_checklist:{zh:'📋 申请材料清单',en:'📋 Application Checklist'},
+  section_checklist_desc:{zh:'各国本科申请所需材料一览，提前准备不遗漏',en:'Required documents for undergraduate applications by country'},
+  section_scholarship:{zh:'🎓 奖学金指南',en:'🎓 Scholarship Guide'},
+  section_scholarship_desc:{zh:'各国主要奖学金项目，助你减轻留学经济负担',en:'Major scholarship programs to help fund your education abroad'},
+  nav_checklist:{zh:'材料清单',en:'Checklist'},
+  nav_scholarship:{zh:'奖学金',en:'Scholarships'},
 };
 
 function t(key){ return (I18N[key] && (I18N[key][lang] || I18N[key].en)) || key; }
@@ -21983,6 +22011,8 @@ function switchLang(newLang){
   populateCalcSelect();
   calcCost();
   if(typeof initTimeline==='function') initTimeline();
+  if(typeof initChecklist==='function') initChecklist();
+  if(typeof initScholarships==='function') initScholarships();
 }
 
 // ===== STATE =====
@@ -22789,6 +22819,163 @@ function initTimeline(){
   renderTimeline(currentTLCountry);
 }
 
+// ===== CHECKLIST =====
+var CHECKLISTS = {
+  us:{emoji:'🇺🇸',label:{zh:'美国',en:'United States'},items:[
+    {icon:'📄',name:{zh:'高中成绩单',en:'High School Transcripts'},desc:{zh:'9-12年级官方成绩单，需学校盖章密封。GPA 是核心评估指标',en:'Official 9-12 grade transcripts, sealed by school. GPA is a core evaluation metric'},required:true},
+    {icon:'📝',name:{zh:'标化考试成绩',en:'Standardized Test Scores'},desc:{zh:'SAT 或 ACT（部分学校 Test-Optional）。目标 Top 30 建议 SAT 1500+ 或 ACT 34+',en:'SAT or ACT (some schools Test-Optional). Top 30 targets: SAT 1500+ or ACT 34+'},required:true},
+    {icon:'🌐',name:{zh:'语言成绩',en:'Language Scores'},desc:{zh:'托福（建议100+）或雅思（建议7.0+）。部分学校接受 Duolingo',en:'TOEFL (100+ recommended) or IELTS (7.0+). Some accept Duolingo'},required:true},
+    {icon:'✍️',name:{zh:'Common App 主文书',en:'Common App Essay'},desc:{zh:'650字个人陈述，7个题目选1个。展示个人特质、成长经历',en:'650-word personal essay, choose 1 of 7 prompts. Show personality and growth'},required:true},
+    {icon:'📝',name:{zh:'补充文书',en:'Supplemental Essays'},desc:{zh:'各校额外要求的文书，通常 250-500 字。\"Why School\" 是最常见题型',en:'School-specific essays, usually 250-500 words. "Why School" is most common'},required:true},
+    {icon:'👤',name:{zh:'推荐信（2-3封）',en:'Recommendation Letters (2-3)'},desc:{zh:'1封升学顾问 + 2封任课老师。提前1-2个月联系推荐人',en:'1 counselor + 2 teachers. Contact recommenders 1-2 months early'},required:true},
+    {icon:'📋',name:{zh:'活动列表',en:'Activities List'},desc:{zh:'Common App 最多填10项课外活动。质量 > 数量，突出领导力和持续性',en:'Up to 10 activities on Common App. Quality > quantity, show leadership and commitment'},required:true},
+    {icon:'💰',name:{zh:'资金证明',en:'Financial Documentation'},desc:{zh:'银行存款证明（建议覆盖第一年费用）。申请 Need-Blind 学校可不提交',en:'Bank statement (cover 1st year costs). Need-Blind schools don\'t require upfront'},required:false},
+    {icon:'🎨',name:{zh:'作品集（艺术类）',en:'Portfolio (Arts)'},desc:{zh:'建筑、艺术、音乐等专业需要。通过 SlideRoom 等平台提交',en:'Required for Architecture, Art, Music. Submit via SlideRoom or similar'},required:false},
+    {icon:'🎤',name:{zh:'面试（部分学校）',en:'Interview (Select Schools)'},desc:{zh:'校友面试或招生官面试。哈佛、耶鲁、MIT 等提供评估性面试',en:'Alumni or admissions interviews. Harvard, Yale, MIT offer evaluative interviews'},required:false},
+  ]},
+  uk:{emoji:'🇬🇧',label:{zh:'英国',en:'United Kingdom'},items:[
+    {icon:'📄',name:{zh:'UCAS 申请表',en:'UCAS Application'},desc:{zh:'通过 UCAS 系统提交，最多选择 5 个志愿（专业+学校组合）',en:'Submit via UCAS system, up to 5 choices (course + university combinations)'},required:true},
+    {icon:'📊',name:{zh:'IB/A-Level 预估分',en:'IB/A-Level Predicted Grades'},desc:{zh:'由学校老师出具预估成绩。这是英国大学最核心的录取依据',en:'Predicted grades from school. This is the most critical factor for UK admissions'},required:true},
+    {icon:'✍️',name:{zh:'Personal Statement',en:'Personal Statement'},desc:{zh:'4000字符个人陈述，所有学校共用一篇。重点：学术兴趣、为什么选这个专业',en:'4000-char statement shared across all choices. Focus: academic interest, why this subject'},required:true},
+    {icon:'👤',name:{zh:'学校推荐信',en:'School Reference'},desc:{zh:'由学校升学顾问撰写，一封信用于所有申请',en:'Written by school counselor, one reference for all applications'},required:true},
+    {icon:'🌐',name:{zh:'语言成绩',en:'Language Scores'},desc:{zh:'雅思（通常6.5-7.5，小分不低于6.0）。牛剑部分专业要求更高',en:'IELTS (usually 6.5-7.5, min 6.0 per band). Oxbridge may require higher for some subjects'},required:true},
+    {icon:'📝',name:{zh:'入学考试',en:'Admissions Tests'},desc:{zh:'牛津 MAT/PAT/TSA，剑桥 STEP/NSAA/TMUA，医学 BMAT/UCAT',en:'Oxford: MAT/PAT/TSA, Cambridge: STEP/NSAA/TMUA, Medicine: BMAT/UCAT'},required:false},
+    {icon:'🎤',name:{zh:'面试（牛剑/医学）',en:'Interview (Oxbridge/Medicine)'},desc:{zh:'牛津剑桥所有专业都有面试。医学、牙医也普遍要求面试',en:'All Oxbridge subjects interview. Medicine and Dentistry also commonly interview'},required:false},
+    {icon:'🎨',name:{zh:'作品集（艺术/建筑）',en:'Portfolio (Art/Architecture)'},desc:{zh:'艺术、建筑专业需要提交作品集',en:'Required for Art, Architecture programs'},required:false},
+  ]},
+  ca:{emoji:'🇨🇦',label:{zh:'加拿大',en:'Canada'},items:[
+    {icon:'📄',name:{zh:'成绩单',en:'Transcripts'},desc:{zh:'高中官方成绩单。IB/A-Level 预估分或已出成绩',en:'Official high school transcripts. IB/A-Level predicted or final grades'},required:true},
+    {icon:'🌐',name:{zh:'语言成绩',en:'Language Scores'},desc:{zh:'雅思6.5+（小分6.0+）或托福90+。部分学校接受 Duolingo',en:'IELTS 6.5+ (min 6.0 per band) or TOEFL 90+. Some accept Duolingo'},required:true},
+    {icon:'✍️',name:{zh:'补充申请文书',en:'Supplemental Application'},desc:{zh:'多伦多大学工程/商科、UBC、滑铁卢需额外文书或视频面试',en:'UofT Engineering/Commerce, UBC, Waterloo require extra essays or video interviews'},required:false},
+    {icon:'📋',name:{zh:'活动简历',en:'Activity Resume'},desc:{zh:'课外活动、志愿者、工作经历。UBC 要求详细 Personal Profile',en:'Extracurriculars, volunteering, work. UBC requires detailed Personal Profile'},required:true},
+    {icon:'💰',name:{zh:'资金证明',en:'Financial Proof'},desc:{zh:'银行存款证明，用于学签申请。GIC（约 $20,635 CAD）可加速签证',en:'Bank statement for study permit. GIC (~$20,635 CAD) can expedite visa'},required:true},
+    {icon:'👤',name:{zh:'推荐信',en:'References'},desc:{zh:'部分学校/专业要求。滑铁卢工程需要 AIF 表格 + 数学竞赛成绩优先',en:'Required by some programs. Waterloo Engineering requires AIF form + math contest results preferred'},required:false},
+  ]},
+  au:{emoji:'🇦🇺',label:{zh:'澳大利亚',en:'Australia'},items:[
+    {icon:'📄',name:{zh:'成绩单',en:'Transcripts'},desc:{zh:'高中成绩单（翻译+公证）。IB 38+ 或 A-Level ABB+ 可申请 Go8',en:'High school transcripts (translated + notarized). IB 38+ or A-Level ABB+ for Go8'},required:true},
+    {icon:'🌐',name:{zh:'语言成绩',en:'Language Scores'},desc:{zh:'雅思6.5+（小分6.0+）。部分学校接受托福、PTE',en:'IELTS 6.5+ (min 6.0). Some accept TOEFL, PTE'},required:true},
+    {icon:'✍️',name:{zh:'个人陈述',en:'Personal Statement'},desc:{zh:'部分学校/专业要求。医学、法律等竞争性专业必须',en:'Required by some programs. Medicine, Law, and competitive programs require it'},required:false},
+    {icon:'💰',name:{zh:'资金证明',en:'Financial Proof'},desc:{zh:'签证要求证明有能力支付学费+生活费（约 $21,041 AUD/年生活费）',en:'Visa requires proof of funds for tuition + living ($21,041 AUD/year living costs)'},required:true},
+    {icon:'🏥',name:{zh:'OSHC 保险',en:'OSHC Insurance'},desc:{zh:'海外学生健康保险，签证必需。学校通常提供购买渠道',en:'Overseas Student Health Cover, required for visa. Schools usually offer purchase options'},required:true},
+    {icon:'🎤',name:{zh:'面试（医学等）',en:'Interview (Medicine etc.)'},desc:{zh:'医学需 UCAT/ISAT + 面试。部分商科有面试',en:'Medicine requires UCAT/ISAT + interview. Some business programs interview'},required:false},
+  ]},
+  sg:{emoji:'🇸🇬',label:{zh:'新加坡',en:'Singapore'},items:[
+    {icon:'📄',name:{zh:'成绩单',en:'Transcripts'},desc:{zh:'高中成绩单 + IB/A-Level 预估分。NUS 要求 IB 40+（热门专业）',en:'Transcripts + IB/A-Level predicted. NUS requires IB 40+ for competitive programs'},required:true},
+    {icon:'🌐',name:{zh:'语言成绩',en:'Language Scores'},desc:{zh:'雅思6.5+ 或托福92+。IB English B HL 5+ 可豁免',en:'IELTS 6.5+ or TOEFL 92+. IB English B HL 5+ may waive requirement'},required:true},
+    {icon:'✍️',name:{zh:'申请文书',en:'Application Essays'},desc:{zh:'NUS/NTU 需要个人陈述。NUS 部分专业有额外文书',en:'NUS/NTU require personal statements. NUS some programs have additional essays'},required:true},
+    {icon:'🎤',name:{zh:'面试',en:'Interview'},desc:{zh:'医学、法律、商科等热门专业通常需要面试',en:'Medicine, Law, Business usually require interviews'},required:false},
+    {icon:'💰',name:{zh:'资金证明',en:'Financial Proof'},desc:{zh:'签证申请需要。学费相对欧美较低，有政府助学金（服务期3年）',en:'Required for visa. Tuition lower than US/UK. Government tuition grant available (3-year service bond)'},required:true},
+  ]},
+  hk:{emoji:'🇭🇰',label:{zh:'中国香港',en:'Hong Kong'},items:[
+    {icon:'📄',name:{zh:'成绩单',en:'Transcripts'},desc:{zh:'高中成绩单 + IB/A-Level 预估分。港大/港科 IB 38+ 有竞争力',en:'Transcripts + IB/A-Level predicted. HKU/HKUST IB 38+ competitive'},required:true},
+    {icon:'🌐',name:{zh:'语言成绩',en:'Language Scores'},desc:{zh:'雅思6.0-6.5+ 或托福80+。要求相对较低',en:'IELTS 6.0-6.5+ or TOEFL 80+. Requirements relatively lower'},required:true},
+    {icon:'✍️',name:{zh:'个人陈述',en:'Personal Statement'},desc:{zh:'各校官网申请时填写。注重学术兴趣和职业规划',en:'Complete on each school\'s application portal. Focus on academic interest and career goals'},required:true},
+    {icon:'👤',name:{zh:'推荐信',en:'References'},desc:{zh:'1-2封推荐信，由任课老师或升学顾问撰写',en:'1-2 references from teachers or counselor'},required:true},
+    {icon:'🎤',name:{zh:'面试',en:'Interview'},desc:{zh:'港大/港科/港中文热门专业有面试。可线上进行',en:'HKU/HKUST/CUHK popular programs interview. May be online'},required:false},
+    {icon:'💰',name:{zh:'资金证明',en:'Financial Proof'},desc:{zh:'签证申请需要。留学成本远低于英美，性价比高',en:'Required for visa. Costs much lower than UK/US, high value'},required:true},
+  ]}
+};
+
+var currentCLCountry = 'us';
+function renderChecklist(country){
+  currentCLCountry = country;
+  const cl = CHECKLISTS[country];
+  if(!cl) return;
+  document.querySelectorAll('#clCountryBtns .tl-country-tab').forEach(b=>b.classList.toggle('active',b.dataset.country===country));
+  let html = '';
+  cl.items.forEach(item=>{
+    const req = item.required ? `<span style="color:#ef4444;font-weight:700;font-size:.75rem">${lang==='zh'?'必需':'Required'}</span>` : `<span style="color:#94a3b8;font-size:.75rem">${lang==='zh'?'视情况':'Optional'}</span>`;
+    html += `<div style="display:flex;gap:.8rem;align-items:flex-start;padding:.8rem 1rem;background:#fff;border-radius:10px;margin-bottom:.6rem;box-shadow:0 1px 4px rgba(0,0,0,.05)">
+      <div style="font-size:1.5rem;line-height:1">${item.icon}</div>
+      <div style="flex:1">
+        <div style="display:flex;justify-content:space-between;align-items:center">
+          <strong style="font-size:.9rem;color:var(--navy)">${(item.name[lang]||item.name.en)}</strong>
+          ${req}
+        </div>
+        <div style="font-size:.82rem;color:var(--gray-600);margin-top:.2rem;line-height:1.5">${(item.desc[lang]||item.desc.en)}</div>
+      </div>
+    </div>`;
+  });
+  document.getElementById('checklistContent').innerHTML = html;
+}
+function initChecklist(){
+  const c = document.getElementById('clCountryBtns');
+  let h='';
+  for(const [k,v] of Object.entries(CHECKLISTS)) h+=`<button class="tl-country-tab${k===currentCLCountry?' active':''}" data-country="${k}" onclick="renderChecklist('${k}')">${v.emoji} ${(v.label[lang]||v.label.en)}</button>`;
+  c.innerHTML=h;
+  renderChecklist(currentCLCountry);
+}
+
+// ===== SCHOLARSHIPS =====
+var SCHOLARSHIPS = {
+  us:{emoji:'🇺🇸',label:{zh:'美国',en:'United States'},items:[
+    {name:'Need-Blind Admission',flag:'🏫',amount:{zh:'全额按需资助',en:'Full need-based aid'},desc:{zh:'哈佛、耶鲁、普林斯顿、MIT、Amherst 等对国际生 Need-Blind：录取不看家庭经济状况，100% 满足经济需求。家庭收入 <$75K 通常免学费',en:'Harvard, Yale, Princeton, MIT, Amherst are Need-Blind for internationals: admission without considering finances, 100% demonstrated need met. Family income <$75K often = free tuition'},type:'need'},
+    {name:'Merit Scholarships',flag:'⭐',amount:{zh:'$5,000 - 全奖',en:'$5,000 - Full ride'},desc:{zh:'基于成绩/才能的奖学金。USC、NYU、波士顿大学等提供。竞争激烈，需提前申请',en:'Academic/talent-based scholarships. USC, NYU, Boston U offer these. Competitive, apply early'},type:'merit'},
+    {name:'Fulbright Program',flag:'🇺🇸',amount:{zh:'全额资助',en:'Fully funded'},desc:{zh:'美国政府资助的国际交流项目。覆盖学费、生活费、机票、保险',en:'US government-funded exchange program. Covers tuition, living, flights, insurance'},type:'govt'},
+    {name:'University-specific Grants',flag:'💰',amount:{zh:'$2,000 - $30,000/年',en:'$2,000 - $30,000/yr'},desc:{zh:'各校自有奖学金项目。如 UChicago Odyssey、Columbia 校友奖等。关注各校 Financial Aid 页面',en:'School-specific grants. E.g., UChicago Odyssey, Columbia alumni awards. Check each school\'s Financial Aid page'},type:'school'},
+  ]},
+  uk:{emoji:'🇬🇧',label:{zh:'英国',en:'United Kingdom'},items:[
+    {name:'Chevening Scholarship',flag:'🇬🇧',amount:{zh:'全额资助',en:'Fully funded'},desc:{zh:'英国政府旗舰奖学金。覆盖学费、生活费、机票。主要针对研究生，但了解有助规划',en:'UK government flagship scholarship. Covers tuition, living, flights. Mainly postgraduate but good to know for planning'},type:'govt'},
+    {name:'University Scholarships',flag:'🏫',amount:{zh:'£2,000 - £10,000/年',en:'£2,000 - £10,000/yr'},desc:{zh:'各校国际生奖学金。如剑桥 Gates、帝国理工 President\'s、爱丁堡 Global 等',en:'University international scholarships. E.g., Cambridge Gates, Imperial President\'s, Edinburgh Global'},type:'school'},
+    {name:'Reach Oxford Scholarship',flag:'⭐',amount:{zh:'全额（学费+生活费）',en:'Full (tuition + living)'},desc:{zh:'牛津大学面向发展中国家学生的全奖。覆盖3-4年学费+生活费+机票',en:'Oxford full scholarship for developing country students. Covers 3-4 years tuition + living + flights'},type:'merit'},
+    {name:'Great Scholarships',flag:'🌍',amount:{zh:'£10,000',en:'£10,000'},desc:{zh:'英国文化协会 + 大学联合项目。面向特定国家学生，每年名额有限',en:'British Council + university joint scheme. For students from specific countries, limited places'},type:'govt'},
+  ]},
+  ca:{emoji:'🇨🇦',label:{zh:'加拿大',en:'Canada'},items:[
+    {name:'Lester B. Pearson Scholarship',flag:'🏆',amount:{zh:'全额（学费+生活费 4年）',en:'Full (tuition + living 4 years)'},desc:{zh:'多伦多大学顶级奖学金。每年约37名国际生获得。需学校提名',en:'University of Toronto top scholarship. ~37 international students per year. Requires school nomination'},type:'merit'},
+    {name:'Schulich Leader Scholarships',flag:'⭐',amount:{zh:'$80,000 - $100,000',en:'$80,000 - $100,000'},desc:{zh:'面向 STEM 专业学生。加拿大20所大学参与。需学校提名',en:'For STEM students. 20 Canadian universities participate. Requires school nomination'},type:'merit'},
+    {name:'UBC International Scholars',flag:'🏫',amount:{zh:'$5,000 - 全额',en:'$5,000 - Full ride'},desc:{zh:'UBC 多层次奖学金：International Major Entrance（$20K-全额）、Outstanding International Student 等',en:'UBC multi-tier: International Major Entrance ($20K-full), Outstanding International Student, etc.'},type:'school'},
+    {name:'McGill Entrance Scholarships',flag:'🏫',amount:{zh:'$3,000 - $12,000/年',en:'$3,000 - $12,000/yr'},desc:{zh:'基于成绩自动评估。One-Year Entrance 和 Renewable Major 两类',en:'Automatically assessed by grades. One-Year Entrance and Renewable Major types'},type:'school'},
+  ]},
+  au:{emoji:'🇦🇺',label:{zh:'澳大利亚',en:'Australia'},items:[
+    {name:'Australia Awards',flag:'🇦🇺',amount:{zh:'全额资助',en:'Fully funded'},desc:{zh:'澳大利亚政府奖学金。覆盖学费、生活费、机票、保险。主要面向亚太地区',en:'Australian government scholarships. Covers tuition, living, flights, insurance. Primarily Asia-Pacific'},type:'govt'},
+    {name:'Go8 University Scholarships',flag:'🏫',amount:{zh:'25-50% 学费减免',en:'25-50% tuition waiver'},desc:{zh:'各 Go8 大学国际生奖学金。墨尔本 Melbourne International、悉尼 Sydney Scholars 等',en:'Go8 university international scholarships. Melbourne International, Sydney Scholars, etc.'},type:'school'},
+    {name:'Destination Australia',flag:'🌏',amount:{zh:'$15,000 AUD/年',en:'$15,000 AUD/yr'},desc:{zh:'澳洲政府项目，鼓励在偏远地区院校就读。覆盖部分生活费',en:'Government program encouraging study in regional areas. Covers partial living costs'},type:'govt'},
+    {name:'Research Training Program',flag:'🔬',amount:{zh:'学费全免 + 津贴',en:'Full tuition + stipend'},desc:{zh:'主要针对研究型硕博，但部分本科荣誉项目也可申请',en:'Mainly for research postgrad, but some undergrad honours may qualify'},type:'merit'},
+  ]},
+  sg:{emoji:'🇸🇬',label:{zh:'新加坡',en:'Singapore'},items:[
+    {name:'MOE Tuition Grant',flag:'🇸🇬',amount:{zh:'学费减免约 50%',en:'~50% tuition reduction'},desc:{zh:'新加坡教育部助学金。自动评估，无需单独申请。条件：毕业后在新加坡工作 3 年',en:'Singapore MOE grant. Auto-assessed, no separate application. Condition: work in Singapore 3 years after graduation'},type:'govt'},
+    {name:'NUS Global Merit Scholarship',flag:'🏆',amount:{zh:'全额学费 + 生活补贴 + 海外交换',en:'Full tuition + living + overseas exchange'},desc:{zh:'NUS 顶级奖学金。覆盖学费、住宿、生活费、海外学期。竞争极其激烈',en:'NUS top scholarship. Covers tuition, housing, living, overseas semester. Extremely competitive'},type:'merit'},
+    {name:'NTU College Scholarships',flag:'🏫',amount:{zh:'全额或半额学费',en:'Full or half tuition'},desc:{zh:'各学院自有奖学金。工程、商科、理学院各有不同名额',en:'Faculty-specific scholarships. Engineering, Business, Science each have different allocations'},type:'school'},
+    {name:'ASEAN Scholarships',flag:'🌏',amount:{zh:'全额资助',en:'Fully funded'},desc:{zh:'面向东盟国家学生。覆盖学费和生活费',en:'For ASEAN country students. Covers tuition and living expenses'},type:'govt'},
+  ]},
+  hk:{emoji:'🇭🇰',label:{zh:'中国香港',en:'Hong Kong'},items:[
+    {name:'HKU Foundation Scholarships',flag:'🏆',amount:{zh:'全额（学费+生活费+住宿）',en:'Full (tuition + living + housing)'},desc:{zh:'港大最高荣誉奖学金。IB 44-45 分或同等成绩有机会。每年约20个名额',en:'HKU highest honour scholarship. IB 44-45 or equivalent may qualify. ~20 places per year'},type:'merit'},
+    {name:'HKUST RedBird Scholarship',flag:'⭐',amount:{zh:'HK$195,000/年',en:'HK$195,000/yr'},desc:{zh:'港科大学术卓越奖学金。可覆盖全额学费+部分生活费',en:'HKUST academic excellence award. Can cover full tuition + partial living'},type:'merit'},
+    {name:'CUHK Admission Scholarships',flag:'🏫',amount:{zh:'HK$50,000 - 全额',en:'HK$50,000 - Full'},desc:{zh:'港中文入学奖学金。分全额、半额、部分三档。基于成绩自动评估',en:'CUHK admission scholarships. Full, half, partial tiers. Auto-assessed by grades'},type:'school'},
+    {name:'HKSAR Government Scholarship',flag:'🇭🇰',amount:{zh:'HK$80,000/年',en:'HK$80,000/yr'},desc:{zh:'香港特区政府奖学金。面向表现优秀的非本地学生',en:'HKSAR government scholarship for outstanding non-local students'},type:'govt'},
+  ]}
+};
+
+var currentSCCountry = 'us';
+function renderScholarships(country){
+  currentSCCountry = country;
+  const sc = SCHOLARSHIPS[country];
+  if(!sc) return;
+  document.querySelectorAll('#scCountryBtns .tl-country-tab').forEach(b=>b.classList.toggle('active',b.dataset.country===country));
+  const typeLabel = {need:{zh:'按需资助',en:'Need-based'},merit:{zh:'成绩奖学金',en:'Merit-based'},govt:{zh:'政府奖学金',en:'Government'},school:{zh:'院校奖学金',en:'University'}};
+  const typeColor = {need:'#8b5cf6',merit:'#f59e0b',govt:'#3b82f6',school:'#22c55e'};
+  let html = '';
+  sc.items.forEach(item=>{
+    const tl = typeLabel[item.type]||{zh:'',en:''};
+    html += `<div style="padding:1rem 1.2rem;background:#fff;border-radius:12px;margin-bottom:.8rem;box-shadow:0 2px 8px rgba(0,0,0,.06);border-left:4px solid ${typeColor[item.type]||'#94a3b8'}">
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.3rem">
+        <div style="font-size:1rem;font-weight:700;color:var(--navy)">${item.flag} ${item.name}</div>
+        <span style="font-size:.72rem;padding:.2rem .6rem;border-radius:10px;background:${typeColor[item.type]||'#94a3b8'}15;color:${typeColor[item.type]||'#94a3b8'};font-weight:600">${(tl[lang]||tl.en)}</span>
+      </div>
+      <div style="font-size:.95rem;font-weight:600;color:var(--gold-dark);margin:.3rem 0">${(item.amount[lang]||item.amount.en)}</div>
+      <div style="font-size:.82rem;color:var(--gray-600);line-height:1.5">${(item.desc[lang]||item.desc.en)}</div>
+    </div>`;
+  });
+  document.getElementById('scholarshipContent').innerHTML = html;
+}
+function initScholarships(){
+  const c = document.getElementById('scCountryBtns');
+  let h='';
+  for(const [k,v] of Object.entries(SCHOLARSHIPS)) h+=`<button class="tl-country-tab${k===currentSCCountry?' active':''}" data-country="${k}" onclick="renderScholarships('${k}')">${v.emoji} ${(v.label[lang]||v.label.en)}</button>`;
+  c.innerHTML=h;
+  renderScholarships(currentSCCountry);
+}
+
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded',()=>{
   updateFavBtn();
@@ -22796,6 +22983,8 @@ document.addEventListener('DOMContentLoaded',()=>{
   populateCalcSelect();
   calcCost();
   initTimeline();
+  initChecklist();
+  initScholarships();
   document.getElementById('langBtn').addEventListener('click',()=>{
     switchLang(lang==='zh'?'en':'zh');
   });
