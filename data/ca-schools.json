@@ -2952,10 +2952,6 @@
         "舞蹈"
       ]
     },
-    "description": {
-      "en": "Home of Schulich School of Business and Osgoode Hall Law School.",
-      "zh": "舒立克商学院和奥斯古德霍尔法学院所在地。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 32000
@@ -2983,6 +2979,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Home of Schulich School of Business and Osgoode Hall Law School.",
+      "zh": "舒立克商学院和奥斯古德霍尔法学院所在地。"
     }
   },
   {
@@ -3058,10 +3058,6 @@
         "生态学"
       ]
     },
-    "description": {
-      "en": "Canada's top agricultural and veterinary university with beautiful campus.",
-      "zh": "加拿大顶尖的农业和兽医大学，校园优美。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 33000
@@ -3089,6 +3085,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Canada's top agricultural and veterinary university with beautiful campus.",
+      "zh": "加拿大顶尖的农业和兽医大学，校园优美。"
     }
   },
   {
@@ -3164,10 +3164,6 @@
         "传播学"
       ]
     },
-    "description": {
-      "en": "An affordable option in central Canada with strong education and indigenous studies.",
-      "zh": "加拿大中部的高性价比选择，教育学和原住民研究实力强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 17000
@@ -3195,6 +3191,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "An affordable option in central Canada with strong education and indigenous studies.",
+      "zh": "加拿大中部的高性价比选择，教育学和原住民研究实力强。"
     }
   },
   {
@@ -3270,10 +3270,6 @@
         "哲学"
       ]
     },
-    "description": {
-      "en": "Canada's oldest English-language university with strong engineering and forestry.",
-      "zh": "加拿大最古老的英语大学，工程和林学实力强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 19000
@@ -3301,6 +3297,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Canada's oldest English-language university with strong engineering and forestry.",
+      "zh": "加拿大最古老的英语大学，工程和林学实力强。"
     }
   }
 ]

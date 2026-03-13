@@ -8038,10 +8038,6 @@
         "环境科学"
       ]
     },
-    "description": {
-      "en": "WashU is a top research university known for strong programs in medicine, business, and arts & sciences.",
-      "zh": "圣路易斯华盛顿大学以医学、商科和文理学院闻名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 62000
@@ -8069,6 +8065,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "WashU is a top research university known for strong programs in medicine, business, and arts & sciences.",
+      "zh": "圣路易斯华盛顿大学以医学、商科和文理学院闻名。"
     }
   },
   {
@@ -8144,10 +8144,6 @@
         "艺术"
       ]
     },
-    "description": {
-      "en": "Known for its Eastman School of Music and strong optics/physics programs.",
-      "zh": "以伊斯曼音乐学院和光学/物理项目闻名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 62000
@@ -8175,6 +8171,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Known for its Eastman School of Music and strong optics/physics programs.",
+      "zh": "以伊斯曼音乐学院和光学/物理项目闻名。"
     }
   },
   {
@@ -8250,10 +8250,6 @@
         "法学"
       ]
     },
-    "description": {
-      "en": "UW Seattle is a top public research university with world-class CS and medical programs.",
-      "zh": "华盛顿大学西雅图分校是顶尖公立研究型大学，CS和医学项目世界一流。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 40740
@@ -8281,6 +8277,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "UW Seattle is a top public research university with world-class CS and medical programs.",
+      "zh": "华盛顿大学西雅图分校是顶尖公立研究型大学，CS和医学项目世界一流。"
     }
   },
   {
@@ -8356,10 +8356,6 @@
         "艺术"
       ]
     },
-    "description": {
-      "en": "University of Miami is known for marine science, business, and its location in sunny South Florida.",
-      "zh": "迈阿密大学以海洋科学、商科和阳光南佛罗里达的校园环境闻名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 58000
@@ -8387,6 +8383,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "University of Miami is known for marine science, business, and its location in sunny South Florida.",
+      "zh": "迈阿密大学以海洋科学、商科和阳光南佛罗里达的校园环境闻名。"
     }
   },
   {
@@ -8462,10 +8462,6 @@
         "食品科学"
       ]
     },
-    "description": {
-      "en": "A leading public research university with strong engineering, health sciences, and agriculture programs.",
-      "zh": "明尼苏达大学是顶尖公立研究型大学，工程、健康科学和农学实力强劲。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 36200
@@ -8493,6 +8489,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "A leading public research university with strong engineering, health sciences, and agriculture programs.",
+      "zh": "明尼苏达大学是顶尖公立研究型大学，工程、健康科学和农学实力强劲。"
     }
   },
   {
@@ -8568,10 +8568,6 @@
         "统计学"
       ]
     },
-    "description": {
-      "en": "UMD is a top public university near Washington DC with strong CS, engineering, and policy programs.",
-      "zh": "马里兰大学靠近华盛顿特区，CS、工程和政策项目实力突出。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 39000
@@ -8599,6 +8595,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "UMD is a top public university near Washington DC with strong CS, engineering, and policy programs.",
+      "zh": "马里兰大学靠近华盛顿特区，CS、工程和政策项目实力突出。"
     }
   },
   {
@@ -8674,10 +8674,6 @@
         "环境科学"
       ]
     },
-    "description": {
-      "en": "MSU is known for education, agriculture, hospitality management, and supply chain management.",
-      "zh": "密歇根州立大学以教育、农学、酒店管理和供应链管理闻名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 42000
@@ -8705,6 +8701,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "MSU is known for education, agriculture, hospitality management, and supply chain management.",
+      "zh": "密歇根州立大学以教育、农学、酒店管理和供应链管理闻名。"
     }
   },
   {
@@ -8780,10 +8780,6 @@
         "艺术"
       ]
     },
-    "description": {
-      "en": "CU Boulder excels in aerospace, physics, and environmental sciences with a stunning Rocky Mountain campus.",
-      "zh": "科罗拉多大学博尔德分校在航空航天、物理和环境科学方面表现出色。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 42000
@@ -8811,6 +8807,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "CU Boulder excels in aerospace, physics, and environmental sciences with a stunning Rocky Mountain campus.",
+      "zh": "科罗拉多大学博尔德分校在航空航天、物理和环境科学方面表现出色。"
     }
   },
   {
@@ -8886,10 +8886,6 @@
         "数据科学"
       ]
     },
-    "description": {
-      "en": "A Jesuit university in the heart of Silicon Valley with strong engineering and business programs.",
-      "zh": "位于硅谷中心的耶稣会大学，工程和商科项目实力强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 58000
@@ -8917,6 +8913,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "A Jesuit university in the heart of Silicon Valley with strong engineering and business programs.",
+      "zh": "位于硅谷中心的耶稣会大学，工程和商科项目实力强。"
     }
   },
   {
@@ -8992,10 +8992,6 @@
         "环境科学"
       ]
     },
-    "description": {
-      "en": "UA is a top research university renowned for astronomy, planetary science, and optical sciences.",
-      "zh": "亚利桑那大学以天文学、行星科学和光学科学闻名世界。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 38000
@@ -9023,6 +9019,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "UA is a top research university renowned for astronomy, planetary science, and optical sciences.",
+      "zh": "亚利桑那大学以天文学、行星科学和光学科学闻名世界。"
     }
   },
   {
@@ -9098,10 +9098,6 @@
         "数据科学"
       ]
     },
-    "description": {
-      "en": "ASU is the largest public university in the US, known for innovation, sustainability, and accessibility.",
-      "zh": "亚利桑那州立大学是美国最大的公立大学，以创新和可持续发展闻名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 32000
@@ -9129,6 +9125,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "ASU is the largest public university in the US, known for innovation, sustainability, and accessibility.",
+      "zh": "亚利桑那州立大学是美国最大的公立大学，以创新和可持续发展闻名。"
     }
   },
   {
@@ -9204,10 +9204,6 @@
         "数据科学"
       ]
     },
-    "description": {
-      "en": "A top SUNY research university on Long Island with strong STEM programs and Brookhaven National Lab nearby.",
-      "zh": "石溪大学是纽约州立大学系统顶尖研究型大学，STEM实力强劲。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 30000
@@ -9235,6 +9231,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "A top SUNY research university on Long Island with strong STEM programs and Brookhaven National Lab nearby.",
+      "zh": "石溪大学是纽约州立大学系统顶尖研究型大学，STEM实力强劲。"
     }
   },
   {
@@ -9310,10 +9310,6 @@
         "统计学"
       ]
     },
-    "description": {
-      "en": "New Jersey's flagship public university with a strong pharmacy program and proximity to NYC.",
-      "zh": "新泽西州旗舰公立大学，药学项目强，靠近纽约市。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 35000
@@ -9341,6 +9337,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "New Jersey's flagship public university with a strong pharmacy program and proximity to NYC.",
+      "zh": "新泽西州旗舰公立大学，药学项目强，靠近纽约市。"
     }
   }
 ]

@@ -2222,10 +2222,6 @@
         "法学"
       ]
     },
-    "description": {
-      "en": "Known for health sciences and community engagement in Melbourne.",
-      "zh": "以健康科学和社区参与闻名的墨尔本大学。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 35000
@@ -2253,6 +2249,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Known for health sciences and community engagement in Melbourne.",
+      "zh": "以健康科学和社区参与闻名的墨尔本大学。"
     }
   },
   {
@@ -2328,10 +2328,6 @@
         "公共卫生"
       ]
     },
-    "description": {
-      "en": "Strong in criminology, tourism, and environmental science. Located on the Gold Coast and Brisbane.",
-      "zh": "犯罪学、旅游和环境科学实力强，校区在黄金海岸和布里斯班。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 34000
@@ -2359,6 +2355,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Strong in criminology, tourism, and environmental science. Located on the Gold Coast and Brisbane.",
+      "zh": "犯罪学、旅游和环境科学实力强，校区在黄金海岸和布里斯班。"
     }
   },
   {
@@ -2434,10 +2434,6 @@
         "传播学"
       ]
     },
-    "description": {
-      "en": "Known for medical education and innovation in Adelaide.",
-      "zh": "以医学教育和创新闻名的阿德莱德大学。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 34000
@@ -2465,6 +2461,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Known for medical education and innovation in Adelaide.",
+      "zh": "以医学教育和创新闻名的阿德莱德大学。"
     }
   },
   {
@@ -2540,10 +2540,6 @@
         "建筑学"
       ]
     },
-    "description": {
-      "en": "Australia's Antarctic gateway with unique marine and environmental programs.",
-      "zh": "澳大利亚通往南极的门户，海洋和环境项目独特。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 33000
@@ -2571,6 +2567,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Australia's Antarctic gateway with unique marine and environmental programs.",
+      "zh": "澳大利亚通往南极的门户，海洋和环境项目独特。"
     }
   },
   {
@@ -2646,10 +2646,6 @@
         "社会工作"
       ]
     },
-    "description": {
-      "en": "A strong regional university with excellent engineering and medical programs.",
-      "zh": "一所优秀的地区大学，工程和医学项目突出。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 34000
@@ -2677,6 +2673,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "A strong regional university with excellent engineering and medical programs.",
+      "zh": "一所优秀的地区大学，工程和医学项目突出。"
     }
   },
   {
@@ -2752,10 +2752,6 @@
         "信息系统"
       ]
     },
-    "description": {
-      "en": "Known for design, film, and technology programs in Melbourne.",
-      "zh": "以设计、影视和科技项目闻名的墨尔本大学。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 34000
@@ -2783,6 +2779,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Known for design, film, and technology programs in Melbourne.",
+      "zh": "以设计、影视和科技项目闻名的墨尔本大学。"
     }
   },
   {
@@ -2858,10 +2858,6 @@
         "计算机科学"
       ]
     },
-    "description": {
-      "en": "World leader in marine biology and tropical sciences near the Great Barrier Reef.",
-      "zh": "大堡礁旁，海洋生物学和热带科学世界领先。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 33000
@@ -2889,6 +2885,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "World leader in marine biology and tropical sciences near the Great Barrier Reef.",
+      "zh": "大堡礁旁，海洋生物学和热带科学世界领先。"
     }
   }
 ]

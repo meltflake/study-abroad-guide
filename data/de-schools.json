@@ -72,10 +72,6 @@
         "信息系统"
       ]
     },
-    "description": {
-      "en": "Germany's top technical university. Nearly free tuition (~€300/year admin fee). World-class engineering and CS.",
-      "zh": "德国顶尖理工大学，学费几乎免费（约€300/年管理费），工程和CS世界一流。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -104,7 +100,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "Germany's top technical university. Nearly free tuition (~€300/year admin fee). World-class engineering and CS.",
+      "zh": "德国顶尖理工大学，学费几乎免费（约€300/年管理费），工程和CS世界一流。"
+    }
   },
   {
     "id": "lmu",
@@ -179,10 +179,6 @@
         "药学"
       ]
     },
-    "description": {
-      "en": "One of Europe's leading research universities. Strong across all disciplines. Nearly free tuition.",
-      "zh": "欧洲顶尖研究型大学，各学科实力均衡，学费几乎免费。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -211,7 +207,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "One of Europe's leading research universities. Strong across all disciplines. Nearly free tuition.",
+      "zh": "欧洲顶尖研究型大学，各学科实力均衡，学费几乎免费。"
+    }
   },
   {
     "id": "heidelberg",
@@ -286,10 +286,6 @@
         "地质学"
       ]
     },
-    "description": {
-      "en": "Germany's oldest university (1386). Nobel Prize tradition in physics and medicine.",
-      "zh": "德国最古老的大学（1386年），物理学和医学诺贝尔奖传统。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -318,7 +314,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "Germany's oldest university (1386). Nobel Prize tradition in physics and medicine.",
+      "zh": "德国最古老的大学（1386年），物理学和医学诺贝尔奖传统。"
+    }
   },
   {
     "id": "huberlin",
@@ -393,10 +393,6 @@
         "教育学"
       ]
     },
-    "description": {
-      "en": "Founded by Wilhelm von Humboldt. 29 Nobel laureates including Einstein. In central Berlin.",
-      "zh": "洪堡创立，29位诺贝尔奖得主包括爱因斯坦，位于柏林市中心。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -425,7 +421,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "Founded by Wilhelm von Humboldt. 29 Nobel laureates including Einstein. In central Berlin.",
+      "zh": "洪堡创立，29位诺贝尔奖得主包括爱因斯坦，位于柏林市中心。"
+    }
   },
   {
     "id": "fuberlin",
@@ -500,10 +500,6 @@
         "美术史"
       ]
     },
-    "description": {
-      "en": "A leading German university in Berlin, strong in humanities and social sciences.",
-      "zh": "柏林顶尖大学，人文和社会科学实力强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -532,7 +528,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "A leading German university in Berlin, strong in humanities and social sciences.",
+      "zh": "柏林顶尖大学，人文和社会科学实力强。"
+    }
   },
   {
     "id": "rwth",
@@ -607,10 +607,6 @@
         "机器人学"
       ]
     },
-    "description": {
-      "en": "Germany's largest technical university. Top employer reputation in engineering across Europe.",
-      "zh": "德国最大的理工大学，工程专业在欧洲雇主声誉极高。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -639,7 +635,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "Germany's largest technical university. Top employer reputation in engineering across Europe.",
+      "zh": "德国最大的理工大学，工程专业在欧洲雇主声誉极高。"
+    }
   },
   {
     "id": "tuberlin",
@@ -714,10 +714,6 @@
         "设计"
       ]
     },
-    "description": {
-      "en": "Berlin's technical university. Strong in engineering, CS, and architecture. Start-up hub.",
-      "zh": "柏林工业大学，工程、CS和建筑学实力强，创业氛围浓厚。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -746,7 +742,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "Berlin's technical university. Strong in engineering, CS, and architecture. Start-up hub.",
+      "zh": "柏林工业大学，工程、CS和建筑学实力强，创业氛围浓厚。"
+    }
   },
   {
     "id": "freiburg",
@@ -821,10 +821,6 @@
         "政治学"
       ]
     },
-    "description": {
-      "en": "A traditional German research university in beautiful Freiburg. Strong in medicine and natural sciences.",
-      "zh": "位于美丽的弗莱堡，传统研究型大学，医学和自然科学实力强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -853,7 +849,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "A traditional German research university in beautiful Freiburg. Strong in medicine and natural sciences.",
+      "zh": "位于美丽的弗莱堡，传统研究型大学，医学和自然科学实力强。"
+    }
   },
   {
     "id": "goettingen",
@@ -928,10 +928,6 @@
         "政治学"
       ]
     },
-    "description": {
-      "en": "Historic mathematics powerhouse (Gauss, Riemann, Hilbert). 45 Nobel Prize connections.",
-      "zh": "数学圣地（高斯、黎曼、希尔伯特），与45位诺贝尔奖获得者有关。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -960,7 +956,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "Historic mathematics powerhouse (Gauss, Riemann, Hilbert). 45 Nobel Prize connections.",
+      "zh": "数学圣地（高斯、黎曼、希尔伯特），与45位诺贝尔奖获得者有关。"
+    }
   },
   {
     "id": "tubingen",
@@ -1035,10 +1035,6 @@
         "政治学"
       ]
     },
-    "description": {
-      "en": "Leading in AI/machine learning research (Cyber Valley). Historic university town.",
-      "zh": "AI/机器学习研究领先（Cyber Valley），历史悠久的大学城。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 300
@@ -1067,6 +1063,10 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇩🇪"
+    "flag": "🇩🇪",
+    "desc": {
+      "en": "Leading in AI/machine learning research (Cyber Valley). Historic university town.",
+      "zh": "AI/机器学习研究领先（Cyber Valley），历史悠久的大学城。"
+    }
   }
 ]

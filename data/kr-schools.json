@@ -72,10 +72,6 @@
         "药学"
       ]
     },
-    "description": {
-      "en": "South Korea's #1 university. Highly competitive admission. English-taught courses available.",
-      "zh": "韩国第一名校，录取竞争极其激烈，提供英语授课课程。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 6000
@@ -104,7 +100,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "desc": {
+      "en": "South Korea's #1 university. Highly competitive admission. English-taught courses available.",
+      "zh": "韩国第一名校，录取竞争极其激烈，提供英语授课课程。"
+    }
   },
   {
     "id": "kaist",
@@ -179,10 +179,6 @@
         "商科"
       ]
     },
-    "description": {
-      "en": "Korea's MIT. Full scholarship for international students. All courses in English at undergrad.",
-      "zh": "韩国的MIT，国际生全额奖学金，本科全英文授课。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 6000
@@ -211,7 +207,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "desc": {
+      "en": "Korea's MIT. Full scholarship for international students. All courses in English at undergrad.",
+      "zh": "韩国的MIT，国际生全额奖学金，本科全英文授课。"
+    }
   },
   {
     "id": "yonsei",
@@ -286,10 +286,6 @@
         "教育学"
       ]
     },
-    "description": {
-      "en": "One of Korea's top 3 (SKY). Underwood International College offers full English programs.",
-      "zh": "韩国SKY三校之一，Underwood国际学院提供全英文项目。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 10000
@@ -318,7 +314,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "desc": {
+      "en": "One of Korea's top 3 (SKY). Underwood International College offers full English programs.",
+      "zh": "韩国SKY三校之一，Underwood国际学院提供全英文项目。"
+    }
   },
   {
     "id": "korea",
@@ -393,10 +393,6 @@
         "建筑学"
       ]
     },
-    "description": {
-      "en": "One of Korea's top 3 (SKY). Strong in business, law, and engineering.",
-      "zh": "韩国SKY三校之一，商科、法学和工程实力强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 10000
@@ -425,7 +421,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "desc": {
+      "en": "One of Korea's top 3 (SKY). Strong in business, law, and engineering.",
+      "zh": "韩国SKY三校之一，商科、法学和工程实力强。"
+    }
   },
   {
     "id": "postech",
@@ -500,10 +500,6 @@
         "计算金融"
       ]
     },
-    "description": {
-      "en": "South Korea's Caltech. Tiny, elite science university. Full scholarship for international students.",
-      "zh": "韩国的加州理工，精英科技大学，国际生全额奖学金。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 6000
@@ -532,7 +528,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "desc": {
+      "en": "South Korea's Caltech. Tiny, elite science university. Full scholarship for international students.",
+      "zh": "韩国的加州理工，精英科技大学，国际生全额奖学金。"
+    }
   },
   {
     "id": "skku",
@@ -607,10 +607,6 @@
         "哲学"
       ]
     },
-    "description": {
-      "en": "Korea's oldest university (1398), backed by Samsung. Strong in business and engineering.",
-      "zh": "韩国最古老的大学（1398年），三星赞助，商科和工程强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 9000
@@ -639,7 +635,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "desc": {
+      "en": "Korea's oldest university (1398), backed by Samsung. Strong in business and engineering.",
+      "zh": "韩国最古老的大学（1398年），三星赞助，商科和工程强。"
+    }
   },
   {
     "id": "hanyang",
@@ -714,10 +714,6 @@
         "传播学"
       ]
     },
-    "description": {
-      "en": "Top engineering university. Known for practical education and industry connections.",
-      "zh": "顶尖工科大学，以实践教育和产业联系闻名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 9000
@@ -746,7 +742,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "desc": {
+      "en": "Top engineering university. Known for practical education and industry connections.",
+      "zh": "顶尖工科大学，以实践教育和产业联系闻名。"
+    }
   },
   {
     "id": "sogang",
@@ -821,10 +821,6 @@
         "法学"
       ]
     },
-    "description": {
-      "en": "A Jesuit university known for small class sizes and strong humanities/business programs.",
-      "zh": "耶稣会大学，以小班教学和人文/商科项目闻名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 9000
@@ -853,6 +849,10 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇰🇷"
+    "flag": "🇰🇷",
+    "desc": {
+      "en": "A Jesuit university known for small class sizes and strong humanities/business programs.",
+      "zh": "耶稣会大学，以小班教学和人文/商科项目闻名。"
+    }
   }
 ]

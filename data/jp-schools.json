@@ -72,10 +72,6 @@
         "公共政策"
       ]
     },
-    "description": {
-      "en": "Japan's most prestigious university. PEAK program offers English-taught undergraduate degrees.",
-      "zh": "日本最顶尖的大学，PEAK项目提供全英文本科学位。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 5000
@@ -104,7 +100,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "Japan's most prestigious university. PEAK program offers English-taught undergraduate degrees.",
+      "zh": "日本最顶尖的大学，PEAK项目提供全英文本科学位。"
+    }
   },
   {
     "id": "kyoto",
@@ -179,10 +179,6 @@
         "建筑学"
       ]
     },
-    "description": {
-      "en": "Japan's second university. Known for academic freedom and Nobel Prize winners. iUP English program.",
-      "zh": "日本第二名校，以学术自由和诺贝尔奖得主闻名，iUP英文项目。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 5000
@@ -211,7 +207,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "Japan's second university. Known for academic freedom and Nobel Prize winners. iUP English program.",
+      "zh": "日本第二名校，以学术自由和诺贝尔奖得主闻名，iUP英文项目。"
+    }
   },
   {
     "id": "osaka",
@@ -286,10 +286,6 @@
         "生物医工学"
       ]
     },
-    "description": {
-      "en": "A leading research university in Japan's second city. Strong in engineering and medicine.",
-      "zh": "日本第二大城市的顶尖研究型大学，工程和医学实力强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 5000
@@ -318,7 +314,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "A leading research university in Japan's second city. Strong in engineering and medicine.",
+      "zh": "日本第二大城市的顶尖研究型大学，工程和医学实力强。"
+    }
   },
   {
     "id": "tohoku",
@@ -393,10 +393,6 @@
         "牙医学"
       ]
     },
-    "description": {
-      "en": "First Japanese university to admit women and international students. Excellent materials science.",
-      "zh": "日本第一所录取女性和留学生的大学，材料科学卓越。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 5000
@@ -425,7 +421,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "First Japanese university to admit women and international students. Excellent materials science.",
+      "zh": "日本第一所录取女性和留学生的大学，材料科学卓越。"
+    }
   },
   {
     "id": "titech",
@@ -500,10 +500,6 @@
         "应用物理"
       ]
     },
-    "description": {
-      "en": "Japan's top science and technology university. Merged with Tokyo Medical & Dental in 2024.",
-      "zh": "日本顶尖理工大学，2024年与东京医科齿科大学合并。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 5000
@@ -532,7 +528,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "Japan's top science and technology university. Merged with Tokyo Medical & Dental in 2024.",
+      "zh": "日本顶尖理工大学，2024年与东京医科齿科大学合并。"
+    }
   },
   {
     "id": "nagoya",
@@ -607,10 +607,6 @@
         "社会学"
       ]
     },
-    "description": {
-      "en": "6 Nobel laureates in physics and chemistry. G-30 English program available.",
-      "zh": "6位诺贝尔物理/化学奖得主，提供G-30英语项目。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 5000
@@ -639,7 +635,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "6 Nobel laureates in physics and chemistry. G-30 English program available.",
+      "zh": "6位诺贝尔物理/化学奖得主，提供G-30英语项目。"
+    }
   },
   {
     "id": "waseda",
@@ -714,10 +714,6 @@
         "生物学"
       ]
     },
-    "description": {
-      "en": "Japan's top private university. Many English-taught programs. 7 Japanese PMs are alumni.",
-      "zh": "日本顶尖私立大学，多个英文授课项目，7位日本首相的母校。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 18000
@@ -746,7 +742,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "Japan's top private university. Many English-taught programs. 7 Japanese PMs are alumni.",
+      "zh": "日本顶尖私立大学，多个英文授课项目，7位日本首相的母校。"
+    }
   },
   {
     "id": "keio",
@@ -821,10 +821,6 @@
         "哲学"
       ]
     },
-    "description": {
-      "en": "Japan's oldest private university (1858). PEARL English program. Strong business alumni network.",
-      "zh": "日本最古老的私立大学（1858年），PEARL英文项目，商界校友网络强大。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 18000
@@ -853,7 +849,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "Japan's oldest private university (1858). PEARL English program. Strong business alumni network.",
+      "zh": "日本最古老的私立大学（1858年），PEARL英文项目，商界校友网络强大。"
+    }
   },
   {
     "id": "kyushu",
@@ -928,10 +928,6 @@
         "社会学"
       ]
     },
-    "description": {
-      "en": "A leading university in southern Japan. English-taught programs through JTW and IUPE.",
-      "zh": "日本南部顶尖大学，通过JTW和IUPE提供英语授课项目。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 5000
@@ -960,7 +956,11 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "A leading university in southern Japan. English-taught programs through JTW and IUPE.",
+      "zh": "日本南部顶尖大学，通过JTW和IUPE提供英语授课项目。"
+    }
   },
   {
     "id": "hokkaido",
@@ -1035,10 +1035,6 @@
         "地球科学"
       ]
     },
-    "description": {
-      "en": "Beautiful campus in Sapporo. Strong in agriculture, veterinary science, and environmental studies.",
-      "zh": "札幌美丽校园，农学、兽医和环境研究实力强。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 5000
@@ -1067,6 +1063,10 @@
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
     },
-    "flag": "🇯🇵"
+    "flag": "🇯🇵",
+    "desc": {
+      "en": "Beautiful campus in Sapporo. Strong in agriculture, veterinary science, and environmental studies.",
+      "zh": "札幌美丽校园，农学、兽医和环境研究实力强。"
+    }
   }
 ]

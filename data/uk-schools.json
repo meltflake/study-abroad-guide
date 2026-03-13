@@ -4338,10 +4338,6 @@
         "艺术"
       ]
     },
-    "description": {
-      "en": "One of Scotland's oldest universities, strong in medicine, energy, and earth sciences.",
-      "zh": "苏格兰最古老的大学之一，在医学、能源和地球科学方面实力强劲。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 22000
@@ -4369,6 +4365,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "One of Scotland's oldest universities, strong in medicine, energy, and earth sciences.",
+      "zh": "苏格兰最古老的大学之一，在医学、能源和地球科学方面实力强劲。"
     }
   },
   {
@@ -4444,10 +4444,6 @@
         "食品科学"
       ]
     },
-    "description": {
-      "en": "A Russell Group university in Northern Ireland with strong pharmacy and engineering programs.",
-      "zh": "北爱尔兰的罗素集团大学，药学和工程实力突出。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 20500
@@ -4475,6 +4471,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "A Russell Group university in Northern Ireland with strong pharmacy and engineering programs.",
+      "zh": "北爱尔兰的罗素集团大学，药学和工程实力突出。"
     }
   },
   {
@@ -4550,10 +4550,6 @@
         "环境科学"
       ]
     },
-    "description": {
-      "en": "Strong in medicine, dentistry, and art & design. Known for the V&A Dundee design museum.",
-      "zh": "医学、牙医和艺术设计实力强，V&A邓迪设计博物馆所在地。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 21000
@@ -4581,6 +4577,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Strong in medicine, dentistry, and art & design. Known for the V&A Dundee design museum.",
+      "zh": "医学、牙医和艺术设计实力强，V&A邓迪设计博物馆所在地。"
     }
   },
   {
@@ -4656,10 +4656,6 @@
         "法学"
       ]
     },
-    "description": {
-      "en": "Known for information security (top UK), performing arts, and a stunning Victorian campus.",
-      "zh": "以信息安全（英国顶尖）、表演艺术和维多利亚时代校园闻名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 22500
@@ -4687,6 +4683,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Known for information security (top UK), performing arts, and a stunning Victorian campus.",
+      "zh": "以信息安全（英国顶尖）、表演艺术和维多利亚时代校园闻名。"
     }
   },
   {
@@ -4762,10 +4762,6 @@
         "护理学"
       ]
     },
-    "description": {
-      "en": "Renowned for environmental science and creative writing. Home of the Sainsbury Centre.",
-      "zh": "以环境科学和创意写作闻名，赛恩斯伯里中心所在地。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 21000
@@ -4793,6 +4789,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Renowned for environmental science and creative writing. Home of the Sainsbury Centre.",
+      "zh": "以环境科学和创意写作闻名，赛恩斯伯里中心所在地。"
     }
   },
   {
@@ -4868,10 +4868,6 @@
         "环境科学"
       ]
     },
-    "description": {
-      "en": "Strong in engineering, actuarial science, and translation. Has Dubai and Malaysia campuses.",
-      "zh": "工程、精算和翻译实力强，在迪拜和马来西亚设有校区。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 20000
@@ -4899,6 +4895,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Strong in engineering, actuarial science, and translation. Has Dubai and Malaysia campuses.",
+      "zh": "工程、精算和翻译实力强，在迪拜和马来西亚设有校区。"
     }
   },
   {
@@ -4974,10 +4974,6 @@
         "公共卫生"
       ]
     },
-    "description": {
-      "en": "A leading technological university in Glasgow with triple-accredited business school.",
-      "zh": "格拉斯哥领先的理工大学，商学院获三重认证。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 21000
@@ -5005,6 +5001,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "A leading technological university in Glasgow with triple-accredited business school.",
+      "zh": "格拉斯哥领先的理工大学，商学院获三重认证。"
     }
   },
   {
@@ -5080,10 +5080,6 @@
         "教育学"
       ]
     },
-    "description": {
-      "en": "A coastal university with strong engineering and a new Bay Campus on the beach.",
-      "zh": "一所海滨大学，工程实力强，新建的海湾校区就在海边。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 20000
@@ -5111,6 +5107,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "A coastal university with strong engineering and a new Bay Campus on the beach.",
+      "zh": "一所海滨大学，工程实力强，新建的海湾校区就在海边。"
     }
   },
   {
@@ -5186,10 +5186,6 @@
         "公共卫生"
       ]
     },
-    "description": {
-      "en": "Known for engineering, design, and sports science. Named after Isambard Kingdom Brunel.",
-      "zh": "以工程、设计和体育科学闻名，以著名工程师布鲁内尔命名。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 19500
@@ -5217,6 +5213,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "Known for engineering, design, and sports science. Named after Isambard Kingdom Brunel.",
+      "zh": "以工程、设计和体育科学闻名，以著名工程师布鲁内尔命名。"
     }
   },
   {
@@ -5292,10 +5292,6 @@
         "教育学"
       ]
     },
-    "description": {
-      "en": "The UK's European university in historic Canterbury. Strong in law and drama.",
-      "zh": "位于历史名城坎特伯雷，法学和戏剧实力突出。"
-    },
     "tuitionBreakdown": {
       "en": {
         "Tuition": 19500
@@ -5323,6 +5319,10 @@
     "applicationGuide": {
       "en": "Check official website for details.",
       "zh": "请查看学校官网了解详情。"
+    },
+    "desc": {
+      "en": "The UK's European university in historic Canterbury. Strong in law and drama.",
+      "zh": "位于历史名城坎特伯雷，法学和戏剧实力突出。"
     }
   }
 ]
