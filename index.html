@@ -211,6 +211,8 @@ img{max-width:100%}
 
 /* ===== Responsive - Mobile ===== */
 @media(max-width:768px){
+  /* Recommend tier grid */
+  #recResults [style*="grid-template-columns:repeat(5"]{grid-template-columns:repeat(2,1fr) !important}
   /* Nav */
   .navbar{padding:0 .8rem;height:56px}
   .nav-brand{font-size:1.05rem}
@@ -42094,38 +42096,34 @@ function runRecommend(){
   let html = `<div style="text-align:center;margin-bottom:1.5rem">
     <span style="font-size:1.1rem;color:var(--navy);font-weight:600">${t('found_matches').replace('{n}',scored.length).replace('{t}',results.length)}</span>
   </div>`;
-  html += `<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1rem">`;
-  results.forEach((r, i) => {
-    const s = r.school;
-    const ibMin = getIBMinScore(s);
-    const tierColor = i < 5 ? '#f59e0b' : (i < 10 ? '#3b82f6' : '#6b7280');
-    const tierLabel = i < 5 ? (t('highly_rec')) : (i < 10 ? (t('recommended')) : (t('suitable')));
-    html += `
-    <div style="background:#fff;border:1px solid #e2e8f0;border-radius:12px;overflow:hidden;cursor:pointer;transition:all .2s;border-top:3px solid ${tierColor};box-shadow:0 1px 4px rgba(0,0,0,.05)" onclick="openDetail('${s.id}')">
-      <div style="padding:1rem 1.2rem">
-        <div style="display:flex;justify-content:space-between;align-items:start;margin-bottom:.5rem">
-          <div>
-            <div style="font-size:.7rem;color:${tierColor};font-weight:600;margin-bottom:.3rem">${tierLabel}</div>
-            <div style="font-weight:700;font-size:1rem;color:#1e293b">${s.flag} ${(s.name[lang]||s.name.en)}</div>
-            ${lang==='zh'?`<div style="font-size:.75rem;color:#64748b">${s.name.en}</div>`:''}
+  const tiers = [
+    {items: results.slice(0,5), color:'#f59e0b', label:t('highly_rec')},
+    {items: results.slice(5,10), color:'#3b82f6', label:t('recommended')},
+    {items: results.slice(10,15), color:'#6b7280', label:t('suitable')}
+  ];
+  tiers.forEach(tier => {
+    if(!tier.items.length) return;
+    html += `<div style="margin-bottom:1.5rem">
+      <h3 style="font-size:1rem;font-weight:700;color:${tier.color};margin-bottom:.8rem;padding-left:.3rem;border-left:3px solid ${tier.color}">${tier.label}</h3>
+      <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:.8rem">`;
+    tier.items.forEach(r => {
+      const s = r.school;
+      const ibMin = getIBMinScore(s);
+      html += `
+      <div style="background:#fff;border:1px solid #e2e8f0;border-radius:10px;overflow:hidden;cursor:pointer;transition:all .2s;border-top:3px solid ${tier.color};box-shadow:0 1px 4px rgba(0,0,0,.05)" onclick="openDetail('${s.id}')">
+        <div style="padding:.8rem">
+          <div style="font-weight:700;font-size:.85rem;color:#1e293b;margin-bottom:.2rem">${s.flag} ${(s.name[lang]||s.name.en)}</div>
+          ${lang==='zh'?`<div style="font-size:.7rem;color:#64748b;margin-bottom:.4rem">${s.name.en}</div>`:''}
+          <div style="font-size:1rem;font-weight:700;color:var(--navy);margin-bottom:.4rem">QS #${s.qs}</div>
+          <div style="display:flex;flex-wrap:wrap;gap:.25rem">
+            <span style="background:#fdf2f8;padding:.15rem .4rem;border-radius:4px;font-size:.68rem;color:#9d174d">IB ${ibMin||'?'}+</span>
+            <span style="background:#fefce8;padding:.15rem .4rem;border-radius:4px;font-size:.68rem;color:#854d0e">$${(s.tuition/1000).toFixed(0)}k</span>
           </div>
-          <div style="text-align:right">
-            <div style="font-size:.7rem;color:#64748b">QS</div>
-            <div style="font-size:1.2rem;font-weight:700;color:var(--navy)">#${s.qs}</div>
-          </div>
         </div>
-        <div style="display:flex;flex-wrap:wrap;gap:.3rem;margin:.6rem 0">
-          <span style="background:#fdf2f8;padding:.2rem .5rem;border-radius:4px;font-size:.72rem;color:#9d174d">IB ${ibMin||'?'}+</span>
-          <span style="background:#fefce8;padding:.2rem .5rem;border-radius:4px;font-size:.72rem;color:#854d0e">$${s.tuition.toLocaleString()}/yr</span>
-          <span style="background:#ecfdf5;padding:.2rem .5rem;border-radius:4px;font-size:.72rem;color:#065f46">🛡️${s.safety}/10</span>
-        </div>
-        <div style="font-size:.75rem;color:#64748b;line-height:1.4">
-          ${r.reasons.slice(0,3).map(reason=>`<div>${reason}</div>`).join('')}
-        </div>
-      </div>
-    </div>`;
+      </div>`;
+    });
+    html += `</div></div>`;
   });
-  html += '</div>';
 
   // Summary advice
   html += `<div style="margin-top:1.5rem;padding:1.2rem;background:#fff;border-radius:12px;border:1px solid #e2e8f0;box-shadow:0 1px 4px rgba(0,0,0,.05)">
