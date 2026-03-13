@@ -2281,7 +2281,8 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "flag": "🇦🇺"
   },
   {
     "id": "griffith",
@@ -2415,7 +2416,8 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "flag": "🇦🇺"
   },
   {
     "id": "flinders",
@@ -2549,7 +2551,8 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "flag": "🇦🇺"
   },
   {
     "id": "utas",
@@ -2683,7 +2686,8 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "flag": "🇦🇺"
   },
   {
     "id": "unewcastle",
@@ -2817,7 +2821,8 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "flag": "🇦🇺"
   },
   {
     "id": "swinburne",
@@ -2951,7 +2956,8 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "flag": "🇦🇺"
   },
   {
     "id": "jcu",
@@ -3085,7 +3091,8 @@
     "deadline": {
       "zh": "滚动录取（第一学期通常10-11月截止）",
       "en": "Rolling admissions (Semester 1 typically Oct-Nov deadline)"
-    }
+    },
+    "flag": "🇦🇺"
   },
   {
     "id": "usouthau",
