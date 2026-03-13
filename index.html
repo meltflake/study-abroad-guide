@@ -21756,7 +21756,7 @@ const SCHOOLS = [
 ];
 
 // ===== I18N =====
-let lang = 'zh';
+var lang = 'zh';
 const I18N = {
   nav_schools:{zh:'院校浏览',en:'Schools'},
   nav_calc:{zh:'费用计算',en:'Cost Calculator'},
@@ -21944,13 +21944,13 @@ function switchLang(newLang){
 }
 
 // ===== STATE =====
-let currentCountry = 'all';
-let selectedIds = [];
+var currentCountry = 'all';
+var selectedIds = [];
 
-let currentRankSystem = 'qs';
-let currentIBRange = 'all';
-let favorites = JSON.parse(localStorage.getItem('sa_favorites') || '[]');
-let showFavOnly = false;
+var currentRankSystem = 'qs';
+var currentIBRange = 'all';
+var favorites = JSON.parse(localStorage.getItem('sa_favorites') || '[]');
+var showFavOnly = false;
 
 function setFilter(btn){
   document.querySelectorAll('#countryFilters .filter-btn').forEach(b=>b.classList.remove('active'));
