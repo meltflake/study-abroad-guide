@@ -177,6 +177,21 @@ img{max-width:100%}
 .calc-result .breakdown .item .val{color:var(--gold-light);font-weight:600}
 
 /* ===== Footer ===== */
+.tl-track{position:relative;padding-left:2.5rem;margin:1rem 0}
+.tl-track::before{content:'';position:absolute;left:.9rem;top:0;bottom:0;width:3px;background:linear-gradient(to bottom,var(--gold),var(--blue-500),var(--gold));border-radius:2px}
+.tl-item{position:relative;margin-bottom:1.2rem;padding:.8rem 1rem;background:#fff;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.06);border-left:3px solid var(--gold)}
+.tl-item::before{content:'';position:absolute;left:-1.95rem;top:1rem;width:12px;height:12px;border-radius:50%;border:3px solid var(--gold);background:#fff;z-index:1}
+.tl-item.active::before{background:var(--gold)}
+.tl-item .tl-date{font-size:.78rem;font-weight:700;color:var(--gold-dark);margin-bottom:.2rem}
+.tl-item .tl-title{font-size:.92rem;font-weight:600;color:var(--navy)}
+.tl-item .tl-desc{font-size:.82rem;color:var(--gray-600);margin-top:.2rem;line-height:1.5}
+.tl-item.tl-urgent{border-left-color:#ef4444}.tl-item.tl-urgent::before{border-color:#ef4444}
+.tl-item.tl-done{border-left-color:#22c55e;opacity:.7}.tl-item.tl-done::before{border-color:#22c55e;background:#22c55e}
+.tl-country-tab{padding:.5rem 1rem;border-radius:20px;border:2px solid var(--gray-300);background:#fff;cursor:pointer;font-size:.85rem;font-weight:600;transition:var(--transition)}
+.tl-country-tab.active{background:var(--navy);color:#fff;border-color:var(--navy)}
+.tl-legend{display:flex;gap:1rem;justify-content:center;margin-bottom:1rem;font-size:.78rem;color:var(--gray-500)}
+.tl-legend span::before{content:'';display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:.3rem;vertical-align:middle}
+.tl-legend .lg-prep::before{background:var(--gold)}.tl-legend .lg-deadline::before{background:#ef4444}.tl-legend .lg-result::before{background:#3b82f6}.tl-legend .lg-done::before{background:#22c55e}
 .footer{background:var(--navy-dark);color:var(--gray-400);text-align:center;padding:2.5rem 2rem;font-size:.85rem}
 .footer .brand{color:var(--gold);font-weight:700;font-size:1.1rem;margin-bottom:.5rem}
 
@@ -483,6 +498,16 @@ img{max-width:100%}
       </div>
       <div id="calcResult" style="margin-top:1.5rem"></div>
     </div>
+  </div>
+</section>
+
+<!-- Timeline -->
+<section class="section" id="timeline">
+  <div class="container">
+    <h2 class="section-title" data-i18n="section_timeline">📅 申请时间线</h2>
+    <p class="section-desc" data-i18n="section_timeline_desc">各国本科申请关键节点一览，合理规划每一步</p>
+    <div style="display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;margin-bottom:1.5rem" id="tlCountryBtns"></div>
+    <div id="timelineContent"></div>
   </div>
 </section>
 
@@ -21917,6 +21942,12 @@ const I18N = {
   suitable:{zh:'✅ 适合',en:'✅ Suitable'},
   advice_title:{zh:'📋 选校建议',en:'📋 Advice'},
   advice_text:{zh:'以你IB {ib}分的预估，建议申请策略：<br>• <strong style="color:#f59e0b">冲刺校 1-2所</strong>（IB要求接近或略高于你的分数）<br>• <strong style="color:#3b82f6">匹配校 3-4所</strong>（IB要求低于你2-5分）<br>• <strong style="color:#34d399">保底校 2-3所</strong>（IB要求明显低于你的分数）',en:'With your estimated IB {ib}, suggested strategy:<br>• <strong style="color:#f59e0b">1-2 Reach schools</strong> (IB req near or above your score)<br>• <strong style="color:#3b82f6">3-4 Match schools</strong> (IB req 2-5 below yours)<br>• <strong style="color:#34d399">2-3 Safety schools</strong> (IB req well below yours)',ja:'IB予測{ib}点の場合の戦略：<br>• <strong style="color:#f59e0b">挑戦校 1-2校</strong>（IB要件があなたの点数付近）<br>• <strong style="color:#3b82f6">適正校 3-4校</strong>（IB要件が2-5点低い）<br>• <strong style="color:#34d399">安全校 2-3校</strong>（IB要件が十分低い）',ko:'IB 예상 {ib}점 기준 전략:<br>• <strong style="color:#f59e0b">도전교 1-2곳</strong> (IB 요건이 본인 점수 근처)<br>• <strong style="color:#3b82f6">적정교 3-4곳</strong> (IB 요건이 2-5점 낮음)<br>• <strong style="color:#34d399">안전교 2-3곳</strong> (IB 요건이 충분히 낮음)',fr:'Avec votre IB estimé de {ib}:<br>• <strong style="color:#f59e0b">1-2 écoles ambitieuses</strong><br>• <strong style="color:#3b82f6">3-4 écoles cibles</strong><br>• <strong style="color:#34d399">2-3 écoles de sécurité</strong>',es:'Con tu IB estimado de {ib}:<br>• <strong style="color:#f59e0b">1-2 escuelas ambiciosas</strong><br>• <strong style="color:#3b82f6">3-4 escuelas objetivo</strong><br>• <strong style="color:#34d399">2-3 escuelas seguras</strong>',th:'คะแนน IB ประมาณ {ib} แนะนำ:<br>• <strong style="color:#f59e0b">มหาวิทยาลัยท้าทาย 1-2 แห่ง</strong><br>• <strong style="color:#3b82f6">มหาวิทยาลัยเหมาะสม 3-4 แห่ง</strong><br>• <strong style="color:#34d399">มหาวิทยาลัยปลอดภัย 2-3 แห่ง</strong>',vi:'Với IB dự kiến {ib}:<br>• <strong style="color:#f59e0b">1-2 trường thử thách</strong><br>• <strong style="color:#3b82f6">3-4 trường phù hợp</strong><br>• <strong style="color:#34d399">2-3 trường an toàn</strong>',hi:'IB अनुमानित {ib} के साथ:<br>• <strong style="color:#f59e0b">1-2 चुनौतीपूर्ण स्कूल</strong><br>• <strong style="color:#3b82f6">3-4 मिलान स्कूल</strong><br>• <strong style="color:#34d399">2-3 सुरक्षित स्कूल</strong>'},
+  section_timeline:{zh:'📅 申请时间线',en:'📅 Application Timeline'},
+  section_timeline_desc:{zh:'各国本科申请关键节点一览，合理规划每一步',en:'Key milestones for undergraduate applications by country'},
+  tl_prep:{zh:'准备阶段',en:'Preparation'},
+  tl_deadline:{zh:'截止日期',en:'Deadline'},
+  tl_result:{zh:'结果公布',en:'Results'},
+  tl_done:{zh:'确认入学',en:'Confirmed'},
 };
 
 function t(key){ return (I18N[key] && (I18N[key][lang] || I18N[key].en)) || key; }
@@ -21940,6 +21971,7 @@ function switchLang(newLang){
   renderCards();
   populateCalcSelect();
   calcCost();
+  if(typeof initTimeline==='function') initTimeline();
 }
 
 // ===== STATE =====
@@ -22628,12 +22660,129 @@ function calcCost(){
   div.innerHTML = html;
 }
 
+// ===== TIMELINE =====
+var TIMELINES = {
+  us:{
+    emoji:'🇺🇸',label:{zh:'美国',en:'United States'},
+    items:[
+      {date:{zh:'高一暑假（6-8月）',en:'Summer before Grade 11 (Jun-Aug)'},title:{zh:'📚 标化考试准备',en:'📚 Standardized Test Prep'},desc:{zh:'开始准备 SAT/ACT、托福/雅思。参加暑期活动、学术竞赛、社区服务等课外活动',en:'Start SAT/ACT, TOEFL/IELTS prep. Join summer programs, academic competitions, community service'},type:'prep'},
+      {date:{zh:'高二上学期（9-12月）',en:'Grade 11 Fall (Sep-Dec)'},title:{zh:'📝 标化考试首考',en:'📝 First Standardized Tests'},desc:{zh:'SAT/ACT 首考，托福/雅思首考。开始研究目标院校，参加大学展览会',en:'Take SAT/ACT and TOEFL/IELTS. Begin researching target schools, attend college fairs'},type:'prep'},
+      {date:{zh:'高二下学期（1-5月）',en:'Grade 11 Spring (Jan-May)'},title:{zh:'🎯 选校与刷分',en:'🎯 School List & Score Improvement'},desc:{zh:'确定选校名单（冲刺/匹配/保底各3-4所）。刷标化成绩，联系推荐人',en:'Finalize school list (3-4 reach/match/safety). Retake tests if needed, approach recommenders'},type:'prep'},
+      {date:{zh:'高二暑假（6-8月）',en:'Summer before Grade 12 (Jun-Aug)'},title:{zh:'✍️ 文书写作',en:'✍️ Essay Writing'},desc:{zh:'完成 Common App 主文书、活动列表。开始各校补充文书。准备作品集（艺术类）',en:'Write Common App main essay & activities list. Start supplemental essays. Prepare portfolio (if arts)'},type:'prep'},
+      {date:{zh:'高三 9-10月',en:'Grade 12 Sep-Oct'},title:{zh:'🚀 早申提交',en:'🚀 Early Application'},desc:{zh:'EA/ED 截止日通常为 11月1日 或 11月15日。提交前完成所有材料、推荐信、标化成绩寄送',en:'EA/ED deadlines usually Nov 1 or Nov 15. Finalize all materials, recommendations, score reports'},type:'deadline'},
+      {date:{zh:'高三 11月1-15日',en:'Grade 12 Nov 1-15'},title:{zh:'🔴 EA/ED 截止',en:'🔴 EA/ED Deadline'},desc:{zh:'Early Action / Early Decision 申请截止。ED 录取后有约束力，需承诺入学',en:'Early Action / Early Decision deadline. ED admission is binding — commitment to enroll'},type:'deadline'},
+      {date:{zh:'高三 12月中旬',en:'Grade 12 Mid-Dec'},title:{zh:'📬 早申结果',en:'📬 Early Results'},desc:{zh:'EA/ED 录取结果公布。ED 录取需撤回其他申请。EA 未录取可转入 RD 轮',en:'EA/ED results released. ED admits must withdraw other apps. EA deferrals roll into RD'},type:'result'},
+      {date:{zh:'高三 1月1-15日',en:'Grade 12 Jan 1-15'},title:{zh:'🔴 RD 截止',en:'🔴 RD Deadline'},desc:{zh:'Regular Decision 常规轮截止（多数学校 1月1日，部分 1月15日）',en:'Regular Decision deadline (most schools Jan 1, some Jan 15)'},type:'deadline'},
+      {date:{zh:'高三 3-4月',en:'Grade 12 Mar-Apr'},title:{zh:'📬 RD 结果公布',en:'📬 RD Results Released'},desc:{zh:'3月下旬至4月初陆续公布。\"Ivy Day\" 通常在3月底',en:'Results from late March to early April. "Ivy Day" is typically late March'},type:'result'},
+      {date:{zh:'5月1日',en:'May 1'},title:{zh:'✅ 确认入学（Decision Day）',en:'✅ Commit to School (Decision Day)'},desc:{zh:'在所有录取中做出最终选择，提交入学押金。申请 I-20 签证材料',en:'Choose from all offers, submit enrollment deposit. Request I-20 for visa'},type:'done'},
+      {date:{zh:'5-7月',en:'May-Jul'},title:{zh:'🛂 签证与行前',en:'🛂 Visa & Pre-departure'},desc:{zh:'申请 F-1 学生签证、体检、订机票、宿舍申请、选课注册',en:'Apply for F-1 visa, medical exam, book flights, housing application, course registration'},type:'done'},
+    ]
+  },
+  uk:{
+    emoji:'🇬🇧',label:{zh:'英国',en:'United Kingdom'},
+    items:[
+      {date:{zh:'高二下学期（1-5月）',en:'Grade 11 Spring (Jan-May)'},title:{zh:'📚 选校研究',en:'📚 School Research'},desc:{zh:'研究 UCAS 申请流程。英国最多申请 5 所大学。了解各校入学要求和面试情况',en:'Learn UCAS process. UK allows max 5 choices. Research entry requirements and interview policies'},type:'prep'},
+      {date:{zh:'高二暑假（6-8月）',en:'Summer (Jun-Aug)'},title:{zh:'✍️ Personal Statement',en:'✍️ Personal Statement'},desc:{zh:'撰写 UCAS Personal Statement（4000字符限制，所有学校共用一篇）。准备入学考试（MAT/PAT/BMAT等）',en:'Write UCAS Personal Statement (4000 chars, shared across all choices). Prepare for admissions tests (MAT/PAT/BMAT)'},type:'prep'},
+      {date:{zh:'9月',en:'September'},title:{zh:'🚀 UCAS 开放申请',en:'🚀 UCAS Opens'},desc:{zh:'UCAS 系统开放提交。完善申请材料，获取学校推荐信',en:'UCAS portal opens for submissions. Finalize materials, obtain school reference'},type:'prep'},
+      {date:{zh:'10月15日',en:'October 15'},title:{zh:'🔴 牛津/剑桥截止',en:'🔴 Oxford/Cambridge Deadline'},desc:{zh:'牛津、剑桥及医学/牙医/兽医专业 UCAS 截止日。只能在牛剑中选一所申请',en:'Oxford, Cambridge, and Medicine/Dentistry/Vet UCAS deadline. Can only apply to one of Oxbridge'},type:'deadline'},
+      {date:{zh:'11-12月',en:'Nov-Dec'},title:{zh:'🎤 入学面试',en:'🎤 Admissions Interviews'},desc:{zh:'牛津/剑桥面试（12月初）。部分学校入学考试。帝国理工、UCL 等也可能有面试',en:'Oxbridge interviews (early Dec). Admissions tests. Imperial, UCL may also interview'},type:'deadline'},
+      {date:{zh:'1月31日',en:'January 31'},title:{zh:'🔴 UCAS 常规截止',en:'🔴 UCAS Regular Deadline'},desc:{zh:'大部分专业 UCAS 截止日。之后进入 Extra 补申阶段',en:'Main UCAS deadline for most courses. After this, UCAS Extra opens'},type:'deadline'},
+      {date:{zh:'1月-3月',en:'Jan-Mar'},title:{zh:'📬 Offer 陆续发放',en:'📬 Offers Released'},desc:{zh:'有条件录取（Conditional Offer）和无条件录取。需在截止日前回复 Firm + Insurance 选择',en:'Conditional and unconditional offers. Must reply with Firm + Insurance choices by deadline'},type:'result'},
+      {date:{zh:'6月',en:'June'},title:{zh:'📋 回复截止',en:'📋 Reply Deadline'},desc:{zh:'确认 Firm Choice（第一志愿）和 Insurance Choice（保底）。接受或拒绝 offer',en:'Confirm Firm Choice and Insurance Choice. Accept or decline offers'},type:'result'},
+      {date:{zh:'7-8月',en:'Jul-Aug'},title:{zh:'📊 IB/A-Level 出分',en:'📊 IB/A-Level Results'},desc:{zh:'IB 7月出分，A-Level 8月中旬出分。达到条件录取要求即确认入学',en:'IB results in July, A-Level mid-August. Meet conditional offer = confirmed place'},type:'result'},
+      {date:{zh:'8月（A-Level出分日）',en:'August (Results Day)'},title:{zh:'🔄 Clearing 补录',en:'🔄 Clearing'},desc:{zh:'未达条件的学生可通过 Clearing 补录有余位的学校',en:'Students who missed conditions can find places through Clearing'},type:'result'},
+      {date:{zh:'8-9月',en:'Aug-Sep'},title:{zh:'🛂 签证与行前',en:'🛂 Visa & Pre-departure'},desc:{zh:'申请 Student Visa（Tier 4）、缴纳 IHS 医疗附加费、订机票、宿舍确认',en:'Apply Student Visa (Tier 4), pay IHS surcharge, book flights, confirm accommodation'},type:'done'},
+    ]
+  },
+  ca:{
+    emoji:'🇨🇦',label:{zh:'加拿大',en:'Canada'},
+    items:[
+      {date:{zh:'高二暑假（6-8月）',en:'Summer (Jun-Aug)'},title:{zh:'📚 选校与准备',en:'📚 Research & Prep'},desc:{zh:'研究目标院校。加拿大大学一般通过各省系统或学校官网直接申请。准备语言成绩',en:'Research target schools. Apply via provincial systems (e.g., OUAC for Ontario) or direct. Prepare language scores'},type:'prep'},
+      {date:{zh:'9-11月',en:'Sep-Nov'},title:{zh:'✍️ 申请材料准备',en:'✍️ Application Prep'},desc:{zh:'准备文书、活动列表、推荐信。多伦多大学等热门校的工程、商科需补充文书',en:'Prepare essays, activity list, references. Top programs (UofT Engineering, Rotman) need supplemental essays'},type:'prep'},
+      {date:{zh:'11月-1月',en:'Nov-Jan'},title:{zh:'🚀 申请提交',en:'🚀 Submit Applications'},desc:{zh:'OUAC（安省）10月开放，多数截止1月中旬。BC省院校截止日各异。早提交有利',en:'OUAC (Ontario) opens Oct, most deadlines mid-Jan. BC schools vary. Early submission advantageous'},type:'deadline'},
+      {date:{zh:'1月15日-2月1日',en:'Jan 15 - Feb 1'},title:{zh:'🔴 主要截止日',en:'🔴 Main Deadlines'},desc:{zh:'多伦多大学、UBC、麦吉尔等 1月15日-2月1日截止。滑铁卢工程需 AIF 表格（2月）',en:'UofT, UBC, McGill: Jan 15-Feb 1. Waterloo Engineering requires AIF form (Feb)'},type:'deadline'},
+      {date:{zh:'2-5月',en:'Feb-May'},title:{zh:'📬 录取结果',en:'📬 Admission Results'},desc:{zh:'滚动录取，2月开始陆续发放 offer。5月前大部分结果公布',en:'Rolling admissions, offers from Feb onwards. Most results by May'},type:'result'},
+      {date:{zh:'6月1日',en:'June 1'},title:{zh:'✅ 确认入学',en:'✅ Accept Offer'},desc:{zh:'接受 offer 并缴纳押金。申请学习许可（Study Permit）',en:'Accept offer and pay deposit. Apply for Study Permit'},type:'done'},
+      {date:{zh:'6-8月',en:'Jun-Aug'},title:{zh:'🛂 签证与行前',en:'🛂 Visa & Pre-departure'},desc:{zh:'办理 Study Permit、体检、GIC 存款证明（如需）、订机票、宿舍',en:'Process Study Permit, medical exam, GIC (if needed), book flights, housing'},type:'done'},
+    ]
+  },
+  au:{
+    emoji:'🇦🇺',label:{zh:'澳大利亚',en:'Australia'},
+    items:[
+      {date:{zh:'高二（全年）',en:'Grade 11 (Year-round)'},title:{zh:'📚 选校研究',en:'📚 Research'},desc:{zh:'了解 Go8 及目标院校。澳洲大学通常直接通过学校官网申请，无统一平台',en:'Research Go8 and target schools. Australian unis accept direct applications, no central system'},type:'prep'},
+      {date:{zh:'高二暑假-高三上',en:'Summer - Grade 12 Fall'},title:{zh:'✍️ 准备材料',en:'✍️ Prepare Materials'},desc:{zh:'准备语言成绩（雅思/托福）、个人陈述、成绩单翻译及公证',en:'Prepare IELTS/TOEFL, personal statement, transcript translation and notarization'},type:'prep'},
+      {date:{zh:'高三 9-10月',en:'Grade 12 Sep-Oct'},title:{zh:'🚀 提交申请',en:'🚀 Submit Applications'},desc:{zh:'澳洲大学多为滚动录取，建议尽早申请。第一学期（2月入学）申请在10-11月截止',en:'Rolling admissions — apply early. Semester 1 (Feb intake) deadlines Oct-Nov'},type:'deadline'},
+      {date:{zh:'11-12月',en:'Nov-Dec'},title:{zh:'📬 Offer 发放',en:'📬 Offers Released'},desc:{zh:'通常 4-8 周内出结果。收到有条件录取（Conditional Offer）',en:'Usually 4-8 weeks for results. Receive conditional offers'},type:'result'},
+      {date:{zh:'IB/A-Level 出分后',en:'After IB/A-Level Results'},title:{zh:'✅ 确认入学',en:'✅ Confirm Enrollment'},desc:{zh:'提交最终成绩，满足条件后获得 CoE（入学确认书），用于签证申请',en:'Submit final results, meet conditions to get CoE (Confirmation of Enrolment) for visa'},type:'done'},
+      {date:{zh:'11月-1月',en:'Nov-Jan'},title:{zh:'🛂 签证与行前',en:'🛂 Visa & Pre-departure'},desc:{zh:'申请学生签证（Subclass 500）、购买 OSHC 保险、体检、订机票',en:'Apply Student Visa (Subclass 500), buy OSHC insurance, medical exam, book flights'},type:'done'},
+    ]
+  },
+  sg:{
+    emoji:'🇸🇬',label:{zh:'新加坡',en:'Singapore'},
+    items:[
+      {date:{zh:'高二下学期',en:'Grade 11 Spring'},title:{zh:'📚 选校准备',en:'📚 Research & Prep'},desc:{zh:'NUS/NTU/SMU 通过各校官网申请。了解 IB/A-Level 要求，准备语言成绩',en:'NUS/NTU/SMU apply via school websites. Check IB/A-Level requirements, prepare language scores'},type:'prep'},
+      {date:{zh:'10月-次年2月',en:'Oct - Feb'},title:{zh:'🚀 申请开放',en:'🚀 Applications Open'},desc:{zh:'NUS 通常10月开放，2月底截止。NTU/SMU 时间相近。需提交 IB 预估分',en:'NUS usually opens Oct, deadline end-Feb. NTU/SMU similar. Submit predicted IB scores'},type:'deadline'},
+      {date:{zh:'2月-3月',en:'Feb-Mar'},title:{zh:'🔴 申请截止',en:'🔴 Application Deadline'},desc:{zh:'NUS 国际生截止通常 2月底。部分热门专业（医学、法律）更早截止',en:'NUS international deadline usually end-Feb. Competitive programs (Medicine, Law) may be earlier'},type:'deadline'},
+      {date:{zh:'3-5月',en:'Mar-May'},title:{zh:'🎤 面试/笔试',en:'🎤 Interviews/Tests'},desc:{zh:'部分专业需要面试或笔试（商科、医学等）。可能线上进行',en:'Some programs require interviews or tests (Business, Medicine). May be online'},type:'result'},
+      {date:{zh:'5-6月',en:'May-Jun'},title:{zh:'📬 录取结果',en:'📬 Results'},desc:{zh:'5月下旬至6月陆续发放录取通知。需在截止日前接受 offer',en:'Offers released late May-June. Accept by deadline'},type:'result'},
+      {date:{zh:'6-7月',en:'Jun-Jul'},title:{zh:'🛂 签证与行前',en:'🛂 Visa & Pre-departure'},desc:{zh:'申请 Student Pass、体检、宿舍申请、选课。新加坡8月开学',en:'Apply Student Pass, medical exam, housing, course registration. Aug semester start'},type:'done'},
+    ]
+  },
+  hk:{
+    emoji:'🇭🇰',label:{zh:'中国香港',en:'Hong Kong'},
+    items:[
+      {date:{zh:'高二暑假',en:'Summer'},title:{zh:'📚 选校准备',en:'📚 Research'},desc:{zh:'了解港大/港中文/港科等入学要求。香港大学通过各校官网申请',en:'Research HKU/CUHK/HKUST requirements. Apply via each university website'},type:'prep'},
+      {date:{zh:'9月-10月',en:'Sep-Oct'},title:{zh:'🚀 申请开放',en:'🚀 Applications Open'},desc:{zh:'各校在线申请系统开放。准备个人陈述、推荐信、成绩单',en:'Online application portals open. Prepare personal statement, references, transcripts'},type:'deadline'},
+      {date:{zh:'11月-1月',en:'Nov-Jan'},title:{zh:'🔴 早轮/主轮截止',en:'🔴 Early/Main Round Deadline'},desc:{zh:'港大非联招（国际生）12月截止。港中文/港科截止日通常1月初',en:'HKU non-JUPAS (international) Dec deadline. CUHK/HKUST usually early Jan'},type:'deadline'},
+      {date:{zh:'1-4月',en:'Jan-Apr'},title:{zh:'🎤 面试',en:'🎤 Interviews'},desc:{zh:'部分专业需面试（商科、医学较多）。可能线上或校园面试',en:'Some programs interview (common for Business, Medicine). Online or on-campus'},type:'result'},
+      {date:{zh:'4-6月',en:'Apr-Jun'},title:{zh:'📬 录取结果',en:'📬 Results'},desc:{zh:'有条件录取陆续发放。IB 出分后确认最终录取',en:'Conditional offers released. Final confirmation after IB results'},type:'result'},
+      {date:{zh:'7-8月',en:'Jul-Aug'},title:{zh:'🛂 签证与行前',en:'🛂 Visa & Pre-departure'},desc:{zh:'申请香港学生签证、体检、宿舍申请。9月开学',en:'Apply HK student visa, medical exam, housing. Sep semester start'},type:'done'},
+    ]
+  }
+};
+
+var currentTLCountry = 'us';
+function renderTimeline(country){
+  currentTLCountry = country;
+  const tl = TIMELINES[country];
+  if(!tl) return;
+  // Update buttons
+  document.querySelectorAll('.tl-country-tab').forEach(b=>{
+    b.classList.toggle('active', b.dataset.country===country);
+  });
+  const now = new Date();
+  const month = now.getMonth(); // 0-indexed
+  let html = `<div class="tl-legend"><span class="lg-prep" data-i18n="tl_prep">${t('tl_prep')}</span><span class="lg-deadline" data-i18n="tl_deadline">${t('tl_deadline')}</span><span class="lg-result" data-i18n="tl_result">${t('tl_result')}</span><span class="lg-done" data-i18n="tl_done">${t('tl_done')}</span></div>`;
+  html += '<div class="tl-track">';
+  tl.items.forEach((item,i)=>{
+    const cls = item.type==='deadline'?'tl-urgent':(item.type==='done'?'tl-done':'');
+    html += `<div class="tl-item ${cls}">
+      <div class="tl-date">${(item.date[lang]||item.date.en)}</div>
+      <div class="tl-title">${(item.title[lang]||item.title.en)}</div>
+      <div class="tl-desc">${(item.desc[lang]||item.desc.en)}</div>
+    </div>`;
+  });
+  html += '</div>';
+  document.getElementById('timelineContent').innerHTML = html;
+}
+
+function initTimeline(){
+  const container = document.getElementById('tlCountryBtns');
+  let html = '';
+  for(const [key,tl] of Object.entries(TIMELINES)){
+    html += `<button class="tl-country-tab${key===currentTLCountry?' active':''}" data-country="${key}" onclick="renderTimeline('${key}')">${tl.emoji} ${(tl.label[lang]||tl.label.en)}</button>`;
+  }
+  container.innerHTML = html;
+  renderTimeline(currentTLCountry);
+}
+
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded',()=>{
   updateFavBtn();
   renderCards();
   populateCalcSelect();
   calcCost();
+  initTimeline();
   document.getElementById('langBtn').addEventListener('click',()=>{
     switchLang(lang==='zh'?'en':'zh');
   });
