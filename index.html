@@ -209,7 +209,7 @@ img{max-width:100%}
   .nav-brand{font-size:1.05rem}
   .nav-brand span{display:none}
   .nav-links{gap:.5rem}
-  .nav-links a{display:none}
+  .nav-links a{font-size:.7rem;padding:.3rem .4rem}
   .lang-toggle{padding:.35rem .8rem;font-size:.8rem}
 
   /* Hero */
@@ -335,6 +335,7 @@ img{max-width:100%}
   <div class="nav-links">
     <a href="#schools" data-i18n="nav_schools">院校浏览</a>
     <a href="#recommend" data-i18n="nav_recommend">智能选校</a>
+    <a href="#timeline" data-i18n="nav_timeline">申请时间线</a>
     <a href="#calculator" data-i18n="nav_calc">费用计算</a>
     <button class="lang-toggle" id="langBtn">EN / 中</button>
   </div>
@@ -21783,6 +21784,7 @@ const SCHOOLS = [
 var lang = 'zh';
 const I18N = {
   nav_schools:{zh:'院校浏览',en:'Schools'},
+  nav_timeline:{zh:'申请时间线',en:'Timeline'},
   nav_calc:{zh:'费用计算',en:'Cost Calculator'},
   hero_title:{zh:'留学择校通',en:'StudyAbroad Guide'},
   hero_subtitle:{zh:'帮助家长做出明智的留学决策 — 择校、费用、安全，一站掌握',en:'Empowering parents to make informed study-abroad decisions — schools, costs & safety, all in one place'},
