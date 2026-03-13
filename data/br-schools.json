@@ -1,0 +1,109 @@
+[
+  {
+    "id": "usp",
+    "name": {
+      "en": "Universidade de São Paulo",
+      "zh": "圣保罗大学"
+    },
+    "country": "BR",
+    "flag": "🇧🇷",
+    "city": {
+      "en": "São Paulo",
+      "zh": "圣保罗"
+    },
+    "qs": 92,
+    "the": 201,
+    "usnews": 0,
+    "arwu": 101,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$8,000/year",
+      "zh": "$8,000/年"
+    },
+    "insurance": 300,
+    "flights": 2000,
+    "safety": 5,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~10%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Law",
+        "Business",
+        "Computer Science",
+        "Architecture",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Economics",
+        "Psychology",
+        "Education",
+        "Philosophy",
+        "History",
+        "Agriculture",
+        "Veterinary Science",
+        "Dentistry"
+      ],
+      "zh": [
+        "医学",
+        "工学",
+        "法学",
+        "商科",
+        "计算机科学",
+        "建筑学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "经济学",
+        "心理学",
+        "教育学",
+        "哲学",
+        "历史学",
+        "农学",
+        "兽医学",
+        "牙医学"
+      ]
+    },
+    "desc": {
+      "en": "Latin America's largest research university. Free public university.",
+      "zh": "拉美最大研究型大学，公立免学费。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

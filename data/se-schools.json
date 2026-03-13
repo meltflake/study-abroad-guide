@@ -1,0 +1,323 @@
+[
+  {
+    "id": "kth",
+    "name": {
+      "en": "KTH Royal Institute of Technology",
+      "zh": "瑞典皇家理工学院"
+    },
+    "country": "SE",
+    "flag": "🇸🇪",
+    "city": {
+      "en": "Stockholm",
+      "zh": "斯德哥尔摩"
+    },
+    "qs": 73,
+    "the": 110,
+    "usnews": 0,
+    "arwu": 201,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "~35%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Engineering",
+        "Architecture",
+        "Physics",
+        "Mathematics",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Biotechnology",
+        "Energy",
+        "Environmental Engineering",
+        "Media Technology",
+        "Materials Science",
+        "Industrial Economics",
+        "Data Science",
+        "Nanotechnology",
+        "Robotics",
+        "Transport Science",
+        "Urban Planning"
+      ],
+      "zh": [
+        "计算机科学",
+        "工学",
+        "建筑学",
+        "物理学",
+        "数学",
+        "电气工程",
+        "机械工程",
+        "生物技术",
+        "能源",
+        "环境工程",
+        "媒体技术",
+        "材料科学",
+        "工业经济",
+        "数据科学",
+        "纳米技术",
+        "机器人",
+        "交通科学",
+        "城市规划"
+      ]
+    },
+    "desc": {
+      "en": "Sweden's largest technical university. Spotify founders studied here.",
+      "zh": "瑞典最大理工大学，Spotify创始人母校。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "lund",
+    "name": {
+      "en": "Lund University",
+      "zh": "隆德大学"
+    },
+    "country": "SE",
+    "flag": "🇸🇪",
+    "city": {
+      "en": "Lund",
+      "zh": "隆德"
+    },
+    "qs": 75,
+    "the": 80,
+    "usnews": 0,
+    "arwu": 101,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~40%",
+      "intl": "~30%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Physics",
+        "Engineering",
+        "Law",
+        "Economics",
+        "Biology",
+        "Chemistry",
+        "Computer Science",
+        "Mathematics",
+        "Psychology",
+        "Political Science",
+        "History",
+        "Philosophy",
+        "Architecture",
+        "Design",
+        "Music",
+        "Art",
+        "Sociology"
+      ],
+      "zh": [
+        "医学",
+        "物理学",
+        "工学",
+        "法学",
+        "经济学",
+        "生物学",
+        "化学",
+        "计算机科学",
+        "数学",
+        "心理学",
+        "政治学",
+        "历史学",
+        "哲学",
+        "建筑学",
+        "设计",
+        "音乐",
+        "艺术",
+        "社会学"
+      ]
+    },
+    "desc": {
+      "en": "Scandinavia's top comprehensive university. Home to MAX IV synchrotron.",
+      "zh": "北欧顶尖综合大学，MAX IV同步辐射光源所在地。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "uppsala",
+    "name": {
+      "en": "Uppsala University",
+      "zh": "乌普萨拉大学"
+    },
+    "country": "SE",
+    "flag": "🇸🇪",
+    "city": {
+      "en": "Uppsala",
+      "zh": "乌普萨拉"
+    },
+    "qs": 144,
+    "the": 87,
+    "usnews": 0,
+    "arwu": 77,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~45%",
+      "intl": "~35%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Pharmacy",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Law",
+        "Computer Science",
+        "Mathematics",
+        "Engineering",
+        "Economics",
+        "Psychology",
+        "History",
+        "Philosophy",
+        "Linguistics",
+        "Theology",
+        "Art",
+        "Political Science",
+        "Peace Studies"
+      ],
+      "zh": [
+        "医学",
+        "药学",
+        "物理学",
+        "化学",
+        "生物学",
+        "法学",
+        "计算机科学",
+        "数学",
+        "工学",
+        "经济学",
+        "心理学",
+        "历史学",
+        "哲学",
+        "语言学",
+        "神学",
+        "艺术",
+        "政治学",
+        "和平研究"
+      ]
+    },
+    "desc": {
+      "en": "Scandinavia's oldest university (1477). 8 Nobel laureates.",
+      "zh": "北欧最古老大学（1477年），8位诺奖得主。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

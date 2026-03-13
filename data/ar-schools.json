@@ -1,0 +1,109 @@
+[
+  {
+    "id": "uba",
+    "name": {
+      "en": "Universidad de Buenos Aires",
+      "zh": "布宜诺斯艾利斯大学"
+    },
+    "country": "AR",
+    "flag": "🇦🇷",
+    "city": {
+      "en": "Buenos Aires",
+      "zh": "布宜诺斯艾利斯"
+    },
+    "qs": 71,
+    "the": 392,
+    "usnews": 0,
+    "arwu": 151,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$7,000/year",
+      "zh": "$7,000/年"
+    },
+    "insurance": 300,
+    "flights": 2000,
+    "safety": 6,
+    "ibRequirement": {
+      "en": "IB 28-34",
+      "zh": "IB 28-34"
+    },
+    "acceptanceRate": {
+      "overall": "Open admission",
+      "intl": "~80%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Law",
+        "Economics",
+        "Architecture",
+        "Engineering",
+        "Psychology",
+        "Computer Science",
+        "Biology",
+        "Chemistry",
+        "Philosophy",
+        "Literature",
+        "Sociology",
+        "Political Science",
+        "Dentistry",
+        "Pharmacy",
+        "Agronomy",
+        "Veterinary Science",
+        "Mathematics"
+      ],
+      "zh": [
+        "医学",
+        "法学",
+        "经济学",
+        "建筑学",
+        "工学",
+        "心理学",
+        "计算机科学",
+        "生物学",
+        "化学",
+        "哲学",
+        "文学",
+        "社会学",
+        "政治学",
+        "牙医学",
+        "药学",
+        "农学",
+        "兽医学",
+        "数学"
+      ]
+    },
+    "desc": {
+      "en": "Latin America's top university. Free tuition for all students.",
+      "zh": "拉美顶尖大学，对所有学生免学费。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

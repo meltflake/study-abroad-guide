@@ -2128,5 +2128,112 @@
       "en": "Apply via Gaokao or international student exam.",
       "zh": "通过高考或留学生考试申请。"
     }
+  },
+  {
+    "id": "bit",
+    "name": {
+      "en": "Beijing Institute of Technology",
+      "zh": "北京理工大学"
+    },
+    "country": "CN",
+    "flag": "🇨🇳",
+    "city": {
+      "en": "Beijing",
+      "zh": "北京"
+    },
+    "qs": 196,
+    "the": 401,
+    "usnews": 0,
+    "arwu": 301,
+    "tuition": 27000,
+    "livingCost": {
+      "en": "$30,000/year",
+      "zh": "$30,000/年"
+    },
+    "insurance": 500,
+    "flights": 500,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~8%",
+      "intl": "~18%"
+    },
+    "majors": {
+      "en": [
+        "Aerospace Engineering",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Vehicle Engineering",
+        "Automation",
+        "Electrical Engineering",
+        "Materials Science",
+        "Optics",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Management",
+        "Economics",
+        "Law",
+        "Design",
+        "Information Engineering",
+        "Software Engineering",
+        "Data Science"
+      ],
+      "zh": [
+        "航空航天工程",
+        "计算机科学",
+        "机械工程",
+        "车辆工程",
+        "自动化",
+        "电气工程",
+        "材料科学",
+        "光学",
+        "数学",
+        "物理学",
+        "化学",
+        "管理学",
+        "经济学",
+        "法学",
+        "设计",
+        "信息工程",
+        "软件工程",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "Top for defense technology and aerospace in China. 'Project 985' member.",
+      "zh": "中国国防科技和航空航天顶尖，985高校。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 27000
+      },
+      "zh": {
+        "学费": 27000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $27,000/year",
+      "zh": "学费: $27,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
   }
 ]

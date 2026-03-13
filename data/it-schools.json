@@ -1,0 +1,323 @@
+[
+  {
+    "id": "polimi",
+    "name": {
+      "en": "Politecnico di Milano",
+      "zh": "米兰理工大学"
+    },
+    "country": "IT",
+    "flag": "🇮🇹",
+    "city": {
+      "en": "Milan",
+      "zh": "米兰"
+    },
+    "qs": 111,
+    "the": 176,
+    "usnews": 0,
+    "arwu": 201,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "~25%",
+      "intl": "~20%"
+    },
+    "majors": {
+      "en": [
+        "Architecture",
+        "Design",
+        "Engineering",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Civil Engineering",
+        "Aerospace Engineering",
+        "Chemical Engineering",
+        "Biomedical Engineering",
+        "Mathematics",
+        "Physics",
+        "Fashion Design",
+        "Urban Planning",
+        "Interior Design",
+        "Management Engineering",
+        "Energy Engineering",
+        "Materials Science"
+      ],
+      "zh": [
+        "建筑学",
+        "设计",
+        "工学",
+        "计算机科学",
+        "机械工程",
+        "电气工程",
+        "土木工程",
+        "航空航天工程",
+        "化学工程",
+        "生物医工学",
+        "数学",
+        "物理学",
+        "时尚设计",
+        "城市规划",
+        "室内设计",
+        "管理工程",
+        "能源工程",
+        "材料科学"
+      ]
+    },
+    "desc": {
+      "en": "Italy's best for engineering and design. Armani, Renzo Piano alumni.",
+      "zh": "意大利工程和设计最佳，阿玛尼、伦佐·皮亚诺母校。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "sapienza",
+    "name": {
+      "en": "Sapienza University of Rome",
+      "zh": "罗马大学"
+    },
+    "country": "IT",
+    "flag": "🇮🇹",
+    "city": {
+      "en": "Rome",
+      "zh": "罗马"
+    },
+    "qs": 132,
+    "the": 194,
+    "usnews": 0,
+    "arwu": 151,
+    "tuition": 3000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~50%",
+      "intl": "~35%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Law",
+        "Architecture",
+        "Engineering",
+        "Physics",
+        "Mathematics",
+        "Chemistry",
+        "Computer Science",
+        "Biology",
+        "Economics",
+        "Philosophy",
+        "History",
+        "Art",
+        "Literature",
+        "Psychology",
+        "Political Science",
+        "Pharmacy",
+        "Classics"
+      ],
+      "zh": [
+        "医学",
+        "法学",
+        "建筑学",
+        "工学",
+        "物理学",
+        "数学",
+        "化学",
+        "计算机科学",
+        "生物学",
+        "经济学",
+        "哲学",
+        "历史学",
+        "艺术",
+        "文学",
+        "心理学",
+        "政治学",
+        "药学",
+        "古典学"
+      ]
+    },
+    "desc": {
+      "en": "Europe's largest university by enrollment (112,000+). Founded 1303.",
+      "zh": "欧洲最大大学（11.2万+学生），1303年创建。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 3000
+      },
+      "zh": {
+        "学费": 3000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $3,000/year",
+      "zh": "学费: $3,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "unibo",
+    "name": {
+      "en": "University of Bologna",
+      "zh": "博洛尼亚大学"
+    },
+    "country": "IT",
+    "flag": "🇮🇹",
+    "city": {
+      "en": "Bologna",
+      "zh": "博洛尼亚"
+    },
+    "qs": 164,
+    "the": 161,
+    "usnews": 0,
+    "arwu": 201,
+    "tuition": 3500,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~55%",
+      "intl": "~35%"
+    },
+    "majors": {
+      "en": [
+        "Law",
+        "Medicine",
+        "Literature",
+        "Philosophy",
+        "Engineering",
+        "Computer Science",
+        "Economics",
+        "Agriculture",
+        "Political Science",
+        "Psychology",
+        "Architecture",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "History",
+        "Veterinary Science",
+        "Art"
+      ],
+      "zh": [
+        "法学",
+        "医学",
+        "文学",
+        "哲学",
+        "工学",
+        "计算机科学",
+        "经济学",
+        "农学",
+        "政治学",
+        "心理学",
+        "建筑学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "历史学",
+        "兽医学",
+        "艺术"
+      ]
+    },
+    "desc": {
+      "en": "World's oldest university in continuous operation (1088). Alma Mater Studiorum.",
+      "zh": "世界上持续运行最古老的大学（1088年）。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 3500
+      },
+      "zh": {
+        "学费": 3500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $3,500/year",
+      "zh": "学费: $3,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

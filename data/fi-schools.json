@@ -1,0 +1,216 @@
+[
+  {
+    "id": "helsinki",
+    "name": {
+      "en": "University of Helsinki",
+      "zh": "赫尔辛基大学"
+    },
+    "country": "FI",
+    "flag": "🇫🇮",
+    "city": {
+      "en": "Helsinki",
+      "zh": "赫尔辛基"
+    },
+    "qs": 107,
+    "the": 96,
+    "usnews": 0,
+    "arwu": 73,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~30%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Computer Science",
+        "Biology",
+        "Physics",
+        "Chemistry",
+        "Law",
+        "Economics",
+        "Psychology",
+        "Education",
+        "Mathematics",
+        "History",
+        "Philosophy",
+        "Linguistics",
+        "Environmental Science",
+        "Forestry",
+        "Theology",
+        "Veterinary Science",
+        "Political Science"
+      ],
+      "zh": [
+        "医学",
+        "计算机科学",
+        "生物学",
+        "物理学",
+        "化学",
+        "法学",
+        "经济学",
+        "心理学",
+        "教育学",
+        "数学",
+        "历史学",
+        "哲学",
+        "语言学",
+        "环境科学",
+        "林学",
+        "神学",
+        "兽医学",
+        "政治学"
+      ]
+    },
+    "desc": {
+      "en": "Finland's oldest and largest university. Linux was created here by Linus Torvalds.",
+      "zh": "芬兰最古老最大大学，Linus Torvalds在此创造了Linux。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "aalto",
+    "name": {
+      "en": "Aalto University",
+      "zh": "阿尔托大学"
+    },
+    "country": "FI",
+    "flag": "🇫🇮",
+    "city": {
+      "en": "Espoo",
+      "zh": "埃斯波"
+    },
+    "qs": 154,
+    "the": 201,
+    "usnews": 0,
+    "arwu": 401,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~35%",
+      "intl": "~28%"
+    },
+    "majors": {
+      "en": [
+        "Design",
+        "Architecture",
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Film",
+        "Art",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Chemical Engineering",
+        "Mathematics",
+        "Physics",
+        "Data Science",
+        "Game Design",
+        "Fashion",
+        "Industrial Engineering",
+        "Automation",
+        "Materials Science"
+      ],
+      "zh": [
+        "设计",
+        "建筑学",
+        "计算机科学",
+        "工学",
+        "商科",
+        "电影",
+        "艺术",
+        "电气工程",
+        "机械工程",
+        "化学工程",
+        "数学",
+        "物理学",
+        "数据科学",
+        "游戏设计",
+        "时尚",
+        "工业工程",
+        "自动化",
+        "材料科学"
+      ]
+    },
+    "desc": {
+      "en": "Merger of tech, business, and art schools. Nokia's R&D partner.",
+      "zh": "理工、商业、艺术合并，诺基亚研发合作伙伴。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

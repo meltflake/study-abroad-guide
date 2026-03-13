@@ -1,0 +1,751 @@
+[
+  {
+    "id": "uamsterdam",
+    "name": {
+      "en": "University of Amsterdam",
+      "zh": "阿姆斯特丹大学"
+    },
+    "country": "NL",
+    "flag": "🇳🇱",
+    "city": {
+      "en": "Amsterdam",
+      "zh": "阿姆斯特丹"
+    },
+    "qs": 53,
+    "the": 61,
+    "usnews": 0,
+    "arwu": 101,
+    "tuition": 13000,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 34-39",
+      "zh": "IB 34-39"
+    },
+    "acceptanceRate": {
+      "overall": "~40%",
+      "intl": "~30%"
+    },
+    "majors": {
+      "en": [
+        "Communication",
+        "Economics",
+        "Psychology",
+        "Law",
+        "Computer Science",
+        "Political Science",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Philosophy",
+        "History",
+        "Sociology",
+        "Art",
+        "Medicine",
+        "Linguistics",
+        "Business",
+        "Data Science"
+      ],
+      "zh": [
+        "传播学",
+        "经济学",
+        "心理学",
+        "法学",
+        "计算机科学",
+        "政治学",
+        "数学",
+        "物理学",
+        "化学",
+        "生物学",
+        "哲学",
+        "历史学",
+        "社会学",
+        "艺术",
+        "医学",
+        "语言学",
+        "商科",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "Netherlands' largest university. Top for communication and social sciences.",
+      "zh": "荷兰最大大学，传播学和社会科学顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 13000
+      },
+      "zh": {
+        "学费": 13000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $13,000/year",
+      "zh": "学费: $13,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "tudelft",
+    "name": {
+      "en": "Delft University of Technology",
+      "zh": "代尔夫特理工大学"
+    },
+    "country": "NL",
+    "flag": "🇳🇱",
+    "city": {
+      "en": "Delft",
+      "zh": "代尔夫特"
+    },
+    "qs": 47,
+    "the": 67,
+    "usnews": 0,
+    "arwu": 151,
+    "tuition": 15000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 36-42",
+      "zh": "IB 36-42"
+    },
+    "acceptanceRate": {
+      "overall": "~30%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Aerospace Engineering",
+        "Civil Engineering",
+        "Architecture",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Applied Physics",
+        "Mathematics",
+        "Industrial Design",
+        "Chemical Engineering",
+        "Geoscience",
+        "Marine Technology",
+        "Nanoscience",
+        "Robotics",
+        "Sustainable Energy",
+        "Quantum Computing",
+        "Biomedical Engineering",
+        "Data Science"
+      ],
+      "zh": [
+        "航空航天工程",
+        "土木工程",
+        "建筑学",
+        "计算机科学",
+        "机械工程",
+        "电气工程",
+        "应用物理",
+        "数学",
+        "工业设计",
+        "化学工程",
+        "地球科学",
+        "海洋技术",
+        "纳米科学",
+        "机器人",
+        "可持续能源",
+        "量子计算",
+        "生物医工学",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "Netherlands' MIT. Top for aerospace and engineering worldwide.",
+      "zh": "荷兰的MIT，航空和工程全球顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 15000
+      },
+      "zh": {
+        "学费": 15000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $15,000/year",
+      "zh": "学费: $15,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "utrecht",
+    "name": {
+      "en": "Utrecht University",
+      "zh": "乌得勒支大学"
+    },
+    "country": "NL",
+    "flag": "🇳🇱",
+    "city": {
+      "en": "Utrecht",
+      "zh": "乌得勒支"
+    },
+    "qs": 107,
+    "the": 66,
+    "usnews": 0,
+    "arwu": 57,
+    "tuition": 13000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-37",
+      "zh": "IB 32-37"
+    },
+    "acceptanceRate": {
+      "overall": "~45%",
+      "intl": "~35%"
+    },
+    "majors": {
+      "en": [
+        "Veterinary Science",
+        "Pharmacy",
+        "Psychology",
+        "Law",
+        "Economics",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Computer Science",
+        "Medicine",
+        "History",
+        "Philosophy",
+        "Linguistics",
+        "Geography",
+        "Art",
+        "Music",
+        "Sociology"
+      ],
+      "zh": [
+        "兽医学",
+        "药学",
+        "心理学",
+        "法学",
+        "经济学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "计算机科学",
+        "医学",
+        "历史学",
+        "哲学",
+        "语言学",
+        "地理学",
+        "艺术",
+        "音乐",
+        "社会学"
+      ]
+    },
+    "desc": {
+      "en": "Netherlands' largest in research. Top for veterinary science worldwide.",
+      "zh": "荷兰最大研究型大学，兽医学全球顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 13000
+      },
+      "zh": {
+        "学费": 13000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $13,000/year",
+      "zh": "学费: $13,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "leiden",
+    "name": {
+      "en": "Leiden University",
+      "zh": "莱顿大学"
+    },
+    "country": "NL",
+    "flag": "🇳🇱",
+    "city": {
+      "en": "Leiden",
+      "zh": "莱顿"
+    },
+    "qs": 126,
+    "the": 77,
+    "usnews": 0,
+    "arwu": 88,
+    "tuition": 13000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-37",
+      "zh": "IB 32-37"
+    },
+    "acceptanceRate": {
+      "overall": "~45%",
+      "intl": "~35%"
+    },
+    "majors": {
+      "en": [
+        "Law",
+        "Political Science",
+        "Archaeology",
+        "Medicine",
+        "Psychology",
+        "Physics",
+        "Astronomy",
+        "Biology",
+        "Chemistry",
+        "Computer Science",
+        "Mathematics",
+        "History",
+        "Philosophy",
+        "Linguistics",
+        "Art",
+        "International Studies",
+        "Criminology",
+        "Asian Studies"
+      ],
+      "zh": [
+        "法学",
+        "政治学",
+        "考古学",
+        "医学",
+        "心理学",
+        "物理学",
+        "天文学",
+        "生物学",
+        "化学",
+        "计算机科学",
+        "数学",
+        "历史学",
+        "哲学",
+        "语言学",
+        "艺术",
+        "国际研究",
+        "犯罪学",
+        "亚洲研究"
+      ]
+    },
+    "desc": {
+      "en": "Netherlands' oldest university (1575). Einstein was a professor here.",
+      "zh": "荷兰最古老大学（1575年），爱因斯坦曾在此任教。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 13000
+      },
+      "zh": {
+        "学费": 13000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $13,000/year",
+      "zh": "学费: $13,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "wageningen",
+    "name": {
+      "en": "Wageningen University",
+      "zh": "瓦赫宁根大学"
+    },
+    "country": "NL",
+    "flag": "🇳🇱",
+    "city": {
+      "en": "Wageningen",
+      "zh": "瓦赫宁根"
+    },
+    "qs": 151,
+    "the": 115,
+    "usnews": 0,
+    "arwu": 101,
+    "tuition": 14000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 9,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~50%",
+      "intl": "~40%"
+    },
+    "majors": {
+      "en": [
+        "Agriculture",
+        "Food Science",
+        "Environmental Science",
+        "Biology",
+        "Biotechnology",
+        "Animal Science",
+        "Plant Science",
+        "Nutrition",
+        "Earth Science",
+        "Economics",
+        "Forestry",
+        "Aquaculture",
+        "Landscape Architecture",
+        "Molecular Biology",
+        "Chemistry",
+        "Mathematics",
+        "Social Sciences",
+        "Climate Science"
+      ],
+      "zh": [
+        "农学",
+        "食品科学",
+        "环境科学",
+        "生物学",
+        "生物技术",
+        "动物科学",
+        "植物学",
+        "营养学",
+        "地球科学",
+        "经济学",
+        "林学",
+        "水产养殖",
+        "景观建筑",
+        "分子生物",
+        "化学",
+        "数学",
+        "社会科学",
+        "气候科学"
+      ]
+    },
+    "desc": {
+      "en": "World #1 in agriculture and forestry. Netherlands' life sciences powerhouse.",
+      "zh": "农业和林学世界第一，荷兰生命科学重镇。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 14000
+      },
+      "zh": {
+        "学费": 14000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $14,000/year",
+      "zh": "学费: $14,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "groningen",
+    "name": {
+      "en": "University of Groningen",
+      "zh": "格罗宁根大学"
+    },
+    "country": "NL",
+    "flag": "🇳🇱",
+    "city": {
+      "en": "Groningen",
+      "zh": "格罗宁根"
+    },
+    "qs": 168,
+    "the": 101,
+    "usnews": 0,
+    "arwu": 76,
+    "tuition": 13000,
+    "livingCost": {
+      "en": "$11,000/year",
+      "zh": "$11,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 30-36",
+      "zh": "IB 30-36"
+    },
+    "acceptanceRate": {
+      "overall": "~50%",
+      "intl": "~40%"
+    },
+    "majors": {
+      "en": [
+        "Astronomy",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Medicine",
+        "Law",
+        "Economics",
+        "Psychology",
+        "Philosophy",
+        "Computer Science",
+        "Mathematics",
+        "History",
+        "Linguistics",
+        "Art",
+        "Pharmacy",
+        "Engineering",
+        "Sociology",
+        "Education"
+      ],
+      "zh": [
+        "天文学",
+        "物理学",
+        "化学",
+        "生物学",
+        "医学",
+        "法学",
+        "经济学",
+        "心理学",
+        "哲学",
+        "计算机科学",
+        "数学",
+        "历史学",
+        "语言学",
+        "艺术",
+        "药学",
+        "工学",
+        "社会学",
+        "教育学"
+      ]
+    },
+    "desc": {
+      "en": "Nobel Prize heritage. Ben Feringa (2016 Chemistry Nobel) works here.",
+      "zh": "诺贝尔奖传统，费林加（2016化学诺奖）在此工作。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 13000
+      },
+      "zh": {
+        "学费": 13000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $13,000/year",
+      "zh": "学费: $13,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "eindhoven",
+    "name": {
+      "en": "Eindhoven University of Technology",
+      "zh": "埃因霍温理工大学"
+    },
+    "country": "NL",
+    "flag": "🇳🇱",
+    "city": {
+      "en": "Eindhoven",
+      "zh": "埃因霍温"
+    },
+    "qs": 124,
+    "the": 138,
+    "usnews": 0,
+    "arwu": 301,
+    "tuition": 14000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~40%",
+      "intl": "~30%"
+    },
+    "majors": {
+      "en": [
+        "Electrical Engineering",
+        "Computer Science",
+        "Mechanical Engineering",
+        "Applied Physics",
+        "Industrial Design",
+        "Chemical Engineering",
+        "Mathematics",
+        "Biomedical Engineering",
+        "Architecture",
+        "Data Science",
+        "Automotive Technology",
+        "Sustainable Innovation",
+        "Photonics",
+        "Embedded Systems",
+        "Software Engineering",
+        "Quantum Computing",
+        "Robotics",
+        "Applied Mathematics"
+      ],
+      "zh": [
+        "电气工程",
+        "计算机科学",
+        "机械工程",
+        "应用物理",
+        "工业设计",
+        "化学工程",
+        "数学",
+        "生物医工学",
+        "建筑学",
+        "数据科学",
+        "汽车技术",
+        "可持续创新",
+        "光子学",
+        "嵌入式系统",
+        "软件工程",
+        "量子计算",
+        "机器人",
+        "应用数学"
+      ]
+    },
+    "desc": {
+      "en": "In Brainport Eindhoven tech region. Strong Philips/ASML industry ties.",
+      "zh": "位于布雷恩波特科技区，飞利浦/ASML产业紧密。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 14000
+      },
+      "zh": {
+        "学费": 14000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $14,000/year",
+      "zh": "学费: $14,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

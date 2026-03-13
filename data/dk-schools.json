@@ -1,0 +1,216 @@
+[
+  {
+    "id": "copenhagen",
+    "name": {
+      "en": "University of Copenhagen",
+      "zh": "哥本哈根大学"
+    },
+    "country": "DK",
+    "flag": "🇩🇰",
+    "city": {
+      "en": "Copenhagen",
+      "zh": "哥本哈根"
+    },
+    "qs": 30,
+    "the": 73,
+    "usnews": 0,
+    "arwu": 35,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$16,000/year",
+      "zh": "$16,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 35-40",
+      "zh": "IB 35-40"
+    },
+    "acceptanceRate": {
+      "overall": "~30%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Biology",
+        "Physics",
+        "Chemistry",
+        "Computer Science",
+        "Law",
+        "Economics",
+        "Political Science",
+        "Psychology",
+        "Philosophy",
+        "Mathematics",
+        "History",
+        "Theology",
+        "Veterinary Science",
+        "Pharmacy",
+        "Anthropology",
+        "Sociology",
+        "Astronomy"
+      ],
+      "zh": [
+        "医学",
+        "生物学",
+        "物理学",
+        "化学",
+        "计算机科学",
+        "法学",
+        "经济学",
+        "政治学",
+        "心理学",
+        "哲学",
+        "数学",
+        "历史学",
+        "神学",
+        "兽医学",
+        "药学",
+        "人类学",
+        "社会学",
+        "天文学"
+      ]
+    },
+    "desc": {
+      "en": "Scandinavia's largest university. Niels Bohr's alma mater. Free tuition for EU.",
+      "zh": "北欧最大大学，波尔母校。欧盟学生免学费。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "dtu",
+    "name": {
+      "en": "Technical University of Denmark",
+      "zh": "丹麦技术大学"
+    },
+    "country": "DK",
+    "flag": "🇩🇰",
+    "city": {
+      "en": "Lyngby",
+      "zh": "灵比"
+    },
+    "qs": 143,
+    "the": 117,
+    "usnews": 0,
+    "arwu": 151,
+    "tuition": 0,
+    "livingCost": {
+      "en": "$16,000/year",
+      "zh": "$16,000/年"
+    },
+    "insurance": 500,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "~35%",
+      "intl": "~30%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Computer Science",
+        "Physics",
+        "Chemistry",
+        "Biotechnology",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Civil Engineering",
+        "Environmental Engineering",
+        "Mathematics",
+        "Nanotechnology",
+        "Wind Energy",
+        "Food Science",
+        "Aquatic Science",
+        "Materials Science",
+        "Space Engineering",
+        "Data Science",
+        "Photonics"
+      ],
+      "zh": [
+        "工学",
+        "计算机科学",
+        "物理学",
+        "化学",
+        "生物技术",
+        "机械工程",
+        "电气工程",
+        "土木工程",
+        "环境工程",
+        "数学",
+        "纳米技术",
+        "风能",
+        "食品科学",
+        "水产科学",
+        "材料科学",
+        "航天工程",
+        "数据科学",
+        "光子学"
+      ]
+    },
+    "desc": {
+      "en": "Denmark's leading engineering university. Pioneer in wind energy research.",
+      "zh": "丹麦领先工程大学，风能研究先驱。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 0
+      },
+      "zh": {
+        "学费": 0
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $0/year",
+      "zh": "学费: $0/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

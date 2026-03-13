@@ -1,0 +1,323 @@
+[
+  {
+    "id": "iitb",
+    "name": {
+      "en": "Indian Institute of Technology Bombay",
+      "zh": "印度理工学院孟买分校"
+    },
+    "country": "IN",
+    "flag": "🇮🇳",
+    "city": {
+      "en": "Mumbai",
+      "zh": "孟买"
+    },
+    "qs": 118,
+    "the": 149,
+    "usnews": 0,
+    "arwu": 301,
+    "tuition": 2000,
+    "livingCost": {
+      "en": "$3,000/year",
+      "zh": "$3,000/年"
+    },
+    "insurance": 100,
+    "flights": 800,
+    "safety": 6,
+    "ibRequirement": {
+      "en": "IB 38-44",
+      "zh": "IB 38-44"
+    },
+    "acceptanceRate": {
+      "overall": "~2%",
+      "intl": "~5%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Chemical Engineering",
+        "Aerospace Engineering",
+        "Civil Engineering",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Metallurgy",
+        "Energy Engineering",
+        "Biotechnology",
+        "Environmental Engineering",
+        "Economics",
+        "Design",
+        "Humanities",
+        "Earth Science",
+        "Data Science"
+      ],
+      "zh": [
+        "计算机科学",
+        "电气工程",
+        "机械工程",
+        "化学工程",
+        "航空航天工程",
+        "土木工程",
+        "数学",
+        "物理学",
+        "化学",
+        "冶金",
+        "能源工程",
+        "生物技术",
+        "环境工程",
+        "经济学",
+        "设计",
+        "人文",
+        "地球科学",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "India's premier engineering institution. Sundar Pichai (Google CEO) alumni.",
+      "zh": "印度顶级工程学府，谷歌CEO皮查伊母校。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 2000
+      },
+      "zh": {
+        "学费": 2000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $2,000/year",
+      "zh": "学费: $2,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "iitd",
+    "name": {
+      "en": "Indian Institute of Technology Delhi",
+      "zh": "印度理工学院德里分校"
+    },
+    "country": "IN",
+    "flag": "🇮🇳",
+    "city": {
+      "en": "New Delhi",
+      "zh": "新德里"
+    },
+    "qs": 150,
+    "the": 172,
+    "usnews": 0,
+    "arwu": 301,
+    "tuition": 2000,
+    "livingCost": {
+      "en": "$3,000/year",
+      "zh": "$3,000/年"
+    },
+    "insurance": 100,
+    "flights": 800,
+    "safety": 6,
+    "ibRequirement": {
+      "en": "IB 38-44",
+      "zh": "IB 38-44"
+    },
+    "acceptanceRate": {
+      "overall": "~2%",
+      "intl": "~5%"
+    },
+    "majors": {
+      "en": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Physics",
+        "Mathematics",
+        "Chemistry",
+        "Textile Engineering",
+        "Biotechnology",
+        "Biochemical Engineering",
+        "Polymer Science",
+        "Management",
+        "Design",
+        "Humanities",
+        "Applied Mechanics",
+        "Materials Science",
+        "Data Science"
+      ],
+      "zh": [
+        "计算机科学",
+        "电气工程",
+        "机械工程",
+        "化学工程",
+        "土木工程",
+        "物理学",
+        "数学",
+        "化学",
+        "纺织工程",
+        "生物技术",
+        "生化工程",
+        "高分子科学",
+        "管理学",
+        "设计",
+        "人文",
+        "应用力学",
+        "材料科学",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "India's top engineering school in the capital. Ultra-competitive admission.",
+      "zh": "印度首都顶级工程学校，录取竞争极为激烈。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 2000
+      },
+      "zh": {
+        "学费": 2000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $2,000/year",
+      "zh": "学费: $2,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "iisc",
+    "name": {
+      "en": "Indian Institute of Science",
+      "zh": "印度科学理工学院"
+    },
+    "country": "IN",
+    "flag": "🇮🇳",
+    "city": {
+      "en": "Bangalore",
+      "zh": "班加罗尔"
+    },
+    "qs": 176,
+    "the": 159,
+    "usnews": 0,
+    "arwu": 301,
+    "tuition": 1500,
+    "livingCost": {
+      "en": "$3,000/year",
+      "zh": "$3,000/年"
+    },
+    "insurance": 100,
+    "flights": 800,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 36-42",
+      "zh": "IB 36-42"
+    },
+    "acceptanceRate": {
+      "overall": "~3%",
+      "intl": "~5%"
+    },
+    "majors": {
+      "en": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Computer Science",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Aerospace Engineering",
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Materials Science",
+        "Atmospheric Science",
+        "Ecological Sciences",
+        "Molecular Biology",
+        "Neuroscience",
+        "High Energy Physics",
+        "Nanoscience",
+        "Data Science"
+      ],
+      "zh": [
+        "物理学",
+        "化学",
+        "生物学",
+        "数学",
+        "计算机科学",
+        "电气工程",
+        "机械工程",
+        "航空航天工程",
+        "化学工程",
+        "土木工程",
+        "材料科学",
+        "大气科学",
+        "生态科学",
+        "分子生物",
+        "神经科学",
+        "高能物理",
+        "纳米科学",
+        "数据科学"
+      ]
+    },
+    "desc": {
+      "en": "India's top research institution. Located in India's Silicon Valley.",
+      "zh": "印度顶级研究机构，位于印度硅谷班加罗尔。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 1500
+      },
+      "zh": {
+        "学费": 1500
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $1,500/year",
+      "zh": "学费: $1,500/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

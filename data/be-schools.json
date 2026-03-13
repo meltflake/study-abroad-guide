@@ -1,0 +1,109 @@
+[
+  {
+    "id": "kuleuven",
+    "name": {
+      "en": "KU Leuven",
+      "zh": "鲁汶大学"
+    },
+    "country": "BE",
+    "flag": "🇧🇪",
+    "city": {
+      "en": "Leuven",
+      "zh": "鲁汶"
+    },
+    "qs": 76,
+    "the": 45,
+    "usnews": 0,
+    "arwu": 88,
+    "tuition": 6000,
+    "livingCost": {
+      "en": "$12,000/year",
+      "zh": "$12,000/年"
+    },
+    "insurance": 400,
+    "flights": 1000,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "~35%",
+      "intl": "~25%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Engineering",
+        "Law",
+        "Economics",
+        "Computer Science",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Theology",
+        "Philosophy",
+        "Architecture",
+        "Psychology",
+        "Political Science",
+        "History",
+        "Art",
+        "Criminology",
+        "Biomedical Engineering"
+      ],
+      "zh": [
+        "医学",
+        "工学",
+        "法学",
+        "经济学",
+        "计算机科学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "神学",
+        "哲学",
+        "建筑学",
+        "心理学",
+        "政治学",
+        "历史学",
+        "艺术",
+        "犯罪学",
+        "生物医工学"
+      ]
+    },
+    "desc": {
+      "en": "Belgium's top university, founded 1425. Top 100 worldwide for 600 years.",
+      "zh": "比利时顶尖大学，1425年创建，600年来持续世界百强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 6000
+      },
+      "zh": {
+        "学费": 6000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $6,000/year",
+      "zh": "学费: $6,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

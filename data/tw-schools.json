@@ -1,0 +1,109 @@
+[
+  {
+    "id": "ntu_tw",
+    "name": {
+      "en": "National Taiwan University",
+      "zh": "国立台湾大学"
+    },
+    "country": "TW",
+    "flag": "🇹🇼",
+    "city": {
+      "en": "Taipei",
+      "zh": "台北"
+    },
+    "qs": 68,
+    "the": 152,
+    "usnews": 0,
+    "arwu": 151,
+    "tuition": 5000,
+    "livingCost": {
+      "en": "$8,000/year",
+      "zh": "$8,000/年"
+    },
+    "insurance": 400,
+    "flights": 800,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 34-40",
+      "zh": "IB 34-40"
+    },
+    "acceptanceRate": {
+      "overall": "~12%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Electrical Engineering",
+        "Computer Science",
+        "Medicine",
+        "Law",
+        "Business",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Economics",
+        "Political Science",
+        "Philosophy",
+        "History",
+        "Agriculture",
+        "Psychology",
+        "Foreign Languages"
+      ],
+      "zh": [
+        "电气工程",
+        "计算机科学",
+        "医学",
+        "法学",
+        "商科",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "机械工程",
+        "土木工程",
+        "经济学",
+        "政治学",
+        "哲学",
+        "历史学",
+        "农学",
+        "心理学",
+        "外国语"
+      ]
+    },
+    "desc": {
+      "en": "Taiwan's top university. Strong in semiconductors and engineering.",
+      "zh": "台湾顶尖大学，半导体和工程实力强。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 5000
+      },
+      "zh": {
+        "学费": 5000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $5,000/year",
+      "zh": "学费: $5,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

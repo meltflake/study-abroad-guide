@@ -1,0 +1,109 @@
+[
+  {
+    "id": "msu_ru",
+    "name": {
+      "en": "Lomonosov Moscow State University",
+      "zh": "莫斯科国立大学"
+    },
+    "country": "RU",
+    "flag": "🇷🇺",
+    "city": {
+      "en": "Moscow",
+      "zh": "莫斯科"
+    },
+    "qs": 87,
+    "the": 107,
+    "usnews": 0,
+    "arwu": 93,
+    "tuition": 6000,
+    "livingCost": {
+      "en": "$8,000/year",
+      "zh": "$8,000/年"
+    },
+    "insurance": 300,
+    "flights": 1500,
+    "safety": 6,
+    "ibRequirement": {
+      "en": "IB 32-38",
+      "zh": "IB 32-38"
+    },
+    "acceptanceRate": {
+      "overall": "~20%",
+      "intl": "~15%"
+    },
+    "majors": {
+      "en": [
+        "Physics",
+        "Mathematics",
+        "Computer Science",
+        "Chemistry",
+        "Biology",
+        "Law",
+        "Economics",
+        "Philosophy",
+        "History",
+        "Journalism",
+        "Psychology",
+        "Linguistics",
+        "Geography",
+        "Mechanics",
+        "Astronomy",
+        "Geology",
+        "Sociology",
+        "Political Science"
+      ],
+      "zh": [
+        "物理学",
+        "数学",
+        "计算机科学",
+        "化学",
+        "生物学",
+        "法学",
+        "经济学",
+        "哲学",
+        "历史学",
+        "新闻学",
+        "心理学",
+        "语言学",
+        "地理学",
+        "力学",
+        "天文学",
+        "地质学",
+        "社会学",
+        "政治学"
+      ]
+    },
+    "desc": {
+      "en": "Russia's oldest (1755) and most prestigious university.",
+      "zh": "俄罗斯最古老（1755年）最负盛名的大学。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 6000
+      },
+      "zh": {
+        "学费": 6000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $6,000/year",
+      "zh": "学费: $6,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  }
+]

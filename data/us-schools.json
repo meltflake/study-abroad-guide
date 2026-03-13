@@ -10412,5 +10412,219 @@
       "en": "Check official website.",
       "zh": "请查看学校官网。"
     }
+  },
+  {
+    "id": "tamu",
+    "name": {
+      "en": "Texas A&M University",
+      "zh": "德州农工大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "College Station",
+      "zh": "大学城"
+    },
+    "qs": 134,
+    "the": 178,
+    "usnews": 0,
+    "arwu": 151,
+    "tuition": 40000,
+    "livingCost": {
+      "en": "$13,000/year",
+      "zh": "$13,000/年"
+    },
+    "insurance": 2800,
+    "flights": 1200,
+    "safety": 8,
+    "ibRequirement": {
+      "en": "IB 28-34",
+      "zh": "IB 28-34"
+    },
+    "acceptanceRate": {
+      "overall": "63%",
+      "intl": "~50%"
+    },
+    "majors": {
+      "en": [
+        "Engineering",
+        "Agriculture",
+        "Business",
+        "Computer Science",
+        "Veterinary Medicine",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Architecture",
+        "Petroleum Engineering",
+        "Aerospace Engineering",
+        "Biomedical Engineering",
+        "Nuclear Engineering",
+        "Education",
+        "Psychology",
+        "Economics",
+        "Political Science"
+      ],
+      "zh": [
+        "工学",
+        "农学",
+        "商科",
+        "计算机科学",
+        "兽医学",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "建筑学",
+        "石油工程",
+        "航空航天工程",
+        "生物医工学",
+        "核工程",
+        "教育学",
+        "心理学",
+        "经济学",
+        "政治学"
+      ]
+    },
+    "desc": {
+      "en": "Texas' largest university. Top petroleum and aerospace engineering.",
+      "zh": "德州最大大学，石油和航空航天工程顶尖。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 40000
+      },
+      "zh": {
+        "学费": 40000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $40,000/year",
+      "zh": "学费: $40,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
+  },
+  {
+    "id": "upitt",
+    "name": {
+      "en": "University of Pittsburgh",
+      "zh": "匹兹堡大学"
+    },
+    "country": "US",
+    "flag": "🇺🇸",
+    "city": {
+      "en": "Pittsburgh",
+      "zh": "匹兹堡"
+    },
+    "qs": 157,
+    "the": 125,
+    "usnews": 0,
+    "arwu": 96,
+    "tuition": 36000,
+    "livingCost": {
+      "en": "$14,000/year",
+      "zh": "$14,000/年"
+    },
+    "insurance": 2800,
+    "flights": 1200,
+    "safety": 7,
+    "ibRequirement": {
+      "en": "IB 30-35",
+      "zh": "IB 30-35"
+    },
+    "acceptanceRate": {
+      "overall": "57%",
+      "intl": "~45%"
+    },
+    "majors": {
+      "en": [
+        "Medicine",
+        "Philosophy",
+        "Computer Science",
+        "Engineering",
+        "Business",
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Mathematics",
+        "Nursing",
+        "Pharmacy",
+        "Law",
+        "Education",
+        "Psychology",
+        "Economics",
+        "Political Science",
+        "History",
+        "Social Work"
+      ],
+      "zh": [
+        "医学",
+        "哲学",
+        "计算机科学",
+        "工学",
+        "商科",
+        "生物学",
+        "化学",
+        "物理学",
+        "数学",
+        "护理学",
+        "药学",
+        "法学",
+        "教育学",
+        "心理学",
+        "经济学",
+        "政治学",
+        "历史学",
+        "社会工作"
+      ]
+    },
+    "desc": {
+      "en": "Top for philosophy (#1 in US) and medicine. Jonas Salk developed polio vaccine here.",
+      "zh": "哲学美国第一，医学顶尖。索尔克在此研发小儿麻痹症疫苗。"
+    },
+    "tuitionBreakdown": {
+      "en": {
+        "Tuition": 36000
+      },
+      "zh": {
+        "学费": 36000
+      }
+    },
+    "majorTuition": {
+      "en": "Tuition: $36,000/year",
+      "zh": "学费: $36,000/年"
+    },
+    "graduationRate": {
+      "en": "N/A",
+      "zh": "暂无数据"
+    },
+    "healthInfo": {
+      "en": "Student health insurance required.",
+      "zh": "需购买学生健康保险。"
+    },
+    "campusLife": {
+      "en": "Vibrant campus community.",
+      "zh": "丰富的校园生活。"
+    },
+    "applicationGuide": {
+      "en": "Check official website.",
+      "zh": "请查看学校官网。"
+    }
   }
 ]
