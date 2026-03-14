@@ -239,12 +239,10 @@ img{max-width:100%}
   .navbar{padding:0 .8rem;height:56px}
   .nav-brand{font-size:1.05rem}
   .nav-brand span{display:none}
-  .nav-links{gap:.5rem;position:relative}
-  .nav-links a{display:none}
-  .nav-links.open a{display:block}
-  .nav-links.open{position:fixed;top:56px;left:0;right:0;background:var(--navy);display:grid !important;grid-template-columns:1fr 1fr !important;padding:.8rem;gap:.4rem;z-index:999;box-shadow:0 4px 12px rgba(0,0,0,.3)}
-  .nav-links.open a{display:block !important;font-size:.88rem;padding:.65rem .4rem;border-radius:12px;border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.1);text-align:center;white-space:nowrap}
-  .nav-hamburger{display:flex;background:none;border:none;color:var(--gold);font-size:1.4rem;cursor:pointer;padding:.3rem}
+  .nav-links{display:none !important}
+  .nav-hamburger{display:none !important}
+  .bottom-tab-bar{display:flex !important}
+  body{padding-bottom:70px}
   .lang-toggle{padding:.35rem .8rem;font-size:.8rem}
 
   /* Hero */
@@ -322,6 +320,13 @@ img{max-width:100%}
   .footer{padding:2rem 1rem;font-size:.8rem}
 }
 
+/* ===== Bottom Tab Bar (Mobile) ===== */
+.bottom-tab-bar{display:none;position:fixed;bottom:0;left:0;right:0;z-index:200;background:#fff;border-top:1px solid #ebeef2;box-shadow:0 -1px 10px rgba(0,0,0,.06);height:58px;padding-bottom:env(safe-area-inset-bottom);align-items:center;justify-content:space-around}
+.bottom-tab-bar .tab-item{display:flex;flex-direction:column;align-items:center;justify-content:center;flex:1;padding:6px 0 4px;cursor:pointer;color:#aab0bc;transition:color .2s,background .2s;-webkit-tap-highlight-color:transparent;user-select:none;text-decoration:none;border:none;background:none}
+.bottom-tab-bar .tab-item .tab-icon{font-size:20px;line-height:1;margin-bottom:2px}
+.bottom-tab-bar .tab-item .tab-label{font-size:10px;line-height:1.2;white-space:nowrap}
+.bottom-tab-bar .tab-item.active{color:var(--navy);background:rgba(26,35,75,.08);border-radius:10px}
+
 /* ===== Responsive - Small Phone ===== */
 @media(max-width:380px){
   .hero h1{font-size:1.5rem}
@@ -360,6 +365,21 @@ img{max-width:100%}
 /* ===== No Results ===== */
 .no-results{text-align:center;padding:3rem;color:var(--gray-400)}
 .no-results .emoji{font-size:3rem;margin-bottom:.5rem}
+
+/* ===== Bottom Tab Bar (mobile only) ===== */
+.bottom-tab-bar{display:none}
+@media(max-width:768px){
+  .nav-hamburger{display:none !important}
+  .bottom-tab-bar{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:200;background:#fff;border-top:1px solid #ebeef2;box-shadow:0 -1px 10px rgba(0,0,0,.06);height:58px;padding-bottom:env(safe-area-inset-bottom);align-items:center;justify-content:space-around}
+  .bottom-tab-bar .tab-item{display:flex;flex-direction:column;align-items:center;justify-content:center;flex:1;height:100%;color:#aab0bc;text-decoration:none;transition:color .2s;padding:4px 2px;border-radius:10px;margin:4px 2px}
+  .bottom-tab-bar .tab-item.active{color:#2563eb;background:rgba(37,99,235,.08)}
+  .bottom-tab-bar .tab-icon{font-size:1.2rem;line-height:1}
+  .bottom-tab-bar .tab-label{font-size:10px;margin-top:2px;white-space:nowrap}
+  body{padding-bottom:70px}
+  .compare-bar{bottom:58px}
+  /* Ensure all sections are visible for scroll nav */
+  #recommend,#schools,#timeline,#checklist,#scholarships,#calculator{display:block !important}
+}
 </style>
 </head>
 <body>
@@ -829,6 +849,12 @@ const I18N = {
   filter_de:{zh:'德国',en:'Germany'},
   filter_jp:{zh:'日本',en:'Japan'},
   filter_kr:{zh:'韩国',en:'South Korea'},
+  tab_recommend:{zh:'推荐',en:'Recommend'},
+  tab_schools:{zh:'院校',en:'Schools'},
+  tab_timeline:{zh:'时间线',en:'Timeline'},
+  tab_checklist:{zh:'清单',en:'Checklist'},
+  tab_scholarship:{zh:'奖学金',en:'Scholarships'},
+  tab_calc:{zh:'费用',en:'Cost'},
 };
 
 function t(key){ return (I18N[key] && (I18N[key][lang] || I18N[key].en)) || key; }
@@ -2080,6 +2106,73 @@ document.addEventListener('keydown',e=>{
     closeCompare();
   }
 });
+</script>
+
+<!-- Bottom Tab Bar (mobile) -->
+<nav class="bottom-tab-bar" id="bottomTabBar">
+  <a href="#recommend" class="tab-item active" data-section="recommend">
+    <span class="tab-icon">🎯</span>
+    <span class="tab-label" data-i18n="tab_recommend">推荐</span>
+  </a>
+  <a href="#schools" class="tab-item" data-section="schools">
+    <span class="tab-icon">🏫</span>
+    <span class="tab-label" data-i18n="tab_schools">院校</span>
+  </a>
+  <a href="#timeline" class="tab-item" data-section="timeline">
+    <span class="tab-icon">📅</span>
+    <span class="tab-label" data-i18n="tab_timeline">时间线</span>
+  </a>
+  <a href="#checklist" class="tab-item" data-section="checklist">
+    <span class="tab-icon">📋</span>
+    <span class="tab-label" data-i18n="tab_checklist">清单</span>
+  </a>
+  <a href="#scholarships" class="tab-item" data-section="scholarships">
+    <span class="tab-icon">🎓</span>
+    <span class="tab-label" data-i18n="tab_scholarship">奖学金</span>
+  </a>
+  <a href="#calculator" class="tab-item" data-section="calculator">
+    <span class="tab-icon">💰</span>
+    <span class="tab-label" data-i18n="tab_calc">费用</span>
+  </a>
+</nav>
+
+<script>
+// ===== Bottom Tab Bar Logic =====
+(function(){
+  var tabBar = document.getElementById('bottomTabBar');
+  if(!tabBar) return;
+  var tabs = tabBar.querySelectorAll('.tab-item');
+  var sectionIds = ['recommend','schools','timeline','checklist','scholarships','calculator'];
+
+  // Click handler: smooth scroll
+  tabs.forEach(function(tab){
+    tab.addEventListener('click', function(e){
+      e.preventDefault();
+      var sectionId = this.getAttribute('data-section');
+      var section = document.getElementById(sectionId);
+      if(section){
+        section.scrollIntoView({behavior:'smooth',block:'start'});
+      }
+    });
+  });
+
+  // IntersectionObserver: update active tab on scroll
+  var observer = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry){
+      if(entry.isIntersecting){
+        var id = entry.target.id;
+        tabs.forEach(function(tab){
+          tab.classList.toggle('active', tab.getAttribute('data-section') === id);
+        });
+      }
+    });
+  }, {rootMargin:'-30% 0px -60% 0px', threshold:0});
+
+  sectionIds.forEach(function(id){
+    var el = document.getElementById(id);
+    if(el) observer.observe(el);
+  });
+})();
 </script>
 </body>
 </html>
