@@ -535,7 +535,11 @@ img{max-width:100%}
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
         <div class="calc-field">
           <label data-i18n="calc_school">🏫 选择学校</label>
-          <select id="calcSchool" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem"></select>
+          <div style="position:relative">
+            <input type="text" id="calcSchoolInput" placeholder="输入学校名称搜索..." autocomplete="off" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:16px;box-sizing:border-box">
+            <input type="hidden" id="calcSchool" value="">
+            <div id="calcSchoolDrop" style="display:none;position:absolute;left:0;right:0;top:100%;background:#fff;border:1px solid #ddd;border-top:none;border-radius:0 0 8px 8px;max-height:200px;overflow-y:auto;z-index:100;box-shadow:0 4px 12px rgba(0,0,0,.1)"></div>
+          </div>
         </div>
         <div class="calc-field">
           <label data-i18n="calc_years">📅 就读年数</label>
@@ -565,9 +569,11 @@ img{max-width:100%}
       <!-- Compare school 2 -->
       <div style="margin-top:1rem;padding-top:1rem;border-top:1px dashed var(--gray-300)">
         <label style="font-size:.85rem;color:var(--gray-500)" data-i18n="calc_compare">⚖️ 对比第二所学校（可选）</label>
-        <select id="calcSchool2" onchange="calcCost()" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:.9rem;margin-top:.3rem">
-          <option value="" data-i18n="calc_no_compare">— 不对比 —</option>
-        </select>
+        <div style="position:relative;margin-top:.3rem">
+          <input type="text" id="calcSchool2Input" placeholder="输入学校名称搜索..." autocomplete="off" style="width:100%;padding:.5rem;border-radius:8px;border:1px solid var(--gray-300);font-size:16px;box-sizing:border-box">
+          <input type="hidden" id="calcSchool2" value="">
+          <div id="calcSchool2Drop" style="display:none;position:absolute;left:0;right:0;top:100%;background:#fff;border:1px solid #ddd;border-top:none;border-radius:0 0 8px 8px;max-height:200px;overflow-y:auto;z-index:100;box-shadow:0 4px 12px rgba(0,0,0,.1)"></div>
+        </div>
       </div>
       <div id="calcResult" style="margin-top:1.5rem"></div>
     </div>
@@ -1527,12 +1533,63 @@ function _runRecommendNow(){
 const FX_RATES = { USD:1, CNY:7.25, SGD:1.35, HKD:7.8, GBP:0.79, AUD:1.55, CAD:1.37 };
 const FX_SYMBOLS = { USD:'$', CNY:'¥', SGD:'S$', HKD:'HK$', GBP:'£', AUD:'A$', CAD:'C$' };
 
+var calcSchoolData = [];
 function populateCalcSelect(){
-  const sorted = [...SCHOOLS].sort((a,b) => (a.name[lang]||a.name.en).localeCompare(b.name[lang]||b.name.en));
-  const opts = sorted.map(s=>`<option value="${s.id}">${(s.flag||"")} ${(s.name[lang]||s.name.en)} — $${s.tuition.toLocaleString()}/yr</option>`).join('');
-  document.getElementById('calcSchool').innerHTML = opts;
-  document.getElementById('calcSchool2').innerHTML = '<option value="">— ' + t('calc_no_compare') + ' —</option>' + opts;
+  calcSchoolData = [...SCHOOLS].sort((a,b) => (a.name[lang]||a.name.en).localeCompare(b.name[lang]||b.name.en));
+  // Set first school by default
+  if(calcSchoolData.length && !document.getElementById('calcSchool').value){
+    document.getElementById('calcSchool').value = calcSchoolData[0].id;
+    document.getElementById('calcSchoolInput').value = (calcSchoolData[0].flag||'')+ ' ' + (calcSchoolData[0].name[lang]||calcSchoolData[0].name.en);
+  }
 }
+function setupCalcSearch(inputId, hiddenId, dropId, allowEmpty){
+  var input = document.getElementById(inputId);
+  var hidden = document.getElementById(hiddenId);
+  var drop = document.getElementById(dropId);
+  if(!input||!hidden||!drop) return;
+  input.addEventListener('focus', function(){ showCalcDrop(inputId, hiddenId, dropId, this.value, allowEmpty); });
+  input.addEventListener('input', function(){ hidden.value=''; showCalcDrop(inputId, hiddenId, dropId, this.value, allowEmpty); });
+  document.addEventListener('click', function(e){ if(!input.contains(e.target)&&!drop.contains(e.target)) drop.style.display='none'; });
+}
+function showCalcDrop(inputId, hiddenId, dropId, q, allowEmpty){
+  var drop = document.getElementById(dropId);
+  var input = document.getElementById(inputId);
+  var hidden = document.getElementById(hiddenId);
+  q = (q||'').trim().toLowerCase();
+  var matches = calcSchoolData.filter(function(s){
+    var nm = (s.name[lang]||s.name.en).toLowerCase();
+    var en = (s.name.en||'').toLowerCase();
+    return !q || nm.indexOf(q)>=0 || en.indexOf(q)>=0;
+  }).slice(0,25);
+  if(matches.length===0){ drop.style.display='none'; return; }
+  drop.innerHTML='';
+  if(allowEmpty){
+    var d0=document.createElement('div');
+    d0.style.cssText='padding:8px 12px;cursor:pointer;font-size:14px;border-bottom:1px solid #f0f0f0;color:#999';
+    d0.textContent='— '+t('calc_no_compare')+' —';
+    d0.addEventListener('click',function(){ input.value=''; hidden.value=''; drop.style.display='none'; calcCost(); });
+    d0.addEventListener('mouseenter',function(){this.style.background='#f5f5f5'});
+    d0.addEventListener('mouseleave',function(){this.style.background=''});
+    drop.appendChild(d0);
+  }
+  matches.forEach(function(s){
+    var div=document.createElement('div');
+    div.style.cssText='padding:8px 12px;cursor:pointer;font-size:14px;border-bottom:1px solid #f0f0f0';
+    div.textContent=(s.flag||'')+' '+(s.name[lang]||s.name.en)+' — $'+s.tuition.toLocaleString()+'/yr';
+    div.addEventListener('click',function(){
+      input.value=(s.flag||'')+' '+(s.name[lang]||s.name.en);
+      hidden.value=s.id;
+      drop.style.display='none';
+      calcCost();
+    });
+    div.addEventListener('mouseenter',function(){this.style.background='#f5f5f5'});
+    div.addEventListener('mouseleave',function(){this.style.background=''});
+    drop.appendChild(div);
+  });
+  drop.style.display='block';
+}
+setupCalcSearch('calcSchoolInput','calcSchool','calcSchoolDrop',false);
+setupCalcSearch('calcSchool2Input','calcSchool2','calcSchool2Drop',true);
 
 function calcSchoolCost(s, years, scholarship) {
   const tuitionTotal = Math.max(0, s.tuition - scholarship) * years;
