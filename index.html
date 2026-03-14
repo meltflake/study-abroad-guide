@@ -846,6 +846,12 @@ const I18N = {
   section_scholarship_desc:{zh:'各国主要奖学金项目，助你减轻留学经济负担',en:'Major scholarship programs to help fund your education abroad'},
   nav_checklist:{zh:'材料清单',en:'Checklist'},
   nav_scholarship:{zh:'奖学金',en:'Scholarships'},
+  tab_recommend:{zh:'推荐',en:'Match'},
+  tab_schools:{zh:'院校',en:'Schools'},
+  tab_calc:{zh:'费用',en:'Cost'},
+  tab_timeline:{zh:'时间线',en:'Timeline'},
+  tab_checklist:{zh:'清单',en:'Checklist'},
+  tab_scholarship:{zh:'奖学金',en:'Aid'},
   filter_de:{zh:'德国',en:'Germany'},
   filter_jp:{zh:'日本',en:'Japan'},
   filter_kr:{zh:'韩国',en:'South Korea'},
@@ -2171,6 +2177,46 @@ document.addEventListener('keydown',e=>{
   sectionIds.forEach(function(id){
     var el = document.getElementById(id);
     if(el) observer.observe(el);
+  });
+})();
+</script>
+<div class="bottom-tab-bar" id="bottomTabBar">
+  <button class="tab-item active" data-target="recommend"><span class="tab-icon">🎯</span><span class="tab-label" data-i18n="tab_recommend">推荐</span></button>
+  <button class="tab-item" data-target="schools"><span class="tab-icon">🏫</span><span class="tab-label" data-i18n="tab_schools">院校</span></button>
+  <button class="tab-item" data-target="calculator"><span class="tab-icon">💰</span><span class="tab-label" data-i18n="tab_calc">费用</span></button>
+  <button class="tab-item" data-target="timeline"><span class="tab-icon">📅</span><span class="tab-label" data-i18n="tab_timeline">时间线</span></button>
+  <button class="tab-item" data-target="checklist"><span class="tab-icon">📋</span><span class="tab-label" data-i18n="tab_checklist">清单</span></button>
+  <button class="tab-item" data-target="scholarships"><span class="tab-icon">🎓</span><span class="tab-label" data-i18n="tab_scholarship">奖学金</span></button>
+</div>
+<script>
+(function(){
+  var tabBar=document.getElementById('bottomTabBar');
+  if(!tabBar)return;
+  var tabs=tabBar.querySelectorAll('.tab-item');
+  var sectionIds=['recommend','schools','calculator','timeline','checklist','scholarships'];
+  tabs.forEach(function(tab){
+    tab.addEventListener('click',function(){
+      var target=this.getAttribute('data-target');
+      var el=document.getElementById(target);
+      if(el){
+        var y=el.getBoundingClientRect().top+window.pageYOffset-64;
+        window.scrollTo({top:y,behavior:'smooth'});
+      }
+    });
+  });
+  var observer=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting&&e.intersectionRatio>0.2){
+        var id=e.target.id;
+        tabs.forEach(function(t){
+          t.classList.toggle('active',t.getAttribute('data-target')===id);
+        });
+      }
+    });
+  },{threshold:[0.2,0.5],rootMargin:'-64px 0px -40% 0px'});
+  sectionIds.forEach(function(id){
+    var s=document.getElementById(id);
+    if(s)observer.observe(s);
   });
 })();
 </script>
