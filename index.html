@@ -169,8 +169,8 @@ img{max-width:100%}
 .detail-desc{color:var(--gray-600);font-size:.92rem;line-height:1.7}
 
 /* ===== Compare ===== */
-.compare-bar{position:fixed;bottom:0;left:0;right:0;background:var(--navy);color:var(--white);padding:1rem 2rem;display:flex;align-items:center;justify-content:space-between;z-index:1500;transform:translateY(100%);transition:var(--transition);box-shadow:0 -4px 20px rgba(0,0,0,.2)}
-.compare-bar.show{transform:translateY(0)}
+.compare-bar{position:fixed;bottom:0;left:0;right:0;background:var(--navy);color:var(--white);padding:1rem 2rem;display:none;align-items:center;justify-content:space-between;z-index:1500;box-shadow:0 -4px 20px rgba(0,0,0,.2)}
+.compare-bar.show{display:flex}
 .compare-bar .selected-list{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap}
 .compare-chip{background:rgba(255,255,255,.15);padding:.3rem .8rem;border-radius:20px;font-size:.85rem;display:flex;align-items:center;gap:.4rem}
 .compare-chip button{background:none;border:none;color:var(--gray-300);font-size:1rem;padding:0;line-height:1}
