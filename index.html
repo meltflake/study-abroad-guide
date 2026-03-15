@@ -58,6 +58,8 @@ img{max-width:100%}
 
 /* ===== Navigation ===== */
 .navbar{position:fixed;top:0;left:0;right:0;z-index:1000;background:var(--navy);backdrop-filter:blur(10px);padding:0 2rem;height:64px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 2px 10px rgba(0,0,0,.2);flex-wrap:wrap}
+.nav-home{color:rgba(255,255,255,.6);font-size:1.1rem;text-decoration:none;margin-right:.5rem;transition:color .2s}
+.nav-home:hover{color:#fff}
 .nav-brand{color:var(--gold);font-size:1.25rem;font-weight:700;letter-spacing:.5px}
 .nav-brand span{color:var(--white);font-weight:400;opacity:.8;font-size:.9rem;margin-left:.5rem}
 .nav-right{display:flex;align-items:center;gap:1rem}
@@ -376,6 +378,7 @@ img{max-width:100%}
 
 <!-- Navbar -->
 <nav class="navbar">
+  <a href="https://1yong.com" class="nav-home" title="返回主页">←</a>
   <div class="nav-brand">求学地图 <span>EduMap</span></div>
   <div class="nav-right">
     <div class="nav-links" id="navLinks">
