@@ -2750,7 +2750,7 @@
     "id": "unewcastle",
     "name": {
       "en": "University of Newcastle",
-      "zh": "纽卡斯尔大学"
+      "zh": "纽卡斯尔大学（澳洲）"
     },
     "country": "AU",
     "city": {
@@ -4406,7 +4406,7 @@
     "id": "vu",
     "name": {
       "en": "Victoria University",
-      "zh": "维多利亚大学"
+      "zh": "维多利亚大学（澳洲）"
     },
     "country": "AU",
     "flag": "🇦🇺",
@@ -5786,7 +5786,7 @@
     "id": "usunshine",
     "name": {
       "en": "University of Wollongong - Dubai",
-      "zh": "伍伦贡大学"
+      "zh": "阳光海岸大学"
     },
     "country": "AU",
     "flag": "🇦🇺",

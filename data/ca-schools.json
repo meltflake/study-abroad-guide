@@ -1915,7 +1915,7 @@
     "country": "CA",
     "flag": "🇨🇦",
     "name": {
-      "zh": "维多利亚大学",
+      "zh": "维多利亚大学（加拿大）",
       "en": "University of Victoria"
     },
     "city": {
@@ -2943,7 +2943,7 @@
     "id": "yorku",
     "name": {
       "en": "York University",
-      "zh": "约克大学"
+      "zh": "约克大学（加拿大）"
     },
     "country": "CA",
     "city": {
